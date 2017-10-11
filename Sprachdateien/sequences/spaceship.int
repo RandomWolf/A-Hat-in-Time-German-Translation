@@ -1,20 +1,20 @@
 [ActSelects]
-ChapterUnlocked = Power has been restored in the [name][location][/name]![br]The chapter [name][chaptername][/name] is now available!
+ChapterUnlocked = Energie [name][location][/name]wurde wieder hergestellt![br]Das Kapitel [name][chaptername][/name] ist jetzt verfügbar!
 
 [locations]
-Location_Bedroom = Bedroom
-Location_MainHall = Main Hall
-Location_MachineRoom = Machine Room
-Location_Basement = Basement
-Location_Attic = Attic
+Location_Bedroom = im Schlafzimmer
+Location_MainHall = in der Haupthalle
+Location_MachineRoom = im Maschinenraum
+Location_Basement = im Keller
+Location_Attic = auf dem Dachboden
 
 [Decorations]
 DecorationPerfect = Combining the [decorations] made a [dreamworld] appear in [name][chaptername][/name]! Check the chapter's telescope to see where it's hiding!
 
 [Ending]
-ThrowMu0 = Drop a [icon:timepiece][timepiece]Time Piece[/timepiece] down and lend the [icon:mugirl][name]red hooded girl[/name] some [icon:timepiece][timepiece]Time Piece[/timepiece] power to defeat the [name]Mafia[/name]?[br](You may not be able to make it all the way home.)
-ThrowMu0_Yes = Yes
-ThrowMu0_No = No
+ThrowMu0 = Ein[icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um [icon:mugirl][name]Mädchen mit roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece] Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann womöglich nicht mehr nach Hause kommen können.)
+ThrowMu0_Yes = Ja
+ThrowMu0_No = Nein
 
 [fluff]
 bookcase0 = It's a bookcase. Also known as a 'cool word zone' or a 'thing you can't even slightly fill yourself, Steven, you'll never find a publisher, and all that time you spend in your study is time you could spend with your kids', depending on where you're from.

@@ -1,42 +1,42 @@
 [Info]
-ActsAvailable0 = The following parts of
-ActsAvailable1 = the forest will be available:
-Contract = Contract
-Hostage0 = I'll be keeping the following hostage:
-Hostage1 = ... but keep anything you find on the way!
+ActsAvailable0 = Die folgenden Stücke werden für
+ActsAvailable1 = den Wald zugänglich gemacht:
+Contract = Vertrag
+Hostage0 = Ich werde das Folgende als Geisel nehmen:
+Hostage1 = ... aber behalte alles, was du findest!
 
 [Hat_SnatcherContract_IceWall]
-Title = Clean out the Subcon Well
-SubconVillage = Find Subcon Village
-KillFireSpirits = Murder the Spirits
-SubconWell = Clean the Subcon Well
-BreakIce = Break the Ice
-FlowBloom = Make the Flowers Bloom
+Title = Saeubere den Subcon-Brunnen
+SubconVillage = Finde das Subcon-Dorf
+KillFireSpirits = Toete die Geister
+SubconWell = Saeubere den Subcon-Brunnen
+BreakIce = Zerbreche das Eis
+FlowBloom = Lass die Blumen bluehen
 
 [Hat_SnatcherContract_Bonfires]
-Title = Light the Bonfires for the Fire Spirits
-BonfireYellow = Light the Yellow Bonfire
-BonfireGreen = Light the Green Bonfire
-BonfireBlue = Light the Blue Bonfire
-BonfirePurple = Light the Purple Bonfire
+Title = Zuende das Lagerfeuer für die Feuergeister an
+BonfireYellow = Zuende das Gelbe Lagerfeuer an
+BonfireGreen = Zuende das Grüne Lagerfeuer an
+BonfireBlue = Zuende das Blaue Lagerfeuer an
+BonfirePurple = Zuende das Lila Lagerfeuer an
 
 [Hat_SnatcherContract_Vanessa]
-Title = Get me something from the manor
-EnterManor = Enter the Manor
-CompleteManor = Find out what's in the attic
+Title = Gebe mir etwas vom Herrenhaus
+EnterManor = Gehe ins Herrenhaus
+CompleteManor = Finde heraus, was auf dem Dachboden ist
 
 [Hat_SnatcherContract_MailDelivery]
-Title = Deliver Subcon Mail
-Deliver = Deliver packages to 10 of my minions
+Title = Liefere Subcon-Briefe
+Deliver = Liefere Packete zu 10 meiner Lakaien
 
 [Hat_SnatcherContract_Toilet]
-Title = Toilet of Doom
-DefeatToilet = Defeat the Boss
+Title = Toilette des Verderbends
+DefeatToilet = Besiege den Boss
 
 [Hat_SnatcherContract_GetOut]
-Title = Get Out
-GetOut = Get Out
-GetOut2 = Just Get Out
-ActsAvailableNone = None of it. Get Out.
-Hostage0 = Please
-Hostage1 = and leave.
+Title = Hau ab
+GetOut = Hau ab
+GetOut2 = Hau einfach ab
+ActsAvailableNone = Nichts. Hau ab.
+Hostage0 = Bitte
+Hostage1 = und gehe weg.

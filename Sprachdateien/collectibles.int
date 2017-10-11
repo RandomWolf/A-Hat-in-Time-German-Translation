@@ -255,66 +255,66 @@ DecorationMystery = You sense a temporal disturbance in this room... but it's pr
 
 DecorationGenericName = Relic
 
-TrainToyName = Train Toy
-TrainToyDesc = Choo choo! Here comes capt'n me!
-TrainTracksName = Toy Train Tracks
-TrainTracksDesc = This rail would do well with a train!
-TrainSetName = Tiny Train (And Birds?)
-TrainSetDesc0 = This looks like a tiny version of the "train" the "birds" use to "get to work".
-TrainSetDesc1 = Are there tiny birds in there? Do they make tiny "movies"?
-TrainSetDesc2 = I don't have time to deal with tiny bird society!
+TrainToyName = Zug spielzeug
+TrainToyDesc = Choo choo! Hier komm ich!
+TrainTracksName = Spielzeugeisenbahnen
+TrainTracksDesc = Diese Schienen würden super mit einem Zug zusammenpassen!
+TrainSetName = Mini-Zug (und Vögel?)
+TrainSetDesc0 = Das sieht aus wie eine kleine Version von dem "Zug" den die "Vögel" nutzen um zur "Arbeit" zu kommen.
+TrainSetDesc1 = Sind da kleine Vögel drinne? Machen sie kleine "Filme"?
+TrainSetDesc2 = Ich hab keine Zeit um mich mit der kleinen Vogel gesellschaft zu beschäftigen!
 
 UFOName = UFO
 UFODesc = This toy is ready to use crops as its personal sketch pad!
-CowToyName = Plastic Cow Toy
-CowToyDesc = This cow looks like it's been places!
-UFOName = Mockery Of Off-Planet Life
-UFODesc0 = What the heck! Spaceships don't look like that!
-UFODesc1 = Where's the wood? Why is it sucking up cows? 
-UFODesc2 = This is insulting! I'm gonna sue!
+CowToyName = Spielzeug Kuh
+CowToyDesc = Diese Kuh sieht so aus als wäre sie viel herumgekommen!
+UFOName = Verspottung des Planeten außerhalb des Planeten
+UFODesc0 = Was zum! Raumschiffe sehen nicht so aus!
+UFODesc1 = Wo ist das Holz? Warum saugt es Kühe ein?
+UFODesc2 = Das ist beleidigend! Ich werde jemanden dafür verklagen!
 
-StatuePedestalName = Statue Pedestal
-StatuePedestalDesc = I've seen naked people sculpted on top of these. Eww!
+StatuePedestalName = Statuensockel
+StatuePedestalDesc = Ich habe nackte Skulpturen auf diesen Sockeln gesehen. Bäh!
 
-StatueHeadName = Statue of Me
-StatueHeadDesc = This is me! This definitely has to mean that I'm famous now.
+StatueHeadName = Statue von mir
+StatueHeadDesc = Das bin ich! Das muss bestimmt heissen das ich berühmt bin.
 
-CrayonBoxName = Crayon Box
-CrayonBoxDesc = Useful for storing, uh... giant crayons, I guess?
+CrayonBoxName = Buntstifte box
+CrayonBoxDesc = Gut um... gigantische Buntstifte zu lagern?
 
-RedCrayonName = Red Crayon
-GreenCrayonName = Green Crayon
-BlueCrayonName = Blue Crayon
+RedCrayonName = Roter Stift
+GreenCrayonName = Grüner Stift
+BlueCrayonName = Blauer Stift
 
-RedCrayonDesc = Red is an alright color, but only because you need it to make purple!
-GreenCrayonDesc = Now I can finally be a vandal! Time to paint the walls green!
-BlueCrayonDesc = Blue is a decent color, but it'd never win a fight against purple!
+RedCrayonDesc = Rot ist eine gute Farbe. Aber nur, weil man sie braucht um Lila herzustellen!
+GreenCrayonDesc = Jetzt kann ich endlich ein Vandal sein! Zeit die Wände grün zu färben!
+BlueCrayonDesc = Blau ist eine anständige Farbe, aber es würde niemals einen Kampf gegen Lila gewinnen!
 
 CrayonCompleteName = Tri-Color Graffiti Kit
-CrayonCompleteDesc0 = These were made for vandalism. Definitely.  Even I feel compelled to take these and draw on EVERYTHING.
-CrayonCompleteDesc1 = I can only conclude that this vandalism toolkit must be illegal.
-CrayonCompleteDesc2 = That makes this relic extra rare. If only the package hadn't been opened. Only a monster would open the package of a rare item.
+CrayonCompleteDesc0 = Diese wurden für Vandalismus gemacht. Ich fühle mich beim anblick gezwungen es zu nehmen und ALLES anzumalen!
+CrayonCompleteDesc1 = Ich kann also festellen, das dieses Toolkit illegal sein muss.
+CrayonCompleteDesc2 = Das macht diesen Schatz viel mehr wert. Wenn nur das Packet nicht öffen wäre, nur ein Monster würde sich trauen sowas zu tun!
 
-ToyDetonatorName = Toy Detonator
-ToyDetonatorDesc = It never ends well when these things are involved in cartoons!
+ToyDetonatorName = Spielzeugzünder
+ToyDetonatorDesc = Es endet nie gut mit diesen dingern!
 
-ToyTNTName = Toy TNT
-ToyTNTDesc = Hands up, this is a robbery! Blow open the vault! Boom! We're rich!
+ToyTNTName = Spielzeug TNT
+ToyTNTDesc = Hände hoch, das ist ein Überfall! Öffne den Tresor! Boom! Wir sind reich!
 
-RobotCatName = Robotic Cat Toy
-RobotCatDesc = A part of me can't wait to become an old cat lady! Cat queen!
+RobotCatName = Roboter-Katzenspielzeug
+RobotCatDesc = Ein stück von mir kann es kaum erwarten eine alte Katzen Oma zu werden!
 
-BallOfStringName = Ball of String
-BallOfStringDesc = Only a cat would find this interesting as a toy!
+BallOfStringName = Bindfaden Rolle
+BallOfStringDesc = Nur eine Katze würde das interessant finden.
 
-BurgerTopName = Burger Cushion (Top)
-BurgerTopDesc = A cushion shaped like a burger. It's missing its lower sibling! Oh no!
-BurgerBottomName = Burger Cushion (Bottom)
-BurgerBottomDesc = A cushion shaped like a burger. It's missing its upper sibling! Oh no!
-BurgerCushionName = Earthling Sitting Device
-BurgerCushionDesc0 = Research concludes that this thing is very soft to sit on.
-BurgerCushionDesc1 = So soft, that the only logical conclusion is that these are the chairs of this planet.
-BurgerCushionDesc2 = It is not a snack. I tried. It tastes like fabric.
+BurgerTopName = Burger Kissen (obere hälfte)
+BurgerTopDesc = Ein Kissen in der Form eines Burgers. Sein unterer Bruder fehlt! Oh nein!
+BurgerBottomName = Burger kissen (untere hälfte)
+BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehlt! Oh nein!
+BurgerCushionName = Sitz Gerät der Erdbewohner
+BurgerCushionDesc0 = Nachforschungen ergeben, das dies sehr weich ist zum drauf sitzen.
+BurgerCushionDesc1 = So weich, dass die einzige logische Schlussfolgerung ist, dass dies die Stühle dieses Planeten sind.
+BurgerCushionDesc2 = Es ist kein Snack. Ich habe es versucht. Es schmeckt wie Stoff.
 
 [ItemQuality]
 SupporterPrefix = Supporter

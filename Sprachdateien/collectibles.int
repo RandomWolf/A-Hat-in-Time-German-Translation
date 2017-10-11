@@ -8,20 +8,20 @@ custom3 = [custom3]
 Plural0 = A
 Plural1 = An
 
-TwoItemsAnd = and
+TwoItemsAnd = und
 
-GenericYarnSuffix = Yarn
-GenericHatSuffix = Hat
+GenericYarnSuffix = Garn
+GenericHatSuffix = Hut
 
 [trigger_abilities]
-BadgeCollect0 = Es braucht [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] zum nähen; nur [yarn][badgepoints_left][/yarn] weitere!
-BadgeCollect1 = Es braucht [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] zum nähen, und du hast [yarn][badgepoints_player][/yarn]! Drücke [button:start] um in das pause menü zu gelangen, wo du es nähen kannst!
-BadgeCollect2 = It requires [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] to stitch!
+BadgeCollect0 = Es braucht [yarn][badgepoints_required] [icon:yarn]Garn[/yarn] zum nähen; nur [yarn][badgepoints_left][/yarn] weitere!
+BadgeCollect1 = Es braucht [yarn][badgepoints_required] [icon:yarn]Garn[/yarn] zum nähen, und du hast [yarn][badgepoints_player][/yarn]! Drücke [button:start] um in das Pausemenü zu gelangen, wo du es nähen kannst!
+BadgeCollect2 = Es braucht [yarn][badgepoints_required] [icon:yarn]Garn[/yarn] zum nähen!
 BadgeCollect3 = Du hast genügend [yarn][icon:yarn]Garm[/yarn] um diesen Hut herzustellen!
 BadgeCollect4 = Du hast diesen Hut schon, trotzdem bekommst du [yarn]+1 [icon:yarn]Garn![/yarn]!
 
 UnknownName = ??? Hut
-UnknownDescLocked0 = No description.
+UnknownDescLocked0 = Keine Beschreibung.
 UnknownDescTech0 = Dieser Hut hat keinen nutzen.
 
 SprintName = Sprint Hut
@@ -61,7 +61,7 @@ DetectiveHatName = Verbrechen lösendes Outfit
 DetectiveHatDesc0 = Zeit verbrechen aufzuklären! Augen auf 
 
 ParadeHatName = Parade Outfit
-ParadeHatDesc0 = The leader that this town needs!
+ParadeHatDesc0 = Das Mädchen, welches diese Stadt braucht
 
 [abilities]
 BadgeCollect0 = It requires [hint][badgepoints_required] Badge Points[/hint] to activate; only [name][badgepoints_left][/name] to go!

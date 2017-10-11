@@ -206,139 +206,141 @@ Item_EnvironmentQuality_Desc = Bestimmt die visuelle Qualität von 3D-Umgebungsw
 Item_EffectsQuality_Title = Effekte Qualität
 Item_EffectsQuality_Desc = Bestimmt die Anzahl und Qualität von Nachbearbeitungseffekten wie Antialiasing, Bloom und Schärfentiefe. Höhere Qualität bietet bessere und genauere Effekte.
 
-Item_LightingQuality_Title = Shadow Quality
-Item_LightingQuality_Desc = Determines the visual quality of shadows, and which objects are allowed to cast shadows. Higher quality provides sharper shadows and more shadow casters. Lowering this provides a significant performance boost.
+Item_LightingQuality_Title = Schatten Qualität
+Item_LightingQuality_Desc = Bestimmt die visuelle Qualität von Schatten und welche Objekte Schatten werfen dürfen. Höhere Qualität bietet schärfere Schatten und mehr Schattenfänger. Dies zu verringern, bietet einen signifikanten Leistungsschub.
 
 ; Advanced
-Item_AdvancedGraphicsSettings_Title = Advanced Graphics Settings
-Item_AdvancedGraphicsSettings_Desc = Open the menu to configure all graphical options individually.
+Item_AdvancedGraphicsSettings_Title = Erweiterte Grafikeinstellungen
+Item_AdvancedGraphicsSettings_Desc = Öffnen Sie das Menü, um alle grafischen Optionen individuell zu konfigurieren.
 
 ; Automatic
-Item_AutomaticGraphicsSettings_Title = Automatic Graphics Settings
-Item_AutomaticGraphicsSettings_Desc = Your graphics settings are configured automatically as you play, optimized for best performance!
+Item_AutomaticGraphicsSettings_Title = Automatische Grafikeinstellungen
+Item_AutomaticGraphicsSettings_Desc = Ihre Grafikeinstellungen werden automatisch während des Spiels konfiguriert und auf optimale Leistung optimiert!
 
-Header_Adv_Characters = Characters
-Item_Adv_SkelMeshLODBias_Title = Character Model LOD Bias
-Item_Adv_SkelMeshLODBias_Desc = As you get further away from character models, they will gradually decrease in quality. Increasing this setting increases how far they can be before this happens.
+Header_Adv_Characters = Figuren
+Item_Adv_SkelMeshLODBias_Title = Charakter Modell LOD Bias
+Item_Adv_SkelMeshLODBias_Desc = Je weiter Sie sich von den Charaktermodellen entfernen, desto geringer wird die Qualität. Wenn Sie diese Einstellung erhöhen, erhöhen Sie, ab wann dies eintrifft.
 
-Item_Adv_Jigglebones_Title = Dynamic Character Physics
-Item_Adv_Jigglebones_Desc = When enabled, cloth, hair and other components on certain characters will be simulated based on their movement. For the player character, this includes things like her cape, hair and zipper.
+Item_Adv_Jigglebones_Title = Dynamische Charakterphysik
+Item_Adv_Jigglebones_Desc = Wenn aktiviert, werden Stoff, Haare und andere Komponenten auf bestimmten Charakteren basierend auf ihrer Bewegung simuliert. Für den Spielercharakter umfasst das Dinge wie ihr Umhang, Haare und Reißverschlüsse.
 
-Item_Adv_CharacterTextureQuality_Title = Character Texture Quality
-Item_Adv_CharacterTextureQuality_Desc = Determines the resolution of textures on characters. The lowest setting will enforce a maximum texture resolution of 256x256, while the highest can go up to 4096x4096.
+Item_Adv_CharacterTextureQuality_Title = Charakter Textur Qualität
+Item_Adv_CharacterTextureQuality_Desc = Bestimmt die Auflösung von Texturen für Zeichen. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
 
-Header_Adv_Environment = Environment
-Item_Adv_DetailMode_Title = Environment Detail
-Item_Adv_DetailMode_Desc = [High]: All detail models (foliage, faraway islands) and detail particle effects (butterflies, dust) will display.[newline][Medium]: Most detail models will display, and no detail particle effects will display.[newline][Low]: No detail models or particle effects will display.
+Header_Adv_Environment = Spielwelt
+Item_Adv_DetailMode_Title = Spielweltdetails
+Item_Adv_DetailMode_Desc = [High]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Medium]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Low]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
 
-Item_Adv_DrawDistance_Title = Draw Distance
-Item_Adv_DrawDistance_Desc = As you get further away from some environment models, they will gradually decrease in quality and eventually disappear altogether. Increasing this setting increases how far they can be before this happens. A higher value means higher quality backgrounds, but at a significant performance cost. This option has a big impact on performance.
+Item_Adv_DrawDistance_Title = Sichtweite
+Item_Adv_DrawDistance_Desc = Wenn Sie sich von einigen Umgebungsmodellen weiter entfernen, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden. Wenn Sie diese Einstellung erhöhen, erhöhen Sie, wie weit sie reichen können, bevor dies geschieht. Ein höherer Wert bedeutet höhere Qualitätshintergründe, jedoch zu erheblichen Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.
 
-Item_Adv_AnisotropicFiltering_Title = Anisotropic Filtering
-Item_Adv_AnisotropicFiltering_Desc = When some textures are viewed at an angle (like floors), they become blurry the further they are away from the camera. Anisotropic Filtering improves this for every degree of anisotropy; anisotropy 16 will be twice as sharp as anisotropy of 8.
+Item_Adv_AnisotropicFiltering_Title = Anisotrope Filterung
+Item_Adv_AnisotropicFiltering_Desc = Wenn einige Texturen in einem Winkel betrachtet werden (wie Etagen), werden sie verschwommen, je weiter sie von der Kamera entfernt sind. Die anisotrope Filterung verbessert dies für jeden Grad der Anisotropie; Die Anisotropie 16 ist doppelt so scharf wie die Anisotropie von 8.
 
-Item_Adv_WorldTextureQuality_Title = World Texture Quality
-Item_Adv_WorldTextureQuality_Desc = Determines the resolution of textures on the environment. The lowest setting will enforce a maximum texture resolution of 256x256, while the highest can go up to 4096x4096.
+Item_Adv_WorldTextureQuality_Title = Welttexturqualität
+Item_Adv_WorldTextureQuality_Desc = Bestimmt die Auflösung von Texturen für die Umgebung. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
 
-Item_Adv_Fog_Title = World Fog
-Item_Adv_Fog_Desc = Renders fog in the environment. This is somewhat expensive on low-end systems.
+Item_Adv_Fog_Title = Weltnebel
+Item_Adv_Fog_Desc = Rendert Nebel in der Spielwelt. Dies ist in Low-End-Systemen etwas aufwendiger.
 
-Item_Adv_Translucency_Title = Translucency
-Item_Adv_Translucency_Desc = Renders translucent objects, surfaces and particles.
-Item_Adv_Translucency_None = None
+Item_Adv_Translucency_Title = Transluzenz
+Item_Adv_Translucency_Desc = Renders transluzente Objekte, Oberflächen und Partikel.
+Item_Adv_Translucency_None = Keine
 Item_Adv_Translucency_Normal = Single Pass
 Item_Adv_Translucency_SepTrans = Double Pass
 
-Header_Adv_Lighting = Lighting
+Header_Adv_Lighting = Beleuchtung
 
-Item_Adv_MaxShadowResolution_Title = Shadow Resolution
-Item_Adv_MaxShadowResolution_Desc = Determines the per-object shadow texture resolution.
+Item_Adv_MaxShadowResolution_Title = Schattenauflösung
+Item_Adv_MaxShadowResolution_Desc = Bestimmt die Schattenbeschaffenheitsauflösung pro Objekt.
 
-Item_Adv_DominantDirectionalLight_Title = Environment Lighting/Shadow Quality
-Item_Adv_DominantDirectionalLight_Desc = The renderer to use for environment lighting and shadows.
+Item_Adv_DominantDirectionalLight_Title = Spielwelt Beleuchtung / Schattenqualität
+Item_Adv_DominantDirectionalLight_Desc = Der Renderer für Umgebungsbeleuchtung und Schatten.
 
-Item_Adv_ParticleShadows_Title = Particle Shadows
-Item_Adv_ParticleShadows_Desc = Whether particles should cast shadows.
-Item_Adv_ParticleShadows_Item_None = None
-Item_Adv_ParticleShadows_Item_Player = Player Only
-Item_Adv_ParticleShadows_Item_Full = Full
+Item_Adv_ParticleShadows_Title = Partikelschatten
+Item_Adv_ParticleShadows_Desc = Ob Partikel Schatten werfen sollten.
+Item_Adv_ParticleShadows_Item_None = Keine
+Item_Adv_ParticleShadows_Item_Player = Nur Spieler
+Item_Adv_ParticleShadows_Item_Full = Alle
 
-Item_Adv_AllowDetailShadows_Title = Detail Shadows
-Item_Adv_AllowDetailShadows_Desc = Allows minor objects (like collectibles) to cast shadows. Quality and visibility depends on Shadow Resolution.
+Item_Adv_AllowDetailShadows_Title = Detailschatten
+Item_Adv_AllowDetailShadows_Desc = Erlaubt kleinere Objekte (wie Sammlerstücke), Schatten zu werfen. Qualität und Sichtbarkeit hängen von der Schattenauflösung ab.
 
-Header_Adv_Effects = Post-Processing Effects
-Item_Adv_DoF_Title = Depth of Field
-Item_Adv_DoF_Desc = Depth of Field applies a blur to background scenery. It allows you to focus on what is in front of you, and removes visual noise from objects far away. Complex Depth of Field is more precise, but at a much higher performance cost.
-Item_Adv_DoF_Item_None = None
-Item_Adv_DoF_Item_Simple = Simple
+Header_Adv_Effects = Post-Processing-Effekte
+Item_Adv_DoF_Title = Tiefenschärfe
+Item_Adv_DoF_Desc = Die Schärfentiefe wendet eine Hintergrundunschärfe an. Sie können sich auf das konzentrieren, was vor Ihnen liegt, und entfernen visuelle Geräusche von weit entfernten Objekten. Die komplexe Schärfentiefe ist präziser, jedoch mit viel höheren Leistungskosten.
+Item_Adv_DoF_Item_None = Keine
+Item_Adv_DoF_Item_Simple = Einfach
 Item_Adv_DoF_Item_Standard = Standard
-Item_Adv_DoF_Item_Complex = Complex
+Item_Adv_DoF_Item_Complex = Komplex
 
 Item_Adv_Bloom_Title = Bloom
-Item_Adv_Bloom_Desc = When enabled, bright areas will produce a glow effect.
+Item_Adv_Bloom_Desc = Wenn aktiviert, erzeugen helle Bereiche einen Glüheffekt.
 
-Item_Adv_LightShafts_Title = Light Rays
-Item_Adv_LightShafts_Desc = The sun, and other bright light sources, will produce rays that can be blocked by objects in front of the camera.
+Item_Adv_LightShafts_Title = Lichtstrahlen
+Item_Adv_LightShafts_Desc = Die Sonne und andere helle Lichtquellen erzeugen Strahlen, die von Objekten vor der Kamera blockiert werden können.
 
-Item_Adv_ObjectMotionBlur_Title = Per-Object Motion Blur
-Item_Adv_ObjectMotionBlur_Desc = Fast-moving objects get blurred in the direction that they're moving. This is also applied per-limb on characters. This does not blur camera movement at all (that's Screen Blur).
+Item_Adv_ObjectMotionBlur_Title = Bewegungsunschärfe pro Objekt
+Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charakter angewendet. Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
 
-Item_Adv_RadialBlur_Title = Radial Blur
-Item_Adv_RadialBlur_Desc = When enabled, explosions and attacks will create a blur around the area of effect.
+Item_Adv_RadialBlur_Title = Kreisförmige Unschärfe
+Item_Adv_RadialBlur_Desc = Wenn aktiviert, werden Explosionen und Angriffe eine Unschärfe um den Effektbereich erzeugen.
 
-Item_Adv_ScreenBlur_Title = Screen Blur
-Item_Adv_ScreenBlur_Desc = When the camera is moving rapidly, the background is blurred based on movement direction and depth; objects in the distance blur more than ones right in front of the camera.
+Item_Adv_ScreenBlur_Title = Bildschirmunschärfe
+Item_Adv_ScreenBlur_Desc = Wenn sich die Kamera schnell bewegt, verschwimmt der Hintergrund basierend auf Bewegungsrichtung und Tiefe. Objekte in der Ferne verwischen mehr als die direkt vor der Kamera.
 
-Item_Adv_Distortion_Title = Distortion
-Item_Adv_Distortion_Desc = Allows some transparent surfaces (such as water) to distort what's behind them.
+Item_Adv_Distortion_Title = Verzerrung
+Item_Adv_Distortion_Desc = Ermöglicht, dass einige transparente Oberflächen (z. B. Wasser) die dahinter liegenden Elemente verzerren.
 
-Item_Adv_AA_Title = Anti-Aliasing
-Item_Adv_AA_Desc = When enabled, applies one of the selected methods of smoothing model edges. FXAA0 is the cheapest, while FXAA5 and MLAA are the most expensive. This option should not be set to anything but None and FXAA0 unless you're familiar with the different methods.
-Item_Adv_AA_Item_None = None
+Item_Adv_AA_Title = Kantenglättung
+Item_Adv_AA_Desc = 
+Wenn diese Option aktiviert ist, wird eine der ausgewählten Methoden zum Glätten von Modellkanten angewendet. FXAA0 ist das billigste, während FXAA5 und MLAA am teuersten sind. Diese Option sollte nur auf Keine und FXAA0 gesetzt werden, wenn Sie nicht mit den verschiedenen Methoden vertraut sind.
+Item_Adv_AA_Item_None = Keine
 
 Item_Adv_LensFlares_Title = Lens Flares
-Item_Adv_LensFlares_Desc = Sprites rendered on top of the environment to indicate strong light (such as the sun).
+Item_Adv_LensFlares_Desc = Blendenfleck werden auf die Umgebung gerendert, um starkes Licht anzuzeigen (wie z. B. die Sonne).
 
-Item_Adv_Decals_Title = Decals
-Item_Adv_Decals_Desc = Decals are 2D images projected onto a surface to make that surface appear more detailed (such as cracks, dirt or graffiti).
+Item_Adv_Decals_Title = Abziehbilder
+Item_Adv_Decals_Desc = Abziehbilder sind 2D-Bilder, die auf eine Oberfläche projiziert werden, um diese Oberfläche detaillierter erscheinen zu lassen (wie Risse, Schmutz oder Graffiti).
 
-Item_Adv_DynamicLights_Title = Dynamic Lights
-Item_Adv_DynamicLights_Desc = Real-time lighting effects, such as moving lights or explosions.
+Item_Adv_DynamicLights_Title = Dynamische Lichter
+Item_Adv_DynamicLights_Desc = Echtzeit-Lichteffekte, wie z. B. Moving Lights oder Explosionen.
 
-Item_Adv_ConservativeShadowBounds_Title = Precise Shadow Bounds
-Item_Adv_ConservativeShadowBounds_Desc = If enabled, the game will try to more precisely trace where shadows land.
+Item_Adv_ConservativeShadowBounds_Title = Präzise Schattengrenzen
+Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert, versucht das Spiel genauer zu verfolgen, wo Schatten landen.
 
-Item_Adv_SeparateTranslucency_Title = Two-Layer Translucency
-Item_Adv_SeparateTranslucency_Desc = Translucency is performed before the Depth of Field rendering pass. As a result, a lot of translucent objects get blurred, even if they're right in front of you. Two-layer translucency allows those objects to render after the Depth of Field rendering pass.
+Item_Adv_SeparateTranslucency_Title = Zweilagige Transluzenz
+Item_Adv_SeparateTranslucency_Desc = Die Transluzenz wird durchgeführt, bevor das Depth-of-Field-Rendering bestanden wird. Infolgedessen werden viele lichtdurchlässige Objekte verschwommen, selbst wenn sie direkt vor Ihnen liegen. Durch die zweilagige Transluzenz können diese Objekte gerendert werden, nachdem das Depth of Field-Rendering bestanden wurde.
 
-Item_Adv_Vignette_Title = Camera Vignette
-Item_Adv_Vignette_Desc = Adds a subtle black border around the screen.
+Item_Adv_Vignette_Title = Kamera Vignette
+Item_Adv_Vignette_Desc = Fügt einen subtilen schwarzen Rand um den Bildschirm hinzu.
 
-Item_Adv_RigidBody_Title = Simulated World Physics
-Item_Adv_RigidBody_Desc = When enabled, debris and rigid bodies will be simulated via PhysX. Don't worry; PhysX will work just fine regardless of what graphics card you have.
+Item_Adv_RigidBody_Title = Simulierte Weltphysik
+Item_Adv_RigidBody_Desc = Wenn aktiviert, werden Trümmer und starre Körper über PhysX simuliert. Mach keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte Sie haben.
+
 
 Item_Adv_SuperSampling_Title = Supersampling
-Item_Adv_SuperSampling_Desc = Upscales screen render.
+Item_Adv_SuperSampling_Desc = Erhöht die Grafikleistung
 
-Item_Adv_PP_Downsample_Title = Post Processing Resolution
-Item_Adv_PP_Downsample_Desc = Downsampling post processing to improve performance.
+Item_Adv_PP_Downsample_Title = Post Processing Auflösung
+Item_Adv_PP_Downsample_Desc = Downsampling-Post-Verarbeitung, um die Leistung zu verbessern.
 
-Header_Adv_Game = Game
-Item_Adv_PredictiveCamera_Title = Predictive Traced Camera
-Item_Adv_PredictiveCamera_Desc = Improves camera smoothing by tracing against nearby geometry.
+Header_Adv_Game = Spiel
+Item_Adv_PredictiveCamera_Title = Vorausschauende verfolgungs Kamera
+Item_Adv_PredictiveCamera_Desc = Verbessert das Glätten der Kamera, indem Sie die Geometrie in der Nähe verfolgt.
 
 [systemsettings.input]
-Header_Input = Input
+Header_Input = Eingabe
 
 Item_OnTheFlyController_Title = Auto-Select Controller
-Item_OnTheFlyController_Desc = If enabled and playing single player, the active controller will automatically change when you press a button on a new controller.
+Item_OnTheFlyController_Desc = Wenn diese Option aktiviert ist und der Einzelspieler gespielt wird, ändert sich der aktive Controller automatisch, wenn Sie eine Taste an einem neuen Controller drücken.
 
-Item_ManageDefinitions_Title = Controller Definitions
-Item_ManageDefinitions_Title_Item = Manage Definitions
-Item_ManageDefinitions_Desc = We've added support for a number of common controllers, but if you're using an uncommon controller, you will need to set it up here in order to use it.
+Item_ManageDefinitions_Title = Controller-Definitionen
+Item_ManageDefinitions_Title_Item = Definitionen verwalten
+Item_ManageDefinitions_Desc = Wir haben Unterstützung für eine Reihe von gängigen Controllern hinzugefügt, aber wenn Sie einen ungewöhnlichen Controller verwenden, müssen Sie ihn hier einrichten, um ihn verwenden zu können.
 
-Item_MouseSensitivity_Title = Mouse Sensitivity
-Item_MouseSensitivity_Desc = The higher the sensitivity, the more of an impact mouse movement has on the game.
+Item_MouseSensitivity_Title = Maus-Empfindlichkeit
+Item_MouseSensitivity_Desc = Je höher die Empfindlichkeit, desto mehr Auswirkungen hat eine Mausbewegung auf das Spiel.
 
 Item_InvertCameraX_Controller_Title = Invert Horizontal Camera (Controllers)
 Item_InvertCameraX_Controller_Desc = Inverts horizontal movement when using a controller
@@ -366,27 +368,27 @@ BrokenControllerSoftware1 = Consider turning off the software you're using, and 
 
 [Loadout]
 TimePieces_Main = Main
-TimePieces_Bonus = Time Rifts
-Loadout_Swap_Hat = Select a Hat!
-Loadout_Swap_Mask = Select a Mask!
-Loadout_Swap_Skin = Select a Color!
-Loadout_Swap_Ability = Select an Ability!
-Loadout_Swap_Badge = Select a Badge!
-Loadout_BadgeLocked = You need [yarn][num] [icon:yarn]yarn[/yarn] to stitch this!
-Loadout_BadgeLocked_Affordable = Press [button:menuconfirm] to spend [yarn][num] [icon:yarn]yarn[/yarn] to stitch!
+TimePieces_Bonus = Zeitriss
+Loadout_Swap_Hat = Wähle einen Hut aus!
+Loadout_Swap_Mask = Wähle eine Maske aus!
+Loadout_Swap_Skin = Wähle eine Farbe aus!
+Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
+Loadout_Swap_Badge = Wähle einen Anstecker aus!
+Loadout_BadgeLocked = Du brauchst [yarn][num] [icon:yarn]Garn[/yarn] um das zu nähen!
+Loadout_BadgeLocked_Affordable = Drücke [button:menuconfirm] zum [yarn][num] [icon:yarn]Garn[/yarn] zu benutzen um zu nähen!
 
-Loadout_AbilityActivation_Trigger = Activate
-Loadout_AbilityActivation_Jump = Jump
-Loadout_AbilityActivation_Automatic = Automatic
-Loadout_AbilityActivation_Attack = Attack
-Loadout_AbilityActivation_Weapon = Weapon
+Loadout_AbilityActivation_Trigger = Aktivieren
+Loadout_AbilityActivation_Jump = Sprung
+Loadout_AbilityActivation_Automatic = Automatisch
+Loadout_AbilityActivation_Attack = Attacke
+Loadout_AbilityActivation_Weapon = Waffe
 
-Options_ReturnToHUB_Q = Save & Return to Hub?
-Options_QuitGame_Q = Exit the Game?
+Options_ReturnToHUB_Q = Speichern & zurück zum Hub?
+Options_QuitGame_Q = Das Spiel verlassen?
 Options_QuitGame_InGame_Q = Save & Exit to...
-Options_QuitGame_InGame_A_MainMenu = Main Menu!
+Options_QuitGame_InGame_A_MainMenu = Hauptmenu!
 Options_QuitGame_InGame_A_Desktop = Desktop!
-Options_QuitGame_InGame_A_Return = Go Back!
+Options_QuitGame_InGame_A_Return = Zurück!
 
 [MainMenu]
 FileSelect_File = File
@@ -465,57 +467,57 @@ Action_ViewItem = View Item
 Action_Back = Back
 
 [Common]
-MenuConfirm = Yes!
-MenuDecline = No!
+MenuConfirm = Ja!
+MenuDecline = Nein!
 
 [LevelChange]
-RetryLevelQuestion = Retry this Act?
-RetryLevel_Yes = Retry
-RetryLevel_HUB = Return to Hub
+RetryLevelQuestion = Diesen Akt wiederholen?
+RetryLevel_Yes = Wiederholen
+RetryLevel_HUB = Zurück zum Hub
 
 [DecorationMap]
-DecorationMap_NoMarkers = No Nearby Relics
+DecorationMap_NoMarkers = Keine Reliquien in der Nähe
 
 [Murder]
-ClockRing0 = 1 OWL HOUR LEFT
-ClockRing1 = 30 OWL MINUTES LEFT
-ClockRing2 = TIME'S UP
+ClockRing0 = 1 EULEN STUNDE ÜBRIG
+ClockRing1 = 30 EULEN MINUTEN ÜBIG
+ClockRing2 = DIE ZEIT IST UM
 
-Suspect0 = THE CROWS ARE NOW AVAILABLE SUSPECTS!
-Suspect1 = THE EXPRESS OWLS ARE NOW AVAILABLE SUSPECTS!
-Suspect2 = THE CONDUCTOR IS NOW AN AVAILABLE SUSPECT!
-Suspect3 = I'M NOW AN AVAILABLE SUSPECT!
-Suspect4 = [MotherMaidenName] IS NOW AN AVAILABLE SUSPECT!
-Suspect5 = THE VICTIM IS NOW AN AVAILABLE SUSPECT!
-SelectSuspect = WHO'S THE MURDERER?
-ConfirmSuspect = ARE YOU SURE THIS SCHMUCK IS THE MURDERER?
+Suspect0 = DIE KRÄHEN SIND JETZT VERFÜGBARE VERDÄCHTIGE!
+Suspect1 = DIE EXPRESS EULEN SIND JETZT VERFÜGBARE VERDÄCHTIGE!
+Suspect2 = DER SCHAFFNER IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+Suspect3 = ICH BIN JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+Suspect4 = [MotherMaidenName] IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+Suspect5 = DAS OPFER IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+SelectSuspect = WER IST DER MÖRDER?
+ConfirmSuspect = BIST DU DIR SICHER, DASS DIESER TROTTEL DER MÖRDERER IST?
 
-Suspect_Select0 = Protect and serve[br]at all cost!
-Suspect_Select1 = We've got eyes[br]everywhere, and we[br]saw nothing!
-Suspect_Select2 = Whatcha looking at[br]me for, peck neck?
-Suspect_Select3 = I had to do it,[br]or the voices[br]wouldn't stop!
+Suspect_Select0 = Schützen und dienen[br]um jeden Preis!
+Suspect_Select1 = Wir haben Augen[br]überall, und wir[br]haben nichts gesehen!
+Suspect_Select2 = Was schaust'n [br]mich so an, Grünschnabel?
+Suspect_Select3 = Ich musste es tun,[br]oder die Stimmen[br]würden nicht aufhören!
 Suspect_Select4 = ...
-Suspect_Select5 = You can't blame a[br]dead owl! I mean...[br]zzzz...
+Suspect_Select5 = Du kannst keine[br]tote Eule beschuldigen! Ich meine...[br]zzzz...
 
 [Decoration]
-PayCost = Repair:
+PayCost = Reparaturkosten:
 
 [DeadBirdBills]
-Bill_WalkOnSet = Disrupting Studio Recordings
-Bill_DestroyProp = Destruction of Property
-Bill_EnterStudio = Trespassing
-Bill_Spotted_Owl = Owl Harassment
-Bill_Spotted_Penguin = Penguin Harassment
-Bill_Power_Outage = Tampering with Electronics
-Bill_Started_Fire = Aggravated Arson
-Bill_Cactus = Assault on Cactus
+Bill_WalkOnSet = Studioaufnahmen stören
+Bill_DestroyProp = Zerstörung von Eigentum
+Bill_EnterStudio = unbefugtes Betreten
+Bill_Spotted_Owl = Eulen-Belästigung
+Bill_Spotted_Penguin = Pinguin-Belästigung
+Bill_Power_Outage = Manipulation mit Elektronik
+Bill_Started_Fire = Schwere Brandstiftung
+Bill_Cactus = Angriff auf Kaktus
 Bill_TeePee = Teepee T-KO
 
 [MovieCredits]
-Author_Condutor = DIRECTED BY CONDUCTOR
-Author_DJ = DIRECTED BY DJ GROOVES
-Starring = STARRING
-Highscore = THE REVIEWS ARE IN...
+Author_Condutor = REGIE: SCHAFFNER 
+Author_DJ = REGIE: DJ GROOVES
+Starring = MIT
+Highscore = DIE BEWERTUNGEN SIND DA ...
 
 [ConsoleProfileSwap]
-SwapProfile = Switch Profile
+SwapProfile = Profil wechseln

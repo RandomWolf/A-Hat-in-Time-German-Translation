@@ -4,16 +4,16 @@ doublejump = In der Luft, um doppelt zu springen
 watersubmerge = Tauchen
 caught_struggle = Strampeln
 first_person_goal = Benutze deinen [icon:hat], um dein Ziel zu finden!
-divecancel = Waehrend des Tauchens zum Abbrechen
+divecancel = Waehrend des Weitsprungs zum abbrechen
 trigger_ability = Um deine [icon:activehat] Hut Faehigkeit zu benutzen
-hat_swap = Zum Wechseln
+hat_swap = Zum wechseln
 umbrella_attack = Attackieren
-helper_ability_no_target = Hier gibt es nichts Interessantes...
+helper_ability_no_target = Hier gibt es nichts interessantes...
 
-drop_carry = Fallen
+drop_carry = Fallen lassen
 throw_carry = Werfen
 
 DuplicateKey = Kann nicht 2 [icon:key] gleichzeitig tragen
 
 [placeholder]
-BetaHatSwapNotice0 = Drueke [button:badgeswitch] um deinen [icon:hat] zu wechseln![br]Drueke [button:badge], um die Faehigkeit des Huts zu benutzen.
+BetaHatSwapNotice0 = Druecke [button:badgeswitch] um deinen [icon:hat] zu wechseln![br]Druecke [button:badge], um die Faehigkeit des Huts zu benutzen.

@@ -417,8 +417,8 @@ Help_Exit = Exit
 
 Msg_Filter = Filter
 Msg_DoF = Depth of Field
-Msg_EnabledDoF = Depth of Field enabled
-Msg_DisabledDoF = Depth of Field disabled
+Msg_EnabledDoF = Depth of Field an
+Msg_DisabledDoF = Depth of Field aus
 
 Filter0 = Action Blue
 Filter1 = Dreamy

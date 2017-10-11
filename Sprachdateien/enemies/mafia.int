@@ -1,15 +1,15 @@
 [mafiacombat]
-jumpsurprise0 = [scream]WHAT THE...?![/scream]
-jumpsurprise1 = [scream]HOW DID YOU...?![/scream]
-jumpsurprise2 = [scream]YOU CAN JUMP?![/scream]
-jumpsurprise3 = [scream]I'M SO CONFUSED![/scream]
-jumpsurprise4 = [scream]OW! MY HEAD![/scream]
+jumpsurprise0 = [scream]WAS ZUR...?![/scream]
+jumpsurprise1 = [scream]WIE HAST DU...?![/scream]
+jumpsurprise2 = [scream]DU KANNST SPRINGEN?![/scream]
+jumpsurprise3 = [scream]ICH BIN SO VERWIRRT![/scream]
+jumpsurprise4 = [scream]AU! MEIN KOPF![/scream]
 
 movepredict0 = Ha ha!
-movepredict1 = Got you all figured out!
-movepredict2 = Child is predictable!
-movepredict3 = That's all you got?
+movepredict1 = Hab dich durchschaut!
+movepredict2 = Kind ist berechenbar!
+movepredict3 = Ist das alles was du drauf hast?
 
-teleport0 = What? Where am I?!
-teleport1 = Hey, it's that girl!
-teleport2 = What's going on?!
+teleport0 = Was? Wo bin ich?!
+teleport1 = Hey, es ist das Mädchen!
+teleport2 = Was passiert hier?!

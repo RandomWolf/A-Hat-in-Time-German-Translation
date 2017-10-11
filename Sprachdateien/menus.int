@@ -342,17 +342,17 @@ Item_ManageDefinitions_Desc = Wir haben Unterstützung für eine Reihe von gäng
 Item_MouseSensitivity_Title = Maus-Empfindlichkeit
 Item_MouseSensitivity_Desc = Je höher die Empfindlichkeit, desto mehr Auswirkungen hat eine Mausbewegung auf das Spiel.
 
-Item_InvertCameraX_Controller_Title = Invert Horizontal Camera (Controllers)
-Item_InvertCameraX_Controller_Desc = Inverts horizontal movement when using a controller
-Item_InvertCameraX_Controller_Desc_Console = Inverts horizontal camera movement
-Item_InvertCameraY_Controller_Title = Invert Vertical Camera (Controllers)
-Item_InvertCameraY_Controller_Desc = Inverts vertical movement when using a controller
-Item_InvertCameraY_Controller_Desc_Console = Inverts vertical camera movement
-Item_Rumble_Controller_Title = Rumble
-Item_Rumble_Controller_Desc = Whether to allow vibrations during specific actions
+Item_InvertCameraX_Controller_Title = Horizontale Kamera invertieren (Controller)
+Item_InvertCameraX_Controller_Desc = Kehrt die horizontale Bewegung um, wenn ein Controller verwendet wird
+Item_InvertCameraX_Controller_Desc_Console = Kehrt die horizontale Kamerabewegung um
+Item_InvertCameraY_Controller_Title = Vertikale Kamera invertieren (Controller)
+Item_InvertCameraY_Controller_Desc = Kehrt die vertikale Bewegung bei Verwendung eines Controllers um
+Item_InvertCameraY_Controller_Desc_Console = Kehrt die vertikale Kamerabewegung um
+Item_Rumble_Controller_Title = Vibration
+Item_Rumble_Controller_Desc = Ob Vibrationen während bestimmter Aktionen zugelassen werden sollen
 
-Item_InputAssist_Title = Input Assist
-Item_InputAssist_Desc = The game will attempt to improve the input experience by storing inputs that were pressed a tiny bit too soon, as well as try to avoid accidental double button presses.
+Item_InputAssist_Title = Eingabehilfe
+Item_InputAssist_Desc = Das Spiel wird versuchen, die Eingabeerfahrung zu verbessern, indem Eingaben, die zu früh auf ein kleines Stück gedrückt wurden, gespeichert werden, sowie versehentliche doppelte Tastendrücke zu vermeiden.
 
 [alpha_warnings]
 alpha0 = Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
@@ -391,31 +391,31 @@ Options_QuitGame_InGame_A_Desktop = Desktop!
 Options_QuitGame_InGame_A_Return = Zurück!
 
 [MainMenu]
-FileSelect_File = File
-FileSelect_Progress_Completed = Complete
-FileSelect_New = Create New File
+FileSelect_File = Datei
+FileSelect_Progress_Completed = Vollständig
+FileSelect_New = Neue Datei erstellen
 
-Action_Delete = Delete Save
-Action_Delete_Q = Are you sure you want to[br]delete save [id]?
+Action_Delete = Spielstand löschen
+Action_Delete_Q = Bist du sicher, dass du[br]Spielstand [id]löschen willst?
 
-Action_NewGame = Start New Game
-Action_NewGame_Q = Start a New Game?
+Action_NewGame = Neues Spiel starten
+Action_NewGame_Q = Neues Spiel starten?
 
-Action_SwitchUser = Switch User
+Action_SwitchUser = Benutzer wechseln
 
 [ItemUnlock]
-ItemUnlock_Badge = New hat stitched, ready for use!
-ItemUnlock_Rare = This flair is rare!
-ItemUnlock_VeryRare = This flair is very rare!
-ItemUnlock_Flair = You can now swap the appearance of this item!
+ItemUnlock_Badge = Neuer Hut genäht, probier ihn an!
+ItemUnlock_Rare = Dieses Flair ist selten!
+ItemUnlock_VeryRare = Dieses Flair ist sehr selten!
+ItemUnlock_Flair = Du kannst jetzt das Aussehen dieses Items austauschen!
 
 [InventoryCamera]
-Help_TakePicture = Take Picture
-Help_ChangeFilter = Change Filter
-Help_ChangeDoF = Change Depth of Field
-Help_EnableDoF = Enable Depth of Field
-Help_DisableDoF = Disable Depth of Field
-Help_Exit = Exit
+Help_TakePicture = Ein Bild machen
+Help_ChangeFilter = Filter ändern
+Help_ChangeDoF = Schärfentiefe ändern
+Help_EnableDoF = Tiefenschärfe aktivieren
+Help_DisableDoF = Schärfentiefe deaktivieren
+Help_Exit = Verlassen
 
 Msg_Filter = Filter
 Msg_DoF = Depth of Field
@@ -436,35 +436,35 @@ Filter10 = Sunset
 Filter11 = #NoFilter
 
 [ActSelect]
-Help_GoToAct = Start Act
-Help_UnlockAct = Unlock Act
-Help_GoToBonus = Enter Time Rift
-Help_GoToFreeRoam = Start Free Roam
-Help_GoToBoss = Start Boss
-Help_GoToMiniBoss = Start Mini Boss
-Help_SeeDreamWorld = Look at Photo
-Help_UnSeeDreamWorld = Close Photo
-Help_Exit = Exit
+Help_GoToAct = Act beginnen
+Help_UnlockAct = Act freischalten
+Help_GoToBonus = Zeitriss betreten
+Help_GoToFreeRoam = Starte Free Roam
+Help_GoToBoss = Starte Boss
+Help_GoToMiniBoss = Starte Mini Boss
+Help_SeeDreamWorld = Foto anschauen
+Help_UnSeeDreamWorld = Foto schließen
+Help_Exit = Verlassen
 
-Action_EnterCompletedAct = You've already completed this act. Enter anyway?
-Action_MissingItem = You're missing a key item[br]and won't be able to complete this act. Enter anyway?
+Action_EnterCompletedAct = Du hast disen Act schon abgeschlossen. Trotzdem betreten?
+Action_MissingItem = Dir fehlt ein Schlüsselitem [br]dadurch wird es dir nicht möglich sein diesen Act abzuschließen. Trotzdem betreten?
 
-StandOff_Confirm_Conductor0 = The Conductor has the highscore! Confirm him as the winner?
-StandOff_Confirm_Conductor1 = He's kinda smug about it. Sure you want him to win?
+StandOff_Confirm_Conductor0 = Der Schaffner hat den Highscore! Ihn als Sieger bestätigen?
+StandOff_Confirm_Conductor1 = Er ist irgendwie selbstgefällig darüber. Sicher willst du, dass er gewinnt?
 
-StandOff_Confirm_DJGrooves0 = DJ Grooves has the highscore! Confirm him as the winner?
-StandOff_Confirm_DJGrooves1 = His dancing is kinda obnoxious. Sure you want him to win?
+StandOff_Confirm_DJGrooves0 = DJ Grooves hat den Highscore! Ihn als Sieger bestätigen?
+StandOff_Confirm_DJGrooves1 = Sein Tanz ist irgendwie abscheulich. Sicher willst du, dass er gewinnt?
 
-StandOff_Confirm_Draw0 = It's a draw! Let chance decide the winner?
-StandOff_Confirm_Draw1 = Are you sure? It'll be completely random!
+StandOff_Confirm_Draw0 = Es ist ein unentschieden! Willst du die Entscheidung dem Glück überlassen, wer der Gewinner ist?
+StandOff_Confirm_Draw1 = Bist du sicher? Es wird völlig zufällig sein!
 
 [Shops]
-Item_Cost = Cost
-My_Currency = I Have
-Action_BuyItem = Buy Item
-Action_LeaveShop = Leave Shop
-Action_ViewItem = View Item
-Action_Back = Back
+Item_Cost = Kosten
+My_Currency = Ich habe
+Action_BuyItem = Item kaufen
+Action_LeaveShop = Laden verlassen
+Action_ViewItem = Item anschauen
+Action_Back = Zurück
 
 [Common]
 MenuConfirm = Ja!

@@ -62,71 +62,71 @@ Header_Camera_Adv = Erweiterte Kamera
 Item_FieldOfView_Title = Field of View
 Item_FieldOfView_Item_TV = TV (80)
 Item_FieldOfView_Item_PC = PC Monitor (90)
-Item_FieldOfView_Item_Custom = Custom...
-Item_FieldOfView_Item_Desc = Higher Field of View (FoV) values widen your peripheral vision, while lower values narrow it. Higher FoV values are recommended for when you're close to the display, while lower values are recommended when you're at a distance.
+Item_FieldOfView_Item_Custom = Angepasst...
+Item_FieldOfView_Item_Desc = Höhere Field of View(FoV)-Werte erweitern das periphere Sehen, während niedrigere Werte es einschränken. Höhere FoV-Werte werden empfohlen, wenn Sie sich in der Nähe des Displays befinden, während niedrigere Werte empfohlen werden, wenn Sie sich in der Ferne befinden.
 
-Item_CameraAssist_Title = Camera Assist
-Item_CameraAssist_Desc = When enabled, allows the game to contextually control your camera for a better experience. Recommended if you dislike manual camera controls.
+Item_CameraAssist_Title = Kamera-Assist
+Item_CameraAssist_Desc = Wenn diese Option aktiviert ist, kann das Spiel die Kamera kontextabhängig steuern, um ein besseres Erlebnis zu erzielen. Empfohlen, wenn Sie manuelle Kamerasteuerungen nicht mögen.
 
-Item_ControllerTopDown_Title = Top-Down Camera
-Item_ControllerTopDown_Desc = If enabled, the camera will zoom out to a bird's-eye view. If disabled, the camera will rotate freely.
-Item_ControllerTopDown_Item_None = None
-Item_ControllerTopDown_Item_Controller = Controller Only
-Item_ControllerTopDown_Item_Mouse = Mouse Only
-Item_ControllerTopDown_Item_All = Both
+Item_ControllerTopDown_Title = Top-Down Kamera
+Item_ControllerTopDown_Desc = Wenn diese Option aktiviert ist, zoomt die Kamera aus der Vogelperspektive heraus. Wenn diese Option deaktiviert ist, dreht sich die Kamera frei.
+Item_ControllerTopDown_Item_None = Keines
+Item_ControllerTopDown_Item_Controller = Nur Controller
+Item_ControllerTopDown_Item_Mouse = Nur Maus
+Item_ControllerTopDown_Item_All = Beides
 
-Item_CameraSmoothRotation_Title = Camera Smoothing
-Item_CameraSmoothRotation_Desc = Smoothly moves the camera rotation to the desired angle. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching). Effect is most noticeable with a mouse. Off for raw input.
-Item_CameraSmoothRotation_Desc_Console = Smoothly moves the camera rotation to the desired angle. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching).
-Item_CameraSmoothRotation_Item_VerySlow = Very Slow
-Item_CameraSmoothRotation_Item_Slow = Slow
+Item_CameraSmoothRotation_Title = Kamera Glättung
+Item_CameraSmoothRotation_Desc = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervosität und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen). Der Effekt ist am meisten mit einer Maus bemerkbar. Ausgestellt für rohe Mauseingaben.
+Item_CameraSmoothRotation_Desc_Console = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervosität und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen).
+Item_CameraSmoothRotation_Item_VerySlow = Sehr Langsam
+Item_CameraSmoothRotation_Item_Slow = Langsam
 Item_CameraSmoothRotation_Item_Medium = Medium
-Item_CameraSmoothRotation_Item_Fast = Fast
-Item_CameraSmoothRotation_Item_VeryFast = Very Fast
-Item_CameraSmoothRotation_Item_Off = Off
-Item_CameraSmoothRotation_Item_Instant = Instant
+Item_CameraSmoothRotation_Item_Fast = Schnell
+Item_CameraSmoothRotation_Item_VeryFast = Sehr Schnell
+Item_CameraSmoothRotation_Item_Off = Aus
+Item_CameraSmoothRotation_Item_Instant = Sofort
 
-Item_CameraFocusDuration_Title = Camera Snap Speed
-Item_CameraFocusDuration_Desc = When you press the camera snap button, the camera moves behind you. This setting controls how fast that movement is.
+Item_CameraFocusDuration_Title = Kamera-Snap-Geschwindigkeit
+Item_CameraFocusDuration_Desc = Wenn Sie den Kamera-Druckknopf drücken, bewegt sich die Kamera hinter Sie. Diese Einstellung steuert, wie schnell diese Bewegung ist.
 
-Item_CameraDistance_Title = Camera Distance
-Item_CameraDistance_Desc = Controls how far away the camera is from the player by default.
-Item_CameraDistance_Item_VeryClose = Very Close
-Item_CameraDistance_Item_Close = Close
+Item_CameraDistance_Title = Kameradistanz
+Item_CameraDistance_Desc = Steuert, wie weit die Kamera vom Spieler entfernt ist.
+Item_CameraDistance_Item_VeryClose = Sehr Nah
+Item_CameraDistance_Item_Close = Nah
 Item_CameraDistance_Item_Standard = Standard
-Item_CameraDistance_Item_Far = Far
-Item_CameraDistance_Item_VeryFar = Very Far
+Item_CameraDistance_Item_Far = Weit
+Item_CameraDistance_Item_VeryFar = Sehr Weit
 
-Item_CameraZoomRestore_Title = Auto-Restore Camera Speed
-Item_CameraZoomRestore_Desc = When you've moved around for a bit, the camera will return to its default camera distance. This setting controls how fast that happens.
+Item_CameraZoomRestore_Title = Automatische Wiederherstellung der Kamerageschwindigkeit
+Item_CameraZoomRestore_Desc = Wenn Sie sich ein wenig bewegt haben, kehrt die Kamera zu ihrer Standardkamera zurück. Diese Einstellung steuert, wie schnell das passiert.
 
 Header_Game_Misc = Misc
-Item_CameraUpscaling_Title = Instant Camera Picture Resolution
-Item_CameraUpscaling_Desc = The game item "Instant Camera" can take pictures at higher resolution than the game is in. Change this option to set at how high a resolution pictures should be taken (at the cost of pictures taking longer to capture).
-Item_CameraUpscaling_Item_0 = Same as game
+Item_CameraUpscaling_Title = Sofortbildkamera
+Item_CameraUpscaling_Desc = Der Spielgegenstand "Sofortbildkamera" kann Bilder mit höherer Auflösung aufnehmen als das Spiel gerade hat. Ändern Sie diese Option, um festzulegen, wie hochauflösende Bilder aufgenommen werden sollen (auf Kosten von Aufnahmen, die länger dauern).
+Item_CameraUpscaling_Item_0 = Wie im Spiel
 
-Header_System = System Settings
-Item_NoSaving_Title = No Saving
-Item_NoSaving_Desc = The game will not save your progress. This is not recommended unless you're doing a speedrun and do not care if your save data is not preserved.
+Header_System = System Einstellungen
+Item_NoSaving_Title = Kein Speichern
+Item_NoSaving_Desc = Das Spiel wird deinen Fortschritt nicht speichern. Dies wird nur empfohlen, wenn Sie einen Speedrun ausführen und es Ihnen egal ist, ob Ihre Speicherdaten nicht erhalten werden.
 
-Item_DevConsole_Title = Developer Console
-Item_DevConsole_Desc = Allows access to the developer console. The game needs to be restarted for this option to take effect. Press TAB / tilde to open.
+Item_DevConsole_Title = Entwicklerkonsole
+Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole. Das Spiel muss neu gestartet werden, damit diese Option wirksam wird. Drücken Sie zum Öffnen TAB / Zirkumflex
 
 [systemsettings.audio]
 Header_Audio = Audio
-Header_Volume = Volume
+Header_Volume = Lautstaerke
 
-Item_MusicVolume_Title = Music Volume
-Item_MusicVolume_Desc = Adjusts background music volume. 100% is the recommended value, but you can increase the volume beyond that.
+Item_MusicVolume_Title = Musik Lautstaerke
+Item_MusicVolume_Desc = Stellt die Hintergrundmusiklautstärke ein. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
 
-Item_SoundEffectVolume_Title = Sound Effect Volume
-Item_SoundEffectVolume_Desc = Adjusts the volume of sound effects. 100% is the recommended value, but you can increase the volume beyond that.
+Item_SoundEffectVolume_Title = Soundeffekt Lautstaerke
+Item_SoundEffectVolume_Desc = Passt die Lautstärke der Soundeffekte an. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
 
-Item_VAVolume_Title = Dialogue Volume
-Item_VAVolume_Desc = Adjusts the volume of spoken dialogue, including mumble. 100% is the recommended value, but you can increase the volume beyond that.
+Item_VAVolume_Title = Dialog Lautstaerke
+Item_VAVolume_Desc = Stellt die Lautstärke des gesprochenen Dialogs ein, einschließlich Nuscheln. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
 
-Item_MasterVolume_Title = Master Volume
-Item_MasterVolume_Desc = Adjusts the volume of the entire game. 100% is the recommended value, but you can increase the volume beyond that.
+Item_MasterVolume_Title = Gesamtlautstärke
+Item_MasterVolume_Desc = Passt die Lautstärke des gesamten Spiels an. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
 
 Item_VAType_Title = Voice Acting Type
 Item_VAType_Desc = [Full]: All characters speak full sentences.[newline][Mumble]: Characters speak generic gibberish.[newline][None]: No voice acting whatsoever.

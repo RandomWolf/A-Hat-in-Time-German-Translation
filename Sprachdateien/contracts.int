@@ -1,9 +1,9 @@
 [Info]
-ActsAvailable0 = Die folgenden Stücke werden für
-ActsAvailable1 = den Wald zugänglich gemacht:
+ActsAvailable0 = Die folgenden Gebiete des
+ActsAvailable1 = Waldes werden verfügbar sein:
 Contract = Vertrag
-Hostage0 = Ich werde das Folgende als Geisel nehmen:
-Hostage1 = ... aber behalte alles, was du findest!
+Hostage0 = Ich werde folgende Geisel nehmen:
+Hostage1 = ... aber behalte alles, was du auf deinem Weg findest!
 
 [Hat_SnatcherContract_IceWall]
 Title = Saeubere den Subcon-Brunnen
@@ -14,23 +14,23 @@ BreakIce = Zerbreche das Eis
 FlowBloom = Lass die Blumen bluehen
 
 [Hat_SnatcherContract_Bonfires]
-Title = Zuende das Lagerfeuer für die Feuergeister an
-BonfireYellow = Zuende das Gelbe Lagerfeuer an
-BonfireGreen = Zuende das Grüne Lagerfeuer an
-BonfireBlue = Zuende das Blaue Lagerfeuer an
-BonfirePurple = Zuende das Lila Lagerfeuer an
+Title = Erhitze das Lagerfeuer für die Feuergeister
+BonfireYellow = Erhitze das gelbe Lagerfeuer
+BonfireGreen = Erhitze das grüne Lagerfeuer
+BonfireBlue = Erhitze das blaue Lagerfeuer
+BonfirePurple = Erhitze das lilane Lagerfeuer
 
 [Hat_SnatcherContract_Vanessa]
-Title = Gebe mir etwas vom Herrenhaus
+Title = Bring mir etwas aus dem Herrenhaus
 EnterManor = Gehe ins Herrenhaus
 CompleteManor = Finde heraus, was auf dem Dachboden ist
 
 [Hat_SnatcherContract_MailDelivery]
-Title = Liefere Subcon-Briefe
-Deliver = Liefere Packete zu 10 meiner Lakaien
+Title = Liefere Subcon-Post
+Deliver = Liefere Pakete zu 10 meiner Lakaien
 
 [Hat_SnatcherContract_Toilet]
-Title = Toilette des Verderbends
+Title = Toilette des Untergangs
 DefeatToilet = Besiege den Boss
 
 [Hat_SnatcherContract_GetOut]
@@ -39,4 +39,4 @@ GetOut = Hau ab
 GetOut2 = Hau einfach ab
 ActsAvailableNone = Nichts. Hau ab.
 Hostage0 = Bitte
-Hostage1 = und gehe weg.
+Hostage1 = und geh weg.

@@ -1,37 +1,37 @@
 [murder]
-FirstTip0 = [shake2]Is this the kid with the hat? I hope you like my present... [wave]he he he.[/wave][/shake2]
-FirstTip1 = [shake2][hint]Go to the back of the train[/hint]. Your uncle's sister [MotherMaidenName] has come to visit you.[/shake2]
-FirstTip2 = [shake2]You better show your fam' some love, or I'll be talking to a corpse next time.[/shake2]
+FirstTip0 = [shake2]Ist da das Kind mit dem Hut? Ich hoffe dir gefällt mein Geschenk... [wave]he he he.[/wave][/shake2]
+FirstTip1 = [shake2][hint]Geh zum hintersten Wagon des Zuges[/hint]. Die Schwester deines Onkels [MotherMaidenName] ist gekommen um dich zu besuchen.[/shake2]
+FirstTip2 = [shake2]Du zeigst deiner lieben Familie besser etwas Mitgefühl, oder sonst spreche ich beim nächsten Mal mit einer Leiche.[/shake2]
 FirstTip3 = [scream]*CLICK*[/scream]
 
-SecondTip0 = [shake2]So you think you can just sneak around the train like this?[/shake2]
-SecondTip1 = [shake2]Just drop the detective act. You'll never catch the real murderer...[br][wave]he he he.[/wave][/shake2]
-SecondTip2 = [shake2]You can't point your finger at someone without clues.[br]The clock is ticking. Will you be able to find enough clues to point your finger at the murderer?[/shake2]
+SecondTip0 = [shake2]Du denkst also, du kannst einfach so im Zug herumschleichen?[/shake2]
+SecondTip1 = [shake2]Hör einfach auf mit den Detektivspielchen. Du wirst niemals den echten Mörder finden...[br][wave]he he he.[/wave][/shake2]
+SecondTip2 = [shake2]Du kannst nicht einfach Leute verurteilen ohne Hinweise.[br]Die Zeit rennt. Wirst du es schaffen genug Hinweise zu finden um den Mörder zu stellen?[/shake2]
 
-PetTrap0 = [shake2]You don't give up, do you?[/shake2]
-PetTrap1 = [shake2]It seems the only way I can get rid of you... is to make you run out of time.[/shake2]
-PetTrap2 = [shake2]So here's a fun time-eater: [PetName] has gotten itself in an[br]unusual situation. It's hanging onto a thin rope for dear life, just above a wood cutting machine. What an odd coincidence![/shake2]
-PetTrap3 = [shake2]What are you gonna do?[br]Save [PetName] from becoming saw dust, or figure out who the murderer is?[/shake2]
+PetTrap0 = [shake2]Du gibts nie auf, oder?[/shake2]
+PetTrap1 = [shake2]Es scheint als gäbe es nur einen Weg, damit ich dich endlich loswerde... unzwar dir die Zeit rauben.[/shake2]
+PetTrap2 = [shake2]Also, hier ist ein spaßiger Zeitfresser für dich: [PetName] hat sich selbst in eine sehr[br]ungewöhnliche Lage gebracht. Es hängt an einem dünnem Seil und bangt um sein Leben, gleich über einem Holzschredder. Was für ein komischer Zufall![/shake2]
+PetTrap3 = [shake2]Was wirst du tun?[br][PetName] retten, bevor es zu Sägespäne wird oder herausfinden, wer der Mörder ist?[/shake2]
 
-DogThankYou0 = Thank you kind human for saving me. Woof. Woof.
-DogThankYou1 = I found this clue on the murderer. Hope it helps you. Woof. Woof.
+DogThankYou0 = Danke für deine Rettung, gütiger Mensch. Wuff. Wuff.
+DogThankYou1 = Ich habe diesen Hinweis gefunden. Ich hoffe er hilft dir. Wuff. Wuff.
 
-PetWarning0 = [shake2]Are you sure you wanna leave [PetName] hanging?[/shake2]
-PetWarning1 = [shake2]Why not turn around, and give [PetName] a[br]little time-consuming help before it's too late?[/shake2]
+PetWarning0 = [shake2]Bist du sicher, dass du [PetName] hängen lassen willst?[/shake2]
+PetWarning1 = [shake2]Warum drehst du dich nicht um und gibst [PetName] eine [br]kleine zeitfressende Hilfe, bevor es zu spät ist?[/shake2]
 
 suspect_mothermaiden0 = ...
-suspect_mothermaiden1 = Alright, you got me, darling.
-suspect_mothermaiden2 = As you might have noticed, darling, I'm not actually Ms. [MotherMaidenName]. It's me, [icon:djgrooves][name]DJ Grooves[/name]!
-suspect_mothermaiden3 = I know you've been having troubles shooting a movie, darling, so I made up this scheme to help you create an interesting movie plot!
-suspect_mothermaiden4 = The Express Owl was kind enough to put on the rubber knife and play dead to help me.
+suspect_mothermaiden1 = Okay, du hast mich, Schätzchen.
+suspect_mothermaiden2 = Wie du es vielleicht schon bemerkt hast, Schätzchen, bin eigentlich gar nicht Ms. [MotherMaidenName]. Sondern [icon:djgrooves][name]DJ Grooves[/name]!
+suspect_mothermaiden3 = Ich weiß, dass du Probleme hattest einen guten Film hervorzubringen, Schätzchen, daher hab ich diesen Plan entwickelt um deinem Film eine interessante Handlung zu geben!
+suspect_mothermaiden4 = Die Express Eule war auch freundlich genug, sich ein Gummimesser anzustecken und mir zu helfen.
 
-ending_revealed0 = Guess you got me good, huh, darling? It seems no one can stage a murder while you're around!
+ending_revealed0 = Ich denke du hast mich gut enttarnt, huh, Schätzchen? Es scheint niemand kann ein Mord vortäuschen, wenn du dich herumtreibst!
 
 [spaceship]
 hub_alert_generic0 = ...
-hub_alert_generic1 = The [icon:trophy][trophy]annual bird movie award[/trophy] was rigged. It was an inside job.
-hub_alert_dj2 = The winner knows about the power of the [icon:timepiece][timepiece]Time Pieces[/timepiece]. He's been keeping one, and he's going to break it.
-hub_alert_conductor2 =  The winner knows about the power of the [icon:timepiece][timepiece]Time Pieces[/timepiece]. He's been keeping one, and he's gonna break it.
-hub_alert_generic3 = The truth lies buried underneath [hint]Dead Bird Studio[/hint].[br]What goes on in Dead Bird Studio when no one is around?
-hub_alert_dj4 = Blow the cover on this thing, darling.
-hub_alert_conductor4 = Blow the cover on this thing, lassie.
+hub_alert_generic1 = Der [icon:trophy][trophy]jährliche Bird Movie Award[/trophy] war manipuliert. Es war ein Inside Job.
+hub_alert_dj2 = Der Gewinner weiß über die Macht der [icon:timepiece][timepiece]Zeitstücke[/timepiece]. Er behält einen und er wird ihn zebrechen.
+hub_alert_conductor2 =  Der Gewinner weiß über die Macht der [icon:timepiece][timepiece]Zeitstücke [/timepiece]. Er hatte einen behalten und er wird ihn zebrechen.
+hub_alert_generic3 = Die Wahrheit liegt vergraben unter dem [hint]Dead Bird Studio[/hint].[br]Was passiert wohl im Dead Bird Studio, wenn niemand da ist?
+hub_alert_dj4 = Deck diese Verschwörung auf, Schätzchen.
+hub_alert_conductor4 = Deck diese Verschwörung auf, Lassie.

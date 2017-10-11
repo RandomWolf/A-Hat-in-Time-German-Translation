@@ -16,4 +16,4 @@ throw_carry = Werfen
 DuplicateKey = Kann nicht 2 [icon:key] gleichzeitig tragen
 
 [placeholder]
-BetaHatSwapNotice0 = Press [button:badgeswitch] to swap your [icon:hat]![br]Press [button:badge] to use your Hat's ability.
+BetaHatSwapNotice0 = Drueke [button:badgeswitch] um deinen [icon:hat] zu wechseln![br]Drueke [button:badge], um die Faehigkeit des Huts zu benutzen.

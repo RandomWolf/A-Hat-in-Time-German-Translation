@@ -129,82 +129,82 @@ Item_MasterVolume_Title = Gesamtlautstärke
 Item_MasterVolume_Desc = Passt die Lautstärke des gesamten Spiels an. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
 
 Item_VAType_Title = Voice Acting Type
-Item_VAType_Desc = [Full]: All characters speak full sentences.[newline][Mumble]: Characters speak generic gibberish.[newline][None]: No voice acting whatsoever.
-Item_VAType_Item_Full = Full
-Item_VAType_Item_Mumble = Mumble
-Item_VAType_Item_None = None
+Item_VAType_Desc = [Full]: Alle Charaktere sprechen ganze Sätze. [newline][Mumble]: Charaktere sprechen generischen Kauderwelsch. [newline][None]: Keine Stimme, die wie auch immer wirkt.
+Item_VAType_Item_Full = Voll
+Item_VAType_Item_Mumble = Nuscheln
+Item_VAType_Item_None = Keines
 
-Item_VolumeOnFocusLost_Title = Out of Focus Volume
-Item_VolumeOnFocusLost_Desc = Adjusts the volume of the game when the game window is not in focus.
+Item_VolumeOnFocusLost_Title = Out of Focus Lautstärke
+Item_VolumeOnFocusLost_Desc = Passt die Lautstärke des Spiels an, wenn das Spielfenster nicht im Fokus ist.
 
-Item_Audio3DPositioning_Title = 3D Positional Audio
-Item_Audio3DPositioning_Desc = Audio is played in your left or right speakers depending on their location in 3D space.
+Item_Audio3DPositioning_Title = 3D Positions-Audio
+Item_Audio3DPositioning_Desc = Audio wird in Ihren linken oder rechten Lautsprechern wiedergegeben, abhängig von ihrer Position im 3D-Raum.
 
 [systemsettings.graphics]
-Tab_Auto = Automatic
-Tab_Simple = Simple
-Tab_Detailed = Detailed
-Tab_Advanced = Advanced
+Tab_Auto = Automatisch
+Tab_Simple = Einfach
+Tab_Detailed = Detailliert
+Tab_Advanced = Fortgeschritten
 
-Header_Window = Window
+Header_Window = Fenster
 
-Item_DisplayResolution_Title = Display Resolution
-Item_DisplayResolution_Desc = Determines how many pixels are rendered horizontally and vertically. A higher resolution results in higher quality, but will reduce performance.
+Item_DisplayResolution_Title = Bildschirmauflösung
+Item_DisplayResolution_Desc = Bestimmt, wie viele Pixel horizontal und vertikal gerendert werden. Eine höhere Auflösung führt zu höherer Qualität, reduziert jedoch die Leistung
 
-Item_WindowType_Title = Window Type
-Item_WindowType_Desc = [Fullscreen]: The game takes up the entire monitor display.[newline][Windowed]: The game will display in a regular window.[newline][Borderless Window]: Same as windowed, but without borders and the title bar.[newline][Multi-Monitor]: Display the game across multiple monitors.
-Item_WindowType_Item_Fullscreen = Fullscreen
-Item_WindowType_Item_Windowed = Windowed
-Item_WindowType_Item_Borderless_Window = Borderless Window
+Item_WindowType_Title = Fenstertyp
+Item_WindowType_Desc = [Fullscreen]: Das Spiel nimmt die gesamte Monitoranzeige auf.[newline][Windowed]: Das Spiel wird in einem regulären Fenster angezeigt.[newline][Borderless Window]: Wie Fenster, aber ohne Rahmen und die Titelleiste.[newline][Multi-Monitor]: Zeigen Sie das Spiel über mehrere Monitore an.
+Item_WindowType_Item_Fullscreen = Vollbild
+Item_WindowType_Item_Windowed = Fenster
+Item_WindowType_Item_Borderless_Window = Randloses Fenster
 Item_WindowType_Item_MultiMonitor = Multi-Monitor
 
 Item_DisplayMonitor_Title = Display Monitor
-Item_DisplayMonitor_Desc = The monitor the game will be displayed on.[newline][Default]: Your operating system decides which monitor to display on.
-Item_DisplayMonitor_Item_Default = Default
+Item_DisplayMonitor_Desc = Der Monitor, auf dem das Spiel angezeigt wird.[newline][Default]: Ihr Betriebssystem entscheidet, welcher Monitor angezeigt werden soll.
+Item_DisplayMonitor_Item_Default = Standard
 
-Item_MultiMonitorSetup_Title = Multi-Monitor Setup
-Item_MultiMonitorSetup_Desc = Modify how many monitors the game should display across.
+Item_MultiMonitorSetup_Title = Multi-Monitor Konfiguration
+Item_MultiMonitorSetup_Desc = Ändern Sie, auf wie vielen Monitore das Spiel anzeigt werden soll.
 
-Item_Configure = Configure...
+Item_Configure = Konfigurieren...
 
-Header_RefreshRate = Refresh Rate
+Header_RefreshRate = Aktualisierungsrate
 
-Item_FrameRate_Title = Maximum Frame Rate
-Item_FrameRate_Desc = Sets the maximum allowed frame rate, or frames per second (FPS). Games look best when the frame rate is consistent, but often it changes drastically depending on what is on-screen. This is avoided by setting a maximum frame rate. Only go below 60 FPS if your system is having trouble running at 60 FPS.
-Item_FrameRate_Item_Unlocked = Unlocked
+Item_FrameRate_Title = Maximale Bildrate
+Item_FrameRate_Desc = Legt die maximal zulässige Bildrate oder Bilder pro Sekunde (FPS) fest. Spiele sehen am besten aus, wenn die Bildrate konstant ist, aber oft ändert sich das drastisch, je nachdem, was auf dem Bildschirm angezeigt wird. Dies wird durch Einstellen einer maximalen Bildrate vermieden. Gehen Sie nur unter 60 FPS, wenn Ihr System Probleme mit 60 FPS hat.
+Item_FrameRate_Item_Unlocked = Unbegrenzt
 
 Item_VSync_Title = VSync
-Item_VSync_Desc = Forces the game to render at your monitor's refresh rate. This gets rid of screen tearing, but at the cost of delayed input. This option is rarely recommended.
+Item_VSync_Desc = Erzwingt, dass das Spiel auf der Aktualisierungsrate Ihres Monitors angezeigt wird. Hierdurch wird der Bildschirmabbruch beseitigt, jedoch auf Kosten einer verzögerten Eingabe. Diese Option wird nur selten empfohlen.
 
-Item_Gamme_Title = Gamma Brightness
-Item_Gamme_Desc = Configures the game's brightness. If you're feeling like some sections of the game are too dark, consider turning this up.
+Item_Gamme_Title = Gamma Helligkeit
+Item_Gamme_Desc = Konfiguriert die Helligkeit des Spiels. Wenn Sie das Gefühl haben, dass einige Abschnitte des Spiels zu dunkel sind, sollten Sie darüber nachdenken den Wert zu verändern.
 
-Item_ColorBlindness_Title = Color Blindness Correction
-Item_ColorBlindness_Desc = For people who suffer from color blindness. This setting will attempt to adjust the game colors.
-Item_ColorBlindness_Off = Off
+Item_ColorBlindness_Title = Farbblindheitskorrektur
+Item_ColorBlindness_Desc = Für Menschen, die unter Farbenblindheit leiden. Diese Einstellung versucht, die Spielfarben anzupassen.
+Item_ColorBlindness_Off = Aus
 Item_ColorBlindness_Protanopia = Protanopia
 Item_ColorBlindness_Deuteranopia = Deuteranopia
 Item_ColorBlindness_Tritanopia = Tritanopia
 
-Header_Graphics = Graphics
-Item_GraphicalQuality_Title = Global Visual Quality
-Item_GraphicalQuality_Desc = Determines the visual quality of the game. Higher values provide a visually better experience, but may slow down some systems. If you're experiencing choppy gameplay, try turning this option down a notch. Similarly, if your game runs very smoothly at a lower setting, try turning the visual quality up.
+Header_Graphics = Grafik
+Item_GraphicalQuality_Title = Globale visuelle Qualität
+Item_GraphicalQuality_Desc = Bestimmt die visuelle Qualität des Spiels. Höhere Werte bieten eine visuell bessere Erfahrung, können jedoch einige Systeme verlangsamen. Wenn Sie abgehacktes Gameplay haben, versuchen Sie, diese Option am Regler anzupassen.. Wenn Ihr Spiel bei einer niedrigeren Einstellung sehr reibungslos verläuft, sollten Sie die visuelle Qualität erhöhen.
 
-Item_GraphicalQuality_Item_VeryLow = High Performance
-Item_GraphicalQuality_Item_Low = Performance
+Item_GraphicalQuality_Item_VeryLow = Hohe Leistung
+Item_GraphicalQuality_Item_Low = Leistung
 Item_GraphicalQuality_Item_Medium = Standard
-Item_GraphicalQuality_Item_High = High Quality
-Item_GraphicalQuality_Item_VeryHigh = Very High Quality
-Item_GraphicalQuality_Item_Ultra = Ultra Quality
+Item_GraphicalQuality_Item_High = Hohe Qualität
+Item_GraphicalQuality_Item_VeryHigh = Sehr Hohe Qualität
+Item_GraphicalQuality_Item_Ultra = Ultra Qualität
 
-Item_CharacterQuality_Title = Character Quality
-Item_CharacterQuality_Desc = Determines the visual quality of enemies and non-playable characters. Lowering this only provides a small performance boost, as not a lot of areas feature many characters at once.
+Item_CharacterQuality_Title = Charakter Qualität
+Item_CharacterQuality_Desc = Bestimmt die visuelle Qualität von Feinden und nicht spielbaren Charakteren. Dies zu senken, bietet nur einen kleinen Leistungsschub, da nicht viele Bereiche viele Charaktere auf einmal zeigen.
 
-Item_EnvironmentQuality_Title = Environment Quality
-Item_EnvironmentQuality_Desc = Determines the visual quality of 3D environment assets and particle effects. Lowering this provides a significant performance boost.
+Item_EnvironmentQuality_Title = Spielwelt Qualität
+Item_EnvironmentQuality_Desc = Bestimmt die visuelle Qualität von 3D-Umgebungswerten und Partikeleffekten. Dies zu verringern, bietet einen signifikanten Leistungsschub.
 
-Item_EffectsQuality_Title = Effects Quality
-Item_EffectsQuality_Desc = Determines the number and quality of post-processing effects, such as anti-aliasing, bloom and depth of field. Higher quality provides better and more accurate effects.
+Item_EffectsQuality_Title = Effekte Qualität
+Item_EffectsQuality_Desc = Bestimmt die Anzahl und Qualität von Nachbearbeitungseffekten wie Antialiasing, Bloom und Schärfentiefe. Höhere Qualität bietet bessere und genauere Effekte.
 
 Item_LightingQuality_Title = Shadow Quality
 Item_LightingQuality_Desc = Determines the visual quality of shadows, and which objects are allowed to cast shadows. Higher quality provides sharper shadows and more shadow casters. Lowering this provides a significant performance boost.

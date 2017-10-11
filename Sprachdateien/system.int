@@ -1,18 +1,18 @@
-[Input]
-NewAutoController = New Input:
-ControllerDisconnect = The controller has disconnected. Please re-connect the controller to resume.
+﻿[Input]
+NewAutoController = Neue Eingabemethode:
+ControllerDisconnect = Die Verbindung zum Conntroller wurde verloren. Bitte verbinde den Controller wieder mit dem Spiel um fortzufahren
 
 [levels]
-Chapter = Chapter
-Act = Act
-MountainPeak = Mountain Peak
-FreeRoamDesc = Do Whatever You'd Like
+Chapter = Kapitel
+Act = Akt
+MountainPeak = Gipfel
+FreeRoamDesc = Tu was auch immer du willst
 
 [cheats]
-disallowed_outside_editor = Not in Editor
+disallowed_outside_editor = Nicht im Editor
 
 [Console]
-OfflineMode = Do you want to play offline? Xbox Live features won't be available and data will not save.
-FailedLogin = Unable to log in at this time. Please wait and try again.
-Yes = Yes
-No = No
+OfflineMode = Möchtest du offline spielen? Xbox Live Funktionen werden nicht verfügbar sein und Daten werden nicht gespeichert.
+FailedLogin = Login fehlgeschlagen. Bitte warte einen Moment und versuche es nochmal.
+Yes = Ja
+No = Nein

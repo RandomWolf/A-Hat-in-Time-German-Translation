@@ -9,7 +9,7 @@ intro5 = [shake2]You need to go up, or else she'll come up here and find you, ri
 chase0 = [shake2][wave]Ha ha ha![/wave] It's mine![/shake2]
 chase1 = [shake2]What are you gonna do? Don't you know, you can't [hint]hurt a shadow[/hint]![/shake2]
 
-givekey0 = [shake2]You want the key? Take it, it's yours![/shake2]
+givekey0 = [shake2]Oh, du willst den Schlüssel? Kannst du gerne haben![/shake2]
 givekey1 = [shake2]I don't need it anyway... and you won't be needing it either when she catches you! [wave]HA HA HA![/wave][/shake2]
 
 enter_manor_hascontract0 = [shake2]Heeeeeeey buddy! Remember our contract, no abilities when inside![/shake2]

@@ -20,16 +20,16 @@ BadgeCollect2 = It requires [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] 
 BadgeCollect3 = You've got enough [yarn][icon:yarn]yarn[/yarn] to stitch it!
 BadgeCollect4 = You already have this hat, but you get [yarn]+1 [icon:yarn]yarn[/yarn] anyway!
 
-UnknownName = ??? Hat
+UnknownName = ??? Hut
 UnknownDescLocked0 = No description.
 UnknownDescTech0 = This hat does not seem to have any purpose.
 
-SprintName = Sprint Hat
+SprintName = Sprint Hut
 SprintDescLocked0 = This yarn is looking ready to sprint!
 SprintDescLockedHat = This hat is looking ready to sprint!
 SprintDesc0 = Hold [button:badge] to sprint!
 
-StatueFallName = Ice Hat
+StatueFallName = Eis Hut
 StatueFallFun0 = It's so cold!
 StatueFallTech0 = Hold [button:badge] to do a ground pound!
 
@@ -49,7 +49,7 @@ TimeStopName = Time Stop Hat
 TimeStopDescFun0 = Death is inevitable, your time is valuable.
 TimeStopDescTech0 = Press [button:badge] to slow down time!
 
-FoxMaskName = Dweller Mask
+FoxMaskName = Dweller Maske
 FoxMaskDescFun0 = This is some spooky yarn!
 FoxMaskDescHat0 = This is one spooky mask!
 FoxMaskDescTech0 = Press [button:badge] to see the world through a dweller's eyes!

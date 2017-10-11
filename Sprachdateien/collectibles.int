@@ -212,46 +212,46 @@ ParadeHatName = Parade Hat
 ParadeHatDesc0 = The leader that this town needs!
 
 [skins]
-SkinDesc0 = Dye the color of your clothes!
-WhiteRedSkinName = The Big Boss
-RedWhiteSkinName = The Blood Moon
-GreenOrangeSkinName = The Nutcracker
-BlueYellowSkinName = Blueberry Pie
-BlackSkinName = The Widow
-CaptainName = Captain of the Sea
-WahooName = The Big Appetite
-FreedomSkinName = The Freedom
-MarginOfNightSkinName = Margin of the Night
-GirlySkinName = Cute 'n Dangerous
+SkinDesc0 = Änder die Farbe deiner Kleidung!
+WhiteRedSkinName = Der Big Boss
+RedWhiteSkinName = Der Blutmond
+GreenOrangeSkinName = Der Nussknacker
+BlueYellowSkinName = Blaubeerkuchen
+BlackSkinName = Die Witwe
+CaptainName = Kapitän der See
+WahooName = Der große Appetit
+FreedomSkinName = Die Freiheit
+MarginOfNightSkinName = Rand der Nacht
+GirlySkinName = Suess und gefährlich
 BronzeSkinName = Bronze
-GreenGoldName = The Forest Critter
-LiquoriceName = Liquorice
-MintyName = Minty Fresh
-CookieDoughSkinName = Cookie Dough
+GreenGoldName = Das Waldtier
+LiquoriceName = Lakritze
+MintyName = MinzFrisch
+CookieDoughSkinName = Plätzchenteig
 
 [remixes]
-RemixDesc_MafiaTown0 = A new music remix has been unlocked for Mafia Town!
-RemixDesc_Subcon0 = A new music remix has been unlocked for Subcon Forest!
-RemixDesc_Trainwreck0 = A new music remix has been unlocked for Battle of the Birds!
-RemixDesc_Sand0 = A new music remix has been unlocked for Alpine Skyline!
-RemixDesc_Rift0 = A new music remix has been unlocked for Time Rifts!
-MafiaTownElectroName = Mafia Town (Electronic Remix)
-ClockTowersOrchestralName = Water Time Rift (Orchestral Remix)
-SandmobileJazzName = Sandmobile (Jazz Remix)
+RemixDesc_MafiaTown0 = Ein neuer Musik remix wurde für Mafia Stadt freigeschaltet!
+RemixDesc_Subcon0 = Ein neuer Musik remix wurde für Subcon Wald freigeschaltet!
+RemixDesc_Trainwreck0 = Ein neuer Musik remix wurde für Kampf der Vögel freigeschaltet!
+RemixDesc_Sand0 = Ein neuer Musik remix wurde für Alpin Bergkette freigeschaltet!
+RemixDesc_Rift0 = Ein neuer Musik remix wurde für Zeit Risse freigeschaltet!
+MafiaTownElectroName = Mafia Stadt (Electronic Remix)
+ClockTowersOrchestralName = Wasser Zeit Riss (Orchestral Remix)
+SandmobileJazzName = Sandmobil (Jazz Remix)
 MafiaBossOrchestralName = Mafia Boss (Orchestral Remix)
-MoonJazzName = The Moon (Jazz Remix)
-SubconVillageScifiName = Subcon Village (Sci-fi Remix)
+MoonJazzName = Der Mond (Jazz Remix)
+SubconVillageScifiName = Subcon Dorf (Sci-fi Remix)
 
 [weapons]
-UmbrellaName = Your Umbrella
-UmbrellaDesc0 = You got your trusty umbrella back!
-UmbrellaDesc1 = Whack boneheads with [button:attack]!
+UmbrellaName = Dein Regenschirm
+UmbrellaDesc0 = Du hast deinen treuen Schirm zurück!
+UmbrellaDesc1 = Schlag zu mit [button:attack]!
 
 [decorations]
-DecorationMatch = It's a match! You've identified a relic from this strange planet!
-DecorationSaved = This unknown relic might match with others!
-DecorationMoney = You already own this relic, so you get [number] Orbs instead!
-DecorationMystery = You sense a temporal disturbance in this room... but it's probably nothing.
+DecorationMatch = Du hast einen Schatz von dem Planeten identifiziert!
+DecorationSaved = Dieser Schatz könnte mit anderen Schätzen übereinstimmen!
+DecorationMoney = Du hast diesen Schatz schon, deswegen bekommst du [number] Orbs dafür!
+DecorationMystery = Du spürst eine kurze Störung in diesem Raum... aber es ist wahrscheinlich nichts.
 
 DecorationGenericName = Relic
 

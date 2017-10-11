@@ -12,7 +12,7 @@ chase1 = [shake2]What are you gonna do? Don't you know, you can't [hint]hurt a s
 givekey0 = [shake2]Oh, du willst den Schlüssel? Kannst du gerne haben![/shake2]
 givekey1 = [shake2]I don't need it anyway... and you won't be needing it either when she catches you! [wave]HA HA HA![/wave][/shake2]
 
-enter_manor_hascontract0 = [shake2]Heeeeeeey buddy! Remember our contract, no abilities when inside![/shake2]
+enter_manor_hascontract0 = [shake2]Hey Kumpel! Erinnere dich an unseren Vertrag! Keine Hüte im Hause![/shake2]
 enter_manor_hascontract1 = [shake2]There's some... stuff... inside that I don't want you to mess around with! Remember your contractual obligations![/shake2]
 
 [subconforest]

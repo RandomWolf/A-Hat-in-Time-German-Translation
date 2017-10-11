@@ -1,0 +1,175 @@
+[manor]
+intro0 = [shake2]Hey hey now! No reason to throw a fist at your old buddy, [wave]ha ha ha ha[/wave]![/shake2]
+intro1 = [shake2]What are you doing up here? Don't you know she'll go mental if she catches you?[/shake2]
+intro2 = [shake2]What, me? Just looking for some dirt on my old friend [name]the Moonjumper[/name][/shake2].
+intro3 = [shake2]Poor fellow, doesn't even know he used to live here! Eeeeevery time I bring him something from this place, he almost wets his bed in fear, [wave]HA HA HA!![/wave][/shake2]
+intro4 = [shake2][name]Subcon Forest[/name] isn't big enough for the two of us, you know. And now you, a little girl, are trying to enter the fight for the forest as well? My my, that won't do.[/shake2]
+intro5 = [shake2]You need to go up, or else she'll come up here and find you, right? I guess it would be a terrible misfortune if [hint]the key disappeared[/hint], [wave]ha ha ha[/wave]![/shake2]
+
+chase0 = [shake2][wave]Ha ha ha![/wave] It's mine![/shake2]
+chase1 = [shake2]What are you gonna do? Don't you know, you can't [hint]hurt a shadow[/hint]![/shake2]
+
+givekey0 = [shake2]You want the key? Take it, it's yours![/shake2]
+givekey1 = [shake2]I don't need it anyway... and you won't be needing it either when she catches you! [wave]HA HA HA![/wave][/shake2]
+
+enter_manor_hascontract0 = [shake2]Heeeeeeey buddy! Remember our contract, no abilities when inside![/shake2]
+enter_manor_hascontract1 = [shake2]There's some... stuff... inside that I don't want you to mess around with! Remember your contractual obligations![/shake2]
+
+[subconforest]
+scooter_intro0 = [shake2]GOOOOOOOD MORNING! Are you ready to complete your contractual obligations?[/shake2]
+scooter_intro1 = [shake2]I'm not heartless! Every so often I sneak into mailboxes and steal letters, then deliver them to my minions. That way it's almost like someone cares about them![/shake2]
+scooter_intro2 = [shake2]But our last mailman has gone [wave]*poof*[/wave]. You'll have to do![/shake2]
+scooter_intro3 = [shake2]I've got a 'gift' for the occasion. Although it requires a special kind of hat to use - I hope you've got it! [wave]Ha ha ha![/wave][/shake2]
+
+scooter_onenter0 = [shake2]This [icon:badge][name]badge[/name] is only a rental. I need it back before you leave! Remember to put it on your [icon:sprinthat][name]Sprint Hat[/name], or it does absolutely nothing! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
+scooter_onenter1 = [shake2]All of the minions who are awaiting mail will have [hint]an icon above them[/hint]. Once you're done, come back here and 'clock' out. Get it?[/shake2]
+
+[contract_initial]
+intro0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
+intro1 = [shake][big][scream][wave]FOOOOOOOOOOOOOOOOOOOOOOOOL!![/wave][/scream][/big][/shake]
+intro2 = [shake2]You blew it! You've totally screwed yourself! Nobody enters my home and leaves in one piece![/shake2]
+intro3 = [shake2]Tell you what though! Hang on a minute! You get to live! That's right! Aren't you lucky?![/shake2]
+intro4 = [shake2]Normally I'd eat your soul and toss your body, but you're a lucky one! You won the lottery, because I just happen to be missing a braindead servant![/shake2]
+intro5 = [shake2]That's right! The old one got himself killed, his head popped off, and now I need a new towel boy![/shake2]
+contract_appear0 = [shake2]So tell you what, I've got a piece of paper here! Don't worry about the details! I just need you to sign right here at the bottom![/shake2]
+
+contract_disagree_retry = Lemme reconsider...
+contract_disagree_decline = I won't sign!
+
+contract_disagree0 = [shake2]C'mon now, don't make this difficult! You don't really have a say in this! Sign the paper![/shake2]
+contract_disagree1 = [shake2]I don't think I made this clear enough: YOUR OPINION DOESN'T MATTER TO ME. Put your name on the contract or I'll make your dead, hollow body sign it for you![/shake2]
+contract_disagree2 = [shake2]LAST CHANCE! Sign the paper![/shake2]
+contract_disagree3 = [shake2]Too bad! I gave you an opportunity to redeem a bad situation, and you blew it! Threw any chance of surviving this right out the window![/shake2]
+contract_disagree4 = [shake2]Goodbye! I mean, goodbye to your aware self! I'll be saying hello to your hollow corpse once you're gone![/shake2]
+
+contract_agree0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
+contract_agree1 = [shake2]That seals the deal! We're in business! Let me just grab this real quick...[/shake2]
+
+contract_soul = You feel exceedingly empty inside.
+
+contract_agree2 = [shake2]Whoops! Guess this soul belongs to me now![/shake2]
+contract_agree3 = [shake2]Don't worry, though! If you finish your chores quickly, you'll have your soul back real soon![/shake2]
+contract_agree4 = [shake2]And don't you dare forget our little contract! I've put it in your [button:start] menu so that it'll never leave your sight![/shake2]
+contract_agree5 = [shake2]Goodbye! Take care! Don't die on me![/shake2]
+
+enter_village0 = [shake][big][scream][wave]WHHHHYYYYYYY HELLO THERE![/wave][/scream][/big][/shake][br][shake2]You didn't forget about me, did you?! Don't tell me you forgot about me![/shake2]
+enter_village1 = [shake2]What's up? You working on any contractual obligations lately? You better be! Remember our little deal![/shake2]
+enter_village2 = [shake2]Check it out. Those incredibly annoying [name]Fire Spirits[/name] are sitting right there, in the middle of my village.[/shake2]
+enter_village3 = [shake2]Their little dance is creating these incredibly annoying barriers that stop me from getting to parts of my forest. It's almost like they're trying to put an end to me... how adorable.[/shake2]
+enter_village4 = [shake2]Dispose of them. I don't care how you do it, as long as they suffer for entering my domain! [wave]HEHEHEHE![/wave][/shake2]
+enter_village5 = [shake2]Anyways, back to work, trooper![br]This isn't a vacation, and I'm getting impatient![/shake2]
+
+[breakice_contract]
+breakice0 = [shake][big][scream][wave]WELL DONE![/wave][/scream][/big][/shake][br][shake2]Please tell me they suffered. You murdered them, right? I bet you strangled them. Good girl! [scream][wave]Ha ha ha ha![/wave][/scream][/shake2]
+breakice1 = [shake2]Don't think I'm done with you yet, though! There's more of these pests around my forest, and I need you to take care of every single one.[/shake2]
+breakice2 = [shake2]Next on your to-do list: Clean up the Subcon Well. That's right, you're a plumber now! Congratulations on your promotion![/shake2]
+breakice3 = [shake2]I also have some... other... work for you that I cannot do myself. And hey, as long as I need you, you get to stay alive. What a deal, huh?[/shake2]
+
+breakice4 = [shake2]But enough talk! You look like you can handle multiple things on your plate at once! Let's get you an additional contract![/shake2]
+breakice5 = [shake2]Pick one, but only one! Isn't it thrilling to sign your life away?[/shake2]
+
+breakice6 = [shake2]Good choice! Let's hope you're up for the task![/shake2]
+breakice7 = [shake2]You're looking for [icon:timepiece][timepiece]Time Pieces[/timepiece], right? I found one of them while haunting some poor soul![/shake2]
+breakice8 = [shake2]You can keep it, but this is the only time I'll reward you for completing parts of a contract! Because guess what? I'm not legally obligated to! [wave][scream]HA HA HA HA HA![/scream][/wave][/shake2]
+
+[contract_generic_trap]
+trapA0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]FOOOOOOOOOOooo... oh wait, it's you?[/shake2]
+trapA1 = [shake2]I was kind of expecting a new victim to step in my traps. I've already taken your soul and everything. Have you even completed your contractual obligations yet?[/shake2]
+trapA2 = [shake2]Don't take it personal, kid, but stay clear of my traps. There's only so many times my voice can handle yelling like that. You're taking the experience away from other people.[/shake2]
+trapA3 = [shake2]Uh, but since you did step in my trap, I might as well extend our business endeavors![/shake2]
+trapA4 = [shake2][small]*cough*[/small][/shake2][br] [br][shake][big][scream][wave]FOOOOOOOOOOOOOOOOOOOOOOOOL!![/wave][/scream][/big][/shake]
+trapA5 = [shake2]You've stepped into my forest, and now you must pay the price![/shake2]
+trapA6 = [shake2]Pick your poison! Which burden do you want to carry for the rest of your life?![/shake2]
+
+trapA7 = [shake2]Not a bad choice! This one should be a breeze! You're leaving all the difficult contracts for the newbies, though, which is really rude when you think about it.[/shake2]
+trapA8 = [shake2]Whatever! I'm off! Smell you later![/shake2]
+
+[home]
+home_question0 = [shake2]What's up, kiddo? You don't know where to go?[/shake2]
+home_question0_whereto = Where do I go?
+home_question0_contract = Turn in contract
+
+home_intro0 = [shake2]What are you bothering me for? Kid, didn't you read that contract before you signed it?[/shake2]
+home_intro1 = [shake2]You won't get anything from me until you complete your end of the deal! So scram![/shake2]
+
+nosoul0 = [shake2]You weren't expecting to get your soul back just because you completed your initial contract, were you?[/shake2]
+nosoul1 = [shake2]Well, [shake][big][scream]TOO BAD![/scream][/big][/shake][/shake2][br][shake2]You're my newest servant, and our business isn't concluded yet! Get it done, then we'll talk![/shake2]
+
+home_businessconcluded = [shake2]Kid, our business is concluded. I'm not giving you anything else. Get lost![/shake2]
+
+wheretogo_subconwell0 = [shake2]You're supposed to be cleaning the well, kid. It's deep inside the swamp, but it's big enough even a tiny thing like you can't miss it. Try not to trip and hit your head at the bottom... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
+
+postfinale0 = [shake2]You again? I thought I made myself pretty clear last time, kiddo.[/shake2]
+postfinale1 = [shake2]We're done. Finished. Our working relationship is over. I'm not wasting any more clerical supplies on you![/shake2]
+postfinale2 = [shake2][wave][scream][big]Now get the heck out of my forest![/big][/scream][/wave][/shake2]
+
+[bossbattle]
+intro0 = [shake2]Wait up, kid. Remember how the old contractor had his head pop off?[/shake2]
+intro1 = [shake2]That wasn't a coincidence. It popped off the moment he stopped being useful to me.[/shake2]
+intro2 = [shake2]And guess who else just became obsolete? That's right. You.[/shake2]
+intro3 = [shake2]Now that that possessed outhouse isn't bothering me anymore, and all those contracts of yours are tidied away... I don't need you around.[/shake2]
+intro4 = [shake2]Besides, you didn't think I was gonna let you keep all these [icon:timepiece][timepiece]Time Pieces[/timepiece], did you? They fell in my forest, kid! They belong to [scream]ME[/scream].[/shake2]
+intro6 = [shake2]Time you saw what I'm really capable of, kid. Say goodbye to that little head of yours![/shake2]
+
+Derp0 = This is how you look![br]You're an idiot!
+Derp1 = And you smell!
+
+blue0 = [shake2]You're probably waiting for me to turn blue, aren't you?[/shake2]
+blue1 = [shake2]Sorry kiddo, blue doesn't suit me.[br]And I guess that makes me invincible, huh?[br]That's too bad! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
+
+Chemicals0 = [shake2]Let's try some of these![/shake2]
+Chemicals1 = [shake2]Not enough?[br]Let's try 1,000![/shake2]
+Chemicals2 = [shake2]Too many, eh?[br]Let's try just one![/shake2]
+Chemicals3 = [shake2]Wait, hold on.[/shake2]
+Chemicals4 = [shake2]That one should[br]totally have hit you![/shake2]
+Chemicals5 = [shake2]Come on,[br]give it a chance![/shake2]
+Chemicals6 = [shake2]I'm glad[br]you reconsidered![/shake2]
+Chemicals7 = [shake2]You're kinda rude,[br]aren't you?[/shake2]
+
+turned_blue0 = [shake2]...[/shake2]
+turned_blue1 = [shake2]Did you just color me blue with my own attack?[/shake2]
+turned_blue2 = [shake2]This can't count, right? Surely this doesn't count?[/shake2]
+turned_blue3 = [shake2]That does it, time to [scream][wave]DIE[wait][/wave][/scream].[/shake2]
+
+Cherry0 = [shake2]Oh no![/shake2]
+Cherry1 = [shake2]I totally just dropped[br]this cherry bomb![/shake2]
+Cherry2 = [shake2]... NOT.[/shake2]
+Cherry3 = [shake2]You think I'm stupid enough[br]to give you BOMBS?[/shake2]
+
+[death]
+death0 = [shake2]*huff*[waitlong] *huff*[waitlong] You're such a disrespectful young lady...[/shake2]
+death1 = [shake2]I feel... so weak...[waitlong] *huff*[/shake2]
+death2 = [shake2]Please...[waitlong] *huff*[waitlong] have mercy...[/shake2]
+death3 = [shake2][waitlong][wait]Please... [br] [waitlong][waitlong][br][big]HAVE A SEAT[/big][/shake2][waitlong][waitlong]
+death4 = [shake2]All these [icon:timepiece][timepiece]Time Pieces[/timepiece] landed in MY forest. They are MY property.[/shake2]
+death5 = [shake2]So, let's make a deal, young lady. You get out of my forest, and we never see you again. How's that sound for a deal?[/shake2]
+death6 = [shake2]Not a fan? Too bad! You don't make the calls here.[/shake2]
+death7 = [shake2]Here, I'll even make it easier for you![/shake2]
+death8 = [shake2]Now all that's left is for you to sign it![/shake2]
+
+sign0 = [shake2]...You understand that's not how contracts work, right?[/shake2]
+sign1 = [shake2]I'm giving you a chance to scram, kid! There's no catches or clauses this time! [/shake2]
+sign2 = [shake2]What if I give you your soul back, will that make you leave?[/shake2]
+sign3 = [shake2]Yes? No? Hello? Are you there? Why aren't you saying anything?[/shake2]
+sign4 = [shake2].......[/shake2]
+sign5 = [shake2]...You're quite the character, aren't you. And a tough negotiator.[/shake2]
+sign6 = [shake2]Fine, I'll sweeten the deal for you.[/shake2]
+sign7 = [shake2]Here, take my last [icon:timepiece][timepiece]Time Piece[/timepiece]. If I continue to see you around my forest after this, I'll be very disappointed![/shake2]
+
+contract_soul_return = You got your soul back! You feel relieved, energised, and just the usual amount of empty!
+
+[finale]
+outside0 = [shake2]Hey kid! How's that soul of yours? Still rattling around in there?[/shake2]
+outside0b = [shake2]Oh, wait. You never quite earned that back, did you?[/shake2]
+outside1 = [shake2]I'd love to know who thinks they're a big enough deal to judge [wave]me![/wave] So I've taken a few [small]hundred[/small] souls - big deal![/shake2]
+outside2 = [shake2]Do us all a favor, kid! Go check out who thinks they're better than us! And hit them![/shake2]
+outside3 = [shake2]I don't usually advocate that kind of thing, but this is pretty authoritarian![/shake2]
+group_counter0 = [shake2]This alternate reality stinks! Get lost![/shake2]
+cherrybombs0 = [shake2]Let's sign a contract and make this girl get lost, once and for all![/shake2]
+cherrybombs1 = [shake2]Hahaha! Alright, let's go. I'll create, you'll throw![/shake2]
+
+suicide0 = [shake2]We don't NEED a hero! Get lost![/shake2]
+
+[ending]
+hang0 = [shake2]Hey kiddo, let's make another contract![/shake2]
+hang1 = We'll miss youuuuuuuuuuuuuu...!!!

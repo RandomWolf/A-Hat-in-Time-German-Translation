@@ -1,0 +1,129 @@
+[parade]
+welcome0 = Hello, darling! Welcome to the largest studio set you'll ever see!
+welcome1 = We're about to start recording [hint]The Big Parade[/hint], the movie that'll take the breath away from audiences worldwide! You'll be the star, as always!
+welcome2 = For this movie, we'll need to use our [icon:timepiece][timepiece]special prop[/timepiece]! It'll pop out at the very end!
+welcome3 = But wait, darling! Your current outfit really isn't fit for a parade. Can you go over there and get dressed?
+welcome3b = Your current outfit really isn't fit for a parade. Can you go over there and get dressed?
+welcome4 = You look great, darling! Don't worry, this movie is really easy. Keep moving around and the band will follow you! Just don't bump into them!
+welcome5 = And keep an eye out for goodies! The audience loves a good parade and will throw treats your way if you get near them.
+welcome5b = And keep an eye out for refreshments! The off-stage crew will throw 'em your way, to keep you hydrated!
+welcome5c = And keep an eye out for the cameras! The crew will be trying to get as much footage of you as possible, so swing by them whenever possible!
+welcome6 = The parade lasts a while; nothing you can do to speed it up. We'll let you know once we've got enough footage. Don't lose spirit!
+welcome7 = Good luck, darling!
+
+first_intermission0 = It's time to turn the heat up in this movie!
+first_intermission1 = Darling, can you turn on the pyrotechnics?
+
+second_intermission0 = This movie needs more action! Darling, turn on the firework cannons[br]for the big firework show!
+
+third_intermission0 = Time to release the [icon:timepiece][timepiece]parade surprise[/timepiece]![br]Grab it, darling!
+
+[deadbird]
+intro0 = Nonsense, darling, nonsense!
+intro1 = You [name]Owl Express birds[/name] are just going to record another boring train-related western! You've done so for the last ten years, darling!
+intro2 = [icon:conductor][name]Conductor[/name], darling, this year we'll be winning the [icon:trophy][trophy]annual bird movie award[/trophy], as our new movie props will bring in the audiences!
+intro3 = These [icon:timepiece][timepiece]shiny things[/timepiece] fell from the sky! They will light our movie sets and fill them with glimmer!
+intro4 = I would never, darling! Clearly you're the one who took inspiration in my flashy new props.
+intro5 = Fine by me, darling. But we'll be the ones who win the [icon:trophy][trophy]annual bird movie award[/trophy], mark my word!
+
+passport0 = Magnificent! Stunning! This trophy is everything I desire... on the shelf in my living room!
+passport1 = Of course, this big trophy is just a plastic replica! The actual trophy is really tiny!
+passport2 = Oh my! Oh my! What is that I see? Is it true inner beauty? An innocent soul with a heart of gold?
+passport3 = Oh, no. It's just a little girl. Hello!
+passport3b = Oh, no. It's just a little boy. Hello!
+passport4 = Oh wait, you're not a penguin. That's good! I could use some non-penguin company around here, as all my penguins are frankly terrible actors!
+passport5 = Here's the biz: I need your help. I'm on a terrible losing streak, and I just HAVE to win this next [icon:trophy][trophy]annual bird movie award[/trophy].
+passport6 = There's no doubt; I absolutely MUST have you as the star! Here, let me take care of this.
+passport7 = We need to give you a bird passport, darling! Step right over here.
+passport8 = The most important part of a passport is the picture, darling! You have to look flashy and stunning! Step right over here. Let's take the pic.
+passport9 = OK, put on a smile, and stand still, please! Don't move!
+passport10 = Let's see how the picture turned out...
+passport11 = WH-WHA?!
+passport12a = Darling, you're not very photogenic, huh?
+passport12b = Darling, you moved! The picture is ruined! How could you?!
+passport13 = We've gotta fix this ugly mugshot up with some old-fashioned photo doctoring! Here, take these markers and turn yourself into the most stylish, fashionable young lady!
+passport13b = We've gotta fix this ugly mugshot up with some old-fashioned photo doctoring! Here, take these markers and turn yourself into the most stylish, fashionable young boy!
+passport14 = Perfect! Let's slide this picture into your passport, and... here you go! One passport for you!
+passport15 = Wonderful, darling! Just wonderful! Meet me at the movie set tomorrow, and we'll make you a star!
+
+[award]
+intro0 = Thank you darling, thank you![br]You secured our victory! We won the [icon:trophy][trophy]annual bird award trophy[/trophy]!
+intro1 = The [icon:conductor][name]Conductor[/name] is probably awfully sour from his second loss ever, but don't worry, he'll come around.
+intro2 = Anyway, we're all done here! No more movies until next year. Since you're so eager to get your hands on them, you can take my final [icon:timepiece][timepiece]movie prop[/timepiece] as your last movie star payment.
+intro3 = What, you were expecting something crazy to happen?[br]Nonsense, darling, nonsense!
+
+[BossBattle]
+SupportNotice0 = Darling! Darling!
+SupportNotice1 = Hang in there,[br]I'll find a way to[br]defuse the bomb!
+SupportNotice2 = My defuser is[br]ready, come here!
+
+hth_intro0 = Let's have a little heart-to-heart. Have a seat, darling.
+hth_intro1 = Ever since you arrived on this planet, these [icon:timepiece][timepiece]Time Pieces[/timepiece] have fallen from the sky.
+hth_intro2 = Now, I can understand if you feel they belong to you, darling. I understand. But did you know they allow for rewinding time?
+hth_intro3 = With one [icon:timepiece][timepiece]Time Piece[/timepiece], I could reclaim all the trophies that belong to me, darling. Every single trophy I've lost to the [icon:conductor][name]Conductor[/name], where he has cheated his way to victory.
+hth_intro4 = I can't prove it, darling, but I'm certain the [icon:conductor][name]Conductor[/name] has been manipulating everything to make sure I never win.
+hth_intro5 = I need just one [icon:timepiece][timepiece]Time Piece[/timepiece] to fix years of cheating and fraud. Can't you spare me just [hint]one Time Piece[/hint], darling?
+hth_intro5_yes = Maybe?
+hth_intro5_no = Nope!
+hth_intro6a = Thank you, darling! You won't regret it! We'll fix years of fraud and cheating, and go back to the [icon:trophy][trophy]annual bird movie awards[/trophy] being honest and upstanding!
+hth_intro7a = Unfortunately... I can't have you leave this room, darling. I can't risk word getting out. The [icon:conductor][name]Conductor[/name] will throw a hissy fit like never seen before!
+hth_intro8a = It was nice knowing you, darling. Goodbye!
+hth_intro6b = Darling, darling, darling. You're so persistently selfish. I've brought you to stardom, and all I ask in return is a single [icon:timepiece][timepiece]Time Piece[/timepiece]... but you won't share?
+hth_intro7b = Well, darling, if you want this [icon:timepiece][timepiece]Time Piece[/timepiece] back so bad, come and get it!
+hth_intro9 = Remember this bomb, darling? I stole it from the [icon:conductor][name]Conductor[/name]'s movie set, and now it'll be your demise!
+
+Intro0 = Look who we've got here, darling! I guess you found my little secret, huh?
+Intro1 = This last [icon:timepiece][timepiece]Time Piece[/timepiece] is all for me, darling. If you want it, well, I guess you've just gotta come and get it.
+
+
+[PicturePerfect]
+Intro0 = Welcome to the first day of shooting, darling!
+Intro1 = We need to transform you into the biggest movie star the bird world has ever seen! You need to become... a diva!
+Intro2 = That's why I've called for a press conference here on our moon set. You need to get out there in front of the cameras, and electrify the public, darling! Get 'em really up and going for your movies!
+Intro3 = Once you've got them going crazy, come back here and we'll show off our new prop! That's right, we'll unveil our new [icon:timepiece][timepiece]movie prop[/timepiece] to the masses!
+Endorsement_Generic0 = You called, darling? Looks like it's endorsement time!
+Endorsement_Generic1 = All you penguins out there know my name... [name]DJ Grooves[/name]![br]And I'm telling you, this young girl here is the next hot thing. Guaranteed!
+Endorsement_Generic2 = Make sure you join her fanclub! DJ Grooves... out!
+
+Endorsement_Statue0 = Just look, as she'll climb up this statue and rescue the poor puppy that has gotten stuck! Right, darling?
+Endorsement_Statue1 = Look at that! She helped the puppy down, safe and sound! Too bad it ran off, and definitely didn't break into multiple pieces.
+Endorsement_Statue2 = This is truly a diva I can get behind. Let it be known that this lil' girl is all about animals!
+
+Endorsement_Poker0 = Watch as she beats these hard-boiled card players at their own game... on her first try!
+Endorsement_Poker1 = This game is easy to understand, darling. You just guess which number of card the other player is holding, from [hint]1 to 10[/hint]. Which card do you think he's holding, darling?
+Endorsement_Poker2 = Wow! Fantastic! Incredible! The answer is indeed [hint]3[/hint]! Folks at home, you have just witnessed the stunning intuition of a true star.
+Endorsement_Poker3 = Aww, too bad, darling! The answer was [hint]3[/hint]! Folks at home, this just shows that our new break-out star is relatable. She makes mistakes just like everyone else!
+
+Endorsement_Cooking0 = Now, darling, I have to mention this. Cooking show hosts have a terrible track record of getting angry and swearing on-screen. Try not to use the P-word, OK? Don't say p-e-c-k.
+Endorsement_Cooking1 = The [icon:conductor][name]Conductor[/name] is old-fashioned. He throws that word around a lot. It'll get him in trouble some day! Until then, let's keep our show clean.
+Endorsement_Cooking2 = Hello viewers! Even the biggest celebrities have to eat, and I've got with me the biggest celebrity of them all.
+Endorsement_Cooking3 = Now tell us darling, what kind of condiment do you like on your tuna sandwiches?
+Endorsement_Cooking3_a = Ranch
+Endorsement_Cooking3_b = Ketchup
+Endorsement_Cooking3_c = Mayo
+Endorsement_Cooking3_d = PECK
+Endorsement_Cooking4 = Amazing! I bet that eating tuna sandwiches like that is probably how she keeps her slim figure! Take note, penguin viewers!
+Endorsement_Cooking5 = [scream][big]DARLING![/big][/scream]
+Endorsement_Cooking6 = I-I mean... fellow viewers! Look at the mouth on this young girl. She's really something.
+Endorsement_Cooking7 = [small]Now shoo, get out of this endorsement as soon as you can,[br]before the old penguins watching TV notice what just happened.[/small]
+
+Endorsement_Alley0 = Look at how street-smart this diva is. She's standing in this sinister alleyway, right next to some potential wrongdoers!
+Endorsement_Alley1 = Danger is her middle name, and she's not afraid to step outside of her comfort zone!
+
+Ending0 = The audience is going crazy, darling! Come over here and show off our new stunner... our [icon:timepiece][timepiece]new prop[/timepiece]!
+
+[Highscore]
+NewHighScore0 = Good job, darling!
+NewHighScore1 = So close to victory, darling!
+NewHighScore2 = The trophy will be ours, darling!
+NoNewScore0 = It's OK, darling! Next time!
+NoNewScore1 = It's hard to repeat success!
+NoNewScore2 = Try again, darling!
+
+[finale]
+outside0 = Good to see you, darling! Nice to know I'm not the only super-star waiting around this tawdry place.
+outside1 = Slide on up past those doors and find out who's calling the shots, won't you?
+
+[ending]
+hang0 = Let's watch our movie, darling!
+hang1 = We'll miss youuuuuuuuuuuuuu...!!!

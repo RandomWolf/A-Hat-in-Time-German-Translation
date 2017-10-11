@@ -1,0 +1,15 @@
+[subcon]
+yellow0 = [wave]We want to die! Yay![/wave]
+yellow1 = [wave]We want to burn bright, and then burn out! Become a cloud of smoke![/wave]
+yellow2 = [wave]Our bonfire needs more fuel... only the finest [icon:painting][hint]paintings[/hint] will do! Can you help us?[/wave]
+
+complete0 = [wave]Thank[br]youuuuu!![/wave]
+painting_burned0 = [wave]More! More![/wave]
+painting_burned1 = [wave]Yes! More![/wave]
+painting_burned2 = [wave]Burn! Burn![/wave]
+
+[finale]
+outside0 = [wave]Smoke! Fire! [br]Burning bright![/wave]
+outside1 = [wave]We'll burn together! [br]Soon, soon![/wave]
+inside0 = [wave]It burns! It burns![/wave]
+inside1 = [wave]Burning bright! Soon, we'll all be smoke![/wave]

@@ -1,0 +1,39 @@
+[umbrella]
+umbrella_back0 = You got your [name]trusty umbrella[/name] back![br]Use it to whack anyone who gives you sass!
+umbrella_back1 = Press [button:attack] to attack!
+
+[act1postbattle]
+dotdotdot = . . .
+
+[impossible_race]
+MaybeWait0 = Not all acts can be completed the moment they're unlocked.[br]In some circumstances you might need a special item.
+MaybeWait1 = There's no shame in returning to an act later!
+
+[hq]
+window0 = It's still pouring it down outside.
+window1 = It's much nicer to watch from indoors, though.
+slotmachine0 = It looks like it only takes local currency, and you forgot to stop by the bureau de change.
+cans0 = This appears to be the Mafia's excuse for food. It certainly doesn't smell like it, though.
+cans1 = You could probably taste some, but you're not sure that's something you want in your obituary.
+bigfish0 = You resist the urge to think of any fish puns. It's tough, [small]hali[/small]but you manage to hold them back.
+pilehidden0 = There's a switch buried in this pile of non-distinct currency! 
+pilehidden1 = Pull it?
+pile_q_yes = Yes!
+pile_q_no = Heck no!
+pilehiddenpull0 = You pull the switch out of the pile and put it in your bag. Your collection of improv comedy props grows stronger.
+pilehiddennopull0 = You learned in school not to activate strange mechanisms found on alien planets in piles of gold, and leave it alone.
+
+[fluff]
+door0 = Go away! Mafia watching shows. High interest in plotline.
+meat0 = It's a hunk of meat, just like in your cartoons! Only far bigger.
+meat1 = Weird, considering you haven't spotted any levithian animals around here.
+tailor0 = With how limited the dress code is around here, it's not surprising this place is boarded up.
+vista0 = So picturesque! You can't quite decide what videogame it looks like, though.
+
+[lava]
+finish0 = Small child has saved us! Get up here!
+finish1 = We have [timepiece][icon:timepiece]gift[/timepiece] for you!
+
+goofy0 = You did it! Small child saved Mafia Town!
+goofy1 = Now Mafia no longer need to eat lava for breakfast... amazing!
+goofy2 = Please, take this as trophy. You are truly the hero of Mafia Town!

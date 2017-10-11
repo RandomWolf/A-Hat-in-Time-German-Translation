@@ -1,0 +1,41 @@
+[mafia_hq]
+intro0 = The Mafia are terrible at cooking![br]But fear not, [name]Cooking Cat[/name] is here!
+intro1 = I prepare the actual dinner up here, and swap the food before anybody eats the Mafia's cooking.
+intro2 = I'm fairly certain someone would die if they ate the Mafia-prepared food!
+
+new0 = Huh? You want to break into the theater to talk to the Mafia Boss?
+new1 = Sorry, no can do! You would need to enter through the main door, and it's totally blocked. The only other way would be through the ventilation shafts.
+new2 = Although you would need a [icon:key][hint]key[/hint] for that. I think one of the Mafia might have it! Tell you what, I bet if you pour them a [hint]hot cup of cocoa[/hint], they'll lend you their key for sure.
+
+mask0 = Uhhh... why are you wearing a mask of my face?
+
+gotkey0 = You got the key? Great! Just head to the freezer, there's a vent there you can use!
+
+[spaceship]
+firstdecoration0 = What a lovely spaceship you have here! Sorry for the break-and-entering, I just really wanted to see what an alien spaceship is like.
+firstdecoration1 = You know, I expected aliens to be more green and probably with a thirst for flesh. But I guess you aliens come in all shapes and sizes, huh?
+firstdecoration2 = Hey, if you're looking to explore our planet, you'll need to understand it first. Otherwise you won't know if you're stepping on grass or quicksand!
+firstdecoration3 = Don't know how to identify [icon:relic][name]relics[/name]? Fear not, [name]Cooking Cat[/name] is here!
+firstdecoration4 = I'll let you have this [name]Burger Cushion[/name] relic for free!
+firstdecoration5 = You can identify this [icon:relic][name]relic[/name] at the podium! If you place them on the podium in the correct order, you might be able to make sense of it.
+firstdecoration7 = If you're able to identify a [icon:relic][name]relic[/name],[br]something great might happen! You never know! So keep an eye out for relics.
+firstdecoration8 = I have taught you everything I know about relics!
+
+cooking0 = Oh, hey! Hope you don't mind me using your kitchen. I figured I'd treat you to some nice earth food, since you're an alien and all.
+cooking1 = Say, are you a steak kinda person, or a veggie kinda person?
+cooking_q_steak = Steak
+cooking_q_veggie = Veggie
+cooking2_steak = Is that so? Well, I hope you're not looking to cook up some earthlings anytime soon!
+cooking2_veggie = Is that so? I guess you aliens have more in common with, uhhh, ants and stuff?
+cooking3 = Anyway, I hope my dish is ready before you leave. I wanna see how great a dish I can cook using an alien stove!
+
+cooking4 = You know, I kinda imagined an alien stove to be a bit more technologically advanced.
+
+[finale]
+outside0 = I've been in hot kitchens before, but this is something else! I don't know how you're not breaking a sweat, but I'm really cooking.
+outside1 = Maybe you can skip the queue and find out who's the head chef here, kid?
+ninjacat0 = Meow.
+ninjacat1 = Rrrreeow.
+ninjacat2 = [wave]Mrrroooowww.[/wave]
+ninjacat3 = I guess you just don't speak this regional dialect of cat. Huh.
+group_counter0 = Yeah! Get lost!

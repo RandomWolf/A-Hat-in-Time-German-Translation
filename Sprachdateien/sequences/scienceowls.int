@@ -1,0 +1,93 @@
+[murder]
+CrowAskForDetails0 = Have you noticed all these crows around the place?
+CrowAskForDetails1 = They keep asking for personal details, and I never know what to answer!
+
+CrowsGotOn0 = Did you notice that there's suddenly a lot of crows on this train? They all got on at the last stop.
+CrowsGotOn1 = Speaking of, at which stop did you get on the train?
+CrowsGotOn2 = ...
+CrowsGotOn3 = ... what do you mean you fell from the sky?
+
+CrowsAnnoy0 = It's really difficult to get settled down on this train with these crows crowding the place.
+CrowsAnnoy1 = They keep interviewing me about everything I do!
+
+ScientificEquation0 = I don't get it, how is this a scientific equation of any kind?[br]It's just scrambled numbers and letters, like those you see on an online form.
+
+StayOut0 = Wait, don't come in here. I lost my contact lens somewhere... please don't step on it![br]I can't move out of the way, I might step on it myself!
+StayOut1 = I hope no one goes into the VIP area and accidentally steps on my contact lens...
+PostMurder0 = Man, I just needed to get home from work. I didn't sign up for a big murder mystery.
+PostMurder1 = My wife is gonna kill me.
+
+OwlHiddenRoom0 = Man, this is the life.[br]Nothing beats a[br]hot sauna.
+OwlHiddenRoom1 = Did you hear[br]some noise outside?
+OwlHiddenRoom2 = Eh, peck it.[br]I don't wanna go[br]out in the cold.
+
+VictimRubberKnife0 = Yeah, can I go now? I'm kinda sore from playing dead for so long.
+VictimRubberKnife1 = This rubber knife is also a bit uncomfortable.
+
+suspect_sciowls0 = ...
+suspect_sciowls1 = It's true.
+suspect_sciowls2 = We were sitting in the lounge playing card games, and we were having so much fun! Everyone enjoyed the peace and quiet of card games!
+suspect_sciowls3 = ... and Robin wouldn't stop chewing with his mouth open.
+suspect_sciowls4 = Seriously, who chews with their mouth open? So we stabbed him with the rubber knife, to get some peace and quiet.
+
+suspect_victim0 = It seems you've seen through my charade.
+suspect_victim1 = It was my turn to clean the Owl Express, and I just decided to... uhh... fake my death, with this rubber knife.
+suspect_victim2 = But all this trouble isn't worth it. I'll just start cleaning up now.
+
+suspect_hatkid0 = Actually I'm fine.
+suspect_hatkid1 = She just stuck this fake rubber knife on me and told me to play dead.
+suspect_victim_idle0 = Man, I even wasted an entire bottle of ketchup to make this murder look real...
+
+[DeadBird]
+prop0 = Huh, you want that movie prop they carried in?
+prop1 = Are you the kind of person that sells movie props on eBird?
+
+intro0 = Uhhh, hi there. I'm an [name]Express Owl[/name]. Which really just means I ride the [name]Owl Express[/name] that the [icon:conductor][name]Conductor[/name] runs.
+intro1 = I need to ride the train to get to work, but the [icon:conductor][name]Conductor[/name] makes unexpected stops all the time.
+intro2 = I have no idea why we're at a movie studio. I need to be at work in 15 minutes!
+
+guard0 = Uh yeah sorry, the [icon:conductor][name]Conductor[/name] has said only birds are allowed past here. And he specifically said no penguins of any kind.
+guard1 = I have no idea -why-, I'm just a passenger on his train. Whatever gets us back on the train faster.
+
+feud0 = I don't really get this feud between [name]The Conductor[/name] and [icon:djgrooves][name]DJ Grooves[/name].
+feud1 = Like, why does a train operator and a disco guy want to compete? We're all birds here, right? Shouldn't we cooperate?
+feud2 = ... I dunno, I guess cooperating is kinda stupid. I guess. Yeah... just ignore me...
+
+reception_desk0 = I wanted to ask this reception guy a question, but he hasn't acknowledged me at all.
+reception_desk1 = Uhh, but now I've been standing here for so long, it'd be awkward to start up a conversation.
+reception_desk2 = I really suck at interacting with other birds.
+
+[ExpressBand]
+intro0 = Hey there! We're the [name]Express Band[/name], just a bunch of owls that got together to play music while riding the [icon:conductor][name]Conductor's[/name] Owl Express. 
+intro1 = Is it OK if we practice here? In exchange, if you have any song requests, we'll be happy to play whatever you have on mind!
+
+initial0 = Wanna swap out some of the music you hear in the different chapters, or wanna hear us practice?
+initial0_a = Swap Music
+initial0_b = Play me a tune
+initial0_c = Bye!
+listentomusic_generic0 = Alright, listen to this one. It's a new tune we're working on!
+listentomusic_bubblegum0 = Alright, clean your ears. We heard this in a distant desert village![br]It sounds a lot like bubblegum! 
+listentomusic_caverave0 = Alright, listen to this one. It's a new melody we're working on.[br]It'll make you really want pumpkin soup, for some reason!
+listentomusic_heatdusts0 = Alright, check this out, fresh out of the oven.[br]It's a smooth drive kind of song. Perfect for the long roads!
+listentomusic_foxmask0 = Alright, tune in, this one's an old ear worm.[br]It's got a warm feel to it but it's kinda sneaky, like a fox.[br]A bit spooky, too!
+listentomusic_heatgusts0 = Alright, be all ears, we've just been working on this track.[br]It's got that far-out desert dance feel to it.
+listentomusic_moonswing0 = Alright, listen up, this one's fresh from the moon.[br][name]The Lazy Paw Gang[/name] really knows how to write some wild swinging jazz![/name]
+listentomusic_electroswing0 = Catch this one, this is the favorite piece of us [name]Express Owls[/name].[br]This time we added some fresh groove to it. What do you think?
+listentomusic_newadventure0 = Okay, you might actually have heard this one before.[br]The perfect kind of song for starting a new adventure![br]Wouldn't you agree?
+
+[trainrush]
+calm0 = What are we filming[br]today? There's no stops[br]on the schedule...
+calm1 = Did we load more [br]explosives than usual [br]today?
+calm2 = I hope today's filming [br]doesn't run late...
+rush0 = [scream]We're doomed![/scream]
+rush1 = [scream]Run, kid![/scream]
+rush2= [scream]Is there a b-bomb on this train?![/scream]
+
+[finale]
+outside0 = What are we being judged for? 
+outside01 = All our movies were wholesome action flicks!
+outside1 = I've never done a [br]crime in my life!
+outside2 = I'm really not getting to work on time...
+inside0 = I can't get through there! [br]I'm no stunt owl!
+inside1 = [scream]Aaaaghhh![/scream]
+attack0 = Gimme your [br]back-of-the-line [br]ticket!

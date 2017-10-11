@@ -1,0 +1,19 @@
+[buttonhelp]
+jumpdive = In air to jump further
+doublejump = In air to jump twice
+watersubmerge = Dive
+caught_struggle = Struggle
+first_person_goal = Use your [icon:hat] to find your goal!
+divecancel = While diving to cancel
+trigger_ability = To use your [icon:activehat] ability
+hat_swap = To swap hat
+umbrella_attack = Attack
+helper_ability_no_target = Nothing interesting nearby...
+
+drop_carry = Drop
+throw_carry = Throw
+
+DuplicateKey = Can't carry two [icon:key] at once
+
+[placeholder]
+BetaHatSwapNotice0 = Press [button:badgeswitch] to swap your [icon:hat]![br]Press [button:badge] to use your Hat's ability.

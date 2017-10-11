@@ -1,0 +1,18 @@
+[Input]
+NewAutoController = New Input:
+ControllerDisconnect = The controller has disconnected. Please re-connect the controller to resume.
+
+[levels]
+Chapter = Chapter
+Act = Act
+MountainPeak = Mountain Peak
+FreeRoamDesc = Do Whatever You'd Like
+
+[cheats]
+disallowed_outside_editor = Not in Editor
+
+[Console]
+OfflineMode = Do you want to play offline? Xbox Live features won't be available and data will not save.
+FailedLogin = Unable to log in at this time. Please wait and try again.
+Yes = Yes
+No = No

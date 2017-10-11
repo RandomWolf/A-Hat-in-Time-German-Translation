@@ -1,0 +1,5 @@
+[General]
+SplashScreen_CopyrightInfo=Copyright © 2013-2017   Gears for Breakfast, Aps.   All rights reserved.
+
+[Errors]
+NoDownload=You cannot join the match because the host has downloadable content you do not, or your content is outdated ('`~').

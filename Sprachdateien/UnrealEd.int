@@ -1,0 +1,171 @@
+[Caption]
+WorkshopBrowser=Steam Workshop
+
+[UnrealEd]
+WorkshopName = Workshop Item Name
+WorkshopLastMod = Last Updated
+WorkshopStatus = Status
+WorkshopStatus_NotSubmit = Not Submitted
+
+ConversationTreeEditor_F=Gears for Breakfast ConversationTree Editor: `~
+ConversationPlay = Play Conversation
+ConversationResetState = Reset Conversation States
+ConversationFlush = Flush Localization Files
+ConversationSnapGrid = Snap To Grid
+
+MusicTreeEditor_F=Gears for Breakfast MusicTree Editor: `~
+MusicTreePlay = Play Preview
+MusicTreeStop = Stop Preview
+MusicTreeClean = Clean Unused Nodes
+
+InterpEd_ExpressionActionDialogTitle=Choose Expression
+InterpEd_ExpressionActionDialogText=Expression
+
+MainMenu_GameInfo = Game Info
+MainMenu_SimplifiedEditorToggle = Simplified Editor
+ToolTip_SimplifiedEditorToggle = Select to use a simplified editor (commonly unused features hidden)
+
+MainMenu_CurrentAct = Current Act
+MainMenu_ChangeAct = Act %i
+MainMenu_ChangeAct_FreeRoam = Free Roam
+MainMenu_ChangeAct_MuMission = Mu Mission %i
+MainMenu_ChangeActDesc = Change Current Act To This
+
+MainMenu_CurrentCheckpoint = Current Checkpoint
+MainMenu_ChangeCheckpoint = Checkpoint %i
+MainMenu_ResetCheckpoint = No Checkpoint
+MainMenu_ChangeCheckpointDesc = Change Current Checkpoint To This
+
+MainMenu_GameInfo_Unlockables_Badges = Badges
+MainMenu_GameInfo_Unlockables_Hats = Hats
+MainMenu_GameInfo_Unlockables_Skins = Skins
+MainMenu_GameInfo_Unlockables_Remixes = Remixes
+MainMenu_GameInfo_Unlockables_Weapons = Weapons
+MainMenu_GameInfo_Unlockables_Passives = Abilities
+
+MainMenu_GameInfo_Unlockables = Unlockables
+MainMenu_GameInfo_UnlockItemDesc = Unlocks This Item For All Players
+MainMenu_GameInfo_UnlockAllItems = Unlock All Items
+
+MainMenu_GameInfo_LevelBits = Act / Level Bits
+MainMenu_GameInfo_LevelBits_DeadBirdWinner = Dead Bird Winner
+MainMenu_GameInfo_LevelBits_DeadBirdWinner_0 = Undecided
+MainMenu_GameInfo_LevelBits_DeadBirdWinner_1 = Conductor
+MainMenu_GameInfo_LevelBits_DeadBirdWinner_2 = DJ Grooves
+
+MainMenu_GameInfo_ResetLevelBits = Reset Bits
+MainMenu_GameInfo_ResetLevelBits_Desc = Resets the currently saved level and act bits. Level bits are per-act booleans that may be stored to communicate between maps.
+
+MainMenu_GameInfo_TimePieces = Time Pieces
+MainMenu_GameInfo_TimePieces_Reset = Reset Time Pieces
+MainMenu_GameInfo_TimePieces_Reset_Desc = Undos the unlocked Time Pieces in this level.
+MainMenu_GameInfo_TimePieces_GiveAll = Give All Level Time Pieces
+MainMenu_GameInfo_TimePieces_GiveAll_Desc = Unlocks all Time Pieces in this level.
+MainMenu_GameInfo_TimePieces_GiveAllButOne = Give All Level Time Pieces (Except Selected)
+MainMenu_GameInfo_TimePieces_GiveAllButOne_Desc = Unlocks all Time Pieces in this level, except one.
+
+MainMenu_GameInfo_GameDesign = Game Design
+MainMenu_GameInfo_ClearPlaySession = Clear Play Sessions
+MainMenu_GameInfo_ClearPlaySession_Desc = Remove all recorded play sessions
+
+JiggleboneEditor_F=Gears for Breakfast Jigglebone Editor: `~
+UnPhat_OpenJigglebone = Open Jigglebone Editor
+
+UpdateCubeMap=Update CubeMap
+SplineFormFit=Form Fit Spline
+SetActCheckpointHere=Set Checkpoint Info to Here
+
+StaticMesh_GenerateLOD = Auto-Generate LOD
+StaticMesh_CenterPivot = Center Pivot
+StaticMesh_Scale = Scale All LODs
+StaticMesh_Rotate = Rotate Mesh
+StaticMesh_Translate = Translate Mesh
+StaticMesh_Merge_Convexes = Merge Convex Collisions
+StaticMesh_Selected_Convex = Convex:
+StaticMesh_Remove_Convex = Remove Collision
+StaticMesh_Move_Imposter = Build Flattened LOD
+StaticMesh_Move_Imposter_Question = Align:
+MeshSimp_Percent = Vertex Percent
+StaticMesh_CollisionFromBuilderBrush_Append = The mesh already has collision, do you wish to append the new Builder Brush collision?
+StaticMesh_Bake_Radial_VertexColor = Bake Radial Vertex Color
+StaticMesh_Bake_Spline_VertexColor = Bake Spline Vertex Color
+ShowVertexColor = Show Vertex Color
+
+SkelMeshAnim_GrabRef = Do you wish to grab ref from this anim?
+SkelMeshAnim_RotationPatch = Do you wish to patch this anim? Use this when importing Mafia anims from Blender!
+
+PropertyWindow_CodeInsert = Insert into UnrealScript source
+PropertyWindow_OpenSource = Open UnrealScript Source
+
+LevelBrowser_Method_AlwaysLoaded = Always Loaded
+LevelBrowser_Method_Distance = Distance
+LevelBrowser_Method_Kismet = Kismet
+LevelBrowser_Method_Persistent = Persistent
+LevelBrowser_Method_Unknown = Unknown
+
+MapCheck_Message_SkelMeshActorAnimationsAssignedIncorrectly=`~ : SkeletalMeshComponent has Animations set to something other than an AnimNodeSequence! It has been cleared for you.
+
+ObjectContext_CreateSoundCueSFX = Create New SoundCue (Sound Effect)
+ObjectContext_CreateSoundCueVoice = Create New SoundCue (Vocals)
+ObjectContext_CreateSoundCueMusic = Create New SoundCue (Music)
+CreateNewSoundCue=Create New SoundCue
+
+RemoveRootMovementFirstFrame=Reset Root Movement (XYZ) to First Frame
+RemoveRootMovementXY=Reset Root Movement (XY) to First Frame
+CenterCurrentFrameRootMotion=Re-Center Root Motion to Current Frame
+RemoveRootMotionBeforeFrame=Remove Root Motion Before Current Frame
+ApplyRootTranslation = Apply Root Translation
+
+MainToolBar_DropAndSpinPlacedActors_ToolTip = Drop and Spin Placed Actors
+MainToolBar_ShowDwellerMasks_ToolTip = Show Dweller Masks
+AnimSet_RemoveCurrentBoneMotion = Remove Current Bone Motion
+
+SocketOnlyViewSelected = Only View Selected
+
+UnrealEdTitle_F=Editor for `~
+UnrealEdTitle_RHI_F=Editor for `~ (`~-bit, `~)
+UnrealEdVersionTitle=`~\nCopyright © 1998-2016  Epic Games, Inc. and Gears for Breakfast, ApS.\nAll rights reserved.
+UnrealEdVersion=Version: `~ Changelist: `~
+CycleCubeMaps = Cycle CubeMaps
+
+MainMenu_AutoTransformAttachments = Auto-Transform Attachments
+MainMenu_AutoTransformAttachments_ToolTip = If on, all attached actors are also moved when the base is moved
+
+AddSocketToBase_EnterSocketName = "Enter Socket Name"
+AddSocketToBase_EnterSocketNameCaption = "Enter socket name:"
+AddSocketToBase_SocketAlreadyExists = "The provided socket name already exists!"
+
+6DOP=Box Collision
+10DOPX=X-Axis Cylinder Collision
+10DOPY=Y-Axis Cylinder Collision
+10DOPZ=Z-Axis Cylinder Collision
+18DOP=18-Sided Box Collision
+26DOP=26-Sided Box Collision
+
+MapCheck_Message_PylonNoGroundPos = Could not find ground position for pylon, build failed. Consider moving it or turning on recast
+MapCheck_Message_SkeletalMeshNull=`~ : Skeletal mesh actor has NULL SkeletalMesh property (`~)
+
+MainMenu_Help_UDKForums=Report a bug...
+MainMenu_Help_UDKForums_ToolTip=Report a bug on the GfB bug tracker
+
+SceneColorizeSF=Scene Colorize Post Process
+LevelDesignerHelper=Level Designer Helper
+
+Error_ImportFailed_SoundWave=Import failed. SoundWaves must be 44100Hz and 16 bits!
+
+RemoveUVs = Remove UV Channel
+RemoveUVs_No = No UV channel to delete
+RemoveUVs_Order = Only the last UV channel can be removed. Please remove them in order (highest first).
+
+StaticMesh_Selected_ImposterID = Save imposter:
+StaticMesh_Generate_Imposter = Generate imposter
+SkeletalMesh_Selected_ImposterID = Save imposter:
+SkeletalMesh_Generate_Imposter = Generate imposter
+
+ToolTip_ExtremelyFastCameraSpeed=Extremely Fast Camera Speed
+
+GizmoTransformActor_AddSpline = New Spline Here
+
+StaticMesh_Bake_Spline_VertexColor_SelectForward = Bake Spline VertexColor
+StaticMesh_Bake_Spline_VertexColor_SelectedForward = Forward Axis:
+

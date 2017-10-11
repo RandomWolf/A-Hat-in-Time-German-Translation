@@ -1,0 +1,10 @@
+[rainy_mafia]
+encounter0 = [shake]Oh no, aliens are coming for Mafia! I can see spaceship! [hint]Muddy gloop monsters[/hint] will arrive any minute![/shake]
+
+hit0 = What the... [scream]HUH?![/scream]
+hit1 = [shake]It's... [scream]IT'S SLIMY SPACE ALIEN![/scream][/shake]
+hit2 = [shake][scream]MAFIA SAW SPACESHIP! MAFIA KNEW ALL ALONG! MAFIA IS BEING INVADED BY ALIENS![/scream][/shake]
+hit3 = [shake][scream]AHHHH!![/scream][/shake]
+
+HeartAttack0 = Huff... huff...
+HeartAttack1 = Leave Mafia alone, you monster! Here, if Mafia give you [icon:timepiece][timepiece]this[/timepiece], will you go away?

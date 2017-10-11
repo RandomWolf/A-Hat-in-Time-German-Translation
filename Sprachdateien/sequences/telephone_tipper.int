@@ -1,0 +1,37 @@
+[murder]
+FirstTip0 = [shake2]Is this the kid with the hat? I hope you like my present... [wave]he he he.[/wave][/shake2]
+FirstTip1 = [shake2][hint]Go to the back of the train[/hint]. Your uncle's sister [MotherMaidenName] has come to visit you.[/shake2]
+FirstTip2 = [shake2]You better show your fam' some love, or I'll be talking to a corpse next time.[/shake2]
+FirstTip3 = [scream]*CLICK*[/scream]
+
+SecondTip0 = [shake2]So you think you can just sneak around the train like this?[/shake2]
+SecondTip1 = [shake2]Just drop the detective act. You'll never catch the real murderer...[br][wave]he he he.[/wave][/shake2]
+SecondTip2 = [shake2]You can't point your finger at someone without clues.[br]The clock is ticking. Will you be able to find enough clues to point your finger at the murderer?[/shake2]
+
+PetTrap0 = [shake2]You don't give up, do you?[/shake2]
+PetTrap1 = [shake2]It seems the only way I can get rid of you... is to make you run out of time.[/shake2]
+PetTrap2 = [shake2]So here's a fun time-eater: [PetName] has gotten itself in an[br]unusual situation. It's hanging onto a thin rope for dear life, just above a wood cutting machine. What an odd coincidence![/shake2]
+PetTrap3 = [shake2]What are you gonna do?[br]Save [PetName] from becoming saw dust, or figure out who the murderer is?[/shake2]
+
+DogThankYou0 = Thank you kind human for saving me. Woof. Woof.
+DogThankYou1 = I found this clue on the murderer. Hope it helps you. Woof. Woof.
+
+PetWarning0 = [shake2]Are you sure you wanna leave [PetName] hanging?[/shake2]
+PetWarning1 = [shake2]Why not turn around, and give [PetName] a[br]little time-consuming help before it's too late?[/shake2]
+
+suspect_mothermaiden0 = ...
+suspect_mothermaiden1 = Alright, you got me, darling.
+suspect_mothermaiden2 = As you might have noticed, darling, I'm not actually Ms. [MotherMaidenName]. It's me, [icon:djgrooves][name]DJ Grooves[/name]!
+suspect_mothermaiden3 = I know you've been having troubles shooting a movie, darling, so I made up this scheme to help you create an interesting movie plot!
+suspect_mothermaiden4 = The Express Owl was kind enough to put on the rubber knife and play dead to help me.
+
+ending_revealed0 = Guess you got me good, huh, darling? It seems no one can stage a murder while you're around!
+
+[spaceship]
+hub_alert_generic0 = ...
+hub_alert_generic1 = The [icon:trophy][trophy]annual bird movie award[/trophy] was rigged. It was an inside job.
+hub_alert_dj2 = The winner knows about the power of the [icon:timepiece][timepiece]Time Pieces[/timepiece]. He's been keeping one, and he's going to break it.
+hub_alert_conductor2 =  The winner knows about the power of the [icon:timepiece][timepiece]Time Pieces[/timepiece]. He's been keeping one, and he's gonna break it.
+hub_alert_generic3 = The truth lies buried underneath [hint]Dead Bird Studio[/hint].[br]What goes on in Dead Bird Studio when no one is around?
+hub_alert_dj4 = Blow the cover on this thing, darling.
+hub_alert_conductor4 = Blow the cover on this thing, lassie.

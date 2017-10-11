@@ -1,0 +1,164 @@
+[chapter1muchase]
+tower0 = Hey you,[waitlong] down there! [waitlong][waitlong]Don't think I didn't see you stalking me!
+tower1 = Us kids should stick together, not stalk one another. I mean, [name]Mafia Town[/name] can be a really dangerous place! So whaddaya say, wanna join my little rebellion?
+tower2 = Oh, by the way, did you have anything to do with the [timepiece][icon:timepiece]junk[/timepiece] falling from the sky? Yeah? Yikes, looks like you've got a lot of cleaning up to do, huh?
+tower3 = Tell you what, come up here and I can show you where some of your [timepiece][icon:timepiece]junk[/timepiece] landed!
+
+tower_wrong_jump = Your standard jump isn't going to cut it. You'll need to double that jump!
+
+mu_follow0 = Follow me, rebel squad!
+
+umbrella_there0 = Hey! I think one of your [timepiece][icon:timepiece]junk pieces[/timepiece] fell and smashed right into the market's fountain. Messed it up real good.
+umbrella_there1 = When going over there, just avoid making eye contact with the Mafia and you'll be fine. Good luck, fellow rebel!
+umbrella_there2 = See ya!
+
+[chapter1combat]
+grabbed0 = Dude, get off[br]of me!!
+grabbed1 = I'm serious! Put me down, you big idiot!
+grabbed2 = What kind of man[br]grabs an innocent[br]little girl?!
+grabbed3 = Your cooking is bad[br]and you're a[br]bad person![br]Now let me go!!
+grabbed4 = I'm not going[br]anywhere with you![br]Let go!!
+grabbed5 = If you don't drop[br]me right now,[br]I'll bite!
+grabbed6 = Quit it!
+
+thrown0 = Argh!
+thrown1 = No, don't throw meeeeeeeeeeeeeee.....!
+
+battleend0 = Pfft. Can you believe them? What a bunch of losers.
+battleend1 = Hey. You're alright, new kid. Do you have a name?
+battleend2 = No? You shy? That's cool. You're a 'less talk, more fighting' kind of girl, I take it.
+battleend3 = That [timepiece][icon:timepiece]thing[/timepiece] you grabbed there... are you collecting them? Because I know where there's more of them.
+battleend4 = They've been raining from the sky ever since you arrived. I've seen the goons bring them to their headquarters waaay up there.
+battleend5 = We should go up there and get your junk! It'll be fun! I'll take any opportunity that involves messing up the Mafia.
+battleend6 = You with me, buddy?
+
+hifive0 = Yeah!!
+
+[intruder]
+PreAwakening0 = Are you ready to take down some Mafia!? Let's do it! I'm psyched!
+PreAwakening1 = Let's go over the plan! All assaults need a good plan, or it'll be a flop!
+PreAwakening2 = First, we strangle them! Choke 'em and watch 'em beg for mercy! That'll show them!
+PreAwakening3 = No, wait, strangling is too kind...
+PreAwakening4 = We smash them together into mush, and put their remains in a jar!
+PreAwakening5 = Then we sell the jar for pocket money! That'll be the ultimate salt in the wound!
+PreAwakening6 = ... [scream]*ahem*[/scream] But first, we have to make it through their [name]Mafia HQ[/name].
+PreAwakening7 = Once we find and dethrone the [name]Mafia Boss[/name], the rest will follow. Then our mush and jar party will be no problem!
+PreAwakening8 = We've gotta get you geared up! Your hat is basic, and we don't do basic in this gang!
+PreAwakening9 = [hint][icon:yarn]Yarn[/hint] can be found around Mafia Town and used to stitch new hats if you're crafty. I've collected one for you!
+PreAwakening10 = You need more yarn for some hats than others. I guess being creative isn't free, huh? So keep an eye out for yarn!
+PreAwakening11 = Now you're a killing machine! Let's go get them!!
+
+[mafiahq]
+outside0 = You took your time! Help me out here!
+outside1 = Get these brutes off my case and we can go inside!
+outside2 = Good job, kid!
+outside3 = Let's go,[br]it's showtime[br]baby!
+freezer0 = Go ahead, kid! Open this thing up and I'll keep guard here.
+captured0 = Let go of me,[br]you psycho!!
+mafia_ball_hint0 = Hat kid![br]Hit him already!
+mafia_ball_hint1 = C'mon! Crawl up[br]and hit him!
+
+timepiecebreak0 = So what do these things do, anyway? Are they some sort of rare collector's item for nerds?
+timepiecebreak1 = Are they some sort of rare c... wait, huh?
+timepiecebreak2 = [big][scream]Whoa, WHAT?![/scream][/big]
+timepiecebreak3 = Wha... did, uhm... did you know about this?
+proposal0 = [scream]This is crazy![/scream] Do you even realize what could be done with these?
+proposal1 = We could make it so that you never got punched in the face by the Mafia that one time!
+proposal2 = We could beat up the Mafia, travel back in time, and then beat them up again!
+proposal3 = No, wait, we could make it so the Mafia never arrived on the island!
+proposal4 = Wait, wait, wait, even better! We could be crime-fighting time travellers!
+tantrum0 = Wait, what?! This doesn't make any sense!
+tantrum1 = You have all this power, and you're not gonna use it to fight evil?
+tantrum2 = If you're not gonna use them to fight evil... then I will!
+tantrum3 = I'm not gonna let this island remain as Mafia Town! I'll collect all the [timepiece][icon:timepiece]Time Pieces[/timepiece] for myself! You have my word on it!
+pickpocket_no_va = [name]Mustache Girl[/name] has pickpocketed half your [icon:money][hint]Pons[/hint].
+
+[MuMission_UI]
+intro0 = Now it's my turn!
+intro1 = Here we go!
+intro2 = Enough about her, let's talk about me!
+intro3 = My time to shine!
+
+[MuMission_Finale]
+intro0 = Alright, I'm in! I made it! I infiltrated that kid's spaceship without the alarms going off.
+intro1 = I bet she's collected a ton more [timepiece][icon:timepiece]Time Pieces[/timepiece] than I have... now where does she keep em?
+vault0 = Jackpot! This must be where she stores 'em all!
+vault1 = Ughn....!
+vault2 = Time to mess with time a little!
+timepiece_break0 = Blam!
+timepiece_break1 = Bam!
+timepiece_break2 = Boom!
+timepiece_break3 = Blammo!
+timepiece_break4 = Looks like things are starting to go a lil' bit crazy!
+timepiece_break5 = More! More!
+timepiece_break6 = Here we go!! Turn this disgusting planet into a place suitable for ME!!!!
+doorblocked0 = Dang, can't go in here!
+doorblocked1 = Oh, this one is locked. Face-recognition, maybe?
+
+[MuMission_Subcon1]
+intro0 = Ugh, travelling is a lot harder when you don't have a spaceship to fly around in.
+intro1 = I bet the hat kid hasn't been here yet, though! I'll snatch all the [icon:timepiece][timepiece]Time Pieces[/timepiece] before she gets here!
+intro2 = Now... where to find some [icon:timepiece][timepiece]Time Pieces[/timepiece]?
+
+noose0_no = Why hello there. You look... new around here.
+noose1_mu = Wow, you're a creep, did anyone ever tell you that?
+noose2_mu = Go "hang" out somewhere else. Get it?
+noose3_mu = ... why am I talking to a noose.
+
+noose_neck0_no = I would be honored to be the one who sequeezes the life out of you.
+noose_neck1_mu = You nooses need to get out more. Ever heard of Mafia Town? I hear that's a great vacation spot.
+noose_neck2_mu = Send me a postcard if you strangle anyone on your trip!
+
+
+snatcher0_sn = FOOOOOOOOOOOOOOOOOOL!!
+snatcher1_mu = Are you for real? This is so cliche.
+snatcher2_sn = YOU STEPPED IN- I'm sorry, what now?
+snatcher3_mu = I've seen this done a million times on TV. This isn't even close to original.
+snatcher4_sn = Wow, okay. Not only do you intrude on my domain, but you also insult it.
+snatcher5_sn = Do you even know what I do with small children? I eat them for lunch.
+snatcher6_mu = Alright, whatever. Do your thing! I'm just here to snatch some [icon:timepiece][timepiece]Time Pieces[/timepiece].
+snatcher7_sn = Okay, EXCUSE ME. If anyone is snatching anything, it's me!
+snatcher8_sn = My name is literally the Snatcher, and you, young lady, are not taking anything that belongs to me.
+snatcher9_mu = What are you gonna do about it?
+snatcher10_mu = Lemme guess, you're gonna make a deal with me that favors you way more than it favors me?
+snatcher11_sn = ...
+snatcher12_sn = NO. I have, uhm, something much cooler planned for you!
+snatcher13_mu = Spit it out, what is it?
+snatcher14_sn = It's, uhh...
+snatcher15_sn = ...
+snatcher16_sn = Okay fine, I was gonna make you sign a contract.
+snatcher17_mu = Amazing. Can I go?
+snatcher18_sn = ...
+snatcher19_sn = Get out of my forest.
+// Snatcher picks up Mu Girl by her cape
+snatcher20_mu = Wha?! Hey!
+// He throws her far away
+snatcher21_sn = Children these days.
+
+[finale]
+plead0 = Oh wow, what a touching story. Just kidding! Bad guy! NEXT!
+plead1 = I said, NEXT!
+plead2 = Oh, it's you!
+plead3 = You've been kinda a selfish little pest. But eh! You haven't actually stood in my way. You get to go on, you're a good guy, I guess.
+plead4 = Go on. You get to live.
+plead5 = NEXT!
+
+slap0 = [scream]EXCUSE ME?[/scream]
+slap1 = Don't you dare get anywhere near me. I don't think you quite understand who's in charge, little missy.
+slap0_alt = [scream]PATHETIC![/scream]
+slap2 = You know, I was willing to forgive you. I once thought we were gonna be best buds.
+slap3 = But NOPE, you turned out to be rotten and selfish. Save the planet from bad guys? Pfft, who needs that, am I right?
+slap4 = Look at all I've done without you. I've restored justice. I AM the justice. No more bad guys, ever.
+slap5 = I don't need you. This planet doesn't need you. Nobody will miss you, and nobody will care.
+slap6 = YOU are the bad guy, and I'll show you how this justice system deals with bad guys.
+
+leaving0 = Really? You're leaving? Not even going to put up a fight? Pathetic.
+
+group_counter0 = Wh, wha? But I'm fixing everything! No more bad guys! Why can't you see that I'm doing this for all of us!
+group_counter1 = How can you stand behind these people? They're crooks! Criminals! And you're... you're helping them?
+group_counter2 = This ends now!
+
+final_phase0 = [scream][big]Enough!![/big][/scream]
+
+suicide0 = W-what is this!? If everyone disappears but me, then I'd be all alone![br]Bad guys, stop it!
+suicide1 = My... my powers are disappearing!?

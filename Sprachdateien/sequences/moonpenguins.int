@@ -1,0 +1,22 @@
+[deadbird]
+lobby_a0 = Hey! Watch where you're going, buddy![br]Don't get near [icon:djgrooves][name]DJ Grooves[/name], 'aight?
+lobby_a1 = [icon:djgrooves][name]DJ Grooves[/name] means a lot to us, so we've gotta protect him. Don't you think of anything, yeah? I'll be watching you buddy. Eyes on you.
+
+lobby_b0 = You see my fingers here? See how they're snappin'?[br]That is the universal bird sign for "beat it".
+lobby_b1 = Oh look, my fingers have taken a liking to you. Look at them go. Snap, snap, snap. You catch my drift?
+
+lobby_c0 = You're no bird, eh? Then what brings you to Dead Bird Studio? Before you answer, you should watch DJ Grooves' latest movie. It's real good, and I'm not being paid to say that. Honest!
+
+lobby_d0 = Hey, lil' girl! You should join our [icon:djgrooves][name]DJ Grooves[/name] fanclub. You get a membership card and everything. It's a real good deal for any movie-going bird.
+
+lobby_e0 = Don't tell anyone this, but before [icon:djgrooves][name]DJ Grooves[/name] became fascinated by movies, he actually ran a night club. I know, crazy, right? Who would have thought.
+
+[finale]
+outside0 = Beat it, kid. [br] I'm tryin' to queue.
+outside1 = The boss'll get us [br]out of this. [name]DJ Grooves[/name] [br]is a star, y'know.
+outside2 = In hindsight, maybe I [br]coulda done better [br]with my life.
+group_counter0 = Get lost! Ain't that right, gang?!
+group_counter1 = Get lost!
+group_counter2 = Yeah, get lost!
+group_counter3 = Go away!
+group_counter4 = You suck!

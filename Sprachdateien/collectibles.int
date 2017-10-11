@@ -1,0 +1,322 @@
+[general]
+YouGotItem0 = You got [plural][name][itemname][/name]![custom0]
+custom0 = [custom0]
+custom1 = [custom1]
+custom2 = [custom2]
+custom3 = [custom3]
+
+Plural0 = A
+Plural1 = An
+
+TwoItemsAnd = and
+
+GenericYarnSuffix = Yarn
+GenericHatSuffix = Hat
+
+[trigger_abilities]
+BadgeCollect0 = It requires [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] to stitch; only [yarn][badgepoints_left][/yarn] to go!
+BadgeCollect1 = It requires [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] to stitch, and you've got [yarn][badgepoints_player][/yarn]! Press [button:start] to open the pause menu, where you can stitch it!
+BadgeCollect2 = It requires [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] to stitch!
+BadgeCollect3 = You've got enough [yarn][icon:yarn]yarn[/yarn] to stitch it!
+BadgeCollect4 = You already have this hat, but you get [yarn]+1 [icon:yarn]yarn[/yarn] anyway!
+
+UnknownName = ??? Hat
+UnknownDescLocked0 = No description.
+UnknownDescTech0 = This hat does not seem to have any purpose.
+
+SprintName = Sprint Hat
+SprintDescLocked0 = This yarn is looking ready to sprint!
+SprintDescLockedHat = This hat is looking ready to sprint!
+SprintDesc0 = Hold [button:badge] to sprint!
+
+StatueFallName = Ice Hat
+StatueFallFun0 = It's so cold!
+StatueFallTech0 = Hold [button:badge] to do a ground pound!
+
+HoverName = Floating Hat
+HoverDescFun0 = Float away from a sticky situation!
+HoverDescTech0 = Press and hold [button:badge] to float for a bit!
+
+HelpName = Kid's Hat
+HelpDescTech0 = Press [button:badge] to search for the next [icon:timepiece][timepiece]Time Piece[/timepiece]!
+HelpUsage = Use your [icon:activehat] to find your goal!
+
+ChemicalName = Brewing Hat
+ChemicalDescFun0 = Cook up mad concoctions!
+ChemicalDescTech0 = Press [button:badge] to throw an explosive concoction!
+
+TimeStopName = Time Stop Hat
+TimeStopDescFun0 = Death is inevitable, your time is valuable.
+TimeStopDescTech0 = Press [button:badge] to slow down time!
+
+FoxMaskName = Dweller Mask
+FoxMaskDescFun0 = This is some spooky yarn!
+FoxMaskDescHat0 = This is one spooky mask!
+FoxMaskDescTech0 = Press [button:badge] to see the world through a dweller's eyes!
+
+MapName = Relics Map
+MapDesc0 = A helping hand in finding relics!
+
+DetectiveHatName = Crime Solving Outfit
+DetectiveHatDesc0 = Time to solve crime! Watch out for this tiny detective!
+
+ParadeHatName = Parade Outfit
+ParadeHatDesc0 = The leader that this town needs!
+
+[abilities]
+BadgeCollect0 = It requires [hint][badgepoints_required] Badge Points[/hint] to activate; only [name][badgepoints_left][/name] to go!
+BadgeCollect1 = It requires [hint][badgepoints_required] Badge Points[/hint] to activate, and you've got [name][badgepoints_player][/name]! Press [button:start] to open the pause menu, where you can activate it!
+BadgeCollect2 = It requires [badgepoints_required] Badge Points to activate!
+BadgeCollect3 = You've got enough Badge Points to activate it!
+BadgeCollect4 = You already have this badge, but you get +1 Badge Points anyway!
+BadgePart = Part
+
+UnknownName = ??? Ability
+UnknownDescFun0 = No description.
+UnknownDescTech0 = This ability does not seem to have any purpose.
+
+OneHitDeathName = 1-Hit Hero Badge
+OneHitDeathDesc0 = You die in one hit. Only for the brave!
+
+DamageToEnergyName = Teen Angst Badge
+DamageToEnergyFun0 = An angry little girl never runs out of energy!
+DamageToEnergyTech0 = Gain energy when attacking enemies!
+
+TeleportName = Snatcher's Realm Badge
+TeleportDescFun0 = Undo your mistakes!
+TeleportDescTech0 = Press [button:badge] to undo a jump!
+
+MoreEnergyFromOrbsName = Explorer's Badge
+MoreEnergyFromOrbsFun0 = Can't wait to go on adventures!
+MoreEnergyFromOrbsTech0 = Gain 4x more energy from orbs!
+
+SuckInOrbsName = Item Magnet Badge
+SuckInOrbsFun0 = Item just out of reach? No longer a problem!
+SuckInOrbsTech0 = Automatically attract nearby collectibles!
+
+RocketJumpName = Rocket Jump Badge
+RocketJumpFun0 = Fly to the skies!
+RocketJumpTech0 = Hold [button:jump] after a double jump to get shot upward!
+
+MoreHealthName = More Health Badge
+MoreHealthFun0 = Take more punches!
+MoreHealthTech0 = Provides an additional heart slot!
+
+MuddyName = Bucket of Mud Badge
+MuddyDescFun0 = The badge comes with a free bucket of mud! Yay?
+MuddyDescTech0 = Press [button:badge] to become muddy!
+
+AttackProjectileName = Projectile Badge
+AttackProjectileDescFun0 = Projectile Badge
+AttackProjectileDescTech0 = Hold and release [button:attack] for a beam attack!
+
+CameraName = Camera Badge
+CameraDesc0 = Press [button:share] to take pictures of your journey!
+CameraDesc1 = Swap it out at any time in the [button:start] menu!
+
+ScooterBadgeName = Scooter Badge
+ScooterBadgeDesc0 = Upgrades your [icon:sprinthat] to a scooter!
+
+ScooterSubconBadgeName = Mail Delivery Badge
+ScooterSubconBadgeDesc0 = Upgrades your [icon:sprinthat] to a mail delivery scooter!
+
+AirAttackBadgeName = Air Attack Badge
+AirAttackBadgeDesc0 = Allows you to attack in the air!
+
+MumbleBadgeName = Mumble Badge
+MumbleBadgeDesc0 = Plugs your ears, now you can only hear vague mumbling!
+
+HookshotBadgeName = Hookshot Badge
+HookshotBadgeDesc0 = Press and hold [button:attack] to swing from hooks!
+
+FindRelicsBadgeName = Relic Finder Badge
+FindRelicsBadgeDesc0 = Shows a map towards nearby [icon:relic]!
+
+LungeAttackBadgeName = Lunge Attack Badge
+LungeAttackBadgeDesc0 = Lunge Attack Badge
+
+NoFallDamageBadgeName = Hover Badge
+NoFallDamageBadgeDesc0 = Automatically pull out your umbrella before deadly impact!
+
+NoBonkBadgeName = No Bonk Badge
+NoBonkBadgeDesc0 = No more bonking against walls while diving!
+
+HatCooldownBonusBadgeName = Fast Hatter Badge
+HatCooldownBonusBadgeDesc0 = Significantly reduce the cooldown when using hats!
+
+[loot]
+MafiaTieName = Mafia Tie
+MafiaTieDesc0 = It's all sweaty and gross! Ew!
+MafiaTieGoldName = Golden Mafia Tie
+MafiaTieGoldDesc0 = What?! This thing must be really heavy to wear. And expensive!
+
+LevelTabletName = Ancient Tablet
+LevelTabletDesc0 = It seems to spell out something... but it requires more pieces!
+LevelTabletDesc1 = It does look really rare, though. Better keep an eye out for more of those balloons!
+
+BirdPassportName = Passport for the Federal Union of Birds
+BirdPassportDesc0 = I'm legally a bird now! I think?
+
+TimePieceName = Time Piece
+TimePieceDesc0 = I want this. A lot.
+
+BadgeSlotName = Badge Pin
+BadgeSlotDesc0 = Allows you to equip one more [icon:badge][name]badge[/name]!
+
+RouletteTokenName = Rift Token
+RouletteTokenDesc0 = Use it on the orb machine to gain cute rewards!
+
+[levelspecific]
+VaultCodeName = Vault Code
+VaultCodeDesc0 = It's part of a code to a vault!
+VaultCodeRedName = Red Vault Code
+VaultCodeGreenName = Green Vault Code
+VaultCodeBlueName = Blue Vault Code
+VaultCodeYellowName = Golden Vault Code
+
+[cosmetic]
+UnknownName = ??? Cosmetic
+UnknownDesc0 = No description.
+
+KidHatName = Kid's Hat
+KidHatDesc0 = Her pride and joy.
+
+ThorHatName = Inventor's Cap
+ThorHatDesc0 = Grants a spin attack while airborne!
+
+WitchHatName = Witch Hat
+WitchHatDesc0 = Reduces your energy significantly, but also regenerates it!
+
+HolidayHatName = Holiday Hat
+HolidayHatDesc0 = A seasoned touch!
+
+KidHatBoyName = Kid's Hat
+KidHatBoyDesc0 = His pride and joy.
+
+DinoHatName = Textile T-Rex
+DinoHatDesc0 = Hear me roar! Rawwwwwr!
+
+HeadbandName = Lady Band
+HeadbandDesc0 = Float like a ladybug, sting like a ladybug. Peace out!
+
+CatBeanieName = 1-Hit Hero
+CatBeanieDesc0 = You die in one hit. Only for the brave!
+
+FuzzyHornHatName = Sleepy Sheep
+FuzzyHornHatDesc0 = Makes you feel like a lazy sheep, sitting in the sun, having a nap.
+
+RaccoonHatName = Snoozy Raccoon
+RaccoonHatDesc0 = Sleeping on top of your head, what kind of monster would wake him up?
+
+ParadeHatName = Parade Hat
+ParadeHatDesc0 = The leader that this town needs!
+
+[skins]
+SkinDesc0 = Dye the color of your clothes!
+WhiteRedSkinName = The Big Boss
+RedWhiteSkinName = The Blood Moon
+GreenOrangeSkinName = The Nutcracker
+BlueYellowSkinName = Blueberry Pie
+BlackSkinName = The Widow
+CaptainName = Captain of the Sea
+WahooName = The Big Appetite
+FreedomSkinName = The Freedom
+MarginOfNightSkinName = Margin of the Night
+GirlySkinName = Cute 'n Dangerous
+BronzeSkinName = Bronze
+GreenGoldName = The Forest Critter
+LiquoriceName = Liquorice
+MintyName = Minty Fresh
+CookieDoughSkinName = Cookie Dough
+
+[remixes]
+RemixDesc_MafiaTown0 = A new music remix has been unlocked for Mafia Town!
+RemixDesc_Subcon0 = A new music remix has been unlocked for Subcon Forest!
+RemixDesc_Trainwreck0 = A new music remix has been unlocked for Battle of the Birds!
+RemixDesc_Sand0 = A new music remix has been unlocked for Alpine Skyline!
+RemixDesc_Rift0 = A new music remix has been unlocked for Time Rifts!
+MafiaTownElectroName = Mafia Town (Electronic Remix)
+ClockTowersOrchestralName = Water Time Rift (Orchestral Remix)
+SandmobileJazzName = Sandmobile (Jazz Remix)
+MafiaBossOrchestralName = Mafia Boss (Orchestral Remix)
+MoonJazzName = The Moon (Jazz Remix)
+SubconVillageScifiName = Subcon Village (Sci-fi Remix)
+
+[weapons]
+UmbrellaName = Your Umbrella
+UmbrellaDesc0 = You got your trusty umbrella back!
+UmbrellaDesc1 = Whack boneheads with [button:attack]!
+
+[decorations]
+DecorationMatch = It's a match! You've identified a relic from this strange planet!
+DecorationSaved = This unknown relic might match with others!
+DecorationMoney = You already own this relic, so you get [number] Orbs instead!
+DecorationMystery = You sense a temporal disturbance in this room... but it's probably nothing.
+
+DecorationGenericName = Relic
+
+TrainToyName = Train Toy
+TrainToyDesc = Choo choo! Here comes capt'n me!
+TrainTracksName = Toy Train Tracks
+TrainTracksDesc = This rail would do well with a train!
+TrainSetName = Tiny Train (And Birds?)
+TrainSetDesc0 = This looks like a tiny version of the "train" the "birds" use to "get to work".
+TrainSetDesc1 = Are there tiny birds in there? Do they make tiny "movies"?
+TrainSetDesc2 = I don't have time to deal with tiny bird society!
+
+UFOName = UFO
+UFODesc = This toy is ready to use crops as its personal sketch pad!
+CowToyName = Plastic Cow Toy
+CowToyDesc = This cow looks like it's been places!
+UFOName = Mockery Of Off-Planet Life
+UFODesc0 = What the heck! Spaceships don't look like that!
+UFODesc1 = Where's the wood? Why is it sucking up cows? 
+UFODesc2 = This is insulting! I'm gonna sue!
+
+StatuePedestalName = Statue Pedestal
+StatuePedestalDesc = I've seen naked people sculpted on top of these. Eww!
+
+StatueHeadName = Statue of Me
+StatueHeadDesc = This is me! This definitely has to mean that I'm famous now.
+
+CrayonBoxName = Crayon Box
+CrayonBoxDesc = Useful for storing, uh... giant crayons, I guess?
+
+RedCrayonName = Red Crayon
+GreenCrayonName = Green Crayon
+BlueCrayonName = Blue Crayon
+
+RedCrayonDesc = Red is an alright color, but only because you need it to make purple!
+GreenCrayonDesc = Now I can finally be a vandal! Time to paint the walls green!
+BlueCrayonDesc = Blue is a decent color, but it'd never win a fight against purple!
+
+CrayonCompleteName = Tri-Color Graffiti Kit
+CrayonCompleteDesc0 = These were made for vandalism. Definitely.  Even I feel compelled to take these and draw on EVERYTHING.
+CrayonCompleteDesc1 = I can only conclude that this vandalism toolkit must be illegal.
+CrayonCompleteDesc2 = That makes this relic extra rare. If only the package hadn't been opened. Only a monster would open the package of a rare item.
+
+ToyDetonatorName = Toy Detonator
+ToyDetonatorDesc = It never ends well when these things are involved in cartoons!
+
+ToyTNTName = Toy TNT
+ToyTNTDesc = Hands up, this is a robbery! Blow open the vault! Boom! We're rich!
+
+RobotCatName = Robotic Cat Toy
+RobotCatDesc = A part of me can't wait to become an old cat lady! Cat queen!
+
+BallOfStringName = Ball of String
+BallOfStringDesc = Only a cat would find this interesting as a toy!
+
+BurgerTopName = Burger Cushion (Top)
+BurgerTopDesc = A cushion shaped like a burger. It's missing its lower sibling! Oh no!
+BurgerBottomName = Burger Cushion (Bottom)
+BurgerBottomDesc = A cushion shaped like a burger. It's missing its upper sibling! Oh no!
+BurgerCushionName = Earthling Sitting Device
+BurgerCushionDesc0 = Research concludes that this thing is very soft to sit on.
+BurgerCushionDesc1 = So soft, that the only logical conclusion is that these are the chairs of this planet.
+BurgerCushionDesc2 = It is not a snack. I tried. It tastes like fabric.
+
+[ItemQuality]
+SupporterPrefix = Supporter
+GoldPrefix = Gold
+CompletionistPrefix = Completionist

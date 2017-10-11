@@ -1,0 +1,196 @@
+[chapter3act1]
+sketch0 = Ehhhh ba ba bab![waitlong] Where do ya think yer going, lass?
+sketch1 = Yer a movie star now, lassy! We need yer ugly mug all over, so that birds from 'round the world will come to watch me movies!
+sketch2 = Here, take this pen 'n paper, and start making me a movie poster! Make yerself look tough and ready for a fist fight!
+sketch3 = Make sure to give yerself an outfit as well! It's all about the looks!
+
+sketch_done0 = Eh he he! Is that the best yer can do, then? Alright, I'll put these up!
+sketch_done1 = Go on in. We're getting ready to shoot the BIGGEST action movie in bird history!
+sketch_done2 = The movie is gonna be THE BOMB!! [wave]GWAHAHAHAHA[/wave]!
+sketch_done3 = ... And I mean bomb in the good way, peck neck!
+
+trigger_detonation0 = Alright lassy, listen up. I have some bad news!
+trigger_detonation1 = That lever you just pulled... it starts the train's self-destruct sequence, and that ain't no joke. It'll blow up!
+trigger_detonation2 = I need a movie with some REAL intense action, so that's what we're gonna do! The train's gonna blow in a few minutes!
+trigger_detonation3 = But you can save us all, lassy! Get to the switch at the front of the train to turn it off!
+trigger_detonation4 = AND YER BETTER MAKE IT IN TIME, ALRIGHT? I don't care about the owls or yerself, but you don't DARE blow up me train for real! It's my baby!
+trigger_detonation5 = The cameras are gonna be rollin' lassy, you hurry now! Go! Over and out!
+
+ending0 = You made it! And in time!
+ending1 = Oh ho ho hooo... look at all this raw footage we got![br]Look at how yer runnin' for dear life![br][wave]EH HE HE[/wave]!
+ending2 = What? We did it in the name of cinematography! ... and to beat that no-good [icon:djgrooves][name]DJ Grooves[/name]! I bet he won't be able to make HALF the movie we just made!
+ending3 = Alright here, take one of these [icon:timepiece][timepiece]thingamajigs[/timepiece] you like. You deserve it!
+
+[big_parade]
+playing_cards0 = ... wait... hold on... gimme a minute to think about me next move!
+playing_cards1 = ... uhhh... is ace the best card, or the worst card...?
+
+[deadbird]
+intro0 = This movie studio is too big for the both of us, [icon:djgrooves][name]DJ Grooves[/name]! The movie should be made by REAL birds!
+intro1 = You [name]Moon Penguins[/name] are just gonna write some loud, noisy drivel! If I wanted a bunch of peck necks to dance around while on bird seed, I'd visit me grandchildren!
+intro2 = Wha?! No we haven't, yer buffoon!
+intro3 = Oh yeah?
+intro4 = Well, this time around, we're ALSO spicing it up with our newest movie props!
+intro5 = These [icon:timepiece][timepiece]hourglass thingies[/timepiece] will be the grand jewel in our train heist western!
+intro6 = .......
+intro7 = [scream][big]WHADDA WHAT?![/big][/scream]
+intro8 = You no-good dirty peck necks! You copied our props!
+intro9 = That does it! Get outta here with ye, I've got a movie to record!
+intro10 = Oh yeah?! Let's see how well ye do when you can't get into the reception! [wave]GWAHAHAHAHA![/wave]
+intro11 = Oh wait, shutting the peck necks inside the studio will force them to work harder.
+intro12 = Alright, time to go, owls! Let's make our killer movie!!
+intro13 = Oh, and receptionist, can yer PLEASE close off that vent already? I don't want the smell of penguin to come anywhere near my crew!
+
+director_cut0 = CUT!
+director_cut1 = What. Was. THAT?!
+director_cut2 = Cut the cameras!
+director_cut3 = Who is THAT?!
+director_cut4 = Get outta my set!
+
+director_action0 = Alright, everyone, ready? Let's take it from the top, then. ACTION!
+director_action1 = Let's make this movie happen! Owls! In position! ACTION!
+director_action2 = Cameras! Lights! ACTION!
+director_action3 = Take number four thousand and sixty five! ACTION!
+director_action4 = You owls ready to record the next scene? Let's do it! ACTION!
+
+director_idle0 = Yer owls are lousy actors! Lousy!
+director_idle1 = Come on, bring a better performance than the penguins at least!
+director_idle2 = You! What are you doing!? Get back in position!
+director_idle3 = Which scene are we on? Forty-two? Because you're not supposed to be in frame for scene forty-two!
+
+outro0 = [scream][big]HEY! WHATCHA THINK YER DOIN?![/big][/scream]
+outro1 = Yer can't just jump in and fiddle with the [icon:trophy][trophy]annual bird movie awards[/trophy]! That's fraud! FRAUD! Hey everyone, we've got a FRAUDSTER OVER HERE!
+outro2 = ...
+outro3 = WHERE MY OWL GUARDS AT?! Why are the owls so darn useless?!
+outro5 = Alright, listen here, lass! Yer in big trouble. If you're helping crooked [icon:djgrooves][name]DJ Grooves[/name] rig the awards, and I can't take yer to jail, then yer gotta help me even the score!
+outro6 = That's right, yer gotta be the star of my movies, too!
+outro7 = Here, hold our [icon:timepiece][timepiece]newest prop[/timepiece], practice showing it off, and bring it to my movie set tomorrow! Yer got that? Don't be late!
+
+[murder]
+intro0=Welcome back, lassie! I haven't written the script for me next movie yet, so we're not recording!
+intro1=I'll call for yer when the script is ready.
+
+victim_reveal0 = [scream]A-a MURDER? On MY Owl Express!?[/scream]
+victim_reveal1 = I can't believe someone would murder one of the Express Owls!
+victim_reveal2 = And I can't believe even more that it's yer uncle's sister [MotherMaidenName]!
+victim_reveal3 = What do yer have to say for yerself, [MotherMaidenName]?!
+victim_reveal4 = ...
+victim_reveal5 = Yer givin' me the quiet treatment, eh?! That's what a murderer would do!
+victim_reveal6 = WHAT!? I can't even walk around in me own train!? How dare yer!
+
+mission_start0 = Those C.A.W. peck necks can't tell me what to do! I bet they committed the murder, and are destroying all the evidence!
+mission_start_evidence0 = Yer got some evidence that the murderer is ME? Hah! I laugh! Get back here when yer got ALL the facts.
+
+mission_end0 = So, who dun it?!
+mission_end1 = What! So you've done peck all to solve the case?!
+mission_end2 = Who's the murderer? Which one of you did it?!
+
+suspect_crows0 = The crows did it?!
+suspect_sciowls0 = The Express Owls did it?!
+suspect_mothermaiden0 = Ms. [MotherMaidenName] did it after all?!
+suspect_victim0 = The victim did it?!
+suspect_victim1 = Wait, does that make it a suicide?
+
+suspect_generic0 = But... why? Why murder one of the Express Owls?
+suspect_generic1 = Wuzzah what? RUBBER knife?!
+
+suspect_ending0 = Well, thanks for solving the murder, lassy.
+suspect_ending1 = Not only did you reveal the murderer, you also revealed that the victim was never harmed.
+suspect_ending2 = ... and you gave us intense footage for the movie!
+suspect_ending3 = What? You think I'd let a murder happen on MY Owl Express? Think again! It was all just a setup for my newest Owl Express movie:[br][name]Murder on the Owl Express![/name]
+suspect_ending4 = You think [icon:djgrooves][name]DJ Peck Neck[/name] will make a movie that's even remotely as good? I think not!
+suspect_ending5 = Here, take this [icon:timepiece][timepiece]thingamajig[/timepiece] and get outta here!
+suspect_ending6 = ... And yer better not star in any of [icon:djgrooves][name]DJ Grooves[/name]' movies! His movies are FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS![br]Also we've got an exclusivity deal, ya?
+
+suspect_conductor0 = ... ME?!
+suspect_conductor1 = I can't be the murderer, I'm the Conductor!
+suspect_conductor2 = What?
+suspect_conductor3 = Seriously, what?
+suspect_conductor4 = It wasn't me!
+suspect_conductor5 = Stop.
+suspect_conductor6 = Cut it out.
+suspect_conductor7 = ...
+suspect_conductor8 = ALRIGHT, FINE!
+suspect_conductor9 = It was me. I did it. There, yer happy?
+
+suspect_conductor10 = How'd you figure out it was me? I tried really hard to avoid being the villain in me own movie.
+suspect_conductor11 = The Express Owl isn't even dead, I just gave him the rubber knife and asked him to play dead for a few hours.
+
+suspect_hatkid0 = You did it?!
+suspect_hatkid1 = Why, yes, it all makes sense!
+suspect_hatkid2 = You saw the Express Owl all by himself, a lonely victim in your master scheme.
+suspect_hatkid3 = With a hatred for society and its rapididly increasing progress of transportation, you struck down the first passenger you saw.
+suspect_hatkid4 = His body laid like a mannequin, with blood spilling everywhere, and the smell... it woke your inner demons!
+suspect_hatkid5 = Then you tore off his limbs, and ate them one by one, like an animal lusting for blood.
+suspect_hatkid6 = That's how it happened, wasn't it?!
+suspect_hatkid7 = You murdered that owl in cold blood!
+
+suspect_hatkid8 = Oh.
+suspect_hatkid9 = Still, you've gone too far this time, detective! You're going to the dog house!
+
+[GearPieces]
+story_intro0 = Nice place you've got here, lass! Not bad, not bad at all.
+story_intro1 = You know, back in me old days, I used to go on adventures, just like yerself!
+story_intro2 = Wanna hear old stories from an old man? It won't give yer a reward or nuthin'.
+story_intro3 = What kinda story do yer wanna hear?
+story_intro4 = That'll be [cost] pons for a new story! What, you thought me wisdom was gonna be free? Hah!
+story_intro5 = Alright, pick a story!
+
+story_Jungle01 = Me 'n the Owl Express were heading to new territory, in search of the next Gear Piece!
+story_Jungle02 = I ventured to the deepest parts of the macaroni jungle, when suddenly, I was met with tribesmen! Lots of them! I was surrounded, kid!
+story_Jungle03 = But wait... they recognized me! They all bowed down in awe! They said I was the great bird of the west! They must've seen me movies or somethin'!
+story_Jungle04 = They brought me to their temple, and I saw the next Gear Piece in broad daylight. I knew I had to get me hands on it, but how?
+story_Jungle05 = As they led me to their worship chamber, my expectations got higher and higher, you know? I was awaiting seeing myself in golden statue form!
+story_Jungle06 = But lo and behold, you know what I saw, kiddo? A poster of [icon:djgrooves][name]DJ GROOVES[/name]! I was like, YER WHAT, PECK NECKS?!
+story_Jungle07 = And so I tore down the poster, stole their Gear Piece, 'n ran off! And that's how I got my 7th Gear Piece! Soon the Black Jewel Train will be mine!
+
+[BossBattle]
+SupportNotice0 = Lass, over here!
+SupportNotice1 = Hang in there,[br]I'll find a way to[br]defuse the bomb!
+SupportNotice2 = Me defuser is[br]ready, come here!
+
+hth_intro0 = Let's have a little heart-to-heart. Have a seat, lassie.
+hth_intro1 = Ever since yer arrived on this planet, these [icon:timepiece][timepiece]Time Pieces[/timepiece] have been falling from the sky.
+hth_intro2 = Now, I can understand if you feel they belong to you. I get it. But did yer know they can rewind time?
+hth_intro3 = With one [timepiece][icon:timepiece]Time Piece[/timepiece], I could reclaim the trophy that belongs to me! That's right, the loss of award 42!
+hth_intro4 = I got 2nd place at the [icon:trophy][trophy]42nd annual bird award[/trophy]! Me! Can you imagine? [icon:djgrooves][name]DJ Grooves[/name] managed to get the 1st place trophy!
+hth_intro5 = I need just one [timepiece][icon:timepiece]Time Piece[/timepiece] to fix this mistake. Can't you spare just one [icon:timepiece][timepiece]Time Piece[/timepiece]?
+hth_intro5_yes = Maybe?
+hth_intro5_no = Nope!
+hth_intro6a = Thank you, lassie! You won't regret it! We'll fix this little mistake in history, and go back to having a flawless record!
+hth_intro7a = Unfortunately... I can't let you leave this room. I can't risk word getting out. DJ peck neck will mock me for cheating!
+hth_intro8a = It was nice knowing you, lassie! Goodbye!
+hth_intro6b = You're a greedy young lass, aren't yer? I just need a single one, and yer won't share?
+hth_intro7b = Well, if you want this [timepiece][icon:timepiece]Time Piece[/timepiece] back so bad, come and get it!
+hth_intro9 = Remember this lil' bomb? This time it's attached to you, instead of me lovely train... [wave]eh he he he![/wave]
+
+Intro0 = Oh ho hoooo, look who we've got here! I guess yer found my lil' basement, eh?
+Intro1 = This last [icon:timepiece][timepiece]Time Piece[/timepiece] is all mine. If yer want it, yer gonna have to take it from me cold, dead hands!
+
+[award]
+intro0 = Thank you, thank you! You're too kind! No, please, keep going!
+intro1 = Oh! Lassie, it's you! I did it! I won the [icon:trophy][trophy]annual bird movie award[/trophy] once again![br]Imagine the face [icon:djgrooves][name]DJ Grooves[/name] must be pulling now! [scream][wave]EH HE HE HE![/wave][/scream]
+intro2 = Here, take this [icon:timepiece][timepiece]tiny, insignificant movie prop[/timepiece] to match your tiny, insignificant efforts in securing my victory. You can probably sell it on eBird for dimes and nickels!
+intro3 = What? You're expecting more, or something?[br]Forget it! Go! Shush! Get out of here![br]I never want to see yer ugly mug again!
+
+[finale]
+outside0 = Yer here too, lass? What is this place?! I've never broke a law in me life!
+outside1 = Whoever they are, I'm nae gonna to be judged by some...
+outside2 = [scream]MUSTACHED,[/scream]
+outside3 = [scream]HATLESS,[/scream]
+outside4 = [scream]HOOD-WEARIN',[/scream]
+outside5 = [scream]STATUE-POSIN',[/scream]
+outside6 = [scream]CASTLE-DWELLIN',[/scream]
+outside7 = [scream]TICKET-GIVIN'[/scream]
+outside8 = [scream][big]PECK NECK![/big][/scream]
+group_counter0 = That's right, get LOST! Nawone wants yer here! Isn't that right, big lad?
+mafiaball0 = Yer got it, lad. Let's give her something she can jab at that lil' red nuisance, so she'll get lost!
+mafiaball1 = Let's roll, eh he he!! Lil' girl, give us a shove right into that red lass' ugly mug!
+
+suicide0 = Hehehe... those Mafia lads... so foolishly brave. But eh, what's the point of livin' if I ain't got me train anyway?
+suicide1 = Alright [icon:djgrooves][name]DJ Grooves[/name], the two of us are gonna help this little hat lass. Get ready for a mean punch, and you aim for my face, that's me weak spot!
+suicide2 = This angry red lass needs to... GET LOST!
+
+[ending]
+hang0 = Don't you dare leave, lass!
+hang1 = We'll miss youuuuuuuuuuuuuu...!!!

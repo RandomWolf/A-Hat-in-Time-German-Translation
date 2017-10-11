@@ -1,0 +1,11 @@
+[spaceship]
+sell_intro0 = [glitch]Hi there, young one. I am from a far away land. I've seen every corner of the earth, and now I sell tiny pieces of my discoveries.[/glitch]
+sell_intro1 = [glitch]You may call me the [name]Badge Seller[/name], for I sell and trade [icon:badge]Badges. I can provide you with strong abilities and upgrades to your hat... if you have money, of course.[/glitch]
+sell_intro2 = [glitch]Have you come to make another purchase?[/glitch]
+sell_intro3 = [glitch][icon:badge]Badges are... totally "in" right now. That's what I've been told to say. So make a purchase, please.[/glitch]
+sell_intro4 = [glitch]Not everything I sell is of value. I also sell terrible [icon:badge]Badges... and yet people buy them anyway.[/glitch]
+sell_intro5 = [glitch]Welcome, young one. Please make a purchase at my humble stall.[/glitch]
+sell_intro6 = [glitch]Please disregard my twitchy behavior. My body has been to places that have left a permanent mark.[/glitch]
+
+all_out0 = [glitch]That is all I can sell for now. Take care.[/glitch]
+all_out1 = [glitch]I have nothing left to sell. Please visit me another time.[/glitch]

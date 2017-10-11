@@ -1,0 +1,22 @@
+[ThroneRoom]
+throne0 = So... it is you!
+throne1 = Ever since you landed in Mafia Town, it's been raining with these[timepiece][icon:timepiece] magical hourglasses[/timepiece].
+throne2 = You must be very lost, kid with the hat.[br]You're in the heart of our town, standing before the most powerful man you will ever witness.[br]Everything you've ever owned belongs to me now.
+throne3 = Including this [timepiece][icon:timepiece]hourglass piece[/timepiece].[br]If you want it, we'll have to settle it in true Mafia style!
+throne4 = Lights! Action! It is... showtime.
+
+[Spaceship]
+Intro0 = So... we meet again. My arch nemesis!
+Intro1 = ...[wait][scream][big]WHAT?![/big][br]You don't remember me?![/scream] How rude!
+Intro2 = It's me, Boss of the Mafia! Remember? You blew me up in our little indiscretion, and your young "friend" captured my remains in this jar!
+Intro3 = I'm without a body! I should be furious! But, it is okay. The past is the past, and I'll accept your carcass as an apology.
+Intro4 = [scream][big]YOU WON'T HAND IT OVER?![/big][br]Such nerve on such a small child![/scream] If I had hands, I would slap you!
+Intro5 = I'll just buy a new body then! There has to be some poor soul out there who would be willing to trade his corpse for money!
+
+Intro6 = I may not look like it right now, but I'm well-travelled. I know the whereabouts of all secrets on this planet!
+Intro7 = Buy my map badge, and I will show you where you can find [name][icon:relic]relics[/name] that will make you rich!
+
+NothingToSell0 = Pull out my map whenever you need to find [name][icon:relic]relics[/name]!
+
+[Finale]
+suicide0 = No, YOU'RE the bad guy! Get lost!

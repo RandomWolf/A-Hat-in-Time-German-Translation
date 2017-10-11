@@ -1,0 +1,89 @@
+[General]
+CurrentDay = Day [NumActsCleared]...
+NoEntry0 = I have no idea how to even describe what happened today.
+NoEntry1 = I'll probably just leave this diary entry blank, sorry future me!
+
+[Acts]
+// MAFIA TOWN
+chapter1_tutorial_0 = So... I am stranded. A big guy in a chef's apron and a suit knocked on my door, and decided to mess everything up.
+chapter1_tutorial_1 = Apparently they're the "Mafia of Cooks". Why couldn't I have gotten stranded near a normal planet?
+
+chapter1_barrelboss_0 = I'm not super sure what that was supposed to be? Some big loser stood around and threw barrels at me!
+chatper1_barrelboss_1 = Some even had spikes on! Who has spiked barrels????
+
+mafiatown_goldenvault_0 = Y'know, I've been seeing these tickets all around Mafia Town. Blue, Red, Green, Yellow - they're kinda pretty! I HAVE been wondering where they all go though.
+mafiatown_goldenvault_1 = And I've been wondering what the Mafia could be keeping inside those things too! Well, today's the day I'm gonna find out!
+
+harbor_impossible_race_0 = Ha! That'll show these dumb Mafia guys how outdated single-stage powder-based incediary propulsion is.
+harbor_impossible_race_1 = Winning fairly is overrated, anyway.
+
+chapter1_boss_0 = No wonder these guys are so dumb if that's who they put in charge! 
+chapter1_boss_1 = I guess nobody is the boss now though... whoops.
+
+chapter1_cannon_repair_0 = Wow. And I thought the regular Mafia were weirdos. 
+chapter1_cannon_repair_1 = At least he had a [icon:timepiece][timepiece]Time Piece[/timepiece] I could take! How do they keep finding these things...
+
+mafiatown_lava_0 = It's... so... HOT! Something seriously wrong has happened to the Island; it looks like a huge Volcano went off!
+mafiatown_lava_1 = The Mafia guys are too big and tough to admit it, but the heat is definitely getting to them. Mafia guys get way smelly when they sweat... well, way smellier.
+
+// SUBCON FOREST
+subcon_cave_0 = I thought I saw some weird Tower poking out from between the trees in the gross Swamp, but it turns out it's a big old Well. The Snatcher told me so!
+subcon_cave_1 = At first I thought he was just being nice, telling me neat stuff to look for... but then he told me I'm gonna have to go down there where it's smelly and dark! Shouldn't grown-ups usually be keeping kids OUT of wells or something?
+
+subcon_village_icewall_0 = Uhhhh what is this place??? There's spiders and ghosts and a big creepy creepy grinning... person? Thing??
+subcon_village_icewall_1 = They said they were gonna kill me but then made me sign some paper instead? And I think he took my soul or something? Say whaaaaaat.
+
+subcon_maildelivery_0 = I don't get it? He seems super creepy and menacing but he wanted me to deliver mail?
+subcon_maildelivery_1 = I have a really bad feeling about this, but he won't give up his [icon:timepiece][timepiece]Time Pieces[/timepiece] unless I do his weird contracts...
+
+chapter2_toiletboss_0 = A Toilet. A... toilet. A TOILET! Why is there a smelly dumb gross toilet in the Forest, and why do I have to deal with something so smelly and dumb and gross!?!
+chapter2_toiletboss_1 = That Snatcher is such a jerk! Why do I have do this? I DON'T WANT TO TOUCH A TOILET!
+
+vanessa_manor_attic_0 = That Snatcher guy is such a jerk! Ugh! This stinks - now I need to go STEAL something "of his" from some old lady's attic?
+vanessa_manor_attic_1 = What's an old lady doing living in this spooky forest anyway? Wait... she's going to be creepy, isn't she? Old people already creep me out...
+
+snatcher_boss_0 = THIS GUY!!!! I do his dumb jobs and then he tries to double-cross me???
+snatcher_boss_1 = I beat him up and now he just wants me to go away, but he also like, can't make me, so whatever.
+
+// BATTLE OF THE BIRDS
+DeadBirdStudio_0 = I just met the strangest group of birds I have ever seen. Ever. One is a big [icon:djgrooves][name]disco penguin[/name], and the other is a... uh... [icon:conductor][name]bird-ish  thing[/name]? Is he even a bird? I have no idea. Birds don't usually have teeth, but this guy does. It's creepy.
+DeadBirdStudio_1 = They're "fighting" to see who can make the best movie. That's in quotes because no one really seems to want to fight, except the [icon:conductor][name]Conductor[/name].
+
+chapter3_murder_0 = Y'know, there's a lot of creepy... crow... type... things getting on this train, too. Actually, everyone getting on is acting real funny, even the Owls. And they're harmless nerdy guys!
+chapter3_murder_1 = I feel like something bad might happen since it feels so freaky, but the [icon:conductor][name]Conductor[/name] is definitely, um, how do I put this? "Loud"? "Pushy"? How about... "persuasive". Anyway, gotta go catch a train!
+
+moon_camerasnap_0 = Ohmygosh!!! That big [icon:djgrooves][name]Penguin DJ[/name] said I could be a STAR!!! I wonder if he means like a pop star... Wait. Do I have to learn how to sing? Maybe an internet star-- no, no, a MOVIE star!
+moon_camerasnap_1 = [icon:djgrooves][name]DJ Grooves[/name] says he's going to take care of all of that stuff, I just have to show up on set, and I'm gonna be famous! I can't wait... I just hope I don't have to sing.
+
+trainwreck_selfdestruct_0 = Every time I'm around the [icon:conductor][name]Conductor[/name], I can hear him mumbling about his movie. I think he's trying to figure out some big, huge, impressive, exciting, AMAZING thing to do with his train.
+trainwreck_selfdestruct_1 = I mean, OK, [wave]maybe[/wave] his movie could use more action or something. Like, um... uh... I actually have no idea what he could do. Being a movie director must be hard.
+
+moon_parade_0 = This moon set sure is getting busy! There's so many penguins showing up! And some are bringing balloons! And there are these floats that are SUPER BIG! Everything is looking so pretty!
+moon_parade_1 = [icon:djgrooves][name]DJ Grooves[/name] said they're all here for me too! I can't let everybody down; I don't know what we're going to do next, but I know I have to try my best for all of my fans!
+
+award_ceremony_0 = I'm so excited! There's going to be a big fancy awards show and I get to go! I mean, I think I'm excited! I mean... I wonder if I helped the right bird win?
+award_ceremony_1 = All the birds were really nice and the movies were sooo cool! So... I just... wonder... ANYWAY, I'm super excited to see the award! Oh, also the [icon:timepiece][timepiece]Time Piece[/timepiece], hehe.
+
+chapter3_secret_finale_0 = What is it with people on this planet double-crossing me? I'm not dumb!
+chapter3_secret_finale_1 = That's the last time I get involved in show business for a long time.
+
+//ALPINE SKYLINE
+Alps_Birdhouse_0 = That... was a really big bird cage. And a really big bird!
+Alps_Birdhouse_1 = It looked kinda too big to fly. Or move. But it was cute!
+
+AlpineSkyline_WeddingCake_0 = so hot. too sweaty to write properly. why is there a cake made of lava?????
+AlpineSkyline_WeddingCake_1 = i hope the next [icon:timepiece][timepiece]time piece[/timepiece] fell somewhere cold. 
+
+Alpine_Twilight_0 = I think I saw some ghosts today? Goat ghosts? 
+Alpine_Twilight_1 = I don't know where that bell took me, but it certainly wasn't somewhere I was supposed to be.
+
+AlpineSkyline_Windmill_0 = I think I need to lie down. Why'd it have to land at the top of that windmill?
+AlpineSkyline_Windmill_1 = That thing was huge! Why would you build anything that big?
+
+AlpineSkyline_Finale_0 = What the heck was all that about? Those nasty plants flowered and infected the big goats or something?
+AlpineSkyline_Finale_1 = All I know is they got REAL angry and things got REAL stormy and it was a bad time for everyone.
+
+act2a = Someone died today. But not really. It was ketchup.
+act2b = Turned out it was all a movie...
+act3a = I AM A DIVA O M G
+act3b = BOW TO ME

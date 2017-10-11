@@ -1,0 +1,15 @@
+[mafiacombat]
+jumpsurprise0 = [scream]WHAT THE...?![/scream]
+jumpsurprise1 = [scream]HOW DID YOU...?![/scream]
+jumpsurprise2 = [scream]YOU CAN JUMP?![/scream]
+jumpsurprise3 = [scream]I'M SO CONFUSED![/scream]
+jumpsurprise4 = [scream]OW! MY HEAD![/scream]
+
+movepredict0 = Ha ha!
+movepredict1 = Got you all figured out!
+movepredict2 = Child is predictable!
+movepredict3 = That's all you got?
+
+teleport0 = What? Where am I?!
+teleport1 = Hey, it's that girl!
+teleport2 = What's going on?!

@@ -1,0 +1,264 @@
+[chapter1act1]
+doublejump0 = Did fellow Mafia watch TV last night? Confusing science owl say small people can [hint]jump double in air[/hint].
+doublejump1 = I saw. This makes Mafia uncomfortable with body. Must go work out.
+doublejump2 = Did fellow Mafia see Crazy Cat Cooking Show?
+doublejump3 = No. What he cook?
+doublejump4 = He cook pasta... with brussels sprouts.
+doublejump5 = Gross! Even thinking of combination make Mafia want to vomit!
+
+punch0 = Today I punch barrel dressed as old lady. It makes people scared of Mafia.
+punch1 = Life of Mafia is good.
+punch2 = Sometimes Mafia forget if he supposed to punch barrel or old lady. So he do both.
+
+seagull0 = Seagull eat fish, but fish belongs to Mafia. We punch seagull for not respecting Mafia.
+seagull1 = Seagull say, "No punch, I have child!" Mafia punch seagull with child.
+seagull2 = Stupid seagulls. All they do is stand around. Just like Mafia! Copycats.
+
+road0 = All roads lead to Mafia. Not good, big immigration problems.
+road1 = We fix this by moving to island. Now no road lead to Mafia.
+road2 = Downside of living on distant island: stuff take forever when order online.
+road3 = It come by small boat, but every time it come, we shoot. After while, boat stop coming.
+road4 = Sometimes Mafia want to try something other than fish, but everything far away.
+road5 = Mafia starting to question why Mafia move here.
+road6 = Mafia not even like fish.
+
+geyser0 = We build base on giant geyser. You ask, "How this done?" but we not tell.
+geyser1 = If we tell, you try to build base like us, but base turns out puny.
+geyser2 = By not telling, you avoid miserable fate. Mafia does you a favor. Now you owe Mafia favor.
+geyser3 = Child with hat better remember that she owe Mafia. If she forget... he he he... Mafia make sure she remember.
+
+steal0 = Yesterday I saw family. I say to family, "I take everything now."
+steal1 = Family beg for Mafia not to take everything. Mafia say it is joke. Mafia funny.
+steal2 = But real joke is Mafia take everything anyway.
+steal3 = Mafia not cruel. Mafia give good replacement for old family home.
+steal4 = Small raft on sea! Is close to water. Has good view. Not even need to go to market when fish below.
+
+hardwork0 = Life of Mafia is hard work. People no appreciate dedication to job.
+hardwork1 = Yesterday, Mafia wake up not feeling like punching. See? Even Mafia job is hard.
+
+submarine0 = Mafia try to build city underwater, but Mafia cannot hold breath for more than minute.
+submarine1 = We make Mafia submarine to build water city, but is boring. More fun to eat people with submarine.
+
+sonstrong0 = I tell son, "You punch people when big and strong." But Mafia know son never become big and strong.
+sonstrong1 = Mafia heart is broken.
+
+scienceowl0 = Mafia see owl with science coat. Mafia ask, "You make science?" Owl say words Mafia no understand.
+scienceowl1 = Mafia punch confusing owl.
+
+drunksleep0 = ZZZZZZZZZZZZZZZZZZZZ....
+drunksleep1 = N-no... it about to rain... Mafia no umbrella...
+drunksleep2 = Mafia hate water... n-no... zzzZZZZZzz...
+
+livethousand0 = Mafia live here for thousand years. Mafia no remember what place look like before Mafia.
+livethousand1 = Mafia not remember what happened to old island people. Only thing Mafia remember is they make good cannon balls for town cannons.
+
+dumb0 = People say Mafia stupid, but Mafia not stupid! Mafia graduate university. Mafia has PhD in Mafia!
+
+secretitem0 = Little girl see thing over there?
+secretitem1 = Mafia wonder if there is way to get... but Mafia no time to search for entrance if Mafia need to stare.
+secretitem2 = Little girl got item? But... but how? You must tell Mafia!
+secretitem3 = Mafia need to know. Spot perfect for hide-and-punch.
+
+
+eatfood0 = Mafia cook food for all of city, not just Mafia. We help everyone.
+eatfood1 = [scream]Ha![/scream][waitlong] Mafia funny. Is joke. We eat all.
+
+mugirl0 = Mafia see girl in red. Girl say Mafia bad and try attack, but Mafia throw her into ocean.
+mugirl1 = Mafia laugh at angry wet girl.
+
+clock0 = Mafia take clock tower from distant island.
+// Below needs voice acting
+clock1 = But Mafia not actually care about time, so tower is useless!
+
+goldtie0 = Mafia buy golden tie from bazaar. Very proud.
+goldtie1 = Mafia work hard for 20 years! Earn money to buy golden tie!
+
+vaults0 = Vaults around city belong to Mafia. No touch!
+vaults1 = Ha ha! Mafia joking. Child can't open vault. Vaults secure with code.
+vaults2 = [small]Wait... Mafia code not in pocket... uhm...[/small]
+vaults3 = [small]...where did Mafia put vault code...[/small]
+
+boatride0 = Little girl want to ride boat? Hah! Hop on, boat ride very safe! [small]*cough*[/small]
+
+cave_restricted0 = Cave off limits. Boss orders.
+cave_restricted1 = Child can't enter cave. Boss orders.
+cave_restricted2 = No one allowed into cave.
+
+cave_restricted_lazy0 = Just... don't enter cave. Please.
+cave_restricted_lazy1 = Leave Mafia alone and stay away from cave. Don't make Mafia have to get up.
+cave_restricted_lazy2 = Keep distance to cave, ma'am. Don't even think about it.
+
+[milkman]
+intro0 = Look around you. See how strong and full of energy Mafia is? All thanks to milkman.
+intro1 = Without milk two times a day, Mafia is nothing.
+intro2 = Milk already delivered for today, but Mafia will need milk delivered later tonight.
+intro3 = Come see me tonight and we can deliver milk.
+
+[chapter1combat]
+intro0 = Hey! Child! Shoo! Mafia can't have child witness when Mafia teaching lesson. 
+intro1 = This awkward for Mafia! Mafia not sure what to do.
+intro2 = Boss, what do we do with eyewitness?
+boss_intro0 = Teach her lesson, boys!
+wake0 = Come to papa Mafia!
+wake1 = Why you little...
+wake2 = I'm gonna take you down!
+wake3 = No child will be in the way of Mafia!
+boss_wake0 = [scream]ENOUGH![/scream]
+boss_wake1 = Mafia won't bow to little girl! Prepare to feel Mafia's wrath!!
+
+barrelthrow0 = See if girl can[br]handle this barrel!
+barrelthrow1 = Heads up,[br]little punk!
+barrelthrow2 = Stand still!
+barrelthrow3 = Do not think[br]about avoiding[br]barrels!
+
+boss_godown0 = This lead nowhere! Mafia need take care of this Mafia style.
+boss_godown1 = Prepare to feel what Mafia do to old ladies!
+
+[chapter1bullying]
+scream0 = Eat dirt!
+scream1 = Bow to Mafia!
+scream2 = Ha ha!
+scream3 = Take this! And this!
+scream4 = Take this! And that!
+scream5 = Feel the pain? Good!
+scream6 = Mafia just help you build character!
+
+[bazaar]
+balloon_intro0 = This shop? Not open.
+balloon_intro1 = Shop only purchase rare ancient items, and no one seen rare items in years.
+balloon_intro2 = Ancient riddle says: "When balloons invented, look out for [clue]balloon in sky[/clue]."
+balloon_intro3 = But riddle too complicated for Mafia to understand.
+balloon_intro4 = If little child with hat see ancient balloon? Come here.
+
+balloon_gotone0 = Wait, child has tablet? No way!
+balloon_gotone1 = It is said in ancient history: [clue]six tablets[/clue] needed for ancient magic.
+balloon_gotone2 = Child come back when child have six, and Mafia combine tablets for child.
+
+trade_ties_intro0 = Hey child.
+trade_ties_intro1 = You look like smart girl. Real clever.
+trade_ties_intro2 = Are you clever?
+trade_ties_intro_yes = The cleverest!
+trade_ties_intro_no = Not in particular!
+trade_ties_intro_a0 = Of course you are. Mafia can see it in eyes. You more clever than normal people.
+trade_ties_intro_b0 = Maybe Mafia misjudged child. Maybe you not sharpest fish in freezer. But can change.
+trade_ties_intro3 = Mafia sell ties. But also buy ties. You understand?
+trade_ties_intro4 = Sell man a tie and he looks fine. Fine man don't buy ties.
+trade_ties_intro5 = Man needs to lose tie to keep buying. But how tie disappear? Mafia not ask questions. You understand?
+trade_ties_intro6 = Mafia buy ties from you. You give Mafia ties from fine man. Fine man comes back.
+trade_ties_intro7 = You understand now, yes? You smart. Bring me [name]Mafia Ties[/name] and [clue]in return you get item[/clue].
+
+trade_ties_sale0 = Hey child. You came with ties, yes?
+trade_ties_sale1 = Welcome back. You brought Mafia ties?
+trade_ties_sale_noitem0 = Item for trade: No item. Out of stock.
+trade_ties_sale_noitem1 = Mafia blame economy. Come back later and Mafia have item.
+trade_ties_sale_badgepart0 = Item for trade: Badge part. Combine all to put on hat. Is cute.
+trade_ties_sale_badgepart1 = Mafia not sure what combined badge do. Mafia not nosy, none of Mafia business.
+
+generic_shop_notopen0 = Mafia still setting up shop, not open. Even when open, child not welcome!
+
+tunnel_block0 = Mafia say, keep eye out for tunnel. Maybe something interesting appear later?
+tunnel_block1 = Hah! Mafia just kidding. Nothing interesting ever happen here.
+
+[shops]
+fruitbar0 = This? Fruit bar. Or is it? [wave]He he he[/wave].
+fruitbar1 = Fruit bar will not sell to you. Only sell to... certain people.
+
+boat_ticket_island0 = Mafia sell tickets for boats to faraway island.
+boat_ticket_island1 = But... tickets out of stock. Come back later.
+boat_ticket_island2 = Mafia already tell child that tickets out of stock. Scram!
+
+[muchase]
+MuTower0 = Hey! Little girl! You suck!
+MuTower1 = Come down here! We can throw you into river again! [wave]Ha ha ha[/wave]!
+run_by0 = Hey! Watch where you going.
+
+[blackmarket]
+guard0 = Halt! Childs not allowed in black market.
+guard1 = Black market is Mafia exclusive!
+
+[chapter1act4]
+intro0 = Weren't us, bub. We ain't done nothin'.
+intro1 = All we did was dump stuff into the water, boss orders. Said it cooled down the mountain.
+intro2 = But now that we aren't allowed in there no mo', we can't dump our stuff.
+beach1 = I tell you what, it's kinda nice here with the heat.
+beach2 = It's too bad about the beach being covered in boiling lava, though...
+sign0 = Now that we no longer work for boss, we got new job now.
+sign1 = We weather forecast. Today's weather: bad. Too warm. End of world? More at 11.
+sign2 = People want news in one word. People no time for small talk.
+sign3 = My bro running faulty business, he use two words. Too much.
+kickbad0 = Kicking us outta business was a bad move, child. This town needs a bully or everyone is too nice!
+kickbad1 = Ya know what a nice town wouldda be? Boring. No spice in the pasta.
+magic0 = This only water in town, and my magic illusion make it untouchable! What have I done!
+magic2 = Who knew that my weakness would be my own abilities!
+magic1 = [scream]NOOOOoooooo....[/scream]
+chef0 = Volcano lava good source for cooking!
+
+[hq]
+rude_jeer0 = Little girl shoo! This is Mafia base!
+rude_jeer1 = Mafia take not kindly to intruders!
+rude_jeer2 = Go home with you!
+lobby0 = You should leave! This no place for little girl.
+lobby1 = Most places not for child, but especially here.
+lobby2 = If small child get gambling problem it her own fault.
+lobby3 = These roulette tables purely for looks. No gambling here.
+lobby4 = Mafia only tell the good truth. No illegal things happening at all.
+bar0 = What's troubling you, little girl? Mafia not know what child drink.
+bar1 = Whatever problem is, Mafia sure you can deal with it.
+bar2 = You look like tenacious type, not leave problem alone.
+bar3 = Other little girl run into kitchen, if you are looking for her. 
+bar4 = She look like unruly type. Keep eye on her. 
+
+
+[spaceship]
+flyingboat0 = What is this, flying boat?
+flyingboat1 = All boats need to[br]pay toll in[br][name]Mafia Town[/name].
+flyingboat2 = ...even[br]in space!
+flyingboat3 = Mafia come in[br]to collect.
+
+[cheating_race]
+intro0 = Haha! Rockets are fast, and if Mafia on rocket, Mafia is fast! Fastest man alive!
+intro1 = Little child want to race fastest man alive? Mafia stole [icon:timepiece][timepiece]Time Piece[/timepiece] from HQ. If you win, Mafia give it to you.
+intro2 = Little child sure? You look very slow, maybe come back later when child can travel faster?
+intro3 = It is on! Mafia not sure Mafia survive this, but at least Mafia die as fastest man alive!
+intro_a = Race me, chicken!
+intro_b = Bye, loser!
+intro_c = Race me already!
+
+[sell_decoration]
+intro0 = Little child! You! Yes, you! You want to give Mafia money, yes? Of course you do!
+intro1 = Mafia need money... fast! You got money? You buy Mafia's dearest belonging.
+intro2 = Mafia dearest belong is... uh... [name]burger cushion[/name]! Yes, finest [name]burger cushion[/name] in town! 
+intro3 = So please buy, or Mafia may be having bath time with little fishies.
+deny0 = Why, why not buy from Mafia!? Mafia really need money, please buy!!
+retry0 = Please buy! Please buy! Mafia really need money!!
+accept0 = Thank you! Mafia will spend money carefully. At secret gamble room.
+
+[cave_dreams]
+rules_explained0 = Hello, little child. This is Mafia time rift. [timepiece][icon:timepiece]Time Piece[/timepiece] hit Mafia in head, and now time rift filled with Mafia thoughts and dreams.
+rules_explained1 = This time rift is simple. Simple like Mafia, just how Mafia like it.
+rules_explained2 = Rules of time rift: If you die, you start over. You need [treasure][icon:treasure]Rift Pons[/treasure] to go deeper.
+rules_explained3 = That is all the rules. Please tread carefully in Mafia time rift. Mafia like to experience past.
+
+orbs_preserved0 = Has little girl noticed that unspent [treasure][icon:treasure]Rift Pons[/treasure] are kept each floor? No need to get every single pon.
+orbs_preserved1 = Good luck! Mafia has [hint]opened entrance to next floor[/hint] for you!
+
+[finale]
+outside0 = This just like time island [br]covered in lava. Only, [br]different.
+outside1 = Mafia do nothing to deserve this! Mafia relax and live on island time. It 5 o'clock there, always.
+outside2 = Mafia not like to be [br]judged. Make anxious. [br]Sweat through suit.
+outside3 = Not sure if being [br]judged on crime or [br]cooking. Not sure [br]which is scarier.
+plea0 = I didn't punch old man for like, 2 days straight that one time!
+group_counter0 = [scream]SHE CAN GET LOST![/scream]
+group_counter1 = Mustached girl is not welcome here. Mafia say, get lost!
+mafiaball0 = Little hat kid can't even hit evil mustached girl! We have to help!
+
+suicide0 = Oh... when Mafia explode, Mafia drop [icon:health][name]Pons[/name]... this gives Mafia an idea!
+suicide1 = Little hat girl need help to turn back time. If Mafia explode, little hat girl get useful [icon:health][name]Pons[/name]. Mafia has to explode to save world!
+suicide2 = What?! Plan is crazy!
+suicide3 = Fellow Mafia no worry. If little girl succeed, Mafia come back when time rewinds! Now... punch me with all your might, fellow Mafia! No hesitation!
+suicide4 = [scream]Red-hooded[br]girl...[br]GET LOST![/scream]
+suicide5 = Hat girl, here! Take these!
+
+[ending]
+hang0 = Don't leave us!
+hang1 = We'll miss youuuuuuuuuuuuuu...!!!

@@ -1,0 +1,48 @@
+[guides]
+SubconWell0 = [hint]Subcon Well[/hint][br]is this way!
+Manor0 = [hint]The Manor[/hint][br]is this way!
+EyeBlockade0 = It sure has its [hint]eye[/hint] on something, huh?
+Swamp0 = I've got a real [hint]sinking[/hint] feeling about this [br]place... get it?
+BigTree0 = I bet the view from on top of that [hint]big tree[/hint] is pretty good!
+BigTree1 = Not far to go, kid! 
+BigTree2 = It'd probably be really [br]painful if you fell [br]from this high.
+Ice0 = These dwellers are so [br]hard to talk to. 
+Ice1 = Maybe you could [hint]break [br]the ice[/hint] with them for us?
+Graves0 = I hear there's money to be made in [hint]gravedigging[/hint]!
+Mushroom0 = Some of these [br][hint]mushrooms[/hint] bounce [br]you pretty high! 
+Mushroom1 = There's a joke here, [br]but I don't think a kid [br]would get it.
+Noose0 = These ropes will give you [br]a lift, if you have a safe [br]way to [hint]hang[/hint].
+House0 = Is that a [icon:yarn] up there? 
+House1 = Maybe some [hint]branches[/hint] [br]nearby haven't burned [br]up yet.
+Fruit0 = You know the soft part [br]of fruit is sometimes [br]called the flesh? 
+Fruit1 = Don't go giving bodies to any [hint]upset spirits[/hint], kid! 
+DwellerPlatform0 = They say if you ring [br]certain [hint]bells[/hint]... 
+DwellerPlatform01 = ...Objects from [shake]other[/shake] [br][shake]dimensions[/shake] come [br]into focus!
+DwellerPlatform1 = Those poor [hint]dwellers[/hint] can't [br]stand on things like this. [br]They [hint]pass right through[/hint]!
+Spider0 = Those [hint]spiders[/hint] don't have [br]any trouble staying above the swamp...
+Trees0 = Don't forget to [hint]look up[/hint]! [br]There's a lot happening up in these trees.
+Welcome0 = Found your way here [br]already? That's a shame.
+Statues0 = Aren't these statues nice?
+Fire0 = Be careful, kid! [br]There's a bit of a fire over here.
+Village0 = Shame all these houses are empty, now.[br]It's free real estate!
+Trap0 = Hey, kid! [br]Stand in this thing! [br]It's safe!
+ScooterWall0 = There's more[br][hint]mail receivers[/hint] behind[br]the fire wall...
+ScooterWall1 = You need to[br]find the [icon:painting][name]Fire Spirits[/name][br]to break this wall!
+
+
+ 
+[manor]
+limitations_alert0 = Hey, newbie! Boss told me to remind you, uhhh... you signed that paper about not using your hats while in the manor.
+limitations_alert_alt0 = Hey, newbie! Boss told me to, uhhh, tell you that all hats are off-limits in here or something.
+limitations_alert1 = Yeah. Don't use them. Thanks.
+
+[finale]
+outside0 = Try not to fall [br]in any lava, kid!
+outside1 = This isn't my menacing, oppressive home!
+outside2 = Since when is being [br]spooky a crime?
+inside0 = Watch your step, kid!
+inside1 = I can smell chicken!
+
+[sneakyhiddenstuff]
+book0 = It's a large heavy book, titled 'Proof of Ethical Consumption Under Capitalism'.
+book1 = The pages are all blank.

@@ -1,0 +1,11 @@
+[bookstore]
+exit0 = Thank you!
+
+[chapter1]
+freed_civ0 = You're free!
+freed_civ1 = All clear!
+freed_civ2 = Suckers!
+decline_offer0 = You suck!
+decline_offer1 = Bah!
+decline_offer2 = Nu-uh!
+hi_five0 = Yeah!!

@@ -1,0 +1,86 @@
+[murder]
+IntroMaidenName0 = Why, hello there, fellow owl. I don't believe we've had the pleasure of meeting?
+IntroMaidenName1 = As you can tell, I am also an Express Owl. I do much hooting.
+IntroMaidenName2 = From one owl to another, we can share details, yes? What is your uncle's sister's maiden name?
+IntroMaidenName3 = Oh, it is [MotherMaidenName]? I see, I see. This is the kind of uncle's sister's maiden name I would expect from a fellow Express Owl.
+IntroMaidenName4 = I hope I can meet [MotherMaidenName] some day, as us Express Owls enjoy meeting the family of our fellow owls.
+
+BlackboardHelp0 = Hello, fellow Express Owl. I am stuck on an advanced mathematical and scientific issue.
+BlackboardHelp1 = Do you see this advanced formula on the blackboard? I cannot decipher it.
+BlackboardHelp2 = Can you decipher the scientific formula for me? What does it say?
+BlackboardHelp3 = I see! The solution is [BlackboardSolution]! It was obvious! Thank you, fellow Express Owl.
+BlackboardHelp4 = And thank you for agreeing to the terms and conditions on the back side of the blackboard.
+
+Pet0 = Did you know that having a pet helps improve self-confidence and relieves stress?
+Pet1 = Did you also know that pets can have pets? It is true!
+Pet2 = Unfortunately, us Express Owls are not allowed to have pets. It is a sacrifice we must make in the name of hooting.
+Pet3 = But, if you had a pet, what do you think the name of your pet's childhood pet would be?
+Pet4 = [PetName] is certainly an interesting name for a pet. Even for a pet's pet.
+
+Password0 = Hello, fellow Express Owl. Do you care about security? I care about security a whole lot.
+Password1 = You should not be going around telling information to strangers. It could be a security risk!
+Password2 = I can help your daily life become more secure. What is your favorite combination of letters and numbers?
+Password3 = I see, I see. [FavoritePassword] is also my favorite combination of letters and numbers.
+
+Username0 = Fellow Express Owl, do you ever wonder what it would be like to be a superhero?
+Username1 = The most important feature of a superhero is the name. Every superhero needs an intricate name to their fame.
+Username2 = If you were a superhero, what would your name be, if entered in an online form with standardized account identification requirements?
+Username3 = That name is great! I can already imagine it: the mighty [SuperheroName], savior of justice!
+Username4 = I'll just write your answer down here, real quick...
+
+PrivatePart0 = Us Express Owls all have a part of our body we're ashamed of. This is why some owls choose to pluck their feathers.
+PrivatePart1 = Which body part of yours are you the most ashamed of,[br]fellow Express Owl?
+PrivatePart2 = Oh, poor Express Owl, you shouldn't be ashamed of your [BodyPartName]!
+PrivatePart3 = But you'd better get your [BodyPartName] checked out by a doctor. I read online it could be a sign of bird flu.
+PrivatePart3b = But you'd better get your [BodyPartName] checked out by a doctor. I read online your [BodyPartName] could become infected with bird flu.
+
+Victim_Reveal0 = Leave this case to us.
+Victim_Reveal1 = We're CAW, the [name]Crow Agent Watch[/name].[br]We've been monitoring everyone on this train[br]since the last station.
+Victim_Reveal2 = We'll be [hint]searching the entire train for evidence[/hint]. No one is allowed to go outside of this wagon.
+Victim_Reveal3 = Once the [hint]clock hits midnight[/hint], we'll get off at the station with the murderer in cuffs.
+Victim_Reveal4 = Stay here while we investigate further.
+
+mission_end0 = We don't know.
+mission_end1 = We couldn't find any conclusive evidence. We have no idea who murdered this owl.
+
+suspect_crows0 = ...
+suspect_crows1 = It's true.
+suspect_crows2 = Look, there isn't a lot of bird-related crime going on. Us CAW agents were gonna be out of work in weeks!
+suspect_crows3 = You can't imagine how crammed it is for several dozen birds to live in a single one-room apartment!
+suspect_crows4 = We needed some crime to solve in order to get paid! So we stabbed him with the rubber knife and left him for dead.
+
+CafeteriaChatter0 = so I said to her,[br]don't go into the store
+CafeteriaChatter1 = there was way too[br]much sauce on the pizza
+CafeteriaChatter2 = it didn't even matter[br]what he said anyway
+CafeteriaChatter3 = because he was missing[br]one of his feathers
+CafeteriaChatter4 = and the owls don't like[br]to give their blueprints
+CafeteriaChatter5 = even if there was[br]a giant fire
+CafeteriaChatter6 = right as he was[br]about to sneeze
+CafeteriaChatter7 = but has anyone[br]noticed we all[br]wear the same coat?
+
+BodyPartChatter0 = she said she was[br]ashamed of her [BodyPartName]
+BodyPartChatter1 = you should have seen[br]her ugly [BodyPartName]
+BodyPartChatter2 = the little girl had[br]the ugliest [BodyPartName]
+BodyPartChatter3 = I've never seen such[br]terrifying [BodyPartName]
+BodyPartChatter4 = I asked her[br]about her least[br]favorite body part
+
+[spaceship]
+visit0 = Why, hello fellow space travelling child. I am also a space travelling child. I do much space travel.
+visit1 = From one space travelling child to another, we can share details, yes? What's the secret of the [icon:timepiece][timepiece]Time Pieces[/timepiece]?
+visit2 = Why, yes, of course! And as a fellow space travelling child, I of course know what that means and entails.
+visit3 = As a token of appreciation, please take this item, which is surely of value for us space travelling children.
+visit4 = I must be off. Us space travelling children are always on the run. It was nice meeting a fellow space travelling child.
+Idle_mafiaboss0 = As a fellow space travelling child, I do not understand how a man in jar can live without organs and body parts.
+Idle_mafiaboss1 = It perplexes and confuses me, but I am enticed to figure out the answer. Such is the life of a space travelling child, such as myself.
+Idle_vault0 = Hello, fellow space travelling child. As a space travelling child myself, I am clumsy and forgetful. I seem to have forgotten the combination to this giant vault of ours.
+Idle_vault1 = I know, it is very clumsy of me. Can you remind me of the combination? No?
+
+[finale]
+outside0 = Greetings, fellow [br]alleged criminal. There [br]are very many of us.
+outside1 = We are all here for crimes. Allegedly. What alleged crime did you commit, fellow criminal?
+outside1a = What legal term would you use to describe your crime?
+outside1b = I see. So this is the face of [Crimes].
+outside2 = This is perplexing. Why have we birds been gathered here? Do you know, fellow criminal?
+inside0 = My fellow criminals [br]have not re-emerged from [br]the lava. Very strange.
+inside1 = We criminals can [br]feel relief we have not[br] committed [Crimes].
+suicide0 = Get LOST!

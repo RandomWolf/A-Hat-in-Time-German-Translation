@@ -1,0 +1,24 @@
+[camera_unlock]
+CameraStolen0 = That darn seagull over there took my camera!
+CameraStolen1 = I wouldae donne belly dive over there with [button:duck], but this belly is too precious for sliding on!
+
+CameraRetrieved0 = You got my camera? Wow, thanks, kid! But I've actually got a ton of cameras in reserve. I don't need it.
+CameraRetrieved1 = I was just looking for an excuse to yell at seagulls. You can keep it.
+
+[mafia_town]
+TownIsSoBig0 = This town is so big! The attractions are pretty cool,[br]but I'll tell ya kid, nothing beats going to the moon!
+
+[finale]
+inside0 = I think this jump is a [br]bit much for me and [br]my camera...
+cameras0 = Y-you're right! I'll use my camera! Let's go!
+touristexterior0 = Look, kid, I gotta be frank. Of all the places I've been visiting, this is unquestionably the worst.
+touristexterior1 = You've gotta go in there and show that girl who's boss[br]so that I can get back on the moon![br]The moon was much more fun than this!
+touristexterior2 = I believe in you, kid.
+
+[moon]
+moon0 = The moon is pretty alright, kid. It feels great finally being here after all these years!
+moon1 = But that darn Steve from work sent me a postcard from the sun! He says it's great! [br]I can't believe that guy, always trying to one-up me!
+
+[subcon]
+touristsubcon0 = This is alright. I can see myself having a picnic here.[br]Still, it's no moon.[br]Gotta get up there so I can send a postcard to Steve from work.
+touristsubcon1 = Steve from work went to the moon last spring. He said it was great.[br]Darn Steve. He always has to one up me.[br] I'll show him with a postcard from the moon!

@@ -2,35 +2,35 @@
 SystemSetting_DefaultValue = Default:
 SystemSetting_Value_Checked = Checked
 SystemSetting_Value_Unchecked = Unchecked
-SystemSetting_Requires_Restart = This setting requires a restart to take effect.
-SystemSetting_ArtStyle_Warning = Warning: The art style of the game was designed with this feature on. Turning it off provides very little performance gain. We recommend this option is left at its default value; only turn it off if you're absolutely sure.
-SystemSetting_Gameplay_Warning = Warning: This setting is highly recommended to be left at default!
+SystemSetting_Requires_Restart = Diese Einstellung erfordert einen Neustart, um wirksam zu werden.
+SystemSetting_ArtStyle_Warning = Warnung: Der Kunststil des Spiels wurde mit dieser Funktion entworfen. Das Ausschalten bietet nur einen geringen Leistungsgewinn. Wir empfehlen, dass diese Option auf ihrem Standardwert belassen wird; Schalten Sie es nur aus, wenn Sie sich absolut sicher sind.
+SystemSetting_Gameplay_Warning = Warnung: Diese Einstellung wird dringend empfohlen, bei der Standardeinstellung belassen zu werden!
 
 [systemsettings.main]
-GameSettings_Title = Game Settings
-GameSettings_Desc = Adjust settings related to gameplay.
+GameSettings_Title = Spiel Einstellungen
+GameSettings_Desc = Anpassen von Einstellungen im Zusammenhang mit dem Gameplay.
 
-GameSettings_Icon_Singleplayer = Single Player
-GameSettings_Icon_SplitScreen = Split Screen
-GameSettings_Icon_Camera = Camera
+GameSettings_Icon_Singleplayer = Einzelspieler
+GameSettings_Icon_SplitScreen = Geteilter Bildschrim
+GameSettings_Icon_Camera = Kamera
 
-GraphicsSettings_Title = Graphics Settings
-GraphicsSettings_Desc = Adjust graphical settings that affect the game's visuals and performance.
+GraphicsSettings_Title = Grafik Einstellungen
+GraphicsSettings_Desc = Passen Sie grafische Einstellungen an, die sich auf die Grafik und die Leistung des Spiels auswirken.
 
-GraphicsSettings_Icon_Performance = Performance
+GraphicsSettings_Icon_Performance = Leistung
 GraphicsSettings_Icon_Rendering = Rendering
-GraphicsSettings_Icon_Effects = Effects
+GraphicsSettings_Icon_Effects = Effekte
 
-AudioSettings_Title = Audio Settings
-AudioSettings_Desc = Adjust the volume of each type of audio.
+AudioSettings_Title = Audio Einstellungen
+AudioSettings_Desc = Passen Sie die Lautstärke jedes Audiotyps an.
 
-AudioSettings_Icon_VoiceActing = Voice Acting
-AudioSettings_Icon_Volume = Volume
-AudioSettings_Icon_Music = Music
+AudioSettings_Icon_VoiceActing = Sprecher
+AudioSettings_Icon_Volume = Lautstaerke
+AudioSettings_Icon_Music = Musik
 
-InputSettings_Title = Input Settings
-InputSettings_Desc = Change your input methods, add new gamepads or rebind keys.
-InputSettings_Desc_Console = Adjust settings related to controls.
+InputSettings_Title = Eingabeeinstellungen
+InputSettings_Desc = Ändern Sie Ihre Eingabemethoden, fügen Sie neue Gamepads hinzu oder binden Sie die Schlüssel neu.
+InputSettings_Desc_Console = Passen Sie Einstellungen in Bezug auf Steuerelemente an.
 
 InputSettings_Icon_KeyBinds = Input Assist
 InputSettings_Icon_Controllers = Controllers
@@ -39,25 +39,25 @@ InputSettings_Icon_Controllers_XBOX = Controller
 InputSettings_Icon_InvertAxis = Invert Axis
 
 [systemsettings.game]
-Header_Singleplayer = Single Player
+Header_Singleplayer = Einzelspieler
 
 Item_SpeedrunTimer_Title = Speedrun Timer
-Item_SpeedrunTimer_Desc = Keeps track of your per-level play time.
+Item_SpeedrunTimer_Desc = Verfolgt Ihre Spielzeit pro Level.
 
-Item_SkipCinematics_Title = Skip Skippable Cutscenes
-Item_SkipCinematics_Desc = If you're in a hurry, or have already seen them, you can skip all skippable in-game cutscenes by enabling this. Keep in mind that you can still skip cinematics at any time regardless of this setting.
+Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
+Item_SkipCinematics_Desc = Wenn Sie es eilig haben oder bereits gesehen haben, können Sie alle überspringbaren Zwischensequenzen überspringen, indem Sie diese aktivieren. Beachten Sie, dass Sie unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen können.
 
-Header_SplitScreen = Split Screen
-Item_AllowSharedScreen_Title = Allow Shared Screen
-Item_AllowSharedScreen_Desc = Split screen may be temporarily forced off at certain parts of the game.
+Header_SplitScreen = Geteilter Bildschirm
+Item_AllowSharedScreen_Title = Erlaube Bildschirmfreigabe
+Item_AllowSharedScreen_Desc = Der geteilte Bildschirm kann an bestimmten Stellen des Spiels vorübergehend ausgeschaltet werden.
 
-Item_SplitScreenMethod_Title = Split Screen Alignment
+Item_SplitScreenMethod_Title = Geteilter Bildschirm Bildschirmausrichtung
 Item_SplitScreenMethod_Item_Horizontal = Horizontal
-Item_SplitScreenMethod_Item_Vertical = Vertical
-Item_SplitScreenMethod_Desc = Change the way the screen is split with two players.
+Item_SplitScreenMethod_Item_Vertical = Vertikal
+Item_SplitScreenMethod_Desc = Ändern Sie die Art und Weise, wie der Bildschirm mit zwei Spielern geteilt wird.
 
-Header_Camera = Camera
-Header_Camera_Adv = Advanced Camera
+Header_Camera = Kamera
+Header_Camera_Adv = Erweiterte Kamera
 
 Item_FieldOfView_Title = Field of View
 Item_FieldOfView_Item_TV = TV (80)

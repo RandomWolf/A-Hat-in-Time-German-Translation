@@ -1,15 +1,15 @@
 [parade]
-welcome0 = Hello, darling! Welcome to the largest studio set you'll ever see!
-welcome1 = We're about to start recording [hint]The Big Parade[/hint], the movie that'll take the breath away from audiences worldwide! You'll be the star, as always!
-welcome2 = For this movie, we'll need to use our [icon:timepiece][timepiece]special prop[/timepiece]! It'll pop out at the very end!
-welcome3 = But wait, darling! Your current outfit really isn't fit for a parade. Can you go over there and get dressed?
-welcome3b = Your current outfit really isn't fit for a parade. Can you go over there and get dressed?
-welcome4 = You look great, darling! Don't worry, this movie is really easy. Keep moving around and the band will follow you! Just don't bump into them!
-welcome5 = And keep an eye out for goodies! The audience loves a good parade and will throw treats your way if you get near them.
-welcome5b = And keep an eye out for refreshments! The off-stage crew will throw 'em your way, to keep you hydrated!
-welcome5c = And keep an eye out for the cameras! The crew will be trying to get as much footage of you as possible, so swing by them whenever possible!
-welcome6 = The parade lasts a while; nothing you can do to speed it up. We'll let you know once we've got enough footage. Don't lose spirit!
-welcome7 = Good luck, darling!
+welcome0 = Hallo, Milchschnitte! Wilkommen zum groessten Studio, was du jemals sehen wirst!
+welcome1 = Wir starten gerade [hint]Die Grosse Parade[/hint] zu filmen, der Film, der atemberaubendste Film weltweit! Du wirst unser Star sein, wie immer!
+welcome2 = Fuer diesen Film muessen wir unser [icon:timepiece][timepiece]Spezial-Requisit[/timepiece] brauchen! Es wird herausploppen am Ende!
+welcome3 = Aber warte, Milchschnitte! Dein jetziges Outfit passt nicht so sehr für eine Parade. Kannst du dort mal hingehen und das hier anziehen?
+welcome3b = Dein jetziges Outfit passt nicht so sehr für eine Parade. Kannst du dort mal hingehen und das hier anziehen?
+welcome4 = Du siehst toll aus, Milchschnitte! Mach' dir keine Sorgen, der Film ist sehr leicht. Bewege dich die ganze Zeit und die Band folgt dir! Knalle nur nicht in sie rein!
+welcome5 = Und schaue dich um nach tollen Sachen! Das Publikum liebt eine gute Parade und wird dir Leckereien nachwerfen, falls du in der Nähe bist.
+welcome5b = Und schaue dich um nach Erfrischungen! Das Team hinter den Kulissen wird dir es nachwerfen, um dich hydriert zu bleiben!
+welcome5c = Und schaue dich um nach den Kameras! Das Team wird versuchen, so viel Film von dir zu kriegen wie möglich, also schwinge dich zu denen hin wann immer auch möglich!
+welcome6 = Die Parade dauert ein wenig; nichts, was es schneller machen wird. Wir werden dir sagen, wann wir genug Filmmaterial haben. Verliere nicht die Stimmung!
+welcome7 = Viel Glück, Milchschnitte!
 
 first_intermission0 = It's time to turn the heat up in this movie!
 first_intermission1 = Darling, can you turn on the pyrotechnics?

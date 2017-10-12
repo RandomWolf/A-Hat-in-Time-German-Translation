@@ -1,40 +1,40 @@
 [murder]
-CrowAskForDetails0 = Have you noticed all these crows around the place?
-CrowAskForDetails1 = They keep asking for personal details, and I never know what to answer!
+CrowAskForDetails0 = Hast du auch all die Krähen bemerkt?
+CrowAskForDetails1 = Sie fragen mich die ganze Zeit nach persönlichen Details und ich weiss nie, was ich sagen soll!
 
-CrowsGotOn0 = Did you notice that there's suddenly a lot of crows on this train? They all got on at the last stop.
-CrowsGotOn1 = Speaking of, at which stop did you get on the train?
+CrowsGotOn0 = Auf einmal sind hier sehr viele Krähen auf dem Zug. Sie sind alle beim letzten Bahnhof eingestiegen.
+CrowsGotOn1 = Wo wir gerade davon sprechen, wann bist du eingestiegen?
 CrowsGotOn2 = ...
-CrowsGotOn3 = ... what do you mean you fell from the sky?
+CrowsGotOn3 = ... Wie du bist vom Himmel gefallen?
 
-CrowsAnnoy0 = It's really difficult to get settled down on this train with these crows crowding the place.
-CrowsAnnoy1 = They keep interviewing me about everything I do!
+CrowsAnnoy0 = Es ist echt schwer einen guten Platz im Zug zu finden, wenn die ganzen Krähen alles blockieren.
+CrowsAnnoy1 = Sie fragen mich immer nach allem was ich mache!
 
-ScientificEquation0 = I don't get it, how is this a scientific equation of any kind?[br]It's just scrambled numbers and letters, like those you see on an online form.
+ScientificEquation0 = Ich verstehe nicht, wie dies eine wissenschaftliche Gleichung ist?[br]Es sind nur zusammegeworfene Zahlen und Buchstaben, wie auf diesen Webseiten.
 
-StayOut0 = Wait, don't come in here. I lost my contact lens somewhere... please don't step on it![br]I can't move out of the way, I might step on it myself!
-StayOut1 = I hope no one goes into the VIP area and accidentally steps on my contact lens...
-PostMurder0 = Man, I just needed to get home from work. I didn't sign up for a big murder mystery.
-PostMurder1 = My wife is gonna kill me.
+StayOut0 = Warte, komm nicht hier rein. Ich habe meine Kontaktlinse verloren... bitte tritt nicht drauf![br]Ich kann hier nicht weggehen, sonst werde ich noch selbst drauf treten!
+StayOut1 = Ich hoffe niemand geht in den VIP bereich und tritt versehentlich auf meine Kontaktlinse...
+PostMurder0 = Man, ich wollte doch nur nach Hause von der Arbeit. Ich hab keine Zeit für einen geheimen Mord.
+PostMurder1 = Meine Frau wird mir die Hölle heiss machen.
 
-OwlHiddenRoom0 = Man, this is the life.[br]Nothing beats a[br]hot sauna.
-OwlHiddenRoom1 = Did you hear[br]some noise outside?
-OwlHiddenRoom2 = Eh, peck it.[br]I don't wanna go[br]out in the cold.
+OwlHiddenRoom0 = So lässt's sich leben.[br]Nix übertrifft eine[br]heisse Sauna.
+OwlHiddenRoom1 = Hast du auch[br]draussen was gehört?
+OwlHiddenRoom2 = Eh, Ignorier es.[br]Ich will nicht[br]raus in die Kälte.
 
-VictimRubberKnife0 = Yeah, can I go now? I'm kinda sore from playing dead for so long.
-VictimRubberKnife1 = This rubber knife is also a bit uncomfortable.
+VictimRubberKnife0 = Kann ich jetzt gehen? I'm kinda sore from playing dead for so long.
+VictimRubberKnife1 = Dieses Gummi Messer ist auch ziemlich unbequem.
 
 suspect_sciowls0 = ...
-suspect_sciowls1 = It's true.
-suspect_sciowls2 = We were sitting in the lounge playing card games, and we were having so much fun! Everyone enjoyed the peace and quiet of card games!
-suspect_sciowls3 = ... and Robin wouldn't stop chewing with his mouth open.
-suspect_sciowls4 = Seriously, who chews with their mouth open? So we stabbed him with the rubber knife, to get some peace and quiet.
+suspect_sciowls1 = Es ist wahr.
+suspect_sciowls2 = Wir waren in der lounge und haben Kartenspiele gespielt, und es hat so viel Spaß gemacht! Jeder hat die Ruhe beim Spielen genossen!
+suspect_sciowls3 = ... Und Robin konnte nicht aufhören mit offenem Mund zu essen.
+suspect_sciowls4 = Wer isst bitte mit offenem Mund? Deswegen haben wir ihn mit dem Messer gestochen damit wir unsere Ruhe haben.
 
-suspect_victim0 = It seems you've seen through my charade.
-suspect_victim1 = It was my turn to clean the Owl Express, and I just decided to... uhh... fake my death, with this rubber knife.
-suspect_victim2 = But all this trouble isn't worth it. I'll just start cleaning up now.
+suspect_victim0 = Ihr habt mich durchschaut.
+suspect_victim1 = Ich war an der Reihe den Eulen Express zu säubern, und habe mich entschieden meinen... uhh... Tod vorzutäuschen, mit einem Gummi Messer.
+suspect_victim2 = Aber es ist diesen ganzen Ärger nicht wert. Ich fang jetzt an aufzuräumen.
 
-suspect_hatkid0 = Actually I'm fine.
+suspect_hatkid0 = Eigentlich geht es mir gut.
 suspect_hatkid1 = She just stuck this fake rubber knife on me and told me to play dead.
 suspect_victim_idle0 = Man, I even wasted an entire bottle of ketchup to make this murder look real...
 

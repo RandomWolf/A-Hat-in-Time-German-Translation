@@ -6,12 +6,12 @@ Hostage0 = Ich werde folgende Geisel nehmen:
 Hostage1 = ... aber behalte alles, was du auf deinem Weg findest!
 
 [Hat_SnatcherContract_IceWall]
-Title = Saeubere den Subcon-Brunnen
+Title = Säubere den Subcon-Brunnen
 SubconVillage = Finde das Subcon-Dorf
-KillFireSpirits = Toete die Geister
-SubconWell = Saeubere den Subcon-Brunnen
+KillFireSpirits = Töte die Geister
+SubconWell = Säubere den Subcon-Brunnen
 BreakIce = Zerbreche das Eis
-FlowBloom = Lass die Blumen bluehen
+FlowBloom = Lass die Blumen blühen
 
 [Hat_SnatcherContract_Bonfires]
 Title = Erhitze das Lagerfeuer für die Feuergeister

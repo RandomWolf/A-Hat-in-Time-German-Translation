@@ -1,30 +1,30 @@
 [General]
-CurrentDay = Day [NumActsCleared]...
-NoEntry0 = I have no idea how to even describe what happened today.
-NoEntry1 = I'll probably just leave this diary entry blank, sorry future me!
+CurrentDay = Tag [NumActsCleared]...
+NoEntry0 = Ich hab keine Ahnung wie ich beschreiben soll, was heute passiert ist.
+NoEntry1 = Ich werde diesen Tagebucheintrag einfach leer lassen, sorry Zukunfts-Ich!
 
 [Acts]
 // MAFIA TOWN
-chapter1_tutorial_0 = So... I am stranded. A big guy in a chef's apron and a suit knocked on my door, and decided to mess everything up.
-chapter1_tutorial_1 = Apparently they're the "Mafia of Cooks". Why couldn't I have gotten stranded near a normal planet?
+chapter1_tutorial_0 = So... Ich sitze fest. Ein großer Mann in Kochschuerze und Anzug, klopfte an meiner Tuer und entschied alles zu vermasseln.
+chapter1_tutorial_1 = Anscheinend sind sie die "Mafia der Koeche". Warum konnte ich nicht einfach an einem normalen Planeten stranden? 
 
-chapter1_barrelboss_0 = I'm not super sure what that was supposed to be? Some big loser stood around and threw barrels at me!
-chatper1_barrelboss_1 = Some even had spikes on! Who has spiked barrels????
+chapter1_barrelboss_0 = Ich bin mir nicht super sicher, was das zu bedeuten hatte? Irgendein Loser stand da und hat Faesser auf mich geworfen!
+chatper1_barrelboss_1 = Manche hatten sogar Stacheln! Wer hat bitte stachelige Faesser????
 
-mafiatown_goldenvault_0 = Y'know, I've been seeing these tickets all around Mafia Town. Blue, Red, Green, Yellow - they're kinda pretty! I HAVE been wondering where they all go though.
-mafiatown_goldenvault_1 = And I've been wondering what the Mafia could be keeping inside those things too! Well, today's the day I'm gonna find out!
+mafiatown_goldenvault_0 = Weisst du. Ich habe alle diese Tickets hier in Mafia Stadt gesehen. Blau, Rot, Grün, Gelb - sie sind ziemlich hübsch! Ich fragte mich dennoch wo sie alle hingehen.
+mafiatown_goldenvault_1 = Und ich fragte mich auch was die Mafia wohl in diesen Safes verstecken könnte! Nun, heute ist der Tag, wo ich es herausfinden werde!
 
-harbor_impossible_race_0 = Ha! That'll show these dumb Mafia guys how outdated single-stage powder-based incediary propulsion is.
-harbor_impossible_race_1 = Winning fairly is overrated, anyway.
+harbor_impossible_race_0 = Ha! Das wird diesen doofen Mafia Leuten zeigen, wie veraltet einstufiger, auf Puderbasis laufender, Brandantrieb ist.
+harbor_impossible_race_1 = Gewinnen ist sowieso ziemlich überbewertet.
 
-chapter1_boss_0 = No wonder these guys are so dumb if that's who they put in charge! 
-chapter1_boss_1 = I guess nobody is the boss now though... whoops.
+chapter1_boss_0 = Kein Wunder, die Typen sind so dumm, wenn sie den als ihren Boss ausgewaehlt haben! 
+chapter1_boss_1 = Ich denke mal jetzt ist niemand mehr der Boss... whoops.
 
-chapter1_cannon_repair_0 = Wow. And I thought the regular Mafia were weirdos. 
-chapter1_cannon_repair_1 = At least he had a [icon:timepiece][timepiece]Time Piece[/timepiece] I could take! How do they keep finding these things...
+chapter1_cannon_repair_0 = Wow. Und ich dachte die normale Mafia besteht nur aus Idioten 
+chapter1_cannon_repair_1 = Zumindestens hatte er ein [icon:timepiece][timepiece]Zeitstueck[/timepiece], das ich nehmen konnte! Wie finden die Typen, weiterhin diese Dinger...
 
-mafiatown_lava_0 = It's... so... HOT! Something seriously wrong has happened to the Island; it looks like a huge Volcano went off!
-mafiatown_lava_1 = The Mafia guys are too big and tough to admit it, but the heat is definitely getting to them. Mafia guys get way smelly when they sweat... well, way smellier.
+mafiatown_lava_0 = Es ist... so... HEISS! Irgendwas ernsthaft Falsches ist der Insel widerfahren; es scheint so als erlöschte der große Vulkan!
+mafiatown_lava_1 = Die Mafia Typen sind zu groß und hartnaeckig, um es zu zugeben, aber die Hitze geht ihnen wirklich nah. Mafia Leute werden viel stinkender, wenn sie schwitzen... nun, sehr stinkender.
 
 // SUBCON FOREST
 subcon_cave_0 = I thought I saw some weird Tower poking out from between the trees in the gross Swamp, but it turns out it's a big old Well. The Snatcher told me so!

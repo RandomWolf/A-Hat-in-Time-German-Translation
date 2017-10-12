@@ -26,7 +26,7 @@ intro3 = These [icon:timepiece][timepiece]shiny things[/timepiece] fell from the
 intro4 = I would never, Schaetzchen! Clearly you're the one who took inspiration in my flashy new props.
 intro5 = Fine by me, Schaetzchen. But we'll be the ones who win the [icon:trophy][trophy]annual bird movie award[/trophy], mark my word!
 
-passport0 = Magnificent! Stunning! This trophy is everything I desire... on the shelf in my living room!
+passport0 = Bezaubert! Atemberaubend! Diese Trophae ist alles, was ich will... auf meinem Regal im Wohnzimmer!
 passport1 = Of course, this big trophy is just a plastic replica! The actual trophy is really tiny!
 passport2 = Oh my! Oh my! What is that I see? Is it true inner beauty? An innocent soul with a heart of gold?
 passport3 = Oh, no. It's just a little girl. Hello!
@@ -98,31 +98,32 @@ Endorsement_Cooking0 = Now, Schaetzchen, I have to mention this. Cooking show ho
 Endorsement_Cooking1 = The [icon:conductor][name]Conductor[/name] is old-fashioned. He throws that word around a lot. It'll get him in trouble some day! Until then, let's keep our show clean.
 Endorsement_Cooking2 = Hello viewers! Even the biggest celebrities have to eat, and I've got with me the biggest celebrity of them all.
 Endorsement_Cooking3 = Now tell us Schaetzchen, what kind of condiment do you like on your tuna sandwiches?
-Endorsement_Cooking3_a = Ranch
+Endorsement_Cooking3_a = Ranch-Dressing
 Endorsement_Cooking3_b = Ketchup
 Endorsement_Cooking3_c = Mayo
-Endorsement_Cooking3_d = PECK
+Endorsement_Cooking3_d = MAIS
 Endorsement_Cooking4 = Amazing! I bet that eating tuna sandwiches like that is probably how she keeps her slim figure! Take note, penguin viewers!
+Wunderbar! Ich wette, dass wenn sie dieses Tuna-Sandwich essen wird, wird ihre Figur schoen schlank bleiben! Mache Notizen, Pinguin-Zuschauer!
 Endorsement_Cooking5 = [scream][big]Schaetzchen![/big][/scream]
-Endorsement_Cooking6 = I-I mean... fellow viewers! Look at the mouth on this young girl. She's really something.
-Endorsement_Cooking7 = [small]Now shoo, get out of this endorsement as soon as you can,[br]before the old penguins watching TV notice what just happened.[/small]
+Endorsement_Cooking6 = I-Ich meine... sehr geehrte Zuschauer! Sehen Sie den Mund dieses kleinen Maedchens an. Sie ist wirklich etwas.
+Endorsement_Cooking7 = [small]Jetzt husch, gehe so schnell wie moeglich aus dieser Übertragung,[br]bevor die alten Pinguine, welche fernsehen wissen was passiert ist.[/small]
 
-Endorsement_Alley0 = Look at how street-smart this diva is. She's standing in this sinister alleyway, right next to some potential wrongdoers!
-Endorsement_Alley1 = Danger is her middle name, and she's not afraid to step outside of her comfort zone!
+Endorsement_Alley0 = Sehen Sie wie diese Diva Köpfchen hat! Sie steht in dieser finsteren Gasse, direkt neben potenziellen Missetaetern!
+Endorsement_Alley1 = Gefahr ist ihr zweiter Name und sie hat keine Angst ihre eigene Komfortzone verlassen!
 
-Ending0 = The audience is going crazy, Schaetzchen! Come over here and show off our new stunner... our [icon:timepiece][timepiece]new prop[/timepiece]!
+Ending0 = Das Publikum rastet aus, Schaetzchen! Komm' hier her und zeige denen die Riesenueberaschung... unser [icon:timepiece][timepiece]neues Requisit[/timepiece]!
 
 [Highscore]
-NewHighScore0 = Good job, Schaetzchen!
-NewHighScore1 = So close to victory, Schaetzchen!
-NewHighScore2 = The trophy will be ours, Schaetzchen!
-NoNewScore0 = It's OK, Schaetzchen! Next time!
-NoNewScore1 = It's hard to repeat success!
-NoNewScore2 = Try again, Schaetzchen!
+NewHighScore0 = Gut gemacht, Schaetzchen!
+NewHighScore1 = So nahe dran, Schaetzchen!
+NewHighScore2 = Die Trophae wird unsere sein, Schaetzchen!
+NoNewScore0 = Es ist okay, Schaetzchen! Naechstes Mal!
+NoNewScore1 = Es ist schwer Erfolg zu wiederholen!
+NoNewScore2 = Versuch's nochmal, Schaetzchen!
 
 [finale]
-outside0 = Good to see you, Schaetzchen! Nice to know I'm not the only super-star waiting around this tawdry place.
-outside1 = Slide on up past those doors and find out who's calling the shots, won't you?
+outside0 = Gut dich zu sehen, Schaetzchen! Es ist gut zu wissen, dass ich nicht der einzige Superstar bin, der in diesem geschmackslosen Ort warten muss.
+outside1 = Rutsche durch die Tueren hoch und finde heraus, wer den Ton dort angibt, okay?
 
 [ending]
 hang0 = Lass uns unseren Film ansehen, Schaetzchen!

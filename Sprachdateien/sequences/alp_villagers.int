@@ -1,55 +1,55 @@
 [AlpsHUB]
-TimePieceDirection0 = Have you noticed those bright flashing lights in the sky?
-TimePieceDirection1 = They started appearing recently after some [icon:timepiece][timepiece]weird hourglasses[/timepiece] fell from the sky. Wonder what they could be?
-TimePieceDirection2 = In any case, I really wish they wouldn't be so bright. They're blinding!
+TimePieceDirection0 = Hast du dieses helle, flackernde Licht am Himmel bemerkt?
+TimePieceDirection1 = Sie tauchten auf als diese [icon:timepiece][timepiece]komischen Sanduhren[/timepiece] vom Himmel fielen. Ich frage mich was sie sind.
+TimePieceDirection2 = Auf jeden Fall wuenschte ich, sie waeren nicht so hell. Sie blenden!
 
 [finale]
-finale0 = Is it... over? The air is clear again! 
-finale1 = And the goats seem to have come to their senses again. I don't really understand it, but I assume we have you to thank!
-finale2 = We found this in a cluster of those flowers after they wilted again. You were pretty insistent in going after the others, so I guess it belongs to you?
-finale3 = Thank you for helping us!
+finale0 = Es ist... vorbei? Die Luft ist wieder rein!
+finale1 = Und die Ziegen scheinen wieder zu sich zu kommen. Ich verstehe es nicht wirklich, aber denke, wir muessen dir danken!
+finale2 = Wir haben das in einen Haufen dieser verwelkten Blumen gefunden. Du hast die anderen ziemlich hartnaeckig gesammelt, also denke ich, dass sie dir gehoeren.
+finale3 = Danke das du uns geholfen hast!
 
 [Guides]
-guide_lavacake0 = This way for[br]the [name]Lava Cake[/name]!
-guide_lavacake1 = This heat is great! [br]It's even hotter to [br]the [hint]right[/hint]!
-guide_lavacake2 = This is the [br][name]Lava Cake[/name]!
-guide_lavacake3 = How'd a place end up [br]like this, anyway?
-guide_windmill0 = The [name]Old Windmill[/name][br]is this way!
-guide_windmill1 = This place is huge! It must be quite a climb [br]to the [hint]top[/hint].
-guide_twilight0 = The [name]Twilight Bell[/name][br]is this way!
-guide_twilight1 = The [name]Twilight Bell[/name][br]is just ahead!
-guide_twilight2 = Look at that thing![br]If only I could reach it.
-guide_birdhouse0 = The birds at[br][name]The Birdhouse[/name][br]steal shiny things!
-guide_birdhouse1 = [name]The Birdhouse[/name] is this way!
-guide_birdhouse2 = You're nearly at [br][name]The Birdhouse[/name]!
-guide_horn0 = Blow those horns[br]to open up[br]new routes!
-guide_horn1 = There's a[br][hint]horn[/hint] at[br]the top!
-guide_binocs0 = These telescopes [br]let you look at [br]far-away peaks!
-guide_deadend0 = Hey! This way doesn't [br]lead to any [hint]peaks[/hint].
-guide_deadend1 = I think this one leads to a [hint]horn[/hint]. [br]You can just see it!
-guide_deadend2 = I think I spy [br]some [hint]treasure[/hint]!
-guide_deadend3 = I don't think any [br][hint]hourglasses[/hint] [br]fell this way.
-guide_zipline0 = Make sure you swing [br][hint]towards[/hint] the path [br]you want!
-guide_bridge0 = Careful! Some of these [hint]bridges[/hint] are old.
-guide_cats0 = Take care, kid. I went up ahead and was [br]scratched slightly!
-guide_cats1 = I'd hold onto that [br][icon:hat] of yours here!
-guide_eggs0 = There's something [br]strange about some [br]of those eggs!
-guide_danger0 = Hi! This is clearly a [br]safe place for a [br]child to be.
+guide_lavacake0 = Hier geht es[br]zum [name]Lava Kuchen[/name]!
+guide_lavacake1 = Diese Hitze ist grossartig! [br]Sie ist [hint]rechts[/hint] [br]sogar noch heisser!
+guide_lavacake2 = Das ist der [br][name]Lava Kuchen[/name]!
+guide_lavacake3 = Wie endete dieser Ort [br]ueberhaupt so?
+guide_windmill0 = Zur [name]alten Windmuehle[/name] [br]geht es hier lang! 
+guide_windmill1 = Dieser Ort ist riesig! [br]Das Klettern zur [hint]Spitze[/hint] ist bestimmt anstrengend.
+guide_twilight0 = Zur [name]mitternachts Glocke[/name][br]geht es hier lang!
+guide_twilight1 = Die [name]mitternachts Glocke[/name][br]ist gleich dort drueben!
+guide_twilight2 = Schau dir das an![br]Wenn ich doch nur rankommen wuerde.
+guide_birdhouse0 = Die Voegel am[br][name]Vogelhaus[/name][br]stehlen leuchtende Dinge!
+guide_birdhouse1 = [name]Das Voelhaus[/name] ist in dieser Richtung!
+guide_birdhouse2 = Du bist fast am [br][name]Vogelhaus[/name]!
+guide_horn0 = Blas in diese Hoerner [br]um neue Wege[br]zu oeffnen!
+guide_horn1 = Da ist ein[br][hint]Horn[/hint] auf[br]der Spitze!
+guide_binocs0 = Dieses Fernglas [br]laesst dich an [br]weit entfernte Gipfel schauen!
+guide_deadend0 = Hey!x Dieser Weg fuehrt [br]zu keinen [hint]Gipfel[/hint].
+guide_deadend1 = Ich glaube hier geht es zu einem [hint]Horn[/hint]. [br]Du kannst es sehen!
+guide_deadend2 = Ich glaube ich beobachte [br]einen [hint]Schatz[/hint]!
+guide_deadend3 = Ich glaube keine [br][hint]Sanduhren[/hint] [br]fielen hier lang.
+guide_zipline0 = Stelle sicher, [br]dass du den Pfad [hint]ansteuerst[/hint], [br]den du gehen willst.
+guide_bridge0 = Vorsicht! Manche [hint]Bruecken[/hint] sind alt.
+guide_cats0 = Pass auf, Kind. Ich ging voran und [br]wurde leicht gekratzt!
+guide_cats1 = Ich behalte deinen [br][icon:hat] hier!
+guide_eggs0 = Irgendwas stimmt [br]mit diesen komischen [br]Eiern nicht!
+guide_danger0 = Hi! Das ist eindeutig [br]ein sicherer Platz [br]fuer ein Kind.
 
 [PeakSize]
-size0 = There's a lot of really big structures up on these peaks.
-size1 = I wonder who built them? 
-size2 = ... Birds don't build birdhouses, right?
+size0 = Auf diesen Gipfeln gibt es viele wirklich grosse Gebaeude.
+size1 = Ich frage mich wer sie gebaut hat.
+size2 = ... Voegel bauen keine Vogelhaeuser, oder?
 
 [Flowers]
-flowers0 = Have you seen the purple flowers growing around here?
-flowers1 = I'd keep your distance. Something seems weird about them to me.
+flowers0 = Hast du die lilanen Blumen die hier wachsen gesehen?
+flowers1 = Ich wuerde abstand halten. Irgendwas an ihnen kommt mir seltsam vor.
 
 [Horns]
-explanation0 = Why don't we blow the horns ourselves?
-explanation1 = Up this high, the air is really thin! It's hard for us to take deep enough breaths.
-explanation2 = It doesn't seem to bother you, though. 
+explanation0 = Warum blasen wir die Hoerner nicht selbst?
+explanation1 = So weit oben ist die Luft wirklich duenn! Es ist schwer fuer uns tief einzuatmen.
+explanation2 = Aber dir scheint es nichts auszumachen. 
 
 [Goats]
-goats0 = I don't know much about the goats up here, but we try to give them a wide berth.
-goats1 = If you get in their way, they tend to get a bit pushy.
+goats0 = Ich weiss nicht viel ueber die Ziegen hier oben, aber wir versuchen ihnen viel Raum zu lassen.
+goats1 = Wenn du ihnen in die Quere kommst, werden sie aufdringlich.

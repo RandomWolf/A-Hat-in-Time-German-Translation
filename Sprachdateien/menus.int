@@ -436,8 +436,8 @@ Filter10 = Sunset
 Filter11 = #NoFilter
 
 [ActSelect]
-Help_GoToAct = Act beginnen
-Help_UnlockAct = Act freischalten
+Help_GoToAct = Akt beginnen
+Help_UnlockAct = Akt freischalten
 Help_GoToBonus = Zeitriss betreten
 Help_GoToFreeRoam = Starte Free Roam
 Help_GoToBoss = Starte Boss

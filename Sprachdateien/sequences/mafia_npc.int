@@ -184,14 +184,14 @@ beach1 = Ich sag dir mal was, es ist eigentlich ganz schoen mit der Hitze.
 beach2 = Nur der Strand ist voll mit heisser Lava.....
 sign0 = Da wir nun nicht mehr fuer den Boss arbeiten, haben dir neue Jobs.
 sign1 = Wir machen Wettervorhersage. Heutiges Wetter: Schlecht. Zu warm. Ende der Welt? Mehr um 11.
-sign2 = People want news in one word. People no time for small talk.
-sign3 = My bro running faulty business, he use two words. Too much.
-kickbad0 = Kicking us outta business was a bad move, child. This town needs a bully or everyone is too nice!
-kickbad1 = Ya know what a nice town wouldda be? Boring. No spice in the pasta.
-magic0 = This only water in town, and my magic illusion make it untouchable! What have I done!
-magic2 = Who knew that my weakness would be my own abilities!
-magic1 = [scream]NOOOOoooooo....[/scream]
-chef0 = Volcano lava good source for cooking!
+sign2 = Leute brauchen Nachrichten. Leute keine Zeit haben für small-talk.
+sign3 = Mein Bruder treibt ein falsches Spiel, er hat zwei wörter benutzt. Zu viel.
+kickbad0 = Uns aus dem Geschaeft zu schmeissen war eine schlechte Idee, Kind. Diese Stadt braucht einen Tyrann oder alle sind zu Nett!
+kickbad1 = Weisst du was eine Nette Stadt waere? Langweilig. Kein Gewuerz in der Pasta.
+magic0 = Das einzige Wasser in der Stadt, und meine magische Illusion macht es unantastbar! Was habe ich nur getan!
+magic2 = Wer haette gedacht das meine einzige Schwachstelle meine eigenen Faehigkeiten sind!
+magic1 = [scream]NEEEiiiiinnnn....[/scream]
+chef0 = Vulkan Lava ist gut zum Kochen!
 
 [hq]
 rude_jeer0 = Geh weg kleines Maedchen! Dies ist Mafia Basis!
@@ -261,4 +261,4 @@ suicide5 = Hut Maedchen, hier! Nimm!
 
 [ending]
 hang0 = Verlass uns nicht!
-hang1 = Wir werden dich vermisseeeeeeeeeeeen!!!
+hang1 = Wir werden dich vermisseeeeeeeeeeeen...!!!

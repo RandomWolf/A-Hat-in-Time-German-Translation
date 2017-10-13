@@ -38,7 +38,7 @@ HoverDescFun0 = Fliege vor brenzligen Situationen weg!
 HoverDescTech0 = Drücke und halte [button:badge] um kurz zu fliegen!
 
 HelpName = Kids Hut
-HelpDescTech0 = Drücke [button:badge] um das nächste [icon:timepiece][timepiece]Zeitstück[/timepiece] zu finden!
+HelpDescTech0 = Drücke [button:badge] um das nächste [br][icon:timepiece][timepiece]Zeitstück[/timepiece] zu finden!
 HelpUsage = Nutze [icon:activehat] um dein Ziel zu finden!
 
 ChemicalName = Hexenhut

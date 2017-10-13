@@ -11,79 +11,79 @@ chapter1_tutorial_1 = Anscheinend sind sie die "Mafia der Koeche". Warum konnte 
 chapter1_barrelboss_0 = Ich bin mir nicht super sicher, was das zu bedeuten hatte? Irgendein Loser stand da und hat Faesser auf mich geworfen!
 chatper1_barrelboss_1 = Manche hatten sogar Stacheln! Wer hat bitte stachelige Faesser????
 
-mafiatown_goldenvault_0 = Weisst du. Ich habe alle diese Tickets hier in Mafia Stadt gesehen. Blau, Rot, Grün, Gelb - sie sind ziemlich hübsch! Ich fragte mich dennoch wo sie alle hingehen.
-mafiatown_goldenvault_1 = Und ich fragte mich auch was die Mafia wohl in diesen Tresoren verstecken könnte! Nun, heute ist der Tag, wo ich es herausfinden werde!
+mafiatown_goldenvault_0 = Weisst du. Ich habe alle diese komischen Tickets hier in Mafia Stadt gesehen. Blau, Rot, Gruen Gelb - sie sind ziemlich hübsch! Ich habe mich dennoch gefragt wo sie alle hingehen.
+mafiatown_goldenvault_1 = Und auch was die Mafia wohl in diesen Tresoren verstecken könnte! Nun, heute ist der Tag, wo ich es herausfinden werde!
 
 harbor_impossible_race_0 = Ha! Das wird diesen doofen Mafia Leuten zeigen, wie veraltet einstufiger, auf Puderbasis laufender, Brandantrieb ist.
-harbor_impossible_race_1 = Gewinnen ist sowieso ziemlich überbewertet.
+harbor_impossible_race_1 = Gewinnen ist sowieso ziemlich ueberbewertet.
 
 chapter1_boss_0 = Kein Wunder, die Typen sind so dumm, wenn sie den als ihren Boss ausgewaehlt haben! 
 chapter1_boss_1 = Ich denke mal jetzt ist niemand mehr der Boss... whoops.
 
-chapter1_cannon_repair_0 = Wow. Und ich dachte die normale Mafia besteht nur aus Idioten 
+chapter1_cannon_repair_0 = Wow. Und ich dachte die normale Mafia bestehe nur aus Idioten 
 chapter1_cannon_repair_1 = Zumindestens hatte er ein [icon:timepiece][timepiece]Zeitstueck[/timepiece], das ich nehmen konnte! Wie finden die Typen, weiterhin diese Dinger...
 
-mafiatown_lava_0 = Es ist... so... HEISS! Irgendwas ernsthaft Falsches ist der Insel widerfahren; es scheint so als erlöschte der große Vulkan!
-mafiatown_lava_1 = Die Mafia Typen sind zu groß und hartnaeckig, um es zu zugeben, aber die Hitze geht ihnen wirklich nah. Mafia Leute werden viel stinkender, wenn sie schwitzen... nun, sehr stinkender.
+mafiatown_lava_0 = Es ist... so... HEISS! Irgendwas ernsthaft Falsches ist der Insel widerfahren; es scheint so, als erlosch der große Vulkan!
+mafiatown_lava_1 = Die Mafia Typen sind zu groß und hartnaeckig, um es zu zugeben, aber die Hitze geht ihnen wirklich nah. Mafia Leute stinken auch viel mehr, wenn sie schwitzen....viel, viel mehr.
 
 // SUBCON FOREST
-subcon_cave_0 = I thought I saw some weird Tower poking out from between the trees in the gross Swamp, but it turns out it's a big old Well. The Snatcher told me so!
-subcon_cave_1 = At first I thought he was just being nice, telling me neat stuff to look for... but then he told me I'm gonna have to go down there where it's smelly and dark! Shouldn't grown-ups usually be keeping kids OUT of wells or something?
+subcon_cave_0 = Ich dachte erst, ich sah einen Turm aus den Baeumen hervoragen, als ich in diesem widerlichen Sumpf stand, aber anscheinend ist es einfach nur ein großer, alter Brunnen. So sagte es mir der <snatcher>!
+subcon_cave_1 = Zuerst dachte ich, er sei einfach nett, mir zu sagen, ich soll nach coolem Zeug zu suchen ... aber dann sagte er mir, ich soll da runter klettern, wo es dunkel und stinkend ist! Sollten Erwachsene normalerweiser nicht Kinder von Brunnen fernhalten?
 
-subcon_village_icewall_0 = Uhhhh what is this place??? There's spiders and ghosts and a big creepy creepy grinning... person? Thing??
-subcon_village_icewall_1 = They said they were gonna kill me but then made me sign some paper instead? And I think he took my soul or something? Say whaaaaaat.
+subcon_village_icewall_0 = Uhhhh was ist das für ein Ort?? Hier sind Spinnen, Geister und irgendein großes Grinsen.. Person? Ding, oder so??
+subcon_village_icewall_1 = Es sagte erst es wird mich toeten, aber dann zwang es mich ein Vertrag zu unterschreiben? Und ich glaube es nahm meine Seele oder sowas? Bitte waaaaaaaaas?
 
-subcon_maildelivery_0 = I don't get it? He seems super creepy and menacing but he wanted me to deliver mail?
-subcon_maildelivery_1 = I have a really bad feeling about this, but he won't give up his [icon:timepiece][timepiece]Time Pieces[/timepiece] unless I do his weird contracts...
+subcon_maildelivery_0 = Ich versteh's nicht? Er ist super gruselig und bedrohlich, aber wollte, dass ich Briefe austrage?
+subcon_maildelivery_1 = Ich hab ein sehr mulmiges Gefuehl bei der Sache, aber er wird mir sein [icon:timepiece][timepiece]Zeitstueck[/timepiece] nicht geben, wenn ich nicht seine dummen Vertraege abarbeite.
 
-chapter2_toiletboss_0 = A Toilet. A... toilet. A TOILET! Why is there a smelly dumb gross toilet in the Forest, and why do I have to deal with something so smelly and dumb and gross!?!
-chapter2_toiletboss_1 = That Snatcher is such a jerk! Why do I have do this? I DON'T WANT TO TOUCH A TOILET!
+chapter2_toiletboss_0 = Eine Toilette. Eine... Toilette. EINE TOILETTE! Warum ist da eine dumme, stinkende, widerliche Toilette im Wald und warum muss ich mit so etwas doofen, stinkendem und widerlichen zu tun haben!?!
+chapter2_toiletboss_1 = Dieser <snachter> ist so ein Idiot! Warum muss ich das machen? ICH WILL KEINE TOILETTE ANFASSEN!
 
-vanessa_manor_attic_0 = That Snatcher guy is such a jerk! Ugh! This stinks - now I need to go STEAL something "of his" from some old lady's attic?
-vanessa_manor_attic_1 = What's an old lady doing living in this spooky forest anyway? Wait... she's going to be creepy, isn't she? Old people already creep me out...
+vanessa_manor_attic_0 = Dieser <snachter> ist so ein Idiot! Ugh! Das ätzt - jetzt muss ich irgendwas von ihm, aus dem Dachobden einer alten Dame STEHLEN?
+vanessa_manor_attic_1 = Überhaupt warum lebt so eine alte Dame, in so einem gruseligen Wald? Warte... Sie wird selbst gruselig sein, oder? Alte Menschen gruseln mich eh schon...
 
-snatcher_boss_0 = THIS GUY!!!! I do his dumb jobs and then he tries to double-cross me???
-snatcher_boss_1 = I beat him up and now he just wants me to go away, but he also like, can't make me, so whatever.
+snatcher_boss_0 = DIESER KERL!!!! Ich mache seine dummen Jobs und dann versucht er mich auf's Kreuz zu legen???
+snatcher_boss_1 = Ich machte ihn fertig und jetzt will er einfach, dass ich geh? Aber anderseits, kann er mich sowieso nicht dazu zwingen.
 
 // BATTLE OF THE BIRDS
-DeadBirdStudio_0 = I just met the strangest group of birds I have ever seen. Ever. One is a big [icon:djgrooves][name]disco penguin[/name], and the other is a... uh... [icon:conductor][name]bird-ish  thing[/name]? Is he even a bird? I have no idea. Birds don't usually have teeth, but this guy does. It's creepy.
-DeadBirdStudio_1 = They're "fighting" to see who can make the best movie. That's in quotes because no one really seems to want to fight, except the [icon:conductor][name]Conductor[/name].
+DeadBirdStudio_0 = Ich lernte grade die schraegste Gruppe aus Voegeln kennen, die ich je gesehen habe. Einer ist ein[icon:djgrooves][name]Disco-Pinguin[/name], und der andere ein... [icon:conductor][name]vogelaehnliches Ding[/name]? Ist er ueberhaupt ein Vogel? Ich hab keine Ahnung. Voegel haben normalerweise keine Zähne, aber dieser Typ hat welche. Es ist irgendwie gruselig.
+DeadBirdStudio_1 = Sie "kaempfen" darum, wer den besten Film produziert. Das ist in Anfuehrungzeichen, denn niemand scheint wirklich zu kaempfen, bis auf diesen[icon:conductor][name]Schaffner[/name].
 
-chapter3_murder_0 = Y'know, there's a lot of creepy... crow... type... things getting on this train, too. Actually, everyone getting on is acting real funny, even the Owls. And they're harmless nerdy guys!
-chapter3_murder_1 = I feel like something bad might happen since it feels so freaky, but the [icon:conductor][name]Conductor[/name] is definitely, um, how do I put this? "Loud"? "Pushy"? How about... "persuasive". Anyway, gotta go catch a train!
+chapter3_murder_0 = Weisst du, da gehen ein paar komische... Kraehen... Sachen... auf dem Zug vorsich. Eigentlich, schauspielern alle auf ziemlich lustige Weise, sogar die Eulen. Und sie sind nur harmlose Nerds!
+chapter3_murder_1 = Ich habe das Gefuehl, irgendwas Schlimmes koennte passieren in diesem ganzen Chaos, aber der [icon:conductor][name]Schaffner[/name] ist sehr.. Wie pack ich das in Worte? "Laut"? "Penetrant"? Wie waere es mit... "ueberzeugend". Wie auch immer, ich muss den Zug erwischen!
 
-moon_camerasnap_0 = Ohmygosh!!! That big [icon:djgrooves][name]Penguin DJ[/name] said I could be a STAR!!! I wonder if he means like a pop star... Wait. Do I have to learn how to sing? Maybe an internet star-- no, no, a MOVIE star!
-moon_camerasnap_1 = [icon:djgrooves][name]DJ Grooves[/name] says he's going to take care of all of that stuff, I just have to show up on set, and I'm gonna be famous! I can't wait... I just hope I don't have to sing.
+moon_camerasnap_0 = Oh mein Gott!!! Dieser große [icon:djgrooves][name]Pinguin DJ[/name] sagte, ich koennte ein STAR werden!!! Ich frage mich, ob er wohl Popstar meint... Warte. Muss ich jetzt lernen etwas zu singen? Vielleicht doch eher ein Internetstar-- nein, nein, ein FILMSTAR!
+moon_camerasnap_1 = [icon:djgrooves][name]DJ Grooves[/name] sagte er wird sich um all das kuemmern. Ich muss einfach nur am Set sein und schon werde ich beruehmt! Ich kann gar nicht warten... Ich hoffe nur, ich muss nicht singen.
 
-trainwreck_selfdestruct_0 = Every time I'm around the [icon:conductor][name]Conductor[/name], I can hear him mumbling about his movie. I think he's trying to figure out some big, huge, impressive, exciting, AMAZING thing to do with his train.
-trainwreck_selfdestruct_1 = I mean, OK, [wave]maybe[/wave] his movie could use more action or something. Like, um... uh... I actually have no idea what he could do. Being a movie director must be hard.
+trainwreck_selfdestruct_0 = Jedes Mal, wenn ich in der Naehe vom [icon:conductor][name]Schaffner[/name] bin, kann ich ihn ueber sein Film murmeln hoeren. Ich glaube, er versucht irgendetwas, riesiges, eindrucksvolles, spannendes, GROSSARTIGES mit seinem Zug zu machen.
+trainwreck_selfdestruct_1 = Ich meine, ok [wave]vielleicht[/wave] koennte sein Film etwas mehr Action oder so gebrauchen. Wie zum Beispiel, ehm... uh... Ich habe eigentlich keine Ahnung, was er machen koennte. Ein Filmdirektor zu sein, muss ziemlich schwer sein.
 
-moon_parade_0 = This moon set sure is getting busy! There's so many penguins showing up! And some are bringing balloons! And there are these floats that are SUPER BIG! Everything is looking so pretty!
-moon_parade_1 = [icon:djgrooves][name]DJ Grooves[/name] said they're all here for me too! I can't let everybody down; I don't know what we're going to do next, but I know I have to try my best for all of my fans!
+moon_parade_0 = Dieses Film-Set ist wirklich belebt! So viele Pinguine sind gekommen! Und manche brachten sogar Ballons! Und dann sind da diese SUPER GROSSEN Festzugswagen! Alles sieht so huebsch aus!
+moon_parade_1 = [icon:djgrooves][name]DJ Grooves[/name] sagte, sie sind alle meinetwegen gekommen! Ich kann sie nicht enttaueschen! Ich weiss nicht was wir als nächstes tun werden, aber ich werde mein Bestes für meine Fans geben!
 
-award_ceremony_0 = I'm so excited! There's going to be a big fancy awards show and I get to go! I mean, I think I'm excited! I mean... I wonder if I helped the right bird win?
-award_ceremony_1 = All the birds were really nice and the movies were sooo cool! So... I just... wonder... ANYWAY, I'm super excited to see the award! Oh, also the [icon:timepiece][timepiece]Time Piece[/timepiece], hehe.
+award_ceremony_0 = Ich bin so aufgeregt! Heute ist eine grosse Preisverleihung und ich gehe hin! Ich mein', ich denke ich bin aufgeregt! I mein'... Ich frage mich ob es richtig war, diesem Vogel zu helfen?
+award_ceremony_1 = Alle Voegel waren so nett und die Filme wurden sooooo cool! Also... Ich frage... mich einfach... EGAL, Ich bin super aufgeregt, die Preisverleihung zu sehen! Oh, und natuerlich auch das [icon:timepiece][timepiece]Zeitstueck[/timepiece], hehe.
 
-chapter3_secret_finale_0 = What is it with people on this planet double-crossing me? I'm not dumb!
-chapter3_secret_finale_1 = That's the last time I get involved in show business for a long time.
+chapter3_secret_finale_0 = Warum wollen alle auf diesem Planeten mich auf's Kreuz legen? Ich bin nicht dumm!
+chapter3_secret_finale_1 = Das ist das letzte Mal, dass ich mich im Show-Business involviere!
 
 //ALPINE SKYLINE
-Alps_Birdhouse_0 = That... was a really big bird cage. And a really big bird!
-Alps_Birdhouse_1 = It looked kinda too big to fly. Or move. But it was cute!
+Alps_Birdhouse_0 = Das... war ein wirklich grosser Vogelkaefig. Und ein wirklich grosser Vogel!
+Alps_Birdhouse_1 = Er schaute ein bisschen zu groß aus, um zu fliegen. Oder um sich zu bewegen. Aber er war niedlich!
 
-AlpineSkyline_WeddingCake_0 = so hot. too sweaty to write properly. why is there a cake made of lava?????
-AlpineSkyline_WeddingCake_1 = i hope the next [icon:timepiece][timepiece]time piece[/timepiece] fell somewhere cold. 
+AlpineSkyline_WeddingCake_0 = so heiss. ich schwitze zu sehr um richtig zu schreiben. warum ist hier ein kuchen aus lava?????
+AlpineSkyline_WeddingCake_1 = ich hoffe das naechste [icon:timepiece][timepiece]zeitstueck[/timepiece] ist an einen kuehlen ort gefallen. 
 
-Alpine_Twilight_0 = I think I saw some ghosts today? Goat ghosts? 
-Alpine_Twilight_1 = I don't know where that bell took me, but it certainly wasn't somewhere I was supposed to be.
+Alpine_Twilight_0 = Ich glaube, ich sah heute irgendwelche Geister? Ziegengeister? 
+Alpine_Twilight_1 = Ich weiss nicht, wohin mich diese Glocke brachte, aber sicherlich an einen Ort, an dem ich nicht haette sein sollen.
 
-AlpineSkyline_Windmill_0 = I think I need to lie down. Why'd it have to land at the top of that windmill?
-AlpineSkyline_Windmill_1 = That thing was huge! Why would you build anything that big?
+AlpineSkyline_Windmill_0 = Ich glaube ich muss mich hinlegen. Warum musste das Zeitstueck nur auf einer Windmuehle landen?
+AlpineSkyline_Windmill_1 = Die war riesig! Warum wuerde jemand so etwas Grosses bauen?
 
-AlpineSkyline_Finale_0 = What the heck was all that about? Those nasty plants flowered and infected the big goats or something?
-AlpineSkyline_Finale_1 = All I know is they got REAL angry and things got REAL stormy and it was a bad time for everyone.
+AlpineSkyline_Finale_0 = Was zur Hoelle war das alles? Diese fiesen Pflanzen blühten und infizierten diese grossen Ziegen, oder sowas?
+AlpineSkyline_Finale_1 = Alle was ich weiss ist, dass sie richtig aggresiv wurden und es sehr stuermisch war, es war fuer alle keine wirklich schoene Zeit.
 
-act2a = Someone died today. But not really. It was ketchup.
-act2b = Turned out it was all a movie...
-act3a = I AM A DIVA O M G
-act3b = BOW TO ME
+act2a = Jemand starb heute. Aber nicht wirklich. Es war nur Ketchup.
+act2b = Wie sich herausstellte war alles nur ein Film...
+act3a = ICH BIN EINE DIVA OMG!
+act3b = VERBEUGT EUCH VOR MIR

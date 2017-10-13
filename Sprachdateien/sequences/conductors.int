@@ -10,10 +10,10 @@ sketch_done2 = Dieser Film wird die BOMBE!! [wave]GWAHAHAHAHA[/wave]!
 sketch_done3 = ... Und ich meine Bombe im positivem Sinne, Grünschnabel!
 
 trigger_detonation0 = Okay lassy, hör mir zu. Ich habe schlechte Nachrichten!
-trigger_detonation1 = Diesen Hebel, den du grade gezogen hast... er startet die Selbstzerstörungssequenz des Zuges, und das ist kein Witz. Er wird in die Luft gehen!
-trigger_detonation2 = Ich brauch ein Film mit echter Action, deshalb machen wir das jetzt so! Dieser Zug wird in ein paar Minuten explodieren!
+trigger_detonation1 = Diesen Hebel, den du grade gezogen hast... er startet die [b]Selbstzerstörungssequenz des Zuges, und das ist kein Witz. Er wird in die Luft gehen!
+trigger_detonation2 = Ich brauch ein Film mit richtiger Action, deshalb machen wir das jetzt so! Dieser Zug wird in ein paar Minuten explodieren!
 trigger_detonation3 = Aber, du kannst uns alle retten, lassy! Schaff es zum Schalter im vordersten Wagon, und schalte ihn aus!
-trigger_detonation4 = UND DU SCHAFFST ES BESSER RECHTZEITIG, VERSTANDEN? Ich kümmere mich nicht um die Eulen oder um dich, aber du wage es besser nicht meinen Zug explodieren zu lassen! Er ist wie mein eigenes Baby!
+trigger_detonation4 = UND DU SCHAFFST ES BESSER RECHTZEITIG, VERSTANDEN? Ich kümmere mich nicht um die Eulen oder um dich, aber du wagst es besser nicht meinen Zug explodieren zu lassen! Er ist mein Baby!
 trigger_detonation5 = Die Kameras sind auf dich gedreht, lassy, du beeilst dich jetzt besser! Los, los! Ende der Durchsage!
 
 ending0 = Du hast es geschafft! Und pünktlich!
@@ -34,8 +34,8 @@ intro4 = Nun, dieses Mal werden auch wir es mit unseren neue Requisiten ordentli
 intro5 = Diese [icon:timepiece][timepiece]Zeituhr Dinger[/timepiece] werden der große Juwel in unserem Western Zugüberfall sein!
 intro6 = .......
 intro7 = [scream][big]WIE BITTE, WAS?![/big][/scream]
-intro8 = Ihr tu nicht guten, dreckigen Grünschnäbel! Ihr habt unsere Requisiten gekopiert!
-intro9 = Das reicht! Verschwindet! Ich habe einen Film zu drehen!
+intro8 = Ihr tu nicht guten, dreckigen Grünschnäbel! Ihr habt unsere Requisiten kopiert!
+intro9 = Das reicht! Verschwinde! Ich habe einen Film zu drehen!
 intro10 = Oh wirklich?! Wollen doch mal sehen, wie gut euer Film wird, wenn ihr nicht mal zur Rezeption könnt! [wave]GWAHAHAHAHA![/wave]
 intro11 = Oh warte, die Grünschnäbel in ihrem Studio einzusperren, zwingt sie dazu härter zu arbeiten.
 intro12 = Nun gut, Zeit zu gehen, meine Eulen! Lasst uns einen Killer-Movie drehen!!
@@ -62,7 +62,7 @@ outro0 = [scream][big]HEY! WAS DENKST DU, WAS DU DA TUST?![/big][/scream]
 outro1 = Du kannst hier nicht einfach reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Preisen[/trophy] herumspielen! Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, wir haben ein BETRÜGER HIER!
 outro2 = ...
 outro3 = WO SIND MEINE EULEN WACHEN?! Warum sind die Eulen so verdammt nutzlos?!
-outro5 = Okay okay, hör mir zu, lass! Du bist in großen Schwierigkeiten. Wenn du dem betrügerischen [icon:djgrooves][name]DJ Grooves[/name] hilfst, die Preise zu manipulieren, und ich dich nicht ins Gefängnis stecken kann, dann wirst du mir eben helfen müssen!
+outro5 = Okay okay, hör mir zu, lassie! Du bist in großen Schwierigkeiten. Wenn du dem betrügerischen [icon:djgrooves][name]DJ Grooves[/name] hilfst, die Preise zu manipulieren und ich dich auch nicht ins Gefängnis stecken kann, dann wirst du mir ebenfalls helfen müssen!
 outro6 = Das ist richtig, du wirst auch der Star von meinen Filmen sein!
 outro7 = Hier, halt unser [icon:timepiece][timepiece]neustes Requisit[/timepiece], üb, es gut zu präsentieren, und bring es morgen zu meinem Filmset! Verstanden? Komm nicht zu spät!
 

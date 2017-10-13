@@ -1,6 +1,6 @@
 [Input]
 NewAutoController = Neue Eingabemethode:
-ControllerDisconnect = Der Controller wurde getrennt. Bitte schlie√üe ihn erneut an um fortzufahren.
+ControllerDisconnect = Der Controller wurde getrennt. Bitte schlieﬂe ihn erneut an um fortzufahren.
 
 [levels]
 Chapter = Kapitel
@@ -12,7 +12,7 @@ FreeRoamDesc = Tu was auch immer du willst
 disallowed_outside_editor = Nicht im Editor
 
 [Console]
-OfflineMode = Willst du offline spielen? Xbox Live Funktionen werden nicht verf√ºgbar sein und Daten werden nicht gespeichert.
+OfflineMode = Willst du offline spielen? Xbox Live Funktionen werden nicht verf¸gbar sein und Daten werden nicht gespeichert.
 FailedLogin = Login fehlgeschlagen. Bitte warte einen Moment und versuche es nochmal.
 Yes = Ja
 No = Nein

@@ -1,33 +1,33 @@
 [Info]
 ActsAvailable0 = Die folgenden Gebiete des
-ActsAvailable1 = Waldes werden verfÃ¼gbar sein:
+ActsAvailable1 = Waldes werden verfügbar sein:
 Contract = Vertrag
 Hostage0 = Ich werde folgende Geisel nehmen:
 Hostage1 = ... aber behalte alles, was du auf deinem Weg findest!
 
 [Hat_SnatcherContract_IceWall]
-Title = SÃ¤ubere den Subcon-Brunnen
+Title = Säubere den Subcon-Brunnen
 SubconVillage = Finde das Subcon-Dorf
-KillFireSpirits = TÃ¶te die Geister
-SubconWell = SÃ¤ubere den Subcon-Brunnen
+KillFireSpirits = Töte die Geister
+SubconWell = Säubere den Subcon-Brunnen
 BreakIce = Zerbreche das Eis
-FlowBloom = Lass die Blumen blÃ¼hen
+FlowBloom = Lass die Blumen blühen
 
 [Hat_SnatcherContract_Bonfires]
-Title = Erhitze das Lagerfeuer fÃ¼r die Feuergeister
+Title = Erhitze das Lagerfeuer für die Feuergeister
 BonfireYellow = Erhitze das gelbe Lagerfeuer
-BonfireGreen = Erhitze das grÃ¼ne Lagerfeuer
+BonfireGreen = Erhitze das grüne Lagerfeuer
 BonfireBlue = Erhitze das blaue Lagerfeuer
 BonfirePurple = Erhitze das lilane Lagerfeuer
 
 [Hat_SnatcherContract_Vanessa]
-Title = Bring mir etwas aus dem Herrenhaus
-EnterManor = Gehe ins Herrenhaus
+Title = Bring mir etwas aus der Villa
+EnterManor = Gehe in die Villa
 CompleteManor = Finde heraus, was auf dem Dachboden ist
 
 [Hat_SnatcherContract_MailDelivery]
 Title = Liefere Subcon-Post
-Deliver = Liefere Pakete zu 10 meiner Lakaien
+Deliver = Liefere Pakete zu zehn meiner Lakaien
 
 [Hat_SnatcherContract_Toilet]
 Title = Toilette des Untergangs

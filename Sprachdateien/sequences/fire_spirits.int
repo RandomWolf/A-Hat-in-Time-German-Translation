@@ -1,7 +1,7 @@
 [subcon]
 yellow0 = [wave]Wir wollen Sterben! Yay![/wave]
-yellow1 = [wave]Wir wollen Hell brennen, und dann erlöschen! Eine Rauchwolke werden![/wave]
-yellow2 = [wave]Unser Lagerfeuer braucht mehr brennstoff... nur die feinsten [icon:painting][hint]Bilder[/hint] funktionieren! Kannst du uns helfen?[/wave]
+yellow1 = [wave]Wir wollen hell brennen, und dann erlöschen! Eine Rauchwolke werden![/wave]
+yellow2 = [wave]Unser Lagerfeuer braucht mehr Brennstoff... nur die feinsten [icon:painting][hint]Bilder[/hint] funktionieren! Kannst du uns helfen?[/wave]
 
 complete0 = [wave]Danke[br]diiiiiir!![/wave]
 painting_burned0 = [wave]Mehr! Mehr![/wave]

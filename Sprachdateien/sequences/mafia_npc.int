@@ -22,8 +22,8 @@ road4 = Manchmal Mafia möchte etwas anderes probieren als Fisch, aber alles weit
 road5 = Mafia fragt sich warum Mafia hier hingezogen ist.
 road6 = Mafia mag nichtmal Fisch.
 
-geyser0 = Wir baün Basis auf gigantischen Geiser. Du fragst, "Wie habt ihr das gemacht?" Aber wir nicht sagen.
-geyser1 = Wenn wir dir es sagen, versuchst du auch eine zu Baün. Aber stellt sich heraus Basis ist klein.
+geyser0 = Wir bauen Basis auf gigantischen Geiser. Du fragst, "Wie habt ihr das gemacht?" Aber wir nicht sagen.
+geyser1 = Wenn wir dir es sagen, versuchst du auch eine zu Bauen. Aber stellt sich heraus Basis ist klein.
 geyser2 = Indem wir es nicht sagen, vermeidest du ein Elendes Schicksal. Mafia tut dir einen gefallen. Jetzt schuldest du Mafia gefallen.
 geyser3 = Kind mit Hut besser nicht vergessen das sie schuldet Mafia einen gefallen. Sollte sie vergessen... he he he... Mafia stellt sicher sie erinnert sich.
 
@@ -36,13 +36,13 @@ steal4 = Kleines Floß auf Meer! Ist nah am Wasser. Hat gute Aussicht. Man muss n
 hardwork0 = Mafia Leben ist harte Arbeit. Menschen schätzen die Hingabe an Job nicht.
 hardwork1 = Gestern, Mafia wacht auf und fühlt sich nicht danach Leute zu schlagen. Siehst du? Sogar Mafia job ist hart.
 
-submarine0 = Mafia hat versucht Stadt unter Wasser zu baün, aber Mafia kann luft nicht länger als eine Minute anhalten.
-submarine1 = Wir machen Mafia U-Boot um Wasser Stadt zu baün, aber ist langweilig. Mehr Spaß leute mit U-Boot zu essen.
+submarine0 = Mafia hat versucht Stadt unter Wasser zu bauen, aber Mafia kann luft nicht länger als eine Minute anhalten.
+submarine1 = Wir machen Mafia U-Boot um Wasser Stadt zu bauen, aber ist langweilig. Mehr Spaß leute mit U-Boot zu essen.
 
-sonstrong0 = Ich erzähle Sohn, "Du wirst leute schlagen wenn du Groß bist." Aber Mafia weiß das Sohn niemals Groß und Stark wird.
+sonstrong0 = Ich erzähle Sohn, "Du wirst leute schlagen wenn du Groß und Stark bist." Aber Mafia weiß das Sohn niemals Groß und Stark wird.
 sonstrong1 = Mafia's Herz ist gebrochen.
 
-scienceowl0 = Mafia sah Eule mit Wissenschaftsmantel. Mafia fragt, "Du machst Wissenschaft?" Eule sagt merkwürdige wörter zu Mafia.
+scienceowl0 = Mafia sah Eule mit Wissenschaftsmantel. Mafia fragt, "Du machst Lehre?" Eule sagt merkwürdige wörter zu Mafia.
 scienceowl1 = Mafia schlägt merkwürdige Eule.
 
 drunksleep0 = ZZZZZZZZZZZZZZZZZZZZ....
@@ -112,7 +112,7 @@ barrelthrow2 = Bleib stehen!
 barrelthrow3 = Denk nicht daran[br]Fass[br]auszuweichen!
 
 boss_godown0 = Das bring nichts! Mafia muss sich im Mafia style darum kümmern!
-boss_godown1 = Spüre was Mafia alten Fraün antut!
+boss_godown1 = Spüre was Mafia alten Frauen antut!
 
 [chapter1bullying]
 scream0 = Friss Dreck!
@@ -121,31 +121,31 @@ scream2 = Ha ha!
 scream3 = Nimm das! Und das!
 scream4 = Nimm das! Und das!
 scream5 = Fühlst du Schmerzen? Gut!
-scream6 = Mafia hilft dir rückgrat aufzubaün!
+scream6 = Mafia hilft dir rückgrat aufzubauen!
 
 [bazaar]
 balloon_intro0 = Dieser Shop? Nicht offen.
 balloon_intro1 = Shop kauft nur seltene sachen, und keiner hat seltene sachen.
-balloon_intro2 = Altes Rätsel sagt: "Wenn Luftballons erfunden werden, achten sie auf [clü]Ballon im Himmel[/clü]."
+balloon_intro2 = Altes Rätsel sagt: "Wenn Luftballons erfunden werden, achten sie auf [clue]Ballon im Himmel[/clue]."
 balloon_intro3 = Aber Rätsel zu kompliziert für Mafia zum verstehen.
 balloon_intro4 = Wenn kleines Kind mit Hut alten Ballon sieht? Komm her.
 
 balloon_gotone0 = Warte, Kind hat altes Tablet? Niemals!
-balloon_gotone1 = Alte Geschichte sagt: [clü]Sechs Tablets[/clü] werden gebraucht für Magie.
+balloon_gotone1 = Alte Geschichte sagt: [clue]Sechs Tablets[/clue] werden gebraucht für Magie.
 balloon_gotone2 = Kind kommt zurück wenn es sechs hat, und Mafia kombiniert die Tablets für Kind.
 
 trade_ties_intro0 = Hey Kind.
-trade_ties_intro1 = Du siehst aus wie ein schlaüs Mädchen. Sehr clever.
+trade_ties_intro1 = Du siehst aus wie ein schlaues Mädchen. Sehr clever.
 trade_ties_intro2 = Bist du Schlau?
 trade_ties_intro_yes = Die schlauste!
 trade_ties_intro_no = Nicht ganz!
-trade_ties_intro_a0 = Natürlich bist du. Mafia kann es in deinen Augen sehen. Du bist schlaür als die meisten.
+trade_ties_intro_a0 = Natürlich bist du. Mafia kann es in deinen Augen sehen. Du bist schlauer als die meisten.
 trade_ties_intro_b0 = Vielleicht hat Mafia kind falsch eingeschätzt. Du bist vielleicht nicht der Schärfste Fisch im Gefrierfach. Aber kannst dich ändern.
 trade_ties_intro3 = Mafia verkauft krawatten. Aber kaufe sie auch. Du verstehen?
 trade_ties_intro4 = Verkaufe einen Mann eine krawatte und er sieht fein aus. Feine Männer kaufen keine krawatten.
-trade_ties_intro5 = Mann muss krawatten verlieren um neü zu kaufen. Aber wie verschwindet krawatte? Mafia nicht fragen. Du verstehen?
+trade_ties_intro5 = Mann muss krawatten verlieren um neue zu kaufen. Aber wie verschwindet krawatte? Mafia nicht fragen. Du verstehen?
 trade_ties_intro6 = Mafia kauft krawatte von dir. Du gibst krawatte zu Mafia vom feinen Mann. Feiner Mann kommt zurück.
-trade_ties_intro7 = Du nun verstehen, ja? Du bist schlau. Bring mir [name]Mafia krawatte[/name] und [clü]als belohnung bekommst du etwas[/clü].
+trade_ties_intro7 = Du nun verstehen, ja? Du bist schlau. Bring mir [name]Mafia krawatte[/name] und [clue]als belohnung bekommst du etwas[/clue].
 
 trade_ties_sale0 = Hallo Kind. Du hast eine krawatte, ja?
 trade_ties_sale1 = Willkommen zurück. du bringst Mafia krawatte?
@@ -182,7 +182,7 @@ intro1 = Alles was wir gemacht haben war zeug ins Meer werfen, Befehle vom Boss.
 intro2 = Aber da wir das nun nicht mehr dürfen, wissen wir nicht wie wir Hitze stoppen.
 beach1 = Ich sag dir mal was, es ist eigentlich ganz schön mit der Hitze.
 beach2 = Nur der Strand ist voll mit heißer Lava.....
-sign0 = Da wir nun nicht mehr für den Boss arbeiten, haben dir neü Jobs.
+sign0 = Da wir nun nicht mehr für den Boss arbeiten, haben wir neue Jobs.
 sign1 = Wir machen Wettervorhersage. Heutiges Wetter: Schlecht. Zu warm. Ende der Welt? Mehr um 11.
 sign2 = Leute brauchen Nachrichten. Leute keine Zeit haben fÃ¼r small-talk.
 sign3 = Mein Bruder treibt ein falsches Spiel, er hat zwei wÃ¶rter benutzt. Zu viel.

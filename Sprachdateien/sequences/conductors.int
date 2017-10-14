@@ -48,7 +48,7 @@ director_cut3 = Wer ist DAS?!
 director_cut4 = Verlass sofort mein Filmset!
 
 director_action0 = Okay, allemann bereit? Lasst uns dann starten. ACTION!
-director_action1 = Lassen wir diesen Film wahr werden lassen! Eulen! In Position! ACTION!
+director_action1 = Lassen wir diesen Film wahr werden! Eulen! In Position! ACTION!
 director_action2 = Kameras! Lichter! ACTION!
 director_action3 = Klappe viertausendfünfundsechzig! ACTION!
 director_action4 = Seid ihr Eulen bereit, die nächste Szene zu drehen? Lasst es uns tun! ACTION!
@@ -129,12 +129,12 @@ suspect_hatkid8 = Oh.
 suspect_hatkid9 = Dennoch, damit bist du zu weit gegangen, Detektiv! Dafür kommst du ab in die Hundehütte!
 
 [GearPieces]
-story_intro0 = Nice place you've got here, lass! Not bad, not bad at all.
-story_intro1 = You know, back in me old days, I used to go on adventures, just like yerself!
-story_intro2 = Wanna hear old stories from an old man? It won't give yer a reward or nuthin'.
-story_intro3 = What kinda story do yer wanna hear?
-story_intro4 = That'll be [cost] pons for a new story! What, you thought me wisdom was gonna be free? Hah!
-story_intro5 = Alright, pick a story!
+story_intro0 = Gemütlichen Ort hast du hier, lassie! Nicht schlecht, überhaupt nicht schlecht.
+story_intro1 = Weißt du, früher in meinen alten Tagen, ging ich auch auf Abenteuerreise, wie du!
+story_intro2 = Willst du eine alte Geschichte, von einem alten Mann hören? Es wird dir keine Belohnung oder so geben.
+story_intro3 = Was für eine Geschichte willst du hören?
+story_intro4 = Das kostet [cost] pons für eine neue Geschichte! Was, du dachtest Weissheit gibts auch kostenlos? Hah!
+story_intro5 = Nun gut, such dir eine Geschichte aus!
 
 story_Jungle01 = Me 'n the Owl Express were heading to new territory, in search of the next Gear Piece!
 story_Jungle02 = I ventured to the deepest parts of the macaroni jungle, when suddenly, I was met with tribesmen! Lots of them! I was surrounded, kid!

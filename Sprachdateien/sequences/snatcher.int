@@ -17,53 +17,53 @@ enter_manor_hascontract1 = [shake2]There's some... stuff... inside that I don't 
 
 [subconforest]
 scooter_intro0 = [shake2]GUUUUUUUTEEEEEEN MOOOORGEEEN! Bist du bereit für deine vertraglichen Vorschriften?[/shake2]
-scooter_intro1 = [shake2]I'm not heartless! Every so often I sneak into mailboxes and steal letters, then deliver them to my minions. That way it's almost like someone cares about them![/shake2]
-scooter_intro2 = [shake2]But our last mailman has gone [wave]*poof*[/wave]. You'll have to do![/shake2]
-scooter_intro3 = [shake2]I've got a 'gift' for the occasion. Although it requires a special kind of hat to use - I hope you've got it! [wave]Ha ha ha![/wave][/shake2]
+scooter_intro1 = [shake2]Ich bin nicht Herzlos! Hin und wieder klaue ich Briefe aus Briefkästen und bringe sie meinen Untertanen. So denken sie dann das sich jemand um sie kümmert![/shake2]
+scooter_intro2 = [shake2]Aber, unser letzter Postbote ist...naja.. [wave]*poof*[/wave]. Deswegen musst du es machen![/shake2]
+scooter_intro3 = [shake2]Ich spendiere dir sogar ein "Geschenk" für deine Aufgabe. Allerdings brauchst du einen bestimmten Hut dafür, Ich hoffe du hast ihn! [wave]Ha ha ha![/wave][/shake2]
 
-scooter_onenter0 = [shake2]This [icon:badge][name]badge[/name] is only a rental. I need it back before you leave! Remember to put it on your [icon:sprinthat][name]Sprint Hat[/name], or it does absolutely nothing! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
-scooter_onenter1 = [shake2]All of the minions who are awaiting mail will have [hint]an icon above them[/hint]. Once you're done, come back here and 'clock' out. Get it?[/shake2]
+scooter_onenter0 = [shake2]Dieser [icon:badge][name]Anstecker[/name] ist nur geliehen. Ich brauche ihn zurück bevor du abhaust! Denk daran das Abzeichen auf deinen [icon:sprinthat][name]Sprint Hut[/name]zu packen, sonst funktioniert es nicht! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
+scooter_onenter1 = [shake2]Alle Untertanen die auf ihre Post warten haben [hint]ein Symbol über ihnen[/hint]. Wenn du Fertig bist, komm zu mir zurück und Stempel dich aus. Verstanden?[/shake2]
 
 [contract_initial]
 intro0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
-intro1 = [shake][big][scream][wave]FOOOOOOOOOOOOOOOOOOOOOOOOL!![/wave][/scream][/big][/shake]
-intro2 = [shake2]You blew it! You've totally screwed yourself! Nobody enters my home and leaves in one piece![/shake2]
-intro3 = [shake2]Tell you what though! Hang on a minute! You get to live! That's right! Aren't you lucky?![/shake2]
-intro4 = [shake2]Normally I'd eat your soul and toss your body, but you're a lucky one! You won the lottery, because I just happen to be missing a braindead servant![/shake2]
-intro5 = [shake2]That's right! The old one got himself killed, his head popped off, and now I need a new towel boy![/shake2]
-contract_appear0 = [shake2]So tell you what, I've got a piece of paper here! Don't worry about the details! I just need you to sign right here at the bottom![/shake2]
+intro1 = [shake][big][scream][wave]NAAAAAAAAAAAAAAARRRR!![/wave][/scream][/big][/shake]
+intro2 = [shake2]Du hast es vermasselt! Komplett vermasselt! Keiner betritt meinen Wald und verlässt ihn in einem Stück![/shake2]
+intro3 = [shake2]Ich sag dir was, warte eine Minute! Du darfst Leben! Du hast richtig gehört, du Glückspilz![/shake2]
+intro4 = [shake2]Normalerweise würde ich deine Seele essen und deinen Körper wegwerfen, aber heute nicht! Du hast die Lotterie gewonnen, denn ich benötige einen hirnlosen Sklaven![/shake2]
+intro5 = [shake2]Du hast richtig gehört! Der andere ist gestorben. Sein Kopf ist geplatzt! Jetzt brauche ich einen neuen Laufburschen![/shake2]
+contract_appear0 = [shake2]Hör gut zu. Ich habe ein Stück Papier hier, kümmer dich nicht um das Kleingedruckte! Du musst nur hier unten Unterschreiben![/shake2]
 
-contract_disagree_retry = Lemme reconsider...
-contract_disagree_decline = I won't sign!
+contract_disagree_retry = Lass mich nachdenken...
+contract_disagree_decline = Ich unterschreibe nicht!
 
-contract_disagree0 = [shake2]C'mon now, don't make this difficult! You don't really have a say in this! Sign the paper![/shake2]
-contract_disagree1 = [shake2]I don't think I made this clear enough: YOUR OPINION DOESN'T MATTER TO ME. Put your name on the contract or I'll make your dead, hollow body sign it for you![/shake2]
-contract_disagree2 = [shake2]LAST CHANCE! Sign the paper![/shake2]
-contract_disagree3 = [shake2]Too bad! I gave you an opportunity to redeem a bad situation, and you blew it! Threw any chance of surviving this right out the window![/shake2]
-contract_disagree4 = [shake2]Goodbye! I mean, goodbye to your aware self! I'll be saying hello to your hollow corpse once you're gone![/shake2]
+contract_disagree0 = [shake2]Komm schon, mach das nicht schwierig! Du hast nicht wirklich eine Wahl! Unterschreib das Papier![/shake2]
+contract_disagree1 = [shake2]Ich glaube nicht ich hab mich klar genug ausgedrückt: WAS DU DENKST INTERESSIERT MICH NICHT. Schreib deinen Namen auf den Vertrag oder ich werde deinen Leblosen Körper dafür nutzen![/shake2]
+contract_disagree2 = [shake2]LETZTE CHANCE! Unterschreib das Papier![/shake2]
+contract_disagree3 = [shake2]Zu Schade! Ich gab dir eine möglichkeit eine schlechte Situation wieder hinzubekommen, aber du hast es vermasselt! Deine einzige überlebens chance direkt aus dem Fenster geworfen![/shake2]
+contract_disagree4 = [shake2]Tschüss! Ich mein, tschüss zu deinem Selbstbewusstsein, und Hallo an deinen Leblosen Körper![/shake2]
 
 contract_agree0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
-contract_agree1 = [shake2]That seals the deal! We're in business! Let me just grab this real quick...[/shake2]
+contract_agree1 = [shake2]Das schließt den Deal ab! Wir sind im Geschäft! Ich nehm das hier nur kurz...[/shake2]
 
-contract_soul = You feel exceedingly empty inside.
+contract_soul = Du fühlst dich außerordentlich leer von innen.
 
-contract_agree2 = [shake2]Whoops! Guess this soul belongs to me now![/shake2]
-contract_agree3 = [shake2]Don't worry, though! If you finish your chores quickly, you'll have your soul back real soon![/shake2]
-contract_agree4 = [shake2]And don't you dare forget our little contract! I've put it in your [button:start] menu so that it'll never leave your sight![/shake2]
-contract_agree5 = [shake2]Goodbye! Take care! Don't die on me![/shake2]
+contract_agree2 = [shake2]Whoops! Deine Seele gehört jetzt mir![/shake2]
+contract_agree3 = [shake2]Aber keine Angst! Wenn du deine Aufgaben schnell erledigst, bekommst du deine Seele wieder![/shake2]
+contract_agree4 = [shake2]Und vergiss bloß nicht unseren Vertrag! Ich habe ihn in dein [button:start] Menü getan, damit du ihn nie aus den Augen verlierst![/shake2]
+contract_agree5 = [shake2]Auf Wiedersehen! Sei Vorsichtig! Versuch nicht zu sterben![/shake2]
 
-enter_village0 = [shake][big][scream][wave]WHHHHYYYYYYY HELLO THERE![/wave][/scream][/big][/shake][br][shake2]You didn't forget about me, did you?! Don't tell me you forgot about me![/shake2]
-enter_village1 = [shake2]What's up? You working on any contractual obligations lately? You better be! Remember our little deal![/shake2]
-enter_village2 = [shake2]Check it out. Those incredibly annoying [name]Fire Spirits[/name] are sitting right there, in the middle of my village.[/shake2]
-enter_village3 = [shake2]Their little dance is creating these incredibly annoying barriers that stop me from getting to parts of my forest. It's almost like they're trying to put an end to me... how adorable.[/shake2]
-enter_village4 = [shake2]Dispose of them. I don't care how you do it, as long as they suffer for entering my domain! [wave]HEHEHEHE![/wave][/shake2]
-enter_village5 = [shake2]Anyways, back to work, trooper![br]This isn't a vacation, and I'm getting impatient![/shake2]
+enter_village0 = [shake][big][scream][wave]HALLÖÖÖÖÖÖCHEEEEEEN![/wave][/scream][/big][/shake][br][shake2]Du hast mich doch nicht vergessen, oder?! Wehe wenn doch![/shake2]
+enter_village1 = [shake2]Wie gehts? Arbeitest du gerade an deinen Vertraglichen Verpflichtungen? Hoffentlich! Denk an unseren Deal![/shake2]
+enter_village2 = [shake2]Zieh dir das rein. Diese nervigen [name]Feuer Geister[/name] die dort rumsitzen, mitten in meinem Dorf.[/shake2]
+enter_village3 = [shake2]Ihr kleiner Tanz erschafft diese sehr nervigen Barrieren die mir den Zugang zu meinem Wald abblocken. Fühlt sich fast so an als würden sie mich los werden wollen. Wie süß.[/shake2]
+enter_village4 = [shake2]Werd' sie los. Keine Ahnung wie du es machst, hauptsache sie leiden dafür das sie meinen Wald betreten haben! [wave]HEHEHEHE![/wave][/shake2]
+enter_village5 = [shake2]Jedenfalls, zurück an die Arbeit, Sklave![br]Das hier ist kein Urlaub, und ich werde ziemlich ungeduldig![/shake2]
 
 [breakice_contract]
-breakice0 = [shake][big][scream][wave]WELL DONE![/wave][/scream][/big][/shake][br][shake2]Please tell me they suffered. You murdered them, right? I bet you strangled them. Good girl! [scream][wave]Ha ha ha ha![/wave][/scream][/shake2]
-breakice1 = [shake2]Don't think I'm done with you yet, though! There's more of these pests around my forest, and I need you to take care of every single one.[/shake2]
-breakice2 = [shake2]Next on your to-do list: Clean up the Subcon Well. That's right, you're a plumber now! Congratulations on your promotion![/shake2]
-breakice3 = [shake2]I also have some... other... work for you that I cannot do myself. And hey, as long as I need you, you get to stay alive. What a deal, huh?[/shake2]
+breakice0 = [shake][big][scream][wave]GUT GEMACHT![/wave][/scream][/big][/shake][br][shake2]Bitte sag mir sie haben gelitten. Du hast sie getötet, oder? Ich wette, du hast sie erdrosselt! Gutes Mädchen! [scream][wave]Ha ha ha ha![/wave][/scream][/shake2]
+breakice1 = [shake2]Noch sind wir aber nicht fertig! Es sind noch mehr als genug Plagegeister in meinem Wald, und du musst dich um sie kümmern.[/shake2]
+breakice2 = [shake2]Das nächste auf deiner Liste: Säubere den Subcon Brunnen. Das ist richtig, du bist jetzt ein Klempner! Glückwunsch zu deiner Beförderung![/shake2]
+breakice3 = [shake2]Ich habe auch noch...andere Arbeit für dich die ich nicht selbst machen kann. Aber hey, solange ich dich brauche bleibst du am Leben. Was ein Deal, oder?[/shake2]
 
 breakice4 = [shake2]But enough talk! You look like you can handle multiple things on your plate at once! Let's get you an additional contract![/shake2]
 breakice5 = [shake2]Pick one, but only one! Isn't it thrilling to sign your life away?[/shake2]

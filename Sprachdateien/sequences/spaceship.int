@@ -1,5 +1,5 @@
 [ActSelects]
-ChapterUnlocked = Energie [name][location][/name]wurde wieder hergestellt![br]Das Kapitel [name][chaptername][/name] ist jetzt verfÃ¼gbar!
+ChapterUnlocked = Energie [name][location][/name]wurde wieder hergestellt![br]Das Kapitel [name][chaptername][/name] ist jetzt verfügbar!
 
 [locations]
 Location_Bedroom = im Schlafzimmer
@@ -12,7 +12,7 @@ Location_Attic = auf dem Dachboden
 DecorationPerfect = Combining the [decorations] made a [dreamworld] appear in [name][chaptername][/name]! Check the chapter's telescope to see where it's hiding!
 
 [Ending]
-ThrowMu0 = Ein[icon:timepiece][timepiece]ZeitstÃ¼ck[/timepiece] fallen lassen, um [icon:mugirl][name]MÃ¤dchen mit roter Kapuze[/name] etwas [icon:timepiece][timepiece]ZeitstÃ¼ck[/timepiece] Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann womÃ¶glich nicht mehr nach Hause kommen kÃ¶nnen.)
+ThrowMu0 = Ein[icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um [icon:mugirl][name]Mädchen mit roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece] Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann womöglich nicht mehr nach Hause kommen können.)
 ThrowMu0_Yes = Ja
 ThrowMu0_No = Nein
 

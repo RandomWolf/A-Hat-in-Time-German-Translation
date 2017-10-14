@@ -9,14 +9,14 @@ intro5 = [shake2]You need to go up, or else she'll come up here and find you, ri
 chase0 = [shake2][wave]Ha ha ha![/wave] It's mine![/shake2]
 chase1 = [shake2]What are you gonna do? Don't you know, you can't [hint]hurt a shadow[/hint]![/shake2]
 
-givekey0 = [shake2]Oh, du willst den SchlÃ¼ssel? Kannst du gerne haben![/shake2]
+givekey0 = [shake2]Oh, du willst den Schlüssel? Kannst du gerne haben![/shake2]
 givekey1 = [shake2]I don't need it anyway... and you won't be needing it either when she catches you! [wave]HA HA HA![/wave][/shake2]
 
-enter_manor_hascontract0 = [shake2]Hey Kumpel! Erinnere dich an unseren Vertrag! Keine HÃ¼te im Hause![/shake2]
+enter_manor_hascontract0 = [shake2]Hey Kumpel! Erinnere dich an unseren Vertrag! Keine Hüte im Hause![/shake2]
 enter_manor_hascontract1 = [shake2]There's some... stuff... inside that I don't want you to mess around with! Remember your contractual obligations![/shake2]
 
 [subconforest]
-scooter_intro0 = [shake2]GUUUUUUUTEEEEEEN MOOOORGEEEN! Bist du bereit fÃ¼r deine vertraglichen Vorschriften?[/shake2]
+scooter_intro0 = [shake2]GUUUUUUUTEEEEEEN MOOOORGEEEN! Bist du bereit für deine vertraglichen Vorschriften?[/shake2]
 scooter_intro1 = [shake2]I'm not heartless! Every so often I sneak into mailboxes and steal letters, then deliver them to my minions. That way it's almost like someone cares about them![/shake2]
 scooter_intro2 = [shake2]But our last mailman has gone [wave]*poof*[/wave]. You'll have to do![/shake2]
 scooter_intro3 = [shake2]I've got a 'gift' for the occasion. Although it requires a special kind of hat to use - I hope you've got it! [wave]Ha ha ha![/wave][/shake2]

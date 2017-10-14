@@ -55,7 +55,7 @@ livethousand1 = Mafia nicht wissen was mit alten Inselbewohnern passiert ist. Ma
 dumb0 = Leute sagen Mafia sind dumm, aber Mafia nicht dumm! Mafia war auf Universität. Mafia hat Doktorgrad in Mafia!
 
 secretitem0 = Kleines Mädchen sieht dinge dort drüben?
-secretitem1 = Mafia fragt sich ob es weg dorthin gibt... aber Mafia hat keine Zeit .
+secretitem1 = Mafia fragt sich ob es weg dorthin gibt... aber Mafia hat keine Zeit nach Weg zu suchen [br]wenn Mafia glotzen muss.
 secretitem2 = Kleines Mädchen hat item? Aber....wie? Du musst Mafia erzählen!
 secretitem3 = Mafia muss wissen. Ort perfekt für Verstecken und Schlagen.
 
@@ -195,7 +195,7 @@ chef0 = Vulkan Lava ist gut zum Kochen!
 
 [hq]
 rude_jeer0 = Geh weg kleines Mädchen! Dies ist Mafia Basis!
-rude_jeer1 = Mafia mag keine Eindringlinge!
+rude_jeer1 = Mafia mag keine [br]Eindringlinge!
 rude_jeer2 = Geh zurück nach Hause!
 lobby0 = Du solltest gehen! Dieser Ort ist nichts für kleine Mädchen.
 lobby1 = Meisten Orte nicht für Kinder, vor allem dieser.

@@ -1,6 +1,6 @@
 [subconforest]
-lost0 = Oh, hello there. Are you lost, too?[br]I've been lost for as long as I can remember.
+lost0 = Oh, hallo. Hast du dich verlaufen?[br]Ich bin hier seitdem ich denken kann.
 
-afraid_cherry0 = [scream][shake]GAHH!! W-who are you?[/shake][/scream]
-afraid_cherry1 = Oh, just some kid? Phew. For a minute I was worried you were that shadow guy.
-afraid_cherry2 = He's kinda rude. I wouldn't associate with that guy. He messes with us, like [hint]using the cherries to make us explode[/hint].
+afraid_cherry0 = [scream][shake]GAHH!! W-wer bist du?[/shake][/scream]
+afraid_cherry1 = Oh, nur ein Kind? Phew. Für eine Minute hab ich gedacht du wärst einer der Schatten.
+afraid_cherry2 = Er ist unhöflich. Ich würde mich nicht mit ihm in Vrbindung setzen. Er ärgert uns, indem er [hint]uns mit den Kirschen sprengt[/hint].

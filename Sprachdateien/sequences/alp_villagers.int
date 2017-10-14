@@ -11,9 +11,9 @@ finale3 = Danke das du uns geholfen hast!
 
 [Guides]
 guide_lavacake0 = Hier geht es[br]zum [name]Lava Kuchen[/name]!
-guide_lavacake1 = Diese Hitze ist großartig! [br]Sie ist [hint]rechts[/hint] [br]sogar noch heißer!
+guide_lavacake1 = Die Hitze ist großartig! [br][hint]Rechts[/hint] ist es [br]sogar noch heißer!
 guide_lavacake2 = Das ist der [br][name]Lava Kuchen[/name]!
-guide_lavacake3 = Wie endete dieser Ort [br]überhaupt so?
+guide_lavacake3 = Wie entstand dieser [br]Ort überhaupt?
 guide_windmill0 = Zur [name]alten Windmühle[/name] [br]geht es hier lang! 
 guide_windmill1 = Dieser Ort ist riesig! [br]Das Klettern zur [hint]Spitze[/hint] ist bestimmt anstrengend.
 guide_twilight0 = Zur [name]mitternachts Glocke[/name][br]geht es hier lang!
@@ -29,7 +29,7 @@ guide_deadend0 = Hey! Dieser Weg führt [br]zu keinen [hint]Gipfel[/hint].
 guide_deadend1 = Ich glaube hier geht es zu einem [hint]Horn[/hint]. [br]Du kannst es sehen!
 guide_deadend2 = Ich glaube ich beobachte [br]einen [hint]Schatz[/hint]!
 guide_deadend3 = Ich glaube [br]nicht, dass jegliche [br][hint]Sanduhren[/hint] hier entlang [br]gefallen sind.
-guide_zipline0 = Stelle sicher, [br]dass du den Pfad [hint]ansteuerst[/hint], [br]den du gehen willst.
+guide_zipline0 = Gehe sicher, [br]dass du den Pfad [br][hint]ansteuerst[/hint], den du [br]gehen willst.
 guide_bridge0 = Vorsicht! Manche [hint]Brücken[/hint] sind alt.
 guide_cats0 = Pass auf, Kind. Ich ging voran und [br]wurde leicht gekratzt!
 guide_cats1 = Ich behalte deinen [br][icon:hat] hier!

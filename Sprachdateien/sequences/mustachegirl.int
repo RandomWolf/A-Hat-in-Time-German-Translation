@@ -63,9 +63,9 @@ timepiecebreak1 = Sind das seltene S... Moment, hä?
 timepiecebreak2 = [big][scream]Warte, WAS?![/scream][/big]
 timepiecebreak3 = Wa... hast... äh, hast du darüber gewusst?
 proposal0 = [scream]Das ist verrückt![/scream] Hast du überhapt eine Idee, was man damit machen kann?
-proposal1 = Wir könnten dich davor bewahren, damals von der Mafioso geschlagen zu werden!
-proposal2 = Wir könnten die Mafioso niederschlagen, zurückreisen und es nochmals tun!
-proposal3 = Ne, warte! Wir könnten verhindern, das die Mafioso erst auf diese Insel gekommen ist!
+proposal1 = Wir könnten dich davor bewahren, damals von der Mafia geschlagen zu werden!
+proposal2 = Wir könnten die Mafia niederschlagen, zurückreisen und es nochmals tun!
+proposal3 = Ne, warte! Wir könnten verhindern, das die Mafia erst auf diese Insel gekommen ist!
 proposal4 = Moment, noch besser! Wir könnten zeitreisende Verbrechungskämpfer sein!
 tantrum0 = Äh, wie?! Das macht keinen Sinn!
 tantrum1 = Du hast diese gesamte Kraft, und benutzt es nicht für das Gute?
@@ -150,7 +150,7 @@ slap2 = Weißt du, ich wollte dir verzeihen. Ich dachte damals, das wir beste Fre
 slap3 = Aber NEIN, du wolltest egoistisch und faul sein. Retten des Planeten von dem Bösen? Pfft, wer braucht das schon, hab ich recht?
 slap4 = Schau was ich ohne dich erreicht hab. Ich hab Gerechtigkeit wiederhergestellt. ICH BIN die Gerechtigkeit.[br]Keine Gegner, für immer.
 slap5 = Ich brauche dich nicht. Dieser Planet braucht dich nicht. Niemand wird dich vermissen, und keinen wird es kümmern!
-slap6 = DU bist der Gegner, und ich zeige dir wie die Gerechtigkeit mit gengern umgeht.
+slap6 = DU bist der Gegner, und ich zeige dir wie die Gerechtigkeit mit Gegnern umgeht.
 
 leaving0 = Ernsthaft? Du gehst einfach? Nicht mal kämpfen? Erbärmlich.
 

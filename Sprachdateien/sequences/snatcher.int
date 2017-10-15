@@ -129,7 +129,7 @@ Chemicals7 = [shake2]Du bist echt unhöflich,[br]weißt du?[/shake2]
 turned_blue0 = [shake2]...[/shake2]
 turned_blue1 = [shake2]Hast du mich gerade mit meinem eigenen Angriff Blau gefärbt?[/shake2]
 turned_blue2 = [shake2]Das kann nicht zählen, oder? Ich bin mir sicher das Zählt nicht?[/shake2]
-turned_blue3 = [shake2]Anscheinend schon.. zeit zu [scream][wave]STERBEN[wait][/wave][/scream].[/shake2]
+turned_blue3 = [shake2]Anscheinend schon.. Zeit zu [scream][wave]STERBEN[wait][/wave][/scream].[/shake2]
 
 Cherry0 = [shake2]Oh nein![/shake2]
 Cherry1 = [shake2]Ich wollte diese[br]Kirschombe fallenlassen![/shake2]
@@ -152,7 +152,7 @@ sign1 = [shake2]Ich geb dir 'ne chance abzuhauen, kid! Keine Tricks dieses mal! 
 sign2 = [shake2]Ich geb dir auch eine Seele zurück, haust Du dann ab?[/shake2]
 sign3 = [shake2]Ja? Nein? Hallo? Ist da jemand? Warum sagst du nichts?[/shake2]
 sign4 = [shake2].......[/shake2]
-sign5 = [shake2]...You're quite the character, aren't you. Und ein geschickter Verhandler.[/shake2]
+sign5 = [shake2]...Du bist ganz der Charakter, nicht wahr? Und ein geschickter Verhandler.[/shake2]
 sign6 = [shake2]Okay, Ich werde den Deal für dich verbessern.[/shake2]
 sign7 = [shake2]Hier, nimm mein letztes [icon:timepiece][timepiece]Zeitstück[/timepiece]. Sollte ich dich hiernach noch in meinem Wald sehen, werde ich sehr enttäuscht sein![/shake2]
 

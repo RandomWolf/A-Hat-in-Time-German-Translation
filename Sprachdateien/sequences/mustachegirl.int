@@ -1,52 +1,52 @@
 [chapter1muchase]
-tower0 = Hey you,[waitlong] down there! [waitlong][waitlong]Don't think I didn't see you stalking me!
-tower1 = Us kids should stick together, not stalk one another. I mean, [name]Mafia Town[/name] can be a really dangerous place! So whaddaya say, wanna join my little rebellion?
-tower2 = Oh, by the way, did you have anything to do with the [timepiece][icon:timepiece]junk[/timepiece] falling from the sky? Yeah? Yikes, looks like you've got a lot of cleaning up to do, huh?
-tower3 = Tell you what, come up here and I can show you where some of your [timepiece][icon:timepiece]junk[/timepiece] landed!
+tower0 = Hey du,[waitlong] da unten! [waitlong][waitlong]Glaub nicht, mir ist es nicht aufgefallen, dass du mich stalkst!
+tower1 = Wir Kinder sollten uns zusammentun, nicht einander stalken. Ich meine, [name]Mafia Stadt[/name] kann ein sehr gefährlicher Ort sein! Also, was sagst du, willst du meiner kleinen Rebellion beitreten?
+tower2 = Oh, so nebenbei, hast du irgendwas mit diesem [timepiece][icon:timepiece]Müll[/timepiece] zu tun, der vom Himmel fällt? Ja? Wow, scheint als hättest du viel zu aufräumen, huh?
+tower3 = Weiß du was, komm hier hoch und ich zeige dir, wo ein bisschen von deinem [timepiece][icon:timepiece]Müll[/timepiece] gelandet ist!
 
-tower_wrong_jump = Your standard jump isn't going to cut it. You'll need to double that jump!
+tower_wrong_jump = Dein Standart-Sprung reich dafür nicht aus. Du brauchst ein Doppelsprung dafür!
 
-mu_follow0 = Follow me, rebel squad!
+mu_follow0 = Folg mir, Rebell!
 
-umbrella_there0 = Hey! I think one of your [timepiece][icon:timepiece]junk pieces[/timepiece] fell and smashed right into the market's fountain. Messed it up real good.
-umbrella_there1 = When going over there, just avoid making eye contact with the Mafia and you'll be fine. Good luck, fellow rebel!
-umbrella_there2 = See ya!
+umbrella_there0 = Hey! Ich glaube, eines deiner [timepiece][icon:timepiece]Müllstücke[/timepiece] fiel und krachte direkt in die Markt-Fontäne. Hat sie ordentlich zersplittert.
+umbrella_there1 = Wenn du dahin gehen willst, dann vermeide einfach Augenkontakt mit den Mafiosi und alles wird  gut sein. Viel Glück, neuer Rebell!
+umbrella_there2 = Man sieht sich!
 
 [chapter1combat]
-grabbed0 = Dude, get off[br]of me!!
-grabbed1 = I'm serious! Put me down, you big idiot!
-grabbed2 = What kind of man[br]grabs an innocent[br]little girl?!
-grabbed3 = Your cooking is bad[br]and you're a[br]bad person![br]Now let me go!!
-grabbed4 = I'm not going[br]anywhere with you![br]Let go!!
-grabbed5 = If you don't drop[br]me right now,[br]I'll bite!
+grabbed0 = Hey, geh runter [br]von mir!!
+grabbed1 = Ich meine es ernst! Lass mich runter, du dummer Idiot!
+grabbed2 = Was für Mann[br]greift bitte ein unschuldiges,[br]kleines Mädchen an?!
+grabbed3 = Deine Kockkünste sind schlecht[br]und du bist auch eine[br]schlechte Person![br]Jetzt lass mich runter!!
+grabbed4 = Ich gehe nirgendwo[br]mit dir hin![br]Lass mich los!!
+grabbed5 = Wenn du mich jetzt nicht[br]auf der Stelle loslässt,[br]dann beiß ich!
 grabbed6 = Quit it!
 
 thrown0 = Argh!
-thrown1 = No, don't throw meeeeeeeeeeeeeee.....!
+thrown1 = Nein, wirf nicht miiiiiiiiiiiiich.....!
 
-battleend0 = Pfft. Can you believe them? What a bunch of losers.
-battleend1 = Hey. You're alright, new kid. Do you have a name?
-battleend2 = No? You shy? That's cool. You're a 'less talk, more fighting' kind of girl, I take it.
-battleend3 = That [timepiece][icon:timepiece]thing[/timepiece] you grabbed there... are you collecting them? Because I know where there's more of them.
-battleend4 = They've been raining from the sky ever since you arrived. I've seen the goons bring them to their headquarters waaay up there.
-battleend5 = We should go up there and get your junk! It'll be fun! I'll take any opportunity that involves messing up the Mafia.
-battleend6 = You with me, buddy?
+battleend0 = Pfft. Kannst du den glauben? Was für ein Haufen Loser.
+battleend1 = Hey. Du bist ziemlich okay, neues Kind. Hast du einen Namen?
+battleend2 = Nein? Du bist schüchtern? Das ist cool. Du bist mehr das "weniger Reden, mehr Kämpfen" Kind, huh.
+battleend3 = Dieses [timepiece][icon:timepiece]Ding[/timepiece], das du da nahmst... sammelst du sie? Weil ich weiß, wo mehr von ihnen sind.
+battleend4 = Seitdem du hier angekommen bist, sind sie vom Himmel gefallen. Ich habe gesehen, dass die Trottel sie zu ihrem Hauptquatier nach ganz dort oben hinbringen.
+battleend5 = Wir sollten dahin gehen und dein Müll besorgen! Das wird spaßig! Ich nehme an jeder Gelegenheit teil, wo man mit der Mafia rumscherzen kann.
+battleend6 = Schlägst du ein?
 
 hifive0 = Yeah!!
 
 [intruder]
-PreAwakening0 = Are you ready to take down some Mafia!? Let's do it! I'm psyched!
-PreAwakening1 = Let's go over the plan! All assaults need a good plan, or it'll be a flop!
-PreAwakening2 = First, we strangle them! Choke 'em and watch 'em beg for mercy! That'll show them!
-PreAwakening3 = No, wait, strangling is too kind...
-PreAwakening4 = We smash them together into mush, and put their remains in a jar!
-PreAwakening5 = Then we sell the jar for pocket money! That'll be the ultimate salt in the wound!
-PreAwakening6 = ... [scream]*ahem*[/scream] But first, we have to make it through their [name]Mafia HQ[/name].
-PreAwakening7 = Once we find and dethrone the [name]Mafia Boss[/name], the rest will follow. Then our mush and jar party will be no problem!
-PreAwakening8 = We've gotta get you geared up! Your hat is basic, and we don't do basic in this gang!
-PreAwakening9 = [hint][icon:yarn]Yarn[/hint] can be found around Mafia Town and used to stitch new hats if you're crafty. I've collected one for you!
-PreAwakening10 = You need more yarn for some hats than others. I guess being creative isn't free, huh? So keep an eye out for yarn!
-PreAwakening11 = Now you're a killing machine! Let's go get them!!
+PreAwakening0 = Bist du bereit, die Mafia zu stürzen!? Lass es sofort uns tun! Ich bin so aufgeregt!
+PreAwakening1 = Lass uns einmal den Plan durchgehen! Alle Überfälle brauchen ein Plan, sonst funktioniert nichts!
+PreAwakening2 = Zuerst, erdrosseln wir sie! Wir erwürgen sie und schauen wie sie um Gnade winseln! Das wirds ihnen so richtig zeigen!
+PreAwakening3 = Nein, warte, erdrosseln ist zu nett...
+PreAwakening4 = Wir schmeißen sie aneinander, bis sie nur noch Brei sind und füllen sie in ein Glas!
+PreAwakening5 = Dann verkaufen wir das Glas für etwas Taschengeld! Das wird das ultimative Salz in der Wunde!
+PreAwakening6 = ... [scream]*ähm*[/scream] Aber zuerst, müssen wir es durch ihr[name]Mafia Hauptquatier[/name] schaffen.
+PreAwakening7 = Sobald wir den [name]Mafia Boss[/name] gefunden und entthront haben, folgt der Rest. Dann wird unsere "Brei und Glas Party" kein Problem mehr sein!
+PreAwakening8 = Wir müssen uns jedoch aufrüsten! Dein Hut ist... Standart. Und wir haben kein Standart in dieser Gang!
+PreAwakening9 = [hint][icon:yarn]Garn[/hint] kann überall in Mafia Stadt gefunden werden und wird dazu benutzt neue Hüte zu nähen. Ich habe schon eins für dich gesammelt!
+PreAwakening10 = Du brauchst für manche Hüte mehr Garn als für andere. Ich glaube kreativ sein ist nicht grade kostenlos, huh? Also halt die Auge auf nach Garn!
+PreAwakening11 = Nun nun, mein Killer-Rekrut! Los, los, auf sie!!
 
 [mafiahq]
 outside0 = You took your time! Help me out here!

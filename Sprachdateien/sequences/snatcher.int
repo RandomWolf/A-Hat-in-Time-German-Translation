@@ -10,10 +10,10 @@ chase0 = [shake2][wave]Ha ha ha![/wave] It's mine![/shake2]
 chase1 = [shake2]What are you gonna do? Don't you know, you can't [hint]hurt a shadow[/hint]![/shake2]
 
 givekey0 = [shake2]Oh, du willst den Schlüssel? Kannst du gerne haben![/shake2]
-givekey1 = [shake2]I don't need it anyway... and you won't be needing it either when she catches you! [wave]HA HA HA![/wave][/shake2]
+givekey1 = [shake2]Ich brauche den Schlüssel eh nicht... du aber auch nicht wenn sie dich fängt! [wave]HA HA HA![/wave][/shake2]
 
 enter_manor_hascontract0 = [shake2]Hey Kumpel! Erinnere dich an unseren Vertrag! Keine Hüte im Hause![/shake2]
-enter_manor_hascontract1 = [shake2]There's some... stuff... inside that I don't want you to mess around with! Remember your contractual obligations![/shake2]
+enter_manor_hascontract1 = [shake2]D ist... zeug... im Haus mit dem zu nicht rumspielen solltest! Denk an deine vertraglichen Verflichtungen![/shake2]
 
 [subconforest]
 scooter_intro0 = [shake2]GUUUUUUUTEEEEEEN MOOOORGEEEN! Bist du bereit für deine vertraglichen Vorschriften?[/shake2]
@@ -152,24 +152,24 @@ sign1 = [shake2]Ich geb dir 'ne chance abzuhauen, kid! Keine Tricks dieses mal! 
 sign2 = [shake2]Ich geb dir auch eine Seele zurück, haust Du dann ab?[/shake2]
 sign3 = [shake2]Ja? Nein? Hallo? Ist da jemand? Warum sagst du nichts?[/shake2]
 sign4 = [shake2].......[/shake2]
-sign5 = [shake2]...You're quite the character, aren't you. And a tough negotiator.[/shake2]
-sign6 = [shake2]Fine, I'll sweeten the deal for you.[/shake2]
-sign7 = [shake2]Here, take my last [icon:timepiece][timepiece]Time Piece[/timepiece]. If I continue to see you around my forest after this, I'll be very disappointed![/shake2]
+sign5 = [shake2]...You're quite the character, aren't you. Und ein geschickter Verhandler.[/shake2]
+sign6 = [shake2]Okay, Ich werde den Deal für dich verbessern.[/shake2]
+sign7 = [shake2]Hier, nimm mein letztes [icon:timepiece][timepiece]Zeitstück[/timepiece]. Sollte ich dich hiernach noch in meinem Wald sehen, werde ich sehr enttäuscht sein![/shake2]
 
-contract_soul_return = You got your soul back! You feel relieved, energised, and just the usual amount of empty!
+contract_soul_return = Du hast deine Seele zurück! Du fühlst dich erleichtert, fröhlich, und nur die übliche Menge an leer!
 
 [finale]
-outside0 = [shake2]Hey kid! How's that soul of yours? Still rattling around in there?[/shake2]
-outside0b = [shake2]Oh, wait. You never quite earned that back, did you?[/shake2]
-outside1 = [shake2]I'd love to know who thinks they're a big enough deal to judge [wave]me![/wave] So I've taken a few [small]hundred[/small] souls - big deal![/shake2]
-outside2 = [shake2]Do us all a favor, kid! Go check out who thinks they're better than us! And hit them![/shake2]
-outside3 = [shake2]I don't usually advocate that kind of thing, but this is pretty authoritarian![/shake2]
-group_counter0 = [shake2]This alternate reality stinks! Get lost![/shake2]
-cherrybombs0 = [shake2]Let's sign a contract and make this girl get lost, once and for all![/shake2]
-cherrybombs1 = [shake2]Hahaha! Alright, let's go. I'll create, you'll throw![/shake2]
+outside0 = [shake2]Hey kid! Wie geht's deiner Seele? Immer noch da?[/shake2]
+outside0b = [shake2]Oh, warte. Du hast sie nie wirklich zurückbekommen, oder?[/shake2]
+outside1 = [shake2]Ich würde gerne wissen wer hier meint [wave]mich![/wave] zu verurteilen! Deswegen hab' ich mir ein paar [small]hundert[/small] Seelen mitgenommen![/shake2]
+outside2 = [shake2]bitte tue uns alle einen gefallen und finde heraus wer hinter all das hier steckt! Und schlag ihn![/shake2]
+outside3 = [shake2]Normalerweise befürworte ich diese Art von Dingen nicht, aber das hier ist eine Sache![/shake2]
+group_counter0 = [shake2]Diese alternative Realität stinkt! Hau ab![/shake2]
+cherrybombs0 = [shake2]Einigen wir uns auf einen Vertrag und sorgen dafür, das das Mädchen abhaut! Ein für alle mal![/shake2]
+cherrybombs1 = [shake2]Hahaha! Okay, los gehts! Ich erschaffe, du wirfst![/shake2]
 
-suicide0 = [shake2]We don't NEED a hero! Get lost![/shake2]
+suicide0 = [shake2]Wir brauchen keinen HELDEN! HAU AB![/shake2]
 
 [ending]
-hang0 = [shake2]Hey kiddo, let's make another contract![/shake2]
-hang1 = We'll miss youuuuuuuuuuuuuu...!!!
+hang0 = [shake2]Hey kiddo, wie wärs mit einem neuen Vertrag![/shake2]
+hang1 = Wir werden dich vermisseeeeeeeeeen...!!!

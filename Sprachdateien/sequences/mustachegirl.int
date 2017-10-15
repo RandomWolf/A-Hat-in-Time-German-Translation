@@ -49,51 +49,51 @@ PreAwakening10 = Du brauchst für manche Hüte mehr Garn als für andere. Ich glaub
 PreAwakening11 = Nun nun, mein Killer-Rekrut! Los, los, auf sie!!
 
 [mafiahq]
-outside0 = You took your time! Help me out here!
-outside1 = Get these brutes off my case and we can go inside!
-outside2 = Good job, kid!
-outside3 = Let's go,[br]it's showtime[br]baby!
-freezer0 = Go ahead, kid! Open this thing up and I'll keep guard here.
-captured0 = Let go of me,[br]you psycho!!
-mafia_ball_hint0 = Hat kid![br]Hit him already!
-mafia_ball_hint1 = C'mon! Crawl up[br]and hit him!
+outside0 = Hast dir echt Zeit gelassen! Hilf mir mal!
+outside1 = Halte mir diese Tiere vom Leib, dann können wir rein!
+outside2 = Gute Arbeit, Mädel!
+outside3 = Na los,[br]es ist Showtime[br]baby!
+freezer0 = Bitteschön, Mädel. Mach die Tür auf während ich Wache stehe.
+captured0 = Lass mich los,[br]du Psycho!!
+mafia_ball_hint0 = Hey![br]Triff ihn endlich!
+mafia_ball_hint1 = Na komm! Kletter hoch[br]und gib ihm Saures!
 
-timepiecebreak0 = So what do these things do, anyway? Are they some sort of rare collector's item for nerds?
-timepiecebreak1 = Are they some sort of rare c... wait, huh?
-timepiecebreak2 = [big][scream]Whoa, WHAT?![/scream][/big]
-timepiecebreak3 = Wha... did, uhm... did you know about this?
-proposal0 = [scream]This is crazy![/scream] Do you even realize what could be done with these?
-proposal1 = We could make it so that you never got punched in the face by the Mafia that one time!
-proposal2 = We could beat up the Mafia, travel back in time, and then beat them up again!
-proposal3 = No, wait, we could make it so the Mafia never arrived on the island!
-proposal4 = Wait, wait, wait, even better! We could be crime-fighting time travellers!
-tantrum0 = Wait, what?! This doesn't make any sense!
-tantrum1 = You have all this power, and you're not gonna use it to fight evil?
-tantrum2 = If you're not gonna use them to fight evil... then I will!
-tantrum3 = I'm not gonna let this island remain as Mafia Town! I'll collect all the [timepiece][icon:timepiece]Time Pieces[/timepiece] for myself! You have my word on it!
-pickpocket_no_va = [name]Mustache Girl[/name] has pickpocketed half your [icon:money][hint]Pons[/hint].
+timepiecebreak0 = Also, was machen diese Teile eigentlich? Sind das seltene Sammelstücke für Streber?
+timepiecebreak1 = Sind das seltene S... Moment, hä?
+timepiecebreak2 = [big][scream]Warte, WAS?![/scream][/big]
+timepiecebreak3 = Wa... hast... äh, hast du darüber gewusst?
+proposal0 = [scream]Das ist verrückt![/scream] Hast du überhapt eine Idee, was man damit machen kann?
+proposal1 = Wir könnten dich davor bewahren, damals von der Mafioso geschlagen zu werden!
+proposal2 = Wir könnten die Mafioso niederschlagen, zurückreisen und es nochmals tun!
+proposal3 = Ne, warte! Wir könnten verhindern, das die Mafioso erst auf diese Insel gekommen ist!
+proposal4 = Moment, noch besser! Wir könnten zeitreisende Verbrechungskämpfer sein!
+tantrum0 = Äh, wie?! Das macht keinen Sinn!
+tantrum1 = Du hast diese gesamte Kraft, und benutzt es nicht für das Gute?
+tantrum2 = Wenn du sie nicht dafür einsetzt... werde ICH das tun!
+tantrum3 = Ich werde nicht diese Insel als Mafia Stadt stehen lassen! Ich sammele alle [timepiece][icon:timepiece]Zeitstücke[/timepiece] auf meine Hut! Merk dir diese Worte!
+pickpocket_no_va = [name]Mustache Girl[/name] hat die Häflte deiner [icon:money][hint]Pons[/hint] geklaut.
 
 [MuMission_UI]
-intro0 = Now it's my turn!
-intro1 = Here we go!
-intro2 = Enough about her, let's talk about me!
-intro3 = My time to shine!
+intro0 = Jetzt bin ich an der Reihe!
+intro1 = Los gehts!
+intro2 = Genug über sie, redet über mich!
+intro3 = Meine Zeit zu strahlen!
 
 [MuMission_Finale]
-intro0 = Alright, I'm in! I made it! I infiltrated that kid's spaceship without the alarms going off.
-intro1 = I bet she's collected a ton more [timepiece][icon:timepiece]Time Pieces[/timepiece] than I have... now where does she keep em?
-vault0 = Jackpot! This must be where she stores 'em all!
+intro0 = Alles klar, ich bin drin! Ich habs geschafft![br]Ich bin erfolgreich eingebrochen in dieses Raumschiff vom Kind, ohne den Alarm auszulösen!
+intro1 = Ich bin mir sicher sie hat schon mehr [timepiece][icon:timepiece]Zeitstücke[/timepiece] als ich... wo lagert die sie denn?
+vault0 = Jackpot! Das hier muss das Lager sein!
 vault1 = Ughn....!
-vault2 = Time to mess with time a little!
+vault2 = Dann lasst uns mal mit Zeit ein wenig spielen!
 timepiece_break0 = Blam!
 timepiece_break1 = Bam!
-timepiece_break2 = Boom!
+timepiece_break2 = Buum!
 timepiece_break3 = Blammo!
-timepiece_break4 = Looks like things are starting to go a lil' bit crazy!
-timepiece_break5 = More! More!
-timepiece_break6 = Here we go!! Turn this disgusting planet into a place suitable for ME!!!!
-doorblocked0 = Dang, can't go in here!
-doorblocked1 = Oh, this one is locked. Face-recognition, maybe?
+timepiece_break4 = Scheint so als ob alles ein wenig anfängt verrückt zu werden!
+timepiece_break5 = Mehr! Mehr!
+timepiece_break6 = Na also!! Wechsel diesen Drecksplaneten in etwas, das ICH will!!!!
+doorblocked0 = Mist, hier kann ich nicht durch!
+doorblocked1 = Oh, die hier ist gesperrt. Vielleicht Gesichtserkennung?
 
 [MuMission_Subcon1]
 intro0 = Ugh, travelling is a lot harder when you don't have a spaceship to fly around in.
@@ -136,29 +136,29 @@ snatcher20_mu = Wha?! Hey!
 snatcher21_sn = Children these days.
 
 [finale]
-plead0 = Oh wow, what a touching story. Just kidding! Bad guy! NEXT!
-plead1 = I said, NEXT!
-plead2 = Oh, it's you!
-plead3 = You've been kinda a selfish little pest. But eh! You haven't actually stood in my way. You get to go on, you're a good guy, I guess.
-plead4 = Go on. You get to live.
-plead5 = NEXT!
+plead0 = Ach, welch eine berührende Geschichte. Ha, Scherz! Bösewicht! NÄCHSTER!
+plead1 = Ich sagte, NÄCHSTER!
+plead2 = Mensch, du bist es!
+plead3 = Du warst schon ein kleines egoistisches Vieh. Aber egal! Du warst mir nicht im Weg. Ich lass dich gehen, du bist einer der Guten, oder so.
+plead4 = Na komm. Du bleibst am Leben.
+plead5 = NÄCHSTER!
 
-slap0 = [scream]EXCUSE ME?[/scream]
-slap1 = Don't you dare get anywhere near me. I don't think you quite understand who's in charge, little missy.
-slap0_alt = [scream]PATHETIC![/scream]
-slap2 = You know, I was willing to forgive you. I once thought we were gonna be best buds.
-slap3 = But NOPE, you turned out to be rotten and selfish. Save the planet from bad guys? Pfft, who needs that, am I right?
-slap4 = Look at all I've done without you. I've restored justice. I AM the justice. No more bad guys, ever.
-slap5 = I don't need you. This planet doesn't need you. Nobody will miss you, and nobody will care.
-slap6 = YOU are the bad guy, and I'll show you how this justice system deals with bad guys.
+slap0 = [scream]ENTSCHUDLIGE BITTE?[/scream]
+slap1 = Wage es ja nicht, mich anzufassen. Du hast noch nicht ganz verstanden wer hier vor dir steht, Kleine.
+slap0_alt = [scream]ERBÄRMLICH![/scream]
+slap2 = Weißt du, ich wollte dir verzeihen. Ich dachte damals, das wir beste Freunde werden.
+slap3 = Aber NEIN, du wolltest egoistisch und faul sein. Retten des Planeten von dem Bösen? Pfft, wer braucht das schon, hab ich recht?
+slap4 = Schau was ich ohne dich erreicht hab. Ich hab Gerechtigkeit wiederhergestellt. ICH BIN die Gerechtigkeit.[br]Keine Gegner, für immer.
+slap5 = Ich brauche dich nicht. Dieser Planet braucht dich nicht. Niemand wird dich vermissen, und keinen wird es kümmern!
+slap6 = DU bist der Gegner, und ich zeige dir wie die Gerechtigkeit mit gengern umgeht.
 
-leaving0 = Really? You're leaving? Not even going to put up a fight? Pathetic.
+leaving0 = Ernsthaft? Du gehst einfach? Nicht mal kämpfen? Erbärmlich.
 
-group_counter0 = Wh, wha? But I'm fixing everything! No more bad guys! Why can't you see that I'm doing this for all of us!
-group_counter1 = How can you stand behind these people? They're crooks! Criminals! And you're... you're helping them?
-group_counter2 = This ends now!
+group_counter0 = W-Was? Aber ich habe alles balanciert! Kein Böses mehr![br]Warum könnt ihr nicht sehen das ich das für uns alle tue?
+group_counter1 = Wie kannst du hinter diesen Leuten stehen? Sie sind Gauner! Verbrecher! Und du... Du hilfst ihnen?
+group_counter2 = Jetzt hab ich genug!
 
-final_phase0 = [scream][big]Enough!![/big][/scream]
+final_phase0 = [scream][big]GENUG!![/big][/scream]
 
-suicide0 = W-what is this!? If everyone disappears but me, then I'd be all alone![br]Bad guys, stop it!
-suicide1 = My... my powers are disappearing!?
+suicide0 = W-Was passiert!?Wenn jeder weg ist, hab ich niemanden außer mich selber"[br]Alle, hört auf!
+suicide1 = M... Meine Kraft verschwindet!?

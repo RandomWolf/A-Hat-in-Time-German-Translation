@@ -1,0 +1,196 @@
+[chapter3act1]
+sketch0 = Ehhhh ba ba bab![waitlong] Was denkst du, wohin du gehst, lass?
+sketch1 = Du bist jetze ein Moviestar, lassy! Wir brauchen deine dumme Visage, damit Vögel rund um die Welt meine Filme schauen!
+sketch2 = Hier, nimm diesen Stift und Papier, und beginn damit mir ein Filmposter zu basteln! Stell dich taff da und bereit für ein Faustkampf!
+sketch3 = Mach dir am besten auch noch ein schönes Outfit! Es kommt grade auf die Schönheit an!
+
+sketch_done0 = Eh he he! Ist das, das Beste, was du rausholen kannst? Nun gut, ich häng sie auf!
+sketch_done1 = Geh schon rein. Wir bereiten uns darauf vor den besten Film zu drehen, den die Welt jemals sah!
+sketch_done2 = Dieser Film wird die BOMBE!! [wave]GWAHAHAHAHA[/wave]!
+sketch_done3 = ... Und ich meine Bombe im positivem Sinne, Grünschnabel!
+
+trigger_detonation0 = Okay lassy, hör mir zu. Ich habe schlechte Nachrichten!
+trigger_detonation1 = Diesen Hebel, den du grade gezogen hast... er startet die [b]Selbstzerstörungssequenz des Zuges, und das ist kein Witz. Er wird in die Luft gehen!
+trigger_detonation2 = Ich brauch ein Film mit richtiger Action, deshalb machen wir das jetzt so! Dieser Zug wird in ein paar Minuten explodieren!
+trigger_detonation3 = Aber, du kannst uns alle retten, lassy! Schaff es zum Schalter im vordersten Wagon, und schalte ihn aus!
+trigger_detonation4 = UND DU SCHAFFST ES BESSER RECHTZEITIG, VERSTANDEN? Ich kümmere mich nicht um die Eulen oder um dich, aber du wagst es besser nicht meinen Zug explodieren zu lassen! Er ist mein Baby!
+trigger_detonation5 = Die Kameras sind auf dich gedreht, lassy, du beeilst dich jetzt besser! Los, los! Ende der Durchsage!
+
+ending0 = Du hast es geschafft! Und pünktlich!
+ending1 = Oh ho ho hooo... schau dir nur all dieses rohe Filmmaterial an![br]Schau, wie du um dein Leben rennst![br][wave]EH HE HE[/wave]!
+ending2 = Was? Wir taten es alles im Namen der Cinomatografie! ... und um diesen ungut [icon:djgrooves][name]DJ Grooves[/name] zu überbieten! Ich wette, er wird nicht mal in der Lage sein, die HÄLFTE von dem zu drehen, was wir hier geschafft haben!
+ending3 = Nun gut hier, nimm eines von diesen [icon:timepiece][timepiece]Dingsbumsen[/timepiece] die du so magst. Du verdienst es!
+
+[big_parade]
+playing_cards0 = ... warte... warte ein Moment... gib mir Zeit, über meinen nächsten Move nachzudenken!
+playing_cards1 = ... uhhh... ist ein Ass die beste oder die schlechteste Karte...?
+
+[deadbird]
+intro0 = Dieses Filmstudio ist nicht groß genug für uns beide, [icon:djgrooves][name]DJ Grooves[/name]! Der Film sollte von richtigen Vögeln produziert werden!
+intro1 = Ihr [name]Mond Pinguine[/name] schreibt doch eh nur wieder ein lautes, lärmendes Geschwafel! Wenn ich ein paar Grünschnäbel will, die von Vogelsamen betäubt, albern herumtanzen, dann besuch ich meine Enkelkinder!
+intro2 = Wat?! Nein haben wir nicht, du Dummkopf!
+intro3 = Oh ja?
+intro4 = Nun, dieses Mal werden auch wir es mit unseren neue Requisiten ordentlich aufpeppen!
+intro5 = Diese [icon:timepiece][timepiece]Zeituhr Dinger[/timepiece] werden der große Juwel in unserem Western Zugüberfall sein!
+intro6 = .......
+intro7 = [scream][big]WIE BITTE, WAS?![/big][/scream]
+intro8 = Ihr tu nicht guten, dreckigen Grünschnäbel! Ihr habt unsere Requisiten kopiert!
+intro9 = Das reicht! Verschwinde! Ich habe einen Film zu drehen!
+intro10 = Oh wirklich?! Wollen doch mal sehen, wie gut euer Film wird, wenn ihr nicht mal zur Rezeption könnt! [wave]GWAHAHAHAHA![/wave]
+intro11 = Oh warte, die Grünschnäbel in ihrem Studio einzusperren, zwingt sie dazu härter zu arbeiten.
+intro12 = Nun gut, Zeit zu gehen, meine Eulen! Lasst uns einen Killer-Movie drehen!!
+intro13 = Oh, und Rezeptionist, kannst du bitte diesen Lüftungsschacht dort endlich zuschließen? Ich will den Geruch von Pinguinen, nicht in der Nähe meiner Crew haben!
+
+director_cut0 = SCHNITT!
+director_cut1 = Was. War. DAS?!
+director_cut2 = Durchsucht die Kameras!
+director_cut3 = Wer ist DAS?!
+director_cut4 = Verlass sofort mein Filmset!
+
+director_action0 = Okay, allemann bereit? Lasst uns dann starten. ACTION!
+director_action1 = Lassen wir diesen Film wahr werden! Eulen! In Position! ACTION!
+director_action2 = Kameras! Lichter! ACTION!
+director_action3 = Klappe viertausendfünfundsechzig! ACTION!
+director_action4 = Seid ihr Eulen bereit, die nächste Szene zu drehen? Lasst es uns tun! ACTION!
+
+director_idle0 = Ihr Eulen seid lausige Schauspieler! Lausige!
+director_idle1 = Kommt schon, gebt zumindestens eine bessere Performance als die Pinguine ab!
+director_idle2 = Du! Was machst du hier!? Geht zurück auf eure Positionen!
+director_idle3 = Bei welcher Szene sind wir jetzt? Zweiundvierzig? Weil, du hättest nicht im Frame von Szene zweiundvierzig sein sollen!
+
+outro0 = [scream][big]HEY! WAS DENKST DU, WAS DU DA TUST?![/big][/scream]
+outro1 = Du kannst hier nicht einfach reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Preisen[/trophy] herumspielen! Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, wir haben ein BETRÜGER HIER!
+outro2 = ...
+outro3 = WO SIND MEINE EULEN WACHEN?! Warum sind die Eulen so verdammt nutzlos?!
+outro5 = Okay okay, hör mir zu, lassie! Du bist in großen Schwierigkeiten. Wenn du dem betrügerischen [icon:djgrooves][name]DJ Grooves[/name] hilfst, die Preise zu manipulieren und ich dich auch nicht ins Gefängnis stecken kann, dann wirst du mir ebenfalls helfen müssen!
+outro6 = Das ist richtig, du wirst auch der Star von meinen Filmen sein!
+outro7 = Hier, halt unser [icon:timepiece][timepiece]neustes Requisit[/timepiece], üb, es gut zu präsentieren, und bring es morgen zu meinem Filmset! Verstanden? Komm nicht zu spät!
+
+[murder]
+intro0=Willkommen zurück, lassie! Ich hab das Skript für meinen nächsten Film noch nicht geschrieben, also filmen wir grade auch nicht!
+intro1=Ich ruf dich, wenn das Skript fertig ist.
+
+victim_reveal0 = [scream]Ei-ein MORD? Auf meinem Eulen-Express!?[/scream]
+victim_reveal1 = Ich kann nicht glauben, jemand würde eine der Express Eulen ermorden!
+victim_reveal2 = Und ich kann noch weniger glauben, dass es deine Onkels Schwester [MotherMaidenName] war!
+victim_reveal3 = Was hast du dazu zu sagen, [MotherMaidenName]?!
+victim_reveal4 = ...
+victim_reveal5 = Du zeigst mir die kalte Schulter, heh?! Genau was ein Mörder tun würde!
+victim_reveal6 = WAS!? Ich darf nicht mal in meinem eigenen Zug frei herumgehen!? Wie wagt ihr es!
+
+mission_start0 = Diese C.A.W. Grünschnäbel können mir nicht sagen was ich zu tun habe! Ich bin mir sicher sie haben den Mord begangen und zerstören jetzt alle Beweise!
+mission_start_evidence0 = Du hast Beweise, dass ich der Mörder bin? Hah! Das ich nicht lache! Komm zurück, wenn du alle Beweise hast.
+
+mission_end0 = Also, wer hats getan?!
+mission_end1 = Was! Also habt ihr Grünschnäbel nichts getan, um den Fall zu lösen?!
+mission_end2 = Wer ist der Mörder? Wer von euch hats getan?!
+
+suspect_crows0 = Die Krähen waren es?!
+suspect_sciowls0 = Die Express Eulen waren es?!
+suspect_mothermaiden0 = Ms. [MotherMaidenName] hat es also getan?!
+suspect_victim0 = Das Opfer war es?!
+suspect_victim1 = Warte, macht es das zu einem Selbstmord?
+
+suspect_generic0 = Aber... warum? Warum ermordet man eine, der Express Eulen?
+suspect_generic1 = Bitte was? GUMMImesser?!
+
+suspect_ending0 = Nun, danke fürs Lösen von diesem Mord, lassy.
+suspect_ending1 = Nicht nur enthüllteste du den Mörder, du enthülltest auch, dass das Opfer nie verletzt wurde.
+suspect_ending2 = ... und du gabst uns spannendes Bildmaterial für den Film!
+suspect_ending3 = Was? Du dachtest, ich lasse einfach so ein Mord auf meinem Eulen-Express stattfinden? Denk nochmal nach! Es war alles nur der Aufbau für meinen neuen Film:[br][name]Mord auf dem Eulen-Express![/name]
+suspect_ending4 = Du denkst[icon:djgrooves][name]DJ Grünschnabel[/name] wird einen genau so guten Film drehen? Ich glaube wohl kaum!
+suspect_ending5 = Hier, nimm dieses [icon:timepiece][timepiece]Dingsbums[/timepiece] und verschwinde!
+suspect_ending6 = ... und du spielst besser nicht den Star in einer der Filme von [icon:djgrooves][name]DJ Grooves[/name]'! Seine Filme sind GROTTIGE FLOPS OHNE AUFWAND ![br] Außerdem haben wir ein exklusiven Vertrag, ja?
+
+suspect_conductor0 = ... ICH?!
+suspect_conductor1 = Ich kann nicht der Mörder sein, Ich bin der Schaffner!
+suspect_conductor2 = Wieso?
+suspect_conductor3 = Ernsthaft, wieso?
+suspect_conductor4 = Ich war es nicht!
+suspect_conductor5 = Stop.
+suspect_conductor6 = Hör auf damit.
+suspect_conductor7 = ...
+suspect_conductor8 = OKAY, GUT!
+suspect_conductor9 = Ich war es. Ich tat es. Da, bist du glücklich?
+
+suspect_conductor10 = Wie hast du herausgefunden, dass ich es war? Ich habe wirklich schwer daran getan, nicht der Bösewicht in meinem eigenen Film zu sein.
+suspect_conductor11 = Die Express Eule ist nichtmal tot, Ich gab ihr einfach dieses Gummimesser angesteckt und sie dann für ein paar Stunden totzuspielen.
+
+suspect_hatkid0 = Du warst es?!
+suspect_hatkid1 = Aber, ja, es ergibt alles Sinn!
+suspect_hatkid2 = Du sahst die Express Eule ganz allein da, ein einsames Opfer für deinen Masterplan.
+suspect_hatkid3 = Mit Hass auf die Gesellschaft und seinem schnellen Fortschritt in Personenbeförderung, ermordetest du den ersten Passagier, den du erblicktest. 
+suspect_hatkid4 = Sein Körper lag da wie eine Schaufensterpuppe, mit Blutschmierereien, und der Geruch... er erweckte deine inneren Dämonen!
+suspect_hatkid5 = Dann riss du seine Gliedmaßen raus und aßt sie auf. Ein Stück nach dem anderen, wie ein Tier mit der LUST nach Blut.
+suspect_hatkid6 = So ist es geschehen, oder?!
+suspect_hatkid7 = Du ermordetest diese Eule in kaltem Blut!
+
+suspect_hatkid8 = Oh.
+suspect_hatkid9 = Dennoch, damit bist du zu weit gegangen, Detektiv! Dafür kommst du ab in die Hundehütte!
+
+[GearPieces]
+story_intro0 = Gemütlichen Ort hast du hier, lassie! Nicht schlecht, überhaupt nicht schlecht.
+story_intro1 = Weißt du, früher in meinen alten Tagen, ging ich auch auf Abenteuerreise, wie du!
+story_intro2 = Willst du eine alte Geschichte, von einem alten Mann hören? Es wird dir keine Belohnung oder so geben.
+story_intro3 = Was für eine Geschichte willst du hören?
+story_intro4 = Das kostet [cost] pons für eine neue Geschichte! Was, du dachtest Weissheit gibts auch kostenlos? Hah!
+story_intro5 = Nun gut, such dir eine Geschichte aus!
+
+story_Jungle01 = Me 'n the Owl Express were heading to new territory, in search of the next Gear Piece!
+story_Jungle02 = I ventured to the deepest parts of the macaroni jungle, when suddenly, I was met with tribesmen! Lots of them! I was surrounded, kid!
+story_Jungle03 = But wait... they recognized me! They all bowed down in awe! They said I was the great bird of the west! They must've seen me movies or somethin'!
+story_Jungle04 = They brought me to their temple, and I saw the next Gear Piece in broad daylight. I knew I had to get me hands on it, but how?
+story_Jungle05 = As they led me to their worship chamber, my expectations got higher and higher, you know? I was awaiting seeing myself in golden statue form!
+story_Jungle06 = But lo and behold, you know what I saw, kiddo? A poster of [icon:djgrooves][name]DJ GROOVES[/name]! I was like, YER WHAT, PECK NECKS?!
+story_Jungle07 = And so I tore down the poster, stole their Gear Piece, 'n ran off! And that's how I got my 7th Gear Piece! Soon the Black Jewel Train will be mine!
+
+[BossBattle]
+SupportNotice0 = Lassie, hier drüben!
+SupportNotice1 = Warte,[br]Ich finde einen Weg,[br] um die Bombe zu entschärfen!
+SupportNotice2 = Mein "Entschärfer"[br] ist bereit, komm her!
+
+hth_intro0 = Lass uns ein kleines Vertrauensgespräch haben. Setz dich, lassie.
+hth_intro1 = Seitdem du hier auf diesem Planete bist, haben diese [icon:timepiece][timepiece]Zeitstücke[/timepiece] angefangen vom Himmel zu fallen.
+hth_intro2 = Nun, ich kann verstehen, dass du denkst sie gehören dir. Ich verstehs. Aber wusstest du, dass sie die Zeit zurückspulen können?
+hth_intro3 = Mit nur einem [timepiece][icon:timepiece]Zeitstück[/timepiece], könnte ich mir die Trophäe zurückholen, die mir gehört! Das ist richtig, der Verlust von Preis 42!
+hth_intro4 = Ich wurde nur zweiter Platz beim [icon:trophy][trophy]zweiundvierzigsten jährlichen Bird Preis[/trophy]! Ich! Kannst du dir das vorstellen? [icon:djgrooves][name]DJ Grooves[/name] schaffte es erster Platz zu werden!
+hth_intro5 = Ich brauche nur ein kleines [timepiece][icon:timepiece]Zeitstück[/timepiece], um diesen Fehler zu beheben. Kannst du nicht ein kleines [icon:timepiece][timepiece]Zeitstück[/timepiece] mir erübrigen?
+hth_intro5_yes = Vielleicht?
+hth_intro5_no = Nö!
+hth_intro6a = Danke, lassie! Du wirst es nicht bereuen! Wir beheben diesen kleinen Fehler in der Geschichte und gehen wieder zurück für einen makellosen Rekord!
+hth_intro7a = Unglücklicherweise... Kann ich dir nicht erlauben, diesen Raum zu verlassen. Ich darf kein Risiko haben, dass auch nur ein Wort nach draußen gelangt. DJ Grünschnabel würde mich für's Schummeln verspotten!
+hth_intro8a = Es war nett dich kennengelernt zu haben, lassie! Leb wohl!
+hth_intro6b = Du bist ziemlich geizig, lassy, oder? Ich brauch nur ein klitzekleines Zeitstück und du willst nicht teilen?
+hth_intro7b = Nun, wenn du dieses [timepiece][icon:timepiece]Zeitstück[/timepiece] umbedingt willst, komm und hols dir!
+hth_intro9 = Erinnerst du dich an diese kleine Bombe? Dieses Mal ist sie an dir angebracht, anstatt an meinen geliebten Zug... [wave]eh he he he![/wave]
+
+Intro0 = Oh ho hoooo, guck, wen wir da haben! Ich denk, du hast wohl meinen kleinen Keller gefunden, heh?
+Intro1 = Dieses letzte [icon:timepiece][timepiece]Zeitstück[/timepiece] gehört mir ganz allein. Wenn du es willst, dann musst du es aus meinen kalten, toten Händen reißen!
+
+[award]
+intro0 = Danke, danke euch! Ihr seid zu gütig! Nein, bitte macht weiter!
+intro1 = Oh! Lassie, du bist es! Ich habs geschafft! Ich gewann den [icon:trophy][trophy]jährlichen Bird Movie Preis[/trophy] schon wieder![br]Stell dir das Gesicht von [icon:djgrooves][name]DJ Grooves[/name] jetzt vor! [scream][wave]EH HE HE HE![/wave][/scream]
+intro2 = Hier, nimm dieses [icon:timepiece][timepiece]kleine, unbedeutende Filmrequisit[/timepiece] um deinem kleinen, unbedeutendem Aufwand, in meinem Sieg gerecht zu werden. Du kannst es vielleicht bei eBird für ein bisschen Kleingeld verkaufen!
+intro3 = Was? Erwartest du mehr, oder sowas?[br]Vergiss es! Geh! Husch! Verschwinde von hier![br]Ich will nie mehr deine hässliche Visage hier sehen!
+
+[finale]
+outside0 = Du bist hier auch, lassie? Was ist das für ein Ort?! Ich habe noch nie ein Gesetz in meinem Leben gebrochen!
+outside1 = Wer auch immer dahinter steckt, ich werde mich nicht richten lassen von irgendeinem...
+outside2 = [scream]SCHNAUZBÄRTIGEN,[/scream]
+outside3 = [scream]HUTLOSEN,[/scream]
+outside4 = [scream]KAPUZENTRAGENDEN',[/scream]
+outside5 = [scream]STATUEPOSIERENDEN',[/scream]
+outside6 = [scream]SCHLOSSBEWOHNENDEN',[/scream]
+outside7 = [scream]STRAFZETTELGEBENDEN'[/scream]
+outside8 = [scream][big]GRÜNSCHNABEL![/big][/scream]
+group_counter0 = Das ist richtig, hau AB! Niemand will dich hier! Ist es nicht so?
+mafiaball0 = Du verstehst es, Bursche. Lass ihr uns etwas geben, was sie auf dieses kleine Ärgernis stoßen kann, damit sie endlich abhaut!
+mafiaball1 = Lasst es rollen, eh he he!! Kleines Mädchen, gib uns ein Ruck, in die Visage dieses kleinen roten Mädchens!
+
+suicide0 = Hehehe... diese Mafiosi... so albern mutig. Aber eh, was ist der Sinn des Lebens, wenn ich eh nicht mehr meinen Zug habe?
+suicide1 = Okay [icon:djgrooves][name]DJ Grooves[/name], wir zwei, helfen diesem kleinen Mädchen. Mach dich bereit für einen fiesen Schlag und du zielst auf mein Gesicht, das ist mein wunder Punkt!
+suicide2 = Dieses wütende, rote Mädchen soll... ABHAUEN!
+
+[ending]
+hang0 = Wag es nicht uns zu verlassen, lassie!
+hang1 = Wir werden dich vermisseeeeeeeeeeen...!!!

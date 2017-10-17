@@ -1,0 +1,106 @@
+[Common]
+TellFriends = Tell your friends!
+
+[Village.WaterFlaskShop]
+Intro0 = Excellent timing, Torrin! I just finished slapping together that free water bottle you wanted for your dog and-
+Intro1 = OH! A Tourist! Uh, did I say free? Ha ha, no! That's an old Sunburnt word meaning... uh... not free... Yeah.
+Intro2 = But for you, little lady, I would be happy to sell you this authentic, premium quality, handmade water bottle for the low, low price of 20 Orbs.
+Intro2b = But for you, little child, I would be happy to sell you this authentic, premium quality, handmade water bottle for the low, low price of 20 Orbs.
+Intro3 = You won't find a water bottle for this price in any of our other premium resorts! Buy now!
+
+Revisit0 = Changed your mind, eh? Couldn't find a water bottle anywhere else, huh? Just enjoy my charming company, right?
+Revisit1 = So what do you say?
+
+Purchase_Decline0 = Well, I hope you change your mind soon! Tell your friends!
+
+Purchase_Accepted0 = Excellent choice, young tourist! I hope it serves you well amongst our beautiful sand dunes! Be sure to refill your bottle at any of our conveniently located water sources.
+Purchase_Accepted1 = And as us Sunburnt say: Tell your friends!
+
+NoSell0 = Look, kiddo, I know my water bottles are a work of fine art, but art takes time! Plus, you don't want to be rude and deny someone else the privilege of buying their own, right? You're not a bad person, right?
+
+[Village.ImportantNPCs]
+quickintro0 = Typical tourist. Just running out into the desert like you own the place. 
+quickintro1 = Nothing against you personally, but all of our other guests just wander into the desert and we never see them, or their money, ever again.
+quickintro2 = Because of them we had to set up this red ring around the resort so that you tourists know where danger starts.
+quickintro3 = You'll need a [hint]water bottle[/hint] to even stand a chance past the ring. I think Sweltzo in town might have one of his free ones left.
+quickintro4 = See ya later, and as the old Sunburnt saying goes: Tell your friends!
+
+quickintro_re0 = Hey, tiny tourist! You got yourself a [hint]water bottle[/hint] yet? It may be the smartest decision you ever make out here in the desert.
+
+binocular0 = Oh wow! Beautiful! Amazing! This sure is a beautiful vacation get-away I would tell my friends about!
+binocular1 = Oh! I didn't see you there. I was just admiring the view of our beautiful desert and our other fantastic resort destinations.
+binocular2 = How about you give it a look? If you see a resort that you like, we can [hint]turn on their beacon to help you navigate[/hint] your way over there.
+binocular3 = Have fun and tell your friends!
+
+binocular_re0 = Have you given our [hint]beacon navigation system[/hint] a try yet? It's really quite helpful! It works at any of our conveniently located [hint]binocular stations[/hint]!
+
+[Village.RegularNPCs]
+vacation_destination = Can you believe that this bustling vacation destination used to be just a chain of poor desert villages?! Yep, totally not that anymore!
+visit_resorts = If you think this resort is nice you should see the other ones! They are just as amazing! Just remember to [hint]pack some water[/hint]!
+tourism = We learned some time ago that tourism is a good way to bring in some cash flow. So far it's been slow but business is looking up!
+
+skeptism0 = Don't tell anyone, but I think this huge push to improve tourism is stupid. It's not working! You're the first tourist we've seen in ages, and we've already sunk what little money we had into all of this!
+skeptism1 = I don't see it ending anytime soon, though, so... tell your friends... please!
+
+water0 = Our water has been voted "the least dirty water in the desert"! What an honor!
+water1 = Be sure to [hint]fill up your water bottle[/hint] for a refreshing pick-me-up out there in the sands!
+
+beacon0 = Whenever I'm out for a stroll among the sand dunes, I can always count on those handy red beacons to keep me going in the right direction.
+beacon1 = Be sure to give it a try next time you come across one of our convenient [hint]binocular stations[/hint].
+
+livehere0 = The glamor! The tranquility! The sun! I wish I could just live here!
+livehere1 = Well, I DO live here, but I bet you're wishing the same thing!
+
+waterbottles0 = Sweltzo's [hint]water bottles[/hint] are genuinely handcrafted using age-old Sunburnt techniques.
+waterbottles1 = That doesn't mean they're any good. It just means they're made the same way they were made before modern tools were invented.
+
+deadtourists0 = We've lost a lot of innocent tourists over the years... they wandered into the desert and were never seen again...
+deadtourists1 = If only they had water... they might have made it...
+deadtourists2 = Anyway, tell your friends!
+
+safetyring = The resort's patented [hint]Red Safety Ring[/hint] technology makes sure that our distinguished guests know where safe resort property ends and the harsh wilderness of the desert wastes begin!
+
+dressed0 = Hmm. You're not quite dressed for this kind of heat. Why don't you take a tip out of the Sunburnt guide to fashion and get yourself a nice hood?
+dressed1 = Oh, you prefer the hat, huh? That's fine, I guess. I don't judge.
+
+cheapploy = Welcome to our 5-star vacation destination! It's totally not a cheap ploy to bring in tourists and get money out of them! No ma'am!
+
+notamused0 = Huh? What? Oh yeah. Enjoy the facilities, and blah blah blah...
+notamused1 = No one ever believes that corny sales pitch anyway, so I doubt some little kid has enough money to make any difference.
+notamused2 = Tell your friends... for all I care.
+
+binoculars_sand0 = Wow! With those binoculars you can see A LOT of sand!
+binoculars_sand1 = Look at all that sand! That is a whole bunch of sand! More sand than you could ever want!
+binoculars_sand_re0 = I still can't get over all this sand!
+binoculars_sand_re1 = And with those handy binoculars I can almost count the grains! HOW FUN!
+
+tan0 = Being up here is the best way to get a tan.
+tan1 = What? My hood? What are you talking about? This is how Sunburnt tan. What other way is there?
+tan_re0 = Tanning fully clothed is the only way to tan! Try it sometime!
+
+nostock0 = Hello, eager buyer! Looking to spend some of that precious cash today?
+nostock1 = Unfortunately, I have no stock because I... uh... sold out. Yeah. Totally not because I couldn't afford anything to fill my shelves with.
+nostock_re0 = I am still just as sold out of everything as the last time you asked, but thanks for checking up.
+
+powerfulitem0 = Hello, valued customer! Would you like an incredibly powerful item to aid you in your trials ahead?
+powerfulitem1 = Well, too bad! I don't have any stock! Isn't that a bummer? HA HA!
+powerfulitem_re0 = Would you like a crazy powerful item to... aid your... ah, forget it! The joke isn't as funny the second time. I still got nothing in stock, kiddo.
+
+rentcounter0 = Oh, me? I don't have a shop. I've never had one. I just rent this counter to look cool.
+rentcounter1 = Is it working?
+rentcounter_re0 = Do I look cool yet? I spent all my money on this empty shop and no one has even shot me a thumbs up yet.
+
+fountain0 = You see this fountain? Yeah. We got water here. Pretty great right?
+fountain1 = But that's just the kind of place we run here. Only the best for guests like you! Be sure to fill up your water bottle before running out into the desert!
+fountain_re0 = The water's not even poisonous! Aren't we just the most hospitable resort you've ever been to?
+
+waterdrink0 = Water, water everywhere and not a drop to drink!
+waterdrink1 = Well, actually, it's kind of the opposite of that. Water is almost nowhere, but all of it is drinkable! I was just trying to sound all smart-like.
+waterdrink2 = Fill up your bottle whenever you want! AND IT'S FREE! WOW!
+waterdrink_re0 = You can bring a horse to water, but you can't make it drink!
+waterdrink_re1 = Well, actually, I doubt a horse would turn down a drink out here... I also have never actually seen a horse... I'm not good at metaphors...
+
+[Events]
+thief0 = Ouch! Thief!
+thief1 = Hey![br]That's my money!
+thief2 = Ow![br]Come back here!

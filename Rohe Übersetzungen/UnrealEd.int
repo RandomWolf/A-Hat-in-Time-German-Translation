@@ -1,0 +1,132 @@
+
+Steam Workshop
+ Workshop Item Name
+ Last Updated
+ Status
+ Not Submitted
+Gears for Breakfast ConversationTree Editor: `~
+ Play Conversation
+ Reset Conversation States
+ Flush Localization Files
+ Snap To Grid
+Gears for Breakfast MusicTree Editor: `~
+ Play Preview
+ Stop Preview
+ Clean Unused Nodes
+Choose Expression
+Expression
+ Game Info
+ Simplified Editor
+ Select to use a simplified editor (commonly unused features hidden)
+ Current Act
+ Act %i
+ Free Roam
+ Mu Mission %i
+ Change Current Act To This
+ Current Checkpoint
+ Checkpoint %i
+ No Checkpoint
+ Change Current Checkpoint To This
+ Badges
+ Hats
+ Skins
+ Remixes
+ Weapons
+ Abilities
+ Unlockables
+ Unlocks This Item For All Players
+ Unlock All Items
+ Act / Level Bits
+ Dead Bird Winner
+ Undecided
+ Conductor
+ DJ Grooves
+ Reset Bits
+ Resets the currently saved level and act bits. Level bits are per-act booleans that may be stored to communicate between maps.
+ Time Pieces
+ Reset Time Pieces
+ Undos the unlocked Time Pieces in this level.
+ Give All Level Time Pieces
+ Unlocks all Time Pieces in this level.
+ Give All Level Time Pieces (Except Selected)
+ Unlocks all Time Pieces in this level, except one.
+ Game Design
+ Clear Play Sessions
+ Remove all recorded play sessions
+Gears for Breakfast Jigglebone Editor: `~
+ Open Jigglebone Editor
+Update CubeMap
+Form Fit Spline
+Set Checkpoint Info to Here
+ Auto-Generate LOD
+ Center Pivot
+ Scale All LODs
+ Rotate Mesh
+ Translate Mesh
+ Merge Convex Collisions
+ Convex:
+ Remove Collision
+ Build Flattened LOD
+ Align:
+ Vertex Percent
+ The mesh already has collision, do you wish to append the new Builder Brush collision?
+ Bake Radial Vertex Color
+ Bake Spline Vertex Color
+ Show Vertex Color
+ Do you wish to grab ref from this anim?
+ Do you wish to patch this anim? Use this when importing Mafia anims from Blender!
+ Insert into UnrealScript source
+ Open UnrealScript Source
+ Always Loaded
+ Distance
+ Kismet
+ Persistent
+ Unknown
+`~ : SkeletalMeshComponent has Animations set to something other than an AnimNodeSequence! It has been cleared for you.
+ Create New SoundCue (Sound Effect)
+ Create New SoundCue (Vocals)
+ Create New SoundCue (Music)
+Create New SoundCue
+Reset Root Movement (XYZ) to First Frame
+Reset Root Movement (XY) to First Frame
+Re-Center Root Motion to Current Frame
+Remove Root Motion Before Current Frame
+ Apply Root Translation
+ Drop and Spin Placed Actors
+ Show Dweller Masks
+ Remove Current Bone Motion
+ Only View Selected
+Editor for `~
+Editor for `~ (`~-bit, `~)
+`~\nCopyright © 1998-2016  Epic Games, Inc. and Gears for Breakfast, ApS.\nAll rights reserved.
+Version: `~ Changelist: `~
+ Cycle CubeMaps
+ Auto-Transform Attachments
+ If on, all attached actors are also moved when the base is moved
+ "Enter Socket Name"
+ "Enter socket name:"
+ "The provided socket name already exists!"
+Box Collision
+X-Axis Cylinder Collision
+Y-Axis Cylinder Collision
+Z-Axis Cylinder Collision
+18-Sided Box Collision
+26-Sided Box Collision
+ Could not find ground position for pylon, build failed. Consider moving it or turning on recast
+`~ : Skeletal mesh actor has NULL SkeletalMesh property (`~)
+Report a bug...
+Report a bug on the GfB bug tracker
+Scene Colorize Post Process
+Level Designer Helper
+Import failed. SoundWaves must be 44100Hz and 16 bits!
+ Remove UV Channel
+ No UV channel to delete
+ Only the last UV channel can be removed. Please remove them in order (highest first).
+ Save imposter:
+ Generate imposter
+ Save imposter:
+ Generate imposter
+Extremely Fast Camera Speed
+ New Spline Here
+ Bake Spline VertexColor
+ Forward Axis:

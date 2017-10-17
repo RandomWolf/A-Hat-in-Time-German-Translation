@@ -1,0 +1,382 @@
+
+ Default:
+ Checked
+ Unchecked
+ Diese Einstellung erfordert einen Neustart, um wirksam zu werden.
+ Warnung: Der Kunststil des Spiels wurde mit dieser Funktion entworfen. Das Ausschalten bietet nur einen geringen Leistungsgewinn. Wir empfehlen, dass diese Option auf ihrem Standardwert belassen wird; Schalten Sie es nur aus, wenn Sie sich absolut sicher sind.
+ Warnung: Diese Einstellung wird dringend empfohlen, bei der Standardeinstellung belassen zu werden!
+ Spiel Einstellungen
+ Anpassen von Einstellungen im Zusammenhang mit dem Gameplay.
+ Einzelspieler
+ Geteilter Bildschrim
+ Kamera
+ Grafik Einstellungen
+ Passen Sie grafische Einstellungen an, die sich auf die Grafik und die Leistung des Spiels auswirken.
+ Leistung
+ Rendering
+ Effekte
+ Audio Einstellungen
+ Passen Sie die Lautstärke jedes Audiotyps an.
+ Sprecher
+ Lautstärke
+ Musik
+ Eingabeeinstellungen
+ Ändere die Eingabemethode, füge neue Gamepads hinzu oder ändere die Tastenbelegung.
+ Passen Sie Einstellungen in Bezug auf Steuerelemente an.
+ Input Assist
+ Controllers
+ Wireless controller
+ Controller
+ Invert Axis
+ Einzelspieler
+ Speedrun Timer
+ Verfolgt Ihre Spielzeit pro Level.
+ Überspringbare Cutscenes überspringen
+ Wenn Sie es eilig haben oder bereits gesehen haben, können Sie alle überspringbaren Zwischensequenzen überspringen, indem Sie diese Funktion aktivieren. Beachten Sie, dass Sie unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen können.
+ Geteilter Bildschirm
+ Erlaube Bildschirmfreigabe
+ Der geteilte Bildschirm kann an bestimmten Stellen des Spiels vorübergehend ausgeschaltet werden.
+ Geteilter Bildschirm Bildschirmausrichtung
+ Horizontal
+ Vertikal
+ Ändern Sie die Art und Weise, wie der Bildschirm mit zwei Spielern geteilt wird.
+ Kamera
+ Erweiterte Kamera
+ Field of View
+ TV (80)
+ PC Monitor (90)
+ Angepasst...
+ Höhere Field of View(FoV)-Werte erweitern das periphere Sehen, während niedrigere Werte es einschränken. Höhere FoV-Werte werden empfohlen, wenn Sie sich in der Nähe des Displays befinden, während niedrigere Werte empfohlen werden, wenn Sie sich in der Ferne befinden.
+ Kamera-Assist
+ Wenn diese Option aktiviert ist, kann das Spiel die Kamera kontextabhängig steuern, um ein besseres Erlebnis zu erzielen. Empfohlen, wenn Sie manuelle Kamerasteuerungen nicht mögen.
+ Top-Down Kamera
+ Wenn diese Option aktiviert ist, zoomt die Kamera aus der Vogelperspektive heraus. Wenn diese Option deaktiviert ist, dreht sich die Kamera frei.
+ Keines
+ Nur Controller
+ Nur Maus
+ Beides
+ Kamera Glättung
+ Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervositöt und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen). Der Effekt ist am meisten mit einer Maus bemerkbar. Ausgestellt für rohe Mauseingaben.
+ Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervositöt und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen).
+ Sehr Langsam
+ Langsam
+ Medium
+ Schnell
+ Sehr Schnell
+ Aus
+ Sofort
+ Kamera-Snap-Geschwindigkeit
+ Wenn Sie den Kamera-Druckknopf drücken, bewegt sich die Kamera hinter Sie. Diese Einstellung steuert, wie schnell diese Bewegung ist.
+ Kameradistanz
+ Steuert, wie weit die Kamera vom Spieler entfernt ist.
+ Sehr Nah
+ Nah
+ Standard
+ Weit
+ Sehr Weit
+ Automatische Wiederherstellung der Kamerageschwindigkeit
+ Wenn Sie sich ein wenig bewegt haben, kehrt die Kamera zu ihrer Standardkamera zurück. Diese Einstellung steuert, wie schnell das passiert.
+ Misc
+ Sofortbildkamera
+ Der Spielgegenstand "Sofortbildkamera" kann Bilder mit höherer Auflösung aufnehmen als das Spiel gerade hat. Ändern Sie diese Option, um festzulegen, wie hochauflösende Bilder aufgenommen werden sollen (auf Kosten von Aufnahmen, die länger dauern).
+ Wie im Spiel
+ System Einstellungen
+ Kein Speichern
+ Das Spiel wird deinen Fortschritt nicht speichern. Dies wird nur empfohlen, wenn Sie einen Speedrun ausführen und es Ihnen egal ist, ob Ihre Speicherdaten nicht erhalten werden.
+ Entwicklerkonsole
+ Ermöglicht den Zugriff auf die Entwicklerkonsole. Das Spiel muss neu gestartet werden, damit diese Option wirksam wird. Drücken Sie zum Öffnen TAB / Zirkumflex
+ Audio
+ Lautstärke
+ Musik Lautstärke
+ Stellt die Hintergrundmusiklautstärke ein. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
+ Soundeffekt Lautstärke
+ Passt die Lautstärke der Soundeffekte an. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
+ Dialog Lautstärke
+ Stellt die Lautstärke des gesprochenen Dialogs ein, einschließlich Nuscheln. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
+ Gesamtlautstärke
+ Passt die Lautstärke des gesamten Spiels an. 100% ist der empfohlene Wert, aber Sie können die Lautstärke darüber hinaus erhöhen.
+ Voice Acting Type
+ : Alle Charaktere sprechen ganze Sätze. : Charaktere sprechen generischen Kauderwelsch. : Keine Stimme, die wie auch immer wirkt.
+ Voll
+ Nuscheln
+ Keines
+ Out of Focus Lautstärke
+ Passt die Lautstärke des Spiels an, wenn das Spielfenster nicht im Fokus ist.
+ 3D Positions-Audio
+ Audio wird in Ihren linken oder rechten Lautsprechern wiedergegeben, abhängig von ihrer Position im 3D-Raum.
+ Automatisch
+ Einfach
+ Detailliert
+ Fortgeschritten
+ Fenster
+ Bildschirmauflösung
+ Bestimmt, wie viele Pixel horizontal und vertikal gerendert werden. Eine höhere Auflösung führt zu höherer Qualität, reduziert jedoch die Leistung
+ Fenstertyp
+ : Das Spiel nimmt die gesamte Monitoranzeige auf.: Das Spiel wird in einem regulären Fenster angezeigt.: Wie Fenster, aber ohne Rahmen und die Titelleiste.: Zeigen Sie das Spiel über mehrere Monitore an.
+ Vollbild
+ Fenster
+ Randloses Fenster
+ Multi-Monitor
+ Display Monitor
+ Der Monitor, auf dem das Spiel angezeigt wird.: Ihr Betriebssystem entscheidet, welcher Monitor angezeigt werden soll.
+ Standard
+ Multi-Monitor Konfiguration
+ ändern Sie, auf wie vielen Monitore das Spiel anzeigt werden soll.
+ Konfigurieren...
+ Aktualisierungsrate
+ Maximale Bildrate
+ Legt die maximal zulässige Bildrate oder Bilder pro Sekunde (FPS) fest. Spiele sehen am besten aus, wenn die Bildrate konstant ist, aber oft ändert sich das drastisch, je nachdem, was auf dem Bildschirm angezeigt wird. Dies wird durch Einstellen einer maximalen Bildrate vermieden. Gehen Sie nur unter 60 FPS, wenn Ihr System Probleme mit 60 FPS hat.
+ Unbegrenzt
+ VSync
+ Erzwingt, dass das Spiel auf der Aktualisierungsrate Ihres Monitors angezeigt wird. Hierdurch wird der Bildschirmabbruch beseitigt, jedoch auf Kosten einer verzögerten Eingabe. Diese Option wird nur selten empfohlen.
+ Gamma Helligkeit
+ Konfiguriert die Helligkeit des Spiels. Wenn Sie das Gefühl haben, dass einige Abschnitte des Spiels zu dunkel sind, sollten Sie darüber nachdenken den Wert zu verändern.
+ Farbblindheitskorrektur
+ Für Menschen, die unter Farbenblindheit leiden. Diese Einstellung versucht, die Spielfarben anzupassen.
+ Aus
+ Protanopia
+ Deuteranopia
+ Tritanopia
+ Grafik
+ Globale visuelle Qualität
+ Bestimmt die visuelle Qualität des Spiels. Höhere Werte bieten eine visuell bessere Erfahrung, können jedoch einige Systeme verlangsamen. Wenn Sie abgehacktes Gameplay haben, versuchen Sie, diese Option am Regler anzupassen.. Wenn Ihr Spiel bei einer niedrigeren Einstellung sehr reibungslos verläuft, sollten Sie die visuelle Qualität erhöhen.
+ Hohe Leistung
+ Leistung
+ Standard
+ Hohe Qualität
+ Sehr Hohe Qualität
+ Ultra Qualität
+ Charakter Qualität
+ Bestimmt die visuelle Qualität von Feinden und nicht spielbaren Charakteren. Dies zu senken, bietet nur einen kleinen Leistungsschub, da nicht viele Bereiche viele Charaktere auf einmal zeigen.
+ Spielwelt Qualität
+ Bestimmt die visuelle Qualität von 3D-Umgebungswerten und Partikeleffekten. Dies zu verringern, bietet einen signifikanten Leistungsschub.
+ Effekte Qualität
+ Bestimmt die Anzahl und Qualität von Nachbearbeitungseffekten wie Antialiasing, Bloom und Schärfentiefe. Höhere Qualität bietet bessere und genauere Effekte.
+ Schatten Qualität
+ Bestimmt die visuelle Qualität von Schatten und welche Objekte Schatten werfen dürfen. Höhere Qualität bietet schärfere Schatten und mehr Schattenfänger. Dies zu verringern, bietet einen signifikanten Leistungsschub.
+; Advanced
+ Erweiterte Grafikeinstellungen
+ öffnen Sie das Menü, um alle grafischen Optionen individuell zu konfigurieren.
+; Automatic
+ Automatische Grafikeinstellungen
+ Ihre Grafikeinstellungen werden automatisch während des Spiels konfiguriert und auf optimale Leistung optimiert!
+ Figuren
+ Charakter Modell LOD Bias
+ Je weiter Sie sich von den Charaktermodellen entfernen, desto geringer wird die Qualität. Wenn Sie diese Einstellung erhöhen, erhöhen Sie, ab wann dies eintrifft.
+ Dynamische Charakterphysik
+ Wenn aktiviert, werden Stoff, Haare und andere Komponenten auf bestimmten Charakteren basierend auf ihrer Bewegung simuliert. Für den Spielercharakter umfasst das Dinge wie ihr Umhang, Haare und Reißverschlüsse.
+ Charakter Textur Qualität
+ Bestimmt die Auflösung von Texturen für Zeichen. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
+ Spielwelt
+ Spielweltdetails
+ : Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
+ Sichtweite
+ Wenn Sie sich von einigen Umgebungsmodellen weiter entfernen, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden. Wenn Sie diese Einstellung erhöhen, erhöhen Sie, wie weit sie reichen können, bevor dies geschieht. Ein höherer Wert bedeutet höhere Qualitätshintergründe, jedoch zu erheblichen Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.
+ Anisotrope Filterung
+ Wenn einige Texturen in einem Winkel betrachtet werden (wie Etagen), werden sie verschwommen, je weiter sie von der Kamera entfernt sind. Die anisotrope Filterung verbessert dies für jeden Grad der Anisotropie; Die Anisotropie 16 ist doppelt so scharf wie die Anisotropie von 8.
+ Welttexturqualität
+ Bestimmt die Auflösung von Texturen für die Umgebung. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
+ Weltnebel
+ Rendert Nebel in der Spielwelt. Dies ist in Low-End-Systemen etwas aufwendiger.
+ Transluzenz
+ Renders transluzente Objekte, Oberflächen und Partikel.
+ Keine
+ Single Pass
+ Double Pass
+ Beleuchtung
+ Schattenauflösung
+ Bestimmt die Schattenbeschaffenheitsauflösung pro Objekt.
+ Spielwelt Beleuchtung / Schattenqualität
+ Der Renderer für Umgebungsbeleuchtung und Schatten.
+ Partikelschatten
+ Ob Partikel Schatten werfen sollten.
+ Keine
+ Nur Spieler
+ Alle
+ Detailschatten
+ Erlaubt kleinere Objekte (wie Sammlerstücke), Schatten zu werfen. Qualität und Sichtbarkeit hängen von der Schattenauflösung ab.
+ Post-Processing-Effekte
+ Tiefenschärfe
+ Die Schärfentiefe wendet eine Hintergrundunschärfe an. Sie können sich auf das konzentrieren, was vor Ihnen liegt, und entfernen visuelle Geräusche von weit entfernten Objekten. Die komplexe Schärfentiefe ist präziser, jedoch mit viel höheren Leistungskosten.
+ Keine
+ Einfach
+ Standard
+ Komplex
+ Bloom
+ Wenn aktiviert, erzeugen helle Bereiche einen Glüheffekt.
+ Lichtstrahlen
+ Die Sonne und andere helle Lichtquellen erzeugen Strahlen, die von Objekten vor der Kamera blockiert werden können.
+ Bewegungsunschärfe pro Objekt
+ Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charakter angewendet. Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
+ Kreisförmige Unschärfe
+ Wenn aktiviert, werden Explosionen und Angriffe eine Unschärfe um den Effektbereich erzeugen.
+ Bildschirmunschärfe
+ Wenn sich die Kamera schnell bewegt, verschwimmt der Hintergrund basierend auf Bewegungsrichtung und Tiefe. Objekte in der Ferne verwischen mehr als die direkt vor der Kamera.
+ Verzerrung
+ Ermöglicht, dass einige transparente Oberflächen (z. B. Wasser) die dahinter liegenden Elemente verzerren.
+ Kantenglättung
+ 
+Wenn diese Option aktiviert ist, wird eine der ausgewählten Methoden zum Glätten von Modellkanten angewendet. FXAA0 ist das billigste, während FXAA5 und MLAA am teuersten sind. Diese Option sollte nur auf Keine und FXAA0 gesetzt werden, wenn Sie nicht mit den verschiedenen Methoden vertraut sind.
+ Keine
+ Lens Flares
+ Blendenfleck werden auf die Umgebung gerendert, um starkes Licht anzuzeigen (wie z. B. die Sonne).
+ Abziehbilder
+ Abziehbilder sind 2D-Bilder, die auf eine Oberfläche projeziert werden, um diese Oberfläche detaillierter erscheinen zu lassen (wie Risse, Schmutz oder Graffiti).
+ Dynamische Lichter
+ Echtzeit-Lichteffekte, wie z. B. Moving Lights oder Explosionen.
+ Präzise Schattengrenzen
+ Wenn aktiviert, versucht das Spiel genauer zu verfolgen, wo Schatten landen.
+ Zweilagige Transluzenz
+ Die Transluzenz wird durchgeführt, bevor das Depth-of-Field-Rendering bestanden wird. Infolgedessen werden viele lichtdurchlässige Objekte verschwommen, selbst wenn sie direkt vor Ihnen liegen. Durch die zweilagige Transluzenz können diese Objekte gerendert werden, nachdem das Depth of Field-Rendering bestanden wurde.
+ Kamera Vignette
+ Fügt einen subtilen schwarzen Rand um den Bildschirm hinzu.
+ Simulierte Weltphysik
+ Wenn aktiviert, werden Trümmer und starre Körper über PhysX simuliert. Mach keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte Sie haben.
+ Supersampling
+ Erhöht die Grafikleistung
+ Post Processing Auflösung
+ Downsampling-Post-Verarbeitung, um die Leistung zu verbessern.
+ Spiel
+ Vorausschauende verfolgungs Kamera
+ Verbessert das Glätten der Kamera, indem Sie die Geometrie in der Nähe verfolgt.
+ Eingabe
+ Auto-Select Controller
+ Wenn diese Option aktiviert ist und der Einzelspieler gespielt wird, ändert sich der aktive Controller automatisch, wenn Sie eine Taste an einem neuen Controller drücken.
+ Controller-Definitionen
+ Definitionen verwalten
+ Wir haben Unterstützung für eine Reihe von gängigen Controllern hinzugefügt, aber wenn Sie einen ungewöhnlichen Controller verwenden, müssen Sie ihn hier einrichten, um ihn verwenden zu können.
+ Maus-Empfindlichkeit
+ Je höher die Empfindlichkeit, desto mehr Auswirkungen hat eine Mausbewegung auf das Spiel.
+ Horizontale Kamera invertieren (Controller)
+ Kehrt die horizontale Bewegung um, wenn ein Controller verwendet wird
+ Kehrt die horizontale Kamerabewegung um
+ Vertikale Kamera invertieren (Controller)
+ Kehrt die vertikale Bewegung bei Verwendung eines Controllers um
+ Kehrt die vertikale Kamerabewegung um
+ Vibration
+ Ob Vibrationen während bestimmter Aktionen zugelassen werden sollen
+ Eingabehilfe
+ Das Spiel wird versuchen, die Eingabeerfahrung zu verbessern, indem Eingaben, die zu früh auf ein kleines Stück gedrückt wurden, gespeichert werden, sowie versehentliche doppelte Tastendrücke zu vermeiden.
+ Thank you so much for participating in the first A HAT IN TIME 2017 SPEEDRUNNING EVENT! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
+ So if you'd like your first impression of A Hat in Time to be an experience at your own pace, feel free to sit this one out! It's OK, the full game releases October 5th!
+ Make sure to record your run, and upload it to speedrun.com. Good luck!!- Gears for Breakfast
+ ATTENTIONIt appears that Steam has not properly downloaded all game files.Please verify integrity of game cache for the game if issues persist.
+ ATTENTIONYour laptop is currently using the integrated GPU instead of thededicated GPU.
+ Please open your NVidia Control Panel or AMD Control Center and setA Hat in Time to use the dedicated GPU.
+ ATTENTIONYou're currently using 3rd party gamepad software such as Joy2Key. It's not needed! A Hat in Time supports most controllers out of the box... very likely yours, too!
+ Consider turning off the software you're using, and see if A Hat in Time works with your controller by default!
+ Main
+ Zeitriss
+ Wähle einen Hut aus!
+ Wähle eine Maske aus!
+ Wähle eine Farbe aus!
+ Wähle eine Fähigkeit aus!
+ Wähle einen Anstecker aus!
+ Du brauchst  Garn um das zu nähen!
+ Drücke  zum  Garn zu benutzen um zu nähen!
+ Aktivieren
+ Sprung
+ Automatisch
+ Attacke
+ Waffe
+ Speichern & zurück zum Hub?
+ Das Spiel verlassen?
+ Save & Exit to...
+ Hauptmenu!
+ Desktop!
+ Zurück!
+ Datei
+ Vollständig
+ Neue Datei erstellen
+ Spielstand löschen
+ Bist du sicher, dass duSpielstand löschen willst?
+ Neues Spiel starten
+ Neues Spiel starten?
+ Benutzer wechseln
+ Neuer Hut genäht, probier ihn an!
+ Dieses Flair ist selten!
+ Dieses Flair ist sehr selten!
+ Du kannst jetzt das Aussehen dieses Items austauschen!
+ Ein Bild machen
+ Filter ändern
+ Schärfentiefe ändern
+ Tiefenschärfe aktivieren
+ Schärfentiefe deaktivieren
+ Verlassen
+ Filter
+ Depth of Field
+ Depth of Field an
+ Depth of Field aus
+ Action Blue
+ Dreamy
+ The 80s
+ Vibrant
+ Just Girly Things
+ Vintage
+ Vintage 2
+ Cold
+ Noir
+ Purple Night
+ Sunset
+ #NoFilter
+ Akt beginnen
+ Akt freischalten
+ Zeitriss betreten
+ Starte Free Roam
+ Starte Boss
+ Starte Mini Boss
+ Foto anschauen
+ Foto schließen
+ Verlassen
+ Du hast disen Akt schon abgeschlossen. Trotzdem betreten?
+ Dir fehlt ein Schlüsselitem dadurch wird es dir nicht möglich sein diesen Akt abzuschließen. Trotzdem betreten?
+ Der Schaffner hat den Highscore! Ihn als Sieger bestätigen?
+ Er ist irgendwie selbstgefällig darüber. Sicher willst du, dass er gewinnt?
+ DJ Grooves hat den Highscore! Ihn als Sieger bestätigen?
+ Sein Tanz ist irgendwie abscheulich. Sicher willst du, dass er gewinnt?
+ Es ist ein unentschieden! Willst du die Entscheidung dem Glück überlassen, wer der Gewinner ist?
+ Bist du sicher? Es wird völlig zufällig sein!
+ Kosten
+ Ich habe
+ Item kaufen
+ Laden verlassen
+ Item anschauen
+ Zurück
+ Ja!
+ Nein!
+ Diesen Akt wiederholen?
+ Wiederholen
+ Zurück zum Hub
+ Keine Reliquien in der Nähe
+ 1 EULEN STUNDE ÜBRIG
+ 30 EULEN MINUTEN ÜBRIG
+ DIE ZEIT IST UM
+ DIE KRÄHEN SIND JETZT VERFÜGBARE VERDÄCHTIGE!
+ DIE EXPRESS EULEN SIND JETZT VERFÜGBARE VERDÄCHTIGE!
+ DER SCHAFFNER IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+ ICH BIN JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+  IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+ DAS OPFER IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
+ WER IST DER MÖRDER?
+ BIST DU DIR SICHER, DASS DIESER TROTTEL DER MÖRDER IST?
+ Schützen und dienenum jeden Preis!
+ Wir haben Augenüberall, und wirhaben nichts gesehen!
+ Was schaust'n mich so an, Grünschnabel?
+ Ich musste es tun,oder die Stimmenwürden nicht aufhören!
+ ...
+ Du kannst keinetote Eule beschuldigen! Ich meine...zzzz...
+ Reparaturkosten:
+ Studioaufnahmen stören
+ Zerstörung von Eigentum
+ unbefugtes Betreten
+ Eulen-Belästigung
+ Pinguin-Belästigung
+ Manipulation mit Elektronik
+ Schwere Brandstiftung
+ Angriff auf Kaktus
+ Teepee T-KO
+ REGIE: SCHAFFNER 
+ REGIE: DJ GROOVES
+ MIT
+ DIE BEWERTUNGEN SIND DA ...
+ Profil wechseln

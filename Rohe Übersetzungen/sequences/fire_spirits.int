@@ -1,0 +1,15 @@
+[subcon]
+yellow0 = [wave]Wir wollen Sterben! Yay![/wave]
+yellow1 = [wave]Wir wollen hell brennen, und dann erlöschen! Eine Rauchwolke werden![/wave]
+yellow2 = [wave]Unser Lagerfeuer braucht mehr Brennstoff... nur die feinsten [icon:painting][hint]Bilder[/hint] funktionieren! Kannst du uns helfen?[/wave]
+
+complete0 = [wave]Danke[br]diiiiiir!![/wave]
+painting_burned0 = [wave]Mehr! Mehr![/wave]
+painting_burned1 = [wave]Ja! Mehr![/wave]
+painting_burned2 = [wave]Brenn! Brenn![/wave]
+
+[finale]
+outside0 = [wave]Rauch! Feuer! [br]Hell verbrennen![/wave]
+outside1 = [wave]Wir verbrennen zusammen! [br]Bald, bald![/wave]
+inside0 = [wave]Es Brennt! Es Brennt![/wave]
+inside1 = [wave]Hell verbrennen! Bald sind wir alle nur noch Rauch![/wave]

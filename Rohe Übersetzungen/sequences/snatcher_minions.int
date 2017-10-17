@@ -1,0 +1,48 @@
+[guides]
+SubconWell0 = [hint]Subcon Brunnen[/hint][br]ist hier lang!
+Manor0 = [hint]Die Villa[/hint][br]ist hier lang!
+EyeBlockade0 = Es hat sein [hint]Auge[/hint] auf etwas, hm?
+Swamp0 = Ich habe ein echt [hint]sinkendes[/hint] Gefühl bei diesem [br]Ort... Kapiert?
+BigTree0 = Ich wette die Aussicht von dem [hint]Großen Baum[/hint] ist ziemlich gut!
+BigTree1 = Nicht mehr weit, kid! 
+BigTree2 = Es ist bestimmt ziemlich [br]Schmerzhaft wenn du jetzt [br]hier runterfällst.
+Ice0 = Diese Einwohner sind echt [br]nicht zum Reden da. 
+Ice1 = Vielleicht kannst du mit [hint]ihnen [br]das Eis[/hint] brechen?
+Graves0 = Ich hab gehört [hint]Grabraub[/hint] zahlt sich aus!
+Mushroom0 = Einige dieser [br][hint]Pilze[/hint] schleudern [br]dich ziemlich hoch! 
+Mushroom1 = Hier ist ein Witz versteckt, [br]aber ich glaube nicht ein Kind [br]würde ihn verstehen.
+Noose0 = Diese Seile [br]sind wie Aufzüge, [br]falls du sicher [br][hint]festhängen[/hint] kannst.
+House0 = Ist das [icon:yarn] dort oben? 
+House1 = Vielleicht sind einige dieser [hint]Äste[/hint] [br]noch nicht ganz [br]verbrannt.
+Fruit0 = Wusstest du das manchmal ein stück [br]von der Frucht [br]Fleisch genannt wird? 
+Fruit1 = Gib keinen Körper an diese [hint]verärgerten Geister[/hint], kid! 
+DwellerPlatform0 = Man sagt, leutet man [br]bestimmte [hint]Glocken[/hint]... 
+DwellerPlatform01 = ...werden Objekte aus einer [shake]anderen[/shake] [br][shake]Dimension[/shake] [br]hervorgerufen!
+DwellerPlatform1 = [br][hint]Einwohner[/hint] können [br]nicht auf Objekten wie diesen stehen. Sie [br][hint]fallen einfach durch[/hint]!
+Spider0 = Diese [hint]Spinnen[/hint] haben kein [br]Problem über dem Sumpf zu bleiben...
+Trees0 = Vergiss nicht nach [hint]oben zu schauen[/hint]! [br]Da ist viel los in den Bäumen.
+Welcome0 = Du bist auch schon [br]hier? Was eine Schande.
+Statues0 = Sind diese Statuen nicht Schön?
+Fire0 = Sei vorsichtig, kid! [br]Dort drüben brennt es.
+Village0 = Schade das alle [br]diese Häuser leer sind.[br]Es sind kostenlose [br]Immobilien!
+Trap0 = Hey, kid! [br]Bleib hier stehen! [br]Es ist sicher!
+ScooterWall0 = Da sind mehr[br][hint]Post Empfänger[/hint] hinter[br]der Feuer Wand...
+ScooterWall1 = Du musst [br]die [icon:painting][name]Feuer Geister[/name][br] finden um diese Wand zu brechen!
+
+
+ 
+[manor]
+limitations_alert0 = Hey, neuling! Boss hat mir gesagt ich soll dir mittleien, das auf dem Papier was du Unterzeichnet hast draufstand das du deine Hüte in der Villa nicht nutzen darfst.
+limitations_alert_alt0 = Hey, neuling! Boss hat mir gesagt das uhhh... alle deine Hüte hier nicht erlaubt sind. Oder sowas.
+limitations_alert1 = Yeah. Verwende sie nicht. Danke.
+
+[finale]
+outside0 = Fall nicht [br]in die Lava, kid!
+outside1 = Das ist nicht mein [br]Bedrohliches, [br]unterdrückendes heim!
+outside2 = Seit wann ist [br]gruselig sein ein [br]Verbrechen?
+inside0 = Pass auf wo du hintrittst!
+inside1 = Ich kann Hühnchen riechen!
+
+[sneakyhiddenstuff]
+book0 = Ein Großes, schweres Buch mit dem Titel 'Beweis des ethischen Konsums im Kapitalismus'.
+book1 = Die Seiten sind alle leer.

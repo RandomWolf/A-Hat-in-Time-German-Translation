@@ -1,0 +1,40 @@
+[mafia_hq]
+intro0 = Die Mafiosi sind schreckliche Köche![br]Aber keine Angst, [name]Koch Katze[/name] ist da!
+intro1 = Ich bereite hier oben das eigentliche Essen vor, und tausche es mit dem Mafia Essen aus bevor jemand das Mafia Essen zu sich nimmt.
+intro2 = Ich bin mir ziemlich sicher jemand wird sterben sollte er das Essen der Mafiosi probieren!
+
+new0 = Du willst in das Theater einbrechen und mit dem Mafia Boss reden?
+new1 = Sorry, geht nicht! Du müsstest durch den Haupteingang, und der ist blockiert. Der einzige Weg wäre durch die Lüftungsschächte.
+new2 = Allerdings brauchst du einen[icon:key][hint]Schlüssel[/hint] dafür. Ich glaube einer der Mafiosi's hat ihn! Ich wette sie geben dir den Schlüssel wenn du ihnen eine [hint]Tasse heissen Kakao[/hint] gibst.
+
+mask0 = Uhhh... warum trägst du eine Maske von meinem Gesicht?
+
+gotkey0 = Du hast den Schlüssel? Fantastisch! Gehe zur Gefrierkammer, dort ist ein Lüftungsschacht den du nun betreten kannst!
+
+[spaceship]
+firstdecoration0 = Was ein schönes Raumschiff du hier hast! Sorry fürs einbrechen, ich wollte nur wirklich mal ein Raumschiff von innen beobachten.
+firstdecoration1 = Weisst du, Ich dachte Aliens wären Grün und hätten mehr Hunger auf Fleisch. Aber ich nehme an ihr Aliens kommt in allen größen und Farben, huh?
+firstdecoration2 = Hey, wenn du unseren Planeten erkunden willst, musst du ihn erst verstehen. Sonst weisst du nicht ob du auf Grass oder Treibsand trittst!
+firstdecoration3 = Du weisst nicht wie man [icon:relic][name]Schätze[/name] identifiziert? Keine Angst, [name]Koch Katze[/name] ist hier!
+firstdecoration4 = Du kannst dieses [name]Burger Kissen[/name] haben!
+firstdecoration5 = Du kannst diese [icon:relic][name]Schätze[/name] an einem Podium identifizieren! Wenn du sie in der richtigen Reihenfolge auf dem Podium platzierst, könntest du einen zusammenschluss finden.
+firstdecoration7 = Wenn du einen [icon:relic][name]Schatz[/name] identifizierst,[br]könnte etwas tolles passieren! Man weiss ja nie! Halte also ein Auge offen für Schätze.
+firstdecoration8 = Ich hab dir alles beigebracht was ich über Schätze weiss!
+
+cooking0 = Oh, hey! Ich hoffe, du nimmst es mir nicht übel wenn ich deine Küche benutze. Ich dachte mir, ich mach dir ein bisschen Menschen Futter. Da du ja ein Alien bist und so.
+cooking1 = Sag mal, bist mehr eine Steak oder Veggie person?
+cooking_q_steak = Steak
+cooking_q_veggie = Veggie
+cooking2_steak = Ist das so? Nun, hoffentlich hast du nicht vor ein paar Erdlinge in der Zukunft zu kochen!
+cooking2_veggie = Ist das so? Ich glaube ihr Aliens habt mehr in Verbindung mit... Ameisen und sowas?
+cooking3 = Wie auch immer, Ich hoffe mein Gericht ist fertig bevor du gehst. Ich will sehen wie gut ich mein Gericht auf einem Alien Herd kochen kann!
+cooking4 = Ich habe gedacht das ein Alien Herd ein bisschen fortgeschrittener sein würde.
+
+[finale]
+outside0 = Ich war zuvor in heißen Küchen, aber noch nie so heiß! Ich habe keine Ahnung wie du es schaffst nicht zu schwitzen, denn ich bin richtig am Kochen.
+outside1 = Vielleicht kannst du die Schlange überspringen und herausfinden, wer hier der Chef ist?
+ninjacat0 = Meow.
+ninjacat1 = Rrrreeow.
+ninjacat2 = [wave]Mrrroooowww.[/wave]
+ninjacat3 = Ich nehme an du sprichst diesen Katzen Dialekt nicht. Huh.
+group_counter0 = Yeah! Hau ab!

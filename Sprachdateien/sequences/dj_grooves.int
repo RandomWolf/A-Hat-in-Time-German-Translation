@@ -1,7 +1,7 @@
 [parade]
 welcome0 = Hallo, Schätzchen! Willkommen zum größten Studio, was du jemals sehen wirst!
-welcome1 = Wir starten gerade [hint]Die Große Parade[/hint] zu filmen, der Film, der atemberaubendste Film weltweit! Du wirst unser Star sein, wie immer!
-welcome2 = Für diesen Film müssen wir unser [icon:timepiece][timepiece]Spezial-Requisit[/timepiece] brauchen! Es wird herausploppen am Ende!
+welcome1 = Wir sind gerade dabei[hint]Die Große Parade[/hint] zu drehen, den atemberaubendsten Film weltweit! Du wirst unser Star sein, wie immer!
+welcome2 = Für diesen Film werden wir unser [icon:timepiece][timepiece]Spezial-Requisit[/timepiece] brauchen! Es wird herausploppen am Ende!
 welcome3 = Aber warte, Schätzchen! Dein jetziges Outfit passt nicht so sehr für eine Parade. Kannst du dort mal hingehen und das hier anziehen?
 welcome3b = Dein jetziges Outfit passt nicht so sehr für eine Parade. Kannst du dort mal hingehen und das hier anziehen?
 welcome4 = Du siehst toll aus, Schätzchen! Mach' dir keine Sorgen, der Film ist sehr leicht. Bewege dich die ganze Zeit und die Band folgt dir! Knalle nur nicht in sie rein!
@@ -11,40 +11,40 @@ welcome5c = Und schaue dich um nach den Kameras! Das Team wird versuchen, so vie
 welcome6 = Die Parade dauert ein wenig; nichts, was es schneller machen wird. Wir werden dir sagen, wann wir genug Filmmaterial haben. Verliere nicht die Stimmung!
 welcome7 = Viel Glück, Schätzchen!
 
-first_intermission0 = It's time to turn the heat up in this movie!
-first_intermission1 = Schätzchen, can you turn on the pyrotechnics?
+first_intermission0 = Lasst uns die Stimmung heben in diesem Film!
+first_intermission1 = Schätzchen, kannst du die Feuerwerke anzünden?
 
-second_intermission0 = This movie needs more action! Schätzchen, turn on the firework cannons[br]for the big firework show!
+second_intermission0 = Dieser Film braucht mehr Action! Schätzchen, schalte die Feuerwerks-Kanone an[br]für die große Feuerwerkshow!
 
-third_intermission0 = Time to release the [icon:timepiece][timepiece]parade surprise[/timepiece]![br]Grab it, Schätzchen!
+third_intermission0 = Zeit unsere [icon:timepiece][timepiece]Parade-Überraschung[/timepiece] zu enthüllen![br]Nimm es dir, Schätzchen!
 
 [deadbird]
 intro0 = Unsinn, Schätzchen, Unsinn!
-intro1 = You [name]Owl Express birds[/name] are just going to record another boring train-related western! You've done so for the last ten years, Schätzchen!
-intro2 = [icon:conductor][name]Conductor[/name], Schätzchen, this year we'll be winning the [icon:trophy][trophy]annual bird movie award[/trophy], as our new movie props will bring in the audiences!
-intro3 = These [icon:timepiece][timepiece]shiny things[/timepiece] fell from the sky! They will light our movie sets and fill them with glimmer!
-intro4 = I would never, Schätzchen! Clearly you're the one who took inspiration in my flashy new props.
-intro5 = Fine by me, Schätzchen. But we'll be the ones who win the [icon:trophy][trophy]annual bird movie award[/trophy], mark my word!
+intro1 = Ihr [name]Eulen-Express-Vögel[/name] werdet sowieso ein langweiliges Western auf einem Zug filmen! Und das seit den letzten 10 Jahren, Schätzchen!
+intro2 = [icon:conductor][name]Schaffner[/name], Schätzchen, dieses Jahr werden wir den[icon:trophy][trophy]jährlichen Vögel-Film Preis[/trophy] gewinnen, da unsere neue Requisiten uns die Zuschauer anfließen lässt!
+intro3 = Diese [icon:timepiece][timepiece]magischen Teile[/timepiece] sind vom Himmel gefallen! Sie werden unsere Filmsets mit Licht und Glimmer füllen!
+intro4 = Niemals, Schätzchen! Ganz klar bist du jenige der sich Inspiriation holte von meinen strahlenen Requisiten.
+intro5 = In Ordnung, Schätzchen. Aber wir werden die jenigen sein die din[icon:trophy][trophy]jährlichen Vögel-Film Preis[/trophy] gewinnen werden, merk dir mein Wort!
 
 passport0 = Bezaubert! Atemberaubend! Diese Trophae ist alles, was ich will... auf meinem Regal im Wohnzimmer!
-passport1 = Of course, this big trophy is just a plastic replica! The actual trophy is really tiny!
-passport2 = Oh my! Oh my! What is that I see? Is it true inner beauty? An innocent soul with a heart of gold?
-passport3 = Oh, no. It's just a little girl. Hello!
-passport3b = Oh, no. It's just a little boy. Hello!
-passport4 = Oh wait, you're not a penguin. That's good! I could use some non-penguin company around here, as all my penguins are frankly terrible actors!
-passport5 = Here's the biz: I need your help. I'm on a terrible losing streak, and I just HAVE to win this next [icon:trophy][trophy]annual bird movie award[/trophy].
-passport6 = There's no doubt; I absolutely MUST have you as the star! Here, let me take care of this.
-passport7 = We need to give you a bird passport, Schätzchen! Step right over here.
-passport8 = The most important part of a passport is the picture, Schätzchen! You have to look flashy and stunning! Step right over here. Let's take the pic.
-passport9 = OK, put on a smile, and stand still, please! Don't move!
-passport10 = Let's see how the picture turned out...
-passport11 = W-WA?!
-passport12a = Schätzchen, you're not very photogenic, huh?
-passport12b = Schätzchen, you moved! The picture is ruined! How could you?!
-passport13 = We've gotta fix this ugly mugshot up with some old-fashioned photo doctoring! Here, take these markers and turn yourself into the most stylish, fashionable young lady!
-passport13b = We've gotta fix this ugly mugshot up with some old-fashioned photo doctoring! Here, take these markers and turn yourself into the most stylish, fashionable young boy!
-passport14 = Perfect! Let's slide this picture into your passport, and... here you go! One passport for you!
-passport15 = Wonderful, Schätzchen! Just wonderful! Meet me at the movie set tomorrow, and we'll make you a star!
+passport1 = Natürlich ist das nur eine Plastik-Kopie! Die eigentliche Trophäe ist sehr klein!
+passport2 = Ach herrje! Ach herrje! Was ist das, was ich sehe? Ist das innerliche Schönheit? Eine pure Seele mit einem Herz aus Gold?
+passport3 = Oh, nein. Es ist nur ein kleines Mädchen. Hallo!
+passport3b = Oh, nein. Es ist nur ein kleiner Junge. Hallo!
+passport4 = Oh moment, du bist kein Penguin. Das ist super! Ich könnte ein wenig menschliche Gesellschaft vertragen, da alle meine Pinguine schlechte Schauspieler sind!
+passport5 = Hier ist mein Problem: Ich brauche deine Hilfe. Ich bin auf einen schlimmen wiederholten Verliererrekord, und ich MUSS dieses Jahr den [icon:trophy][trophy]Vogel-Film Preis[/trophy] gewinnen.
+passport6 = Da gibt es kein Wenn und Aber; Ich brauche dich ABSOLUT als den Star! Hier, lass das auf meine Schuhe.
+passport7 = Wie müssen dir einen Vogel-Pass erstellen, Schätzchen! Stell dich dort hin.
+passport8 = Das wichtigste vom Pass ist das Foto, Schätzchen! Du must auffällig und atemberaubend aussehen! Stell dich dort drüben hin. Lass uns das Foto schießen.
+passport9 = Okay, lächel und bleib stehen! Beweg dich nicht!
+passport10 = Mal sehen, wie das Foto ausgefallen ist...
+passport11 = W-WAS?!
+passport12a = Schätzchen, du bist nicht sehr lichtausstrahlend, huh?
+passport12b = Schätzchen, du hast dich bewegt! Das Foto ist ruiniert! Wie konntest du nur?!
+passport13 = Wir müssen dieses hässliche Verbrecherfoto in Ordnung bringen mit guter alter Farbe! Hier, nimm diese Stifte und mach dich zum stylischsten, modischsten Mädchen!
+passport13b = Wir müssen dieses hässliche Verbrecherfoto in Ordnung bringen mit guter alter Farbe! Hier, nimm diese Stifte und mach dich zum stylischsten, modischsten Jungen!
+passport14 = Perfekt! Jetzt nur noch das Foto in den Pass einfügen... Fertig! Einen Pass für dich!
+passport15 = Wunderbar, Schätzchen! Einfach wunderbar! Treff mich morgen am Set, wir machen dich zum Star!
 
 [award]
 intro0 = Thank you Schätzchen, thank you![br]You secured our victory! We won the [icon:trophy][trophy]annual bird award trophy[/trophy]!

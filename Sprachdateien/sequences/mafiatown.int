@@ -1,39 +1,39 @@
 [umbrella]
-umbrella_back0 = You got your [name]trusty umbrella[/name] back![br]Use it to whack anyone who gives you sass!
-umbrella_back1 = Press [button:attack] to attack!
+umbrella_back0 = Du hast deinen [name]zuverlässigen Regenschirm[/name] zurück![br]Benutze ihn um Leute zu hauen die frech zu dir sind!
+umbrella_back1 = Drücke [button:attack] zum angreifen!
 
 [act1postbattle]
 dotdotdot = . . .
 
 [impossible_race]
-MaybeWait0 = Not all acts can be completed the moment they're unlocked.[br]In some circumstances you might need a special item.
-MaybeWait1 = There's no shame in returning to an act later!
+MaybeWait0 = Nicht jeder Akt kann fertiggestellt werden sobald er freigeschalten wurde.[br]Manchmal braucht man sezielle Items.
+MaybeWait1 = Es ist gar nicht schlimm einen Akt später erneut zu spielen!
 
 [hq]
-window0 = It's still pouring it down outside.
-window1 = It's much nicer to watch from indoors, though.
-slotmachine0 = It looks like it only takes local currency, and you forgot to stop by the bureau de change.
-cans0 = This appears to be the Mafia's excuse for food. It certainly doesn't smell like it, though.
-cans1 = You could probably taste some, but you're not sure that's something you want in your obituary.
-bigfish0 = You resist the urge to think of any fish puns. It's tough, [small]hali[/small]but you manage to hold them back.
-pilehidden0 = There's a switch buried in this pile of non-distinct currency! 
-pilehidden1 = Pull it?
-pile_q_yes = Yes!
-pile_q_no = Heck no!
-pilehiddenpull0 = You pull the switch out of the pile and put it in your bag. Your collection of improv comedy props grows stronger.
-pilehiddennopull0 = You learned in school not to activate strange mechanisms found on alien planets in piles of gold, and leave it alone.
+window0 = Es gießt immernoch draußen.
+window1 = Es ist jedoch sehr schön von innen zuzuschauen.
+slotmachine0 = Es sieht aus als würde es nur lokale Währungen akzeptieren, und du bist natürlich nicht zur Wechselstube gegangen.
+cans0 = Dies scheint die Ausrede von Marifaessen zu sein. Es riecht jdeoch eindeutig nicht nach Essen.
+cans1 = Du könntest etwas probieren aber du bist dir unsicher ob dies etwas ist was du in deinem magen haben möchtest.
+bigfish0 = Du versuchst zu wiederstehen und keine Fisch Wotrwitze zu machen. Es ist hart, [small]Aal[/small]erdings schaffst du es dich zurück zu halten.
+pilehidden0 = Irgendwo in diesem haufen gleichaussehendem Geldes ist ein Schalter vergraben! 
+pilehidden1 = Dran ziehen?
+pile_q_yes = Ja!
+pile_q_no = Lieber nicht!
+pilehiddenpull0 = Du ziehst den Schalter aus dem haufen und steckst in in deinen Rucksack. Deine Sammlung an improv Komediegegenständen wächst ständig.
+pilehiddennopull0 = Du hast in der Schule gelernt nicht einfach irgendwelche Schalter in zufälligen Goldmünzhaufen zu betätigen und lässt es daher sein.
 
 [fluff]
-door0 = Go away! Mafia watching shows. High interest in plotline.
-meat0 = It's a hunk of meat, just like in your cartoons! Only far bigger.
-meat1 = Weird, considering you haven't spotted any levithian animals around here.
-tailor0 = With how limited the dress code is around here, it's not surprising this place is boarded up.
-vista0 = So picturesque! You can't quite decide what videogame it looks like, though.
+door0 = Verschwinde! Mafia schaut Serien. Hohes interesse in Handlung.
+meat0 = Es ist eine riesige Fleischkeule, genauso wie die aus den Cartoons! Sie ist nr noch viel größer.
+meat1 = Komisch wenn man bedenkt das du noch keine Leviathane in der nähe gesehen hast.
+tailor0 = Bei dem beschränken Dresscode ist es kein wunder das hier alles mit Brettern zugenagelt wurde.
+vista0 = So wunderschön! Du kommst nur nicht drauf nach welchem Videospiel es aussieht.
 
 [lava]
-finish0 = Small child has saved us! Get up here!
-finish1 = We have [timepiece][icon:timepiece]gift[/timepiece] for you!
+finish0 = Kleines Kind hat uns gerettet! Komm hier hoch!
+finish1 = Wir haben [timepiece][icon:timepiece]Geschenk[/timepiece] für dich!
 
-goofy0 = You did it! Small child saved Mafia Town!
-goofy1 = Now Mafia no longer need to eat lava for breakfast... amazing!
-goofy2 = Please, take this as trophy. You are truly the hero of Mafia Town!
+goofy0 = Du hast es geschafft! Kleines kind hat Mafia Town gerettet!
+goofy1 = Nun braucht Mafia keine Lava mehr zum Frühstück essen... Fantatisch!
+goofy2 = Bitte, nimm diese Trophäe. Du bist die wahre Heldin von Mafia Town!

@@ -1,13 +1,13 @@
 [parade]
 welcome0 = Hallo, Schätzchen! Willkommen zum größten Studio, was du jemals sehen wirst!
-welcome1 = Wir sind gerade dabei,[hint]diee große Parade[/hint] zu drehen, den atemberaubendsten Film weltweit! Du wirst unser Star sein, wie immer!
+welcome1 = Wir sind gerade dabei[hint]die große Parade[/hint] zu drehen, den atemberaubendsten Film weltweit! Du wirst unser Star sein, wie immer!
 welcome2 = Für diesen Film werden wir unser [icon:timepiece][timepiece]Spezial-Requisit[/timepiece] brauchen! Es wird herausploppen am Ende!
 welcome3 = Aber warte, Schätzchen! Dein jetziges Outfit passt nicht so sehr für eine Parade. Kannst du dort mal hingehen und das hier anziehen?
 welcome3b = Dein jetziges Outfit passt nicht so sehr für eine Parade. Kannst du dort mal hingehen und das hier anziehen?
 welcome4 = Du siehst toll aus, Schätzchen! Mach' dir keine Sorgen, der Film ist sehr leicht. Bewege dich die ganze Zeit und die Band folgt dir! Knalle nur nicht in sie rein!
 welcome5 = Und schaue dich um nach tollen Sachen! Das Publikum liebt eine gute Parade und wird dir Leckereien nachwerfen, falls du in der Nähe bist.
-welcome5b = Und schaue dich um nach Erfrischungen! Das Team hinter den Kulissen wird dir welche nachwerfen, um dich hydriert zu halten!
-welcome5c = Und schaue dich um nach den Kameras! Das Team wird versuchen, so viel Film von dir zu kriegen wie nur möglich, also schwinge dich zu denen hin wann immer auch möglich!
+welcome5b = Und schaue dich um nach Erfrischungen! Das Team hinter den Kulissen wird dir es nachwerfen, um dich hydriert zu bleiben!
+welcome5c = Und schaue dich um nach den Kameras! Das Team wird versuchen, so viel Film von dir zu kriegen wie möglich, also schwinge dich zu denen hin wann immer auch möglich!
 welcome6 = Die Parade dauert ein wenig; nichts, was es schneller machen wird. Wir werden dir sagen, wann wir genug Filmmaterial haben. Verliere nicht die Stimmung!
 welcome7 = Viel Glück, Schätzchen!
 
@@ -24,9 +24,9 @@ intro1 = Ihr [name]Eulen-Express-Vögel[/name] werdet sowieso ein langweiliges We
 intro2 = [icon:conductor][name]Schaffner[/name], Schätzchen, dieses Jahr werden wir den[icon:trophy][trophy]jährlichen Bird Movie-Award[/trophy] gewinnen, da unsere neue Requisiten uns die Zuschauer anfließen lässt!
 intro3 = Diese [icon:timepiece][timepiece]magischen Teile[/timepiece] sind vom Himmel gefallen! Sie werden unsere Filmsets mit Licht und Glimmer füllen!
 intro4 = Niemals, Schätzchen! Ganz klar bist du jenige der sich Inspiriation holte von meinen strahlenen Requisiten.
-intro5 = In Ordnung, Schätzchen. Aber wir werden die jenigen sein die den[icon:trophy][trophy]jährlichen Bird Movie-Award[/trophy] gewinnen werden, merk dir mein Wort!
+intro5 = In Ordnung, Schätzchen. Aber wir werden die jenigen sein die din[icon:trophy][trophy]jährlichen Bird Movie-Award[/trophy] gewinnen werden, merk dir mein Wort!
 
-passport0 = Bezaubert! Atemberaubend! Diese Trophae ist alles, was ich will... auf meinem Regal, im Wohnzimmer!
+passport0 = Bezaubert! Atemberaubend! Diese Trophae ist alles, was ich will... auf meinem Regal im Wohnzimmer!
 passport1 = Natürlich ist das nur eine Plastik-Kopie! Die eigentliche Trophäe ist sehr klein!
 passport2 = Ach herrje! Ach herrje! Was ist das, was ich sehe? Ist das innerliche Schönheit? Eine pure Seele mit einem Herz aus Gold?
 passport3 = Oh, nein. Es ist nur ein kleines Mädchen. Hallo!
@@ -47,34 +47,33 @@ passport14 = Perfekt! Jetzt nur noch das Foto in den Pass einfügen... Fertig! Ei
 passport15 = Wunderbar, Schätzchen! Einfach wunderbar! Treff mich morgen am Set, wir machen dich zum Star!
 
 [award]
-intro0 = Thank you Schätzchen, thank you![br]You secured our victory! We won the [icon:trophy][trophy]annual bird award trophy[/trophy]!
-intro1 = The [icon:conductor][name]Conductor[/name] is probably awfully sour from his second loss ever, but don't worry, he'll come around.
-intro2 = Anyway, we're all done here! No more movies until next year. Since you're so eager to get your hands on them, you can take my final [icon:timepiece][timepiece]movie prop[/timepiece] as your last movie star payment.
-intro3 = What, you were expecting something crazy to happen?[br]Nonsense, Schätzchen, nonsense!
+intro0 = Dankesehr Schätzchen, danke![br]Du hast unseren Sieg gesichert! Wie haben den icon:trophy][trophy]Bird Movie-Award[/trophy] gewonnen!
+intro1 = Der [icon:conductor][name]Schaffner[/name] ist wahrscheinlich extremst sauer über seine einzige zweite Niederlage, aber keine Sorge, er beruhigt sich wieder.
+intro2 = Wie auch immer, das wars! Keine Filme mehr bis zum nächsten Jahr. Weil du ja so scharf bist auf diese Teile, kannst du mein letztes [icon:timepiece][timepiece]Requisit[/timepiece] nehmen als die letzte Bezahlung.
+intro3 = Wie, hast du etwas verrücktes erwartet?[br]Unsinn, Schätzchen, Unsinn!
 
 [BossBattle]
 SupportNotice0 = Schätzchen! Schätzchen!
-SupportNotice1 = Hang in there,[br]I'll find a way to[br]defuse the bomb!
-SupportNotice2 = My defuser is[br]ready, come here!
+SupportNotice1 = Halte durch,[br]ich werd nen Weg finden[br]um die Bombe zu entschärfen!
+SupportNotice2 = Mein Entschärfer ist[br]bereit, komm her!
 
-hth_intro0 = Let's have a little heart-to-heart. Have a seat, Schätzchen.
-hth_intro1 = Ever since you arrived on this planet, these [icon:timepiece][timepiece]Time Pieces[/timepiece] have fallen from the sky.
-hth_intro2 = Now, I can understand if you feel they belong to you, Schätzchen. I understand. But did you know they allow for rewinding time?
-hth_intro3 = With one [icon:timepiece][timepiece]Time Piece[/timepiece], I could reclaim all the trophies that belong to me, Schätzchen. Every single trophy I've lost to the [icon:conductor][name]Conductor[/name], where he has cheated his way to victory.
-hth_intro4 = I can't prove it, Schätzchen, but I'm certain the [icon:conductor][name]Conductor[/name] has been manipulating everything to make sure I never win.
-hth_intro5 = I need just one [icon:timepiece][timepiece]Time Piece[/timepiece] to fix years of cheating and fraud. Can't you spare me just [hint]one Time Piece[/hint], Schätzchen?
-hth_intro5_yes = Maybe?
-hth_intro5_no = Nope!
-hth_intro6a = Thank you, Schätzchen! You won't regret it! We'll fix years of fraud and cheating, and go back to the [icon:trophy][trophy]annual bird movie awards[/trophy] being honest and upstanding!
-hth_intro7a = Unfortunately... I can't have you leave this room, Schätzchen. I can't risk word getting out. The [icon:conductor][name]Conductor[/name] will throw a hissy fit like never seen before!
-hth_intro8a = It was nice knowing you, Schätzchen. Goodbye!
-hth_intro6b = Schätzchen, Schätzchen, Schätzchen. You're so persistently selfish. I've brought you to stardom, and all I ask in return is a single [icon:timepiece][timepiece]Time Piece[/timepiece]... but you won't share?
-hth_intro7b = Well, Schätzchen, if you want this [icon:timepiece][timepiece]Time Piece[/timepiece] back so bad, come and get it!
-hth_intro9 = Remember this bomb, Schätzchen? I stole it from the [icon:conductor][name]Conductor[/name]'s movie set, and now it'll be your demise!
+hth_intro0 = Lass uns zwischen zwei Augen sprechen. Setz dich, Schätzchen.
+hth_intro1 = Seitdem du herkamst, sind diese [icon:timepiece][timepiece]Zeitstücke[/timepiece] vom Himmel gefallen.
+hth_intro2 = Nun, ich kann dich verstehen, das sie dir gehören, Schätzchen. Das verstehe ich. Wusstest du aber das man mit denen Zeit zurückdrehen kann?
+hth_intro3 = Mit einem [icon:timepiece][timepiece]Zeitstück[/timepiece] könnte ich alle Preise, die mir gehören, zurückholen Schätzchen. Jeder einzelne Preis den ich durch den [icon:conductor][name]Schaffner[/name], verlor, dem Betrüger.
+hth_intro4 = Ich kann es nicht beweisen, Schätzchen, aber ich weiß der[icon:conductor][name]Schaffner[/name] hat alles manipuliert um sicherzustellen das ich nie gewinn.
+hth_intro5 = Ich brauch nur ein [icon:timepiece][timepiece]Zeitstück[/timepiece] um Jahre wiederherzustellen voll von Betrug und Schwindel. Kannst du mir nicht [hint]ein Zeitstück[/hint] ausleihen, Schätzchen?
+hth_intro5_yes = Eventuell?
+hth_intro5_no = Nö!
+hth_intro6a = Dankesehr, Schätzchen! Du wirst es nicht bereuen! Wir werden Jahre zurückdrehen mit Betrug und Schwindel, und gehen zurück auf den [icon:trophy][trophy]Bird Movie-Award[/trophy], der ehrlich und fair ist. 
+hth_intro7a = Unglücklicherwiese... Ich kann dich nicht verlassen, Schätzchen. Ich kann es nicht riskieren, das du hierüber ein Wort verlierst. Der [icon:conductor][name]Schaffner[/name] wird zischen wie sonst noch nie zuvor!
+hth_intro8a = Es war nett dich kennengelernt zu haben, Schätzchen. Auf Nimmerwiedersehen!
+hth_intro6b = Schätzchen, Schätzchen, Schätzchen. Du bist so hartnäckig egoistisch. Ich machte dich zum Star, und alles was ich haben möchte ist ein [icon:timepiece][timepiece]Zeitstück[/timepiece]... aber du willst nicht teilen?
+hth_intro7b = Nun, Schätzchen, wenn du dieses [icon:timepiece][timepiece]Zeitstück[/timepiece] zurüch haben wisst, komm und hole es dir!
+hth_intro9 = Erinnerst du dich, Schätzchen? Ich habe es vom [icon:conductor][name]Schaffners[/name] Film-Set gestohlen, und nun wird es dien Untergang sein!
 
-Intro0 = Look who we've got here, Schätzchen! I guess you found my little secret, huh?
-Intro1 = This last [icon:timepiece][timepiece]Time Piece[/timepiece] is all for me, Schätzchen. If you want it, well, I guess you've just gotta come and get it.
-
+Intro0 = Schau wen wir hier haben, Schätzchen! Scheint so als ob du mein Versteck gefunden hast, huh?
+Intro1 = Dieses letzte [icon:timepiece][timepiece]Zeitstück[/timepiece] gehört mir allein, Schätzchen. Wenn du es haben willst, nun, dann denke ich musst du kommen und es dir holen.
 
 [PicturePerfect]
 Intro0 = Wilkommen zu deinem ersten Tag an der Filmarbeit, Schätzchen!

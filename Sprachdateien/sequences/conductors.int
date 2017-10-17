@@ -47,7 +47,7 @@ director_cut2 = Durchsucht die Kameras!
 director_cut3 = Wer ist DAS?!
 director_cut4 = Verlass sofort mein Filmset!
 
-director_action0 = Okay, allemann bereit? Lasst uns dann starten. ACTION!
+director_action0 = Okay, allemann bereit? Dann lasst uns starten. ACTION!
 director_action1 = Lassen wir diesen Film wahr werden! Eulen! In Position! ACTION!
 director_action2 = Kameras! Lichter! ACTION!
 director_action3 = Klappe viertausendfünfundsechzig! ACTION!
@@ -67,12 +67,12 @@ outro6 = Das ist richtig, du wirst auch der Star von meinen Filmen sein!
 outro7 = Hier, halt unser [icon:timepiece][timepiece]neustes Requisit[/timepiece], üb, es gut zu präsentieren, und bring es morgen zu meinem Filmset! Verstanden? Komm nicht zu spät!
 
 [murder]
-intro0=Willkommen zurück, lassie! Ich hab das Skript für meinen nächsten Film noch nicht geschrieben, also filmen wir grade auch nicht!
+intro0=Willkommen zurück, Lassie! Ich hab das Skript für meinen nächsten Film noch nicht geschrieben, also filmen wir grade auch nicht!
 intro1=Ich ruf dich, wenn das Skript fertig ist.
 
 victim_reveal0 = [scream]Ei-ein MORD? Auf meinem Eulen-Express!?[/scream]
-victim_reveal1 = Ich kann nicht glauben, jemand würde eine der Express-Eulen ermorden!
-victim_reveal2 = Und ich kann noch weniger glauben, dass es deine Onkels Schwester [MotherMaidenName] war!
+victim_reveal1 = Ich kann nicht glauben, dass jemand eine Express-Eule ermorden würde.
+victim_reveal2 = Und ich kann noch weniger glauben, dass es die Schwester deines Onkels [MotherMaidenName] war!
 victim_reveal3 = Was hast du dazu zu sagen, [MotherMaidenName]?!
 victim_reveal4 = ...
 victim_reveal5 = Du zeigst mir die kalte Schulter, heh?! Genau was ein Mörder tun würde!
@@ -81,7 +81,7 @@ victim_reveal6 = WAS!? Ich darf nicht mal in meinem eigenen Zug frei herumgehen!
 mission_start0 = Diese C.A.W. Grünschnäbel können mir nicht sagen was ich zu tun habe! Ich bin mir sicher sie haben den Mord begangen und zerstören jetzt alle Beweise!
 mission_start_evidence0 = Du hast Beweise, dass ich der Mörder bin? Hah! Das ich nicht lache! Komm zurück, wenn du alle Beweise hast.
 
-mission_end0 = Also, wer hats getan?!
+mission_end0 = Also, wer hat's getan?!
 mission_end1 = Was! Also habt ihr Grünschnäbel nichts getan, um den Fall zu lösen?!
 mission_end2 = Wer ist der Mörder? Wer von euch wars?!
 
@@ -94,7 +94,7 @@ suspect_victim1 = Warte, macht es das zu einem Selbstmord?
 suspect_generic0 = Aber... warum? Warum ermordet man eine, der Express Eulen?
 suspect_generic1 = Bitte was? GUMMImesser?!
 
-suspect_ending0 = Nun, danke fürs Lösen von diesem Mord, lassy.
+suspect_ending0 = Nun, danke fürs Lösen von diesem Mord, Lassy.
 suspect_ending1 = Nicht nur enthüllteste du den Mörder, du enthülltest auch, dass das Opfer nie verletzt wurde.
 suspect_ending2 = ... und du gabst uns spannendes Bildmaterial für den Film!
 suspect_ending3 = Was? Du dachtest, ich lasse einfach so ein Mord auf meinem Eulen-Express stattfinden? Denk nochmal nach! Es war alles nur der Aufbau für meinen neuen Film:[br][name]Mord auf dem Eulen-Express![/name]
@@ -103,12 +103,12 @@ suspect_ending5 = Hier, nimm dieses [icon:timepiece][timepiece]Dingsbums[/timepi
 suspect_ending6 = ... und du spielst besser nicht den Star in einer der Filme von [icon:djgrooves][name]DJ Grooves[/name]'! Seine Filme sind GROTTIGE FLOPS OHNE AUFWAND ![br] Außerdem haben wir ein exklusiven Vertrag, ja?
 
 suspect_conductor0 = ... ICH?!
-suspect_conductor1 = Ich kann nicht der Mörder sein, Ich bin der Schaffner!
+suspect_conductor1 = Ich kann nicht der Mörder sein, ich bin der Schaffner!
 suspect_conductor2 = Wieso?
 suspect_conductor3 = Ernsthaft, wieso?
 suspect_conductor4 = Ich war es nicht!
 suspect_conductor5 = Stop.
-suspect_conductor6 = Hör auf damit.
+suspect_conductor6 = Hör auf damit!
 suspect_conductor7 = ...
 suspect_conductor8 = OKAY, GUT!
 suspect_conductor9 = Ich war es. Ich tat es. Da, bist du glücklich?
@@ -149,8 +149,8 @@ SupportNotice0 = Lassie, hier drüben!
 SupportNotice1 = Warte,[br]Ich finde einen Weg,[br] um die Bombe zu entschärfen!
 SupportNotice2 = Mein "Entschärfer"[br] ist bereit, komm her!
 
-hth_intro0 = Lass uns ein kleines Vertrauensgespräch haben. Setz dich, lassie.
-hth_intro1 = Seitdem du hier auf diesem Planete bist, haben diese [icon:timepiece][timepiece]Zeitstücke[/timepiece] angefangen vom Himmel zu fallen.
+hth_intro0 = Lass uns ein kleines Vertrauensgespräch haben. Setz dich, Lassie.
+hth_intro1 = Seitdem du hier auf diesem Planeten bist, haben diese [icon:timepiece][timepiece]Zeitstücke[/timepiece] angefangen vom Himmel zu fallen.
 hth_intro2 = Nun, ich kann verstehen, dass du denkst sie gehören dir. Ich verstehs. Aber wusstest du, dass sie die Zeit zurückspulen können?
 hth_intro3 = Mit nur einem [timepiece][icon:timepiece]Zeitstück[/timepiece], könnte ich mir die Trophäe zurückholen, die mir gehört! Das ist richtig, der Verlust von Preis 42!
 hth_intro4 = Ich wurde nur zweiter Platz beim [icon:trophy][trophy]zweiundvierzigsten jährlichen Bird Preis[/trophy]! Ich! Kannst du dir das vorstellen? [icon:djgrooves][name]DJ Grooves[/name] schaffte es erster Platz zu werden!
@@ -178,10 +178,10 @@ outside0 = Du bist hier auch, lassie? Was ist das für ein Ort?! Ich habe noch ni
 outside1 = Wer auch immer dahinter steckt, ich werde mich nicht richten lassen von irgendeinem...
 outside2 = [scream]SCHNAUZBÄRTIGEN,[/scream]
 outside3 = [scream]HUTLOSEN,[/scream]
-outside4 = [scream]KAPUZENTRAGENDEN',[/scream]
-outside5 = [scream]STATUEPOSIERENDEN',[/scream]
-outside6 = [scream]SCHLOSSBEWOHNENDEN',[/scream]
-outside7 = [scream]STRAFZETTELGEBENDEN'[/scream]
+outside4 = [scream]KAPUZENTRAGENDEN,[/scream]
+outside5 = [scream]STATUEPOSIERENDEN,[/scream]
+outside6 = [scream]SCHLOSSBEWOHNENDEN,[/scream]
+outside7 = [scream]STRAFZETTELGEBENDEN,[/scream]
 outside8 = [scream][big]GRÜNSCHNABEL![/big][/scream]
 group_counter0 = Das ist richtig, hau AB! Niemand will dich hier! Ist es nicht so?
 mafiaball0 = Du verstehst es, Bursche. Lass ihr uns etwas geben, was sie auf dieses kleine Ärgernis stoßen kann, damit sie endlich abhaut!

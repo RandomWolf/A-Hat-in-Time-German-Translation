@@ -1,39 +1,39 @@
 [umbrella]
-umbrella_back0 = Du hast deinen [name]zuverlässigen Regenschirm[/name] zurück![br]Benutze ihn um Leute zu hauen die frech zu dir sind!
-umbrella_back1 = Drücke [button:attack] zum angreifen!
+umbrella_back0 = Du hast deinen [name]treuen Schirm[/name] wieder!
+umbrella_back1 = Brate Holzköpfe mit [button:attack] eins über!
 
 [act1postbattle]
 dotdotdot = . . .
 
 [impossible_race]
-MaybeWait0 = Nicht jeder Akt kann fertiggestellt werden sobald er freigeschalten wurde.[br]Manchmal braucht man sezielle Items.
-MaybeWait1 = Es ist gar nicht schlimm einen Akt später erneut zu spielen!
+MaybeWait0 = Nicht alle Akte können sofort nach dem Freischalten beendet werden.[br]Unter Umständen brauchst du einen bestimmten Gegenstand.
+MaybeWait1 = Du musst dich nicht schämen, wenn du es später noch mal versuchst!
 
 [hq]
-window0 = Es gießt immernoch draußen.
-window1 = Es ist jedoch sehr schön von innen zuzuschauen.
-slotmachine0 = Es sieht aus als würde es nur lokale Währungen akzeptieren, und du bist natürlich nicht zur Wechselstube gegangen.
-cans0 = Dies scheint die Ausrede von Marifaessen zu sein. Es riecht jdeoch eindeutig nicht nach Essen.
-cans1 = Du könntest etwas probieren aber du bist dir unsicher ob dies etwas ist was du in deinem magen haben möchtest.
-bigfish0 = Du versuchst zu wiederstehen und keine Fisch Wotrwitze zu machen. Es ist hart, [small]Aal[/small]erdings schaffst du es dich zurück zu halten.
-pilehidden0 = Irgendwo in diesem haufen gleichaussehendem Geldes ist ein Schalter vergraben! 
-pilehidden1 = Dran ziehen?
+window0 = Es schüttet draußen immer noch.
+window1 = Es ist viel schöner, von drinnen raus zu gucken.
+slotmachine0 = Es sieht so aus, als ob nur die Landeswährung genommen wird aber du hast leider vergessen bei der Wechselstube vorbeizuschauen.
+cans0 = Das sieht wie die Mafiaversion eines 5-Sterne-Essens aus. Aber es riecht nicht danach.
+cans1 = Du könntest vielleicht was davon probieren, aber du möchtest das nicht auf deinem Grabstein stehen haben.
+bigfish0 = Du widerstehst dem Drang, einen Fischwitz zu machen. Du schaffst es aber, obwohl dir einer auf der [small]See[/small]Zunge liegt
+pilehidden0 = Da ist ein Schalter in diesem Haufen nicht eindeutiger Währung vergraben! 
+pilehidden1 = Daran ziehen?
 pile_q_yes = Ja!
-pile_q_no = Lieber nicht!
-pilehiddenpull0 = Du ziehst den Schalter aus dem haufen und steckst in in deinen Rucksack. Deine Sammlung an improv Komediegegenständen wächst ständig.
-pilehiddennopull0 = Du hast in der Schule gelernt nicht einfach irgendwelche Schalter in zufälligen Goldmünzhaufen zu betätigen und lässt es daher sein.
+pile_q_no = Ach nee!
+pilehiddenpull0 = Du ziehst den Schalter aus dem Haufen und packst ihn in die Tasche. Deine Sammlung von Impro-Comedy Requisiten wird immer größer.
+pilehiddennopull0 = Du hast in der Schule gelernt, seltsame Mechanismen, die man in Goldhaufen auf fremden Planeten findet, lieber nicht zu aktivieren.
 
 [fluff]
-door0 = Verschwinde! Mafia schaut Serien. Hohes interesse in Handlung.
-meat0 = Es ist eine riesige Fleischkeule, genauso wie die aus den Cartoons! Sie ist nr noch viel größer.
-meat1 = Komisch wenn man bedenkt das du noch keine Leviathane in der nähe gesehen hast.
-tailor0 = Bei dem beschränken Dresscode ist es kein wunder das hier alles mit Brettern zugenagelt wurde.
-vista0 = So wunderschön! Du kommst nur nicht drauf nach welchem Videospiel es aussieht.
+door0 = Geh weg! Mafia guckt TV-Show. Großes Interesse an Handlung.
+meat0 = Es ist ein Stück Fleisch, genau wie in deinen Cartoons! Nur viel größer.
+meat1 = Seltsam, wenn man bedenkt, dass es hier keine riesigen Reptilien in der Nähe gibt.
+tailor0 = Nicht verunderlich, dass dieser Laden geschlossen ist, wenn man die Kleiderordnung hier bedenkt.
+vista0 = So bildhaft! Du kannst aber nicht ganz entscheiden, nach welchem Videospiel es aussieht.
 
 [lava]
-finish0 = Kleines Kind hat uns gerettet! Komm hier hoch!
-finish1 = Wir haben [timepiece][icon:timepiece]Geschenk[/timepiece] für dich!
+finish0 = Kleines Mädchen hat uns gerettet! Komm rauf hier!
+finish1 = Wir haben [timepiece][icon:timepiece]Belohnung[/timepiece] für dich!
 
-goofy0 = Du hast es geschafft! Kleines kind hat Mafia Town gerettet!
-goofy1 = Nun braucht Mafia keine Lava mehr zum Frühstück essen... Fantatisch!
-goofy2 = Bitte, nimm diese Trophäe. Du bist die wahre Heldin von Mafia Town!
+goofy0 = Geschafft! Kleines Kind hat Mafia Town gerettet!
+goofy1 = Jetzt muss Mafia nicht mehr Lava zum Frühstück essen... Großartig!
+goofy2 = Bitte, nimm Trophäe. Du bist wirklich Held von Mafia Town!

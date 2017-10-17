@@ -71,7 +71,7 @@ intro0=Willkommen zurück, lassie! Ich hab das Skript für meinen nächsten Film no
 intro1=Ich ruf dich, wenn das Skript fertig ist.
 
 victim_reveal0 = [scream]Ei-ein MORD? Auf meinem Eulen-Express!?[/scream]
-victim_reveal1 = Ich kann nicht glauben, jemand würde eine der Express Eulen ermorden!
+victim_reveal1 = Ich kann nicht glauben, jemand würde eine der Express-Eulen ermorden!
 victim_reveal2 = Und ich kann noch weniger glauben, dass es deine Onkels Schwester [MotherMaidenName] war!
 victim_reveal3 = Was hast du dazu zu sagen, [MotherMaidenName]?!
 victim_reveal4 = ...

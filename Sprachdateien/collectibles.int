@@ -136,9 +136,9 @@ LungeAttackBadgeName = Lunge Angriff Anstecker
 LungeAttackBadgeDesc0 = Lunge Angriff Anstecker
 
 NoFallDamageBadgeName = Schwebe Anstecker
-NoFallDamageBadgeDesc0 = Öffnet deinen Regenschirm kurz vor einem tödlichen sturz automatisch!
+NoFallDamageBadgeDesc0 = Öffnet deinen Regenschirm kurz vor einem tödlichen Sturz automatisch!
 
-NoBonkBadgeName = Kein abprallen Anstecker
+NoBonkBadgeName = Anti-Abprall-Anstecker
 NoBonkBadgeDesc0 = Du prallst nicht mehr an Wänden ab wenn du einen Hechtsprung machst!
 
 HatCooldownBonusBadgeName = Flinker Hutmacher Anstecker
@@ -155,7 +155,7 @@ LevelTabletDesc0 = Es versucht etwas zu verdeutlichen... aber es benötigt mehr T
 LevelTabletDesc1 = Es sieht ziemlich selten aus. Ich halte besser Ausschau nach mehr von diesen Ballons!
 
 BirdPassportName = Ausweis für die Bundesvereinigung der Vögel
-BirdPassportDesc0 = Ich bin nun ein legaler Vogel! Denke ich?
+BirdPassportDesc0 = Ich bin nun ein legaler Vogel, denke ich?
 
 TimePieceName = Zeitstück
 TimePieceDesc0 = Ich will sie. Sehr.
@@ -167,7 +167,7 @@ RouletteTokenName = Rift Token
 RouletteTokenDesc0 = Benutze die Tokens an der Orb Maschine um coole Belohnungen zu bekommen!
 
 [levelspecific]
-VaultCodeName = Tresor Code
+VaultCodeName = Tresor-Code
 VaultCodeDesc0 = Es ist ein Teil des Tresorcodes!
 VaultCodeRedName = Roter Tresor Code
 VaultCodeGreenName = Grüner Tresor Code

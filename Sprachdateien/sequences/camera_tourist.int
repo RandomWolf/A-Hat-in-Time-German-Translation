@@ -2,7 +2,7 @@
 CameraStolen0 = Die verdammte Möwe dahinten, hat meine Kamera geklaut!
 CameraStolen1 = Ich würde das selbst mit meinem Bauch hintauchen [button:duck], aber dieser Bauch ist zu kostbar, zum Tauchen!
 
-CameraRetrieved0 = Du hast meine Kamera? Wow, danke, kid! Aber, eigentlich habe ich sowieso tausend Ersatzkameras. Ich brauche sie nicht.
+CameraRetrieved0 = Du hast meine Kamera? Wow, danke, Kid! Aber, eigentlich habe ich sowieso tausend Ersatzkameras. Ich brauche sie nicht.
 CameraRetrieved1 = Ich suchte nur nach einer Ausrede, um Möwen anzuschreien. Du kannst sie behalten.
 
 [mafia_town]
@@ -11,12 +11,12 @@ TownIsSoBig0 = Diese Stadt ist so groß! Und die Attraktionen sind ziemlich cool,
 [finale]
 inside0 = Ich glaube dieser Sprung [br]ist ein bisschen zu weit für mich [br] und meine Kamera...
 cameras0 = D-du hast recht! Ich benutz meine Kamera! Los gehts!
-touristexterior0 = Schau, kid, ich muss ehrlich sein. Von allen Orten, die ich je besucht habe, ist dieser zweifelos der schlimmste.
+touristexterior0 = Schau, Kid, ich muss ehrlich sein. Von allen Orten, die ich je besucht habe, ist dieser zweifelos der schlimmste.
 touristexterior1 = Du musst da rein gehen und diesem Kind zeigen, wer der Boss ist! [br]Damit ich endlich wieder auf den Mond kann![br]Der Mond war viel cooler als das hier!
-touristexterior2 = Ich glaub an dich, kid.
+touristexterior2 = Ich glaub an dich, Kid.
 
 [moon]
-moon0 = Der Mond ist ziemlich ok, kid. Es fühlt sich wunderbar an, nach so vielen Jahren wieder hier zu sein!
+moon0 = Der Mond ist ziemlich ok, Kid. Es fühlt sich wunderbar an, nach so vielen Jahren wieder hier zu sein!
 moon1 = Aber dieser verdammte Steve von der Arbeit, hat mir eine Postkarte mit der Sonne geschickt! Er sagt, sie ist wunderbar! [br]Ich kann dem Typen nicht glauben, immer versucht er besser zu sein als ich es bin!
 
 [subcon]

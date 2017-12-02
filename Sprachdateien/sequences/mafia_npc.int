@@ -234,10 +234,10 @@ retry0 = Please buy! Please buy! Mafia really need money!!
 accept0 = Thank you! Mafia will spend money carefully. At secret gamble room.
 
 [cave_dreams]
-rules_explained0 = Hallo, kleines Mädchen. Das hier ist Mafia Zeit-Riss. [timepiece][icon:timepiece]Zeitstück[/timepiece] hat Mafia an Kopf getroffen, und nun ist Zeit-Riss gefüllt mit Mafias Träumen und Gedanken.
-rules_explained1 = Dieser Zeit-Riss ist einfach. Einfach wie Mafia, genau wie Mafia es mag.
-rules_explained2 = Regeln des Zeit-Risses: Solltest du sterben, startest du von neu. Du brauchst [treasure][icon:treasure]Riss-Pons[/treasure] um weiter zu kommen.
-rules_explained3 = Das ist alles. Bitte sei vorsichtig im Mafia Zeit-Riss. Mafia mag die Vergangenheit.
+rules_explained0 = Hallo, kleines Mädchen. Das hier ist Mafia Zeitriss. [timepiece][icon:timepiece]Zeitstück[/timepiece] hat Mafia an Kopf getroffen, und nun ist Zeitriss gefüllt mit Mafias Träumen und Gedanken.
+rules_explained1 = Dieser Zeitriss ist einfach. Einfach wie Mafia, genau wie Mafia es mag.
+rules_explained2 = Regeln des Zeitrisses: Solltest du sterben, startest du von neu. Du brauchst [treasure][icon:treasure]Riss-Pons[/treasure] um weiter zu kommen.
+rules_explained3 = Das ist alles. Bitte sei vorsichtig im Mafia Zeitriss. Mafia mag die Vergangenheit.
 
 orbs_preserved0 = Hat kleines Mädchen bemerkt, dass [treasure][icon:treasure]Riss-Pons[/treasure] auf Etagen behalten werden? Du musst nicht alle sammeln.
 orbs_preserved1 = Viel Glück! Mafia hat den [hint]Eingang zur nächsten Etage[/hint] geöffnet!

@@ -1,33 +1,33 @@
 [levels]
-Chapter1_MafiaTown = Mafia Stadt
+Chapter1_MafiaTown = Mafia-Stadt
 Act_1_1 = Die Stadt der Mafias
-Act_1_2 = Fass Kampf
+Act_1_2 = Fass-Kampf
 Act_1_3 = Sie kam aus dem All
 Act_1_4 = Nieder mit der Mafia!
 Act_1_5 = Beim Rennen schummeln
-Act_1_6 = Mafia Stadt wird aufgeheizt
+Act_1_6 = Mafia-Stadt wird aufgeheizt
 Act_1_7 = Der Goldene Tresor
-Location_MafiaTown = Mafia Stadt
-Location_MafiaHQ = Mafia HQ
+Location_MafiaTown = Mafia-Stadt
+Location_MafiaHQ = Mafia-HQ
 
 Chapter1_Bonus_Secret_Sewer = Abwasserkanäle
 Chapter1_Bonus_Secret_Bazaar = Bazaar
-Chapter1_Bonus_Cave_Intro = Koch Mafia
+Chapter1_Bonus_Cave_Intro = Koch-Mafia
 Chapter1_Bonus_Cave_Raccoon = Schläfriger Subcon
 
 
-Chapter2_Subcon = Subcon Wald
+Chapter2_Subcon = Subcon-Wald
 Act_2_1 = Vertragliche Verpflichtungen
-Act_2_2 = Der Subcon Brunnen
+Act_2_2 = Der Subcon-Brunnen
 Act_2_3 = Toilette des Untergangs
 Act_2_4 = Königin Vanessas Villa
-Act_2_5 = Post Service
-Act_2_6 = Das große Ritual der Feuer Geister
-Act_2_7 = Dein Vertrag ist Abgelaufen
-Location_Subcon = Subcon Wald
-Location_SubconCave = Subcon Höhle
+Act_2_5 = Post-Service
+Act_2_6 = Das große Ritual der Feuergeister
+Act_2_7 = Dein Vertrag ist abgelaufen
+Location_Subcon = Subcon-Wald
+Location_SubconCave = Subcon-Höhle
 Location_VanessaManor = Vanessa's Villa
-Location_SubconVillage = Subcon Dorf
+Location_SubconVillage = Subcon-Dorf
 
 Chapter2_Bonus_Vanessa = Dorf
 Chapter2_Bonus_Cave = Rohr
@@ -63,35 +63,35 @@ Location_Spaceship = Das Raumschiff
 Location_Bookstore = Zeit abgelaufen
 
 FreeRoam = Freier Modus
-TimeRift = Zeit Riss
+TimeRift = Zeit-Riss
 secretlevel_beta_space = Beta Hero's Challenge
 
 [ActInfoBoxDetails]
 Population_MafiaTown = Einwohner: 379
-Population_MafiaTown_Less = Einwohner: Weniger als zuvor da ich sie alle weggesprengt hab
+Population_MafiaTown_Less = Einwohner: Weniger als zuvor, da ich sie alle weggesprengt hab'
 Population_MafiaTown_Fried = Einwohner: Viele frittierte Mafiosies
 Population_MafiaTown_Boss = Einwohner: Bald einer weniger
-Mission_RecoverTP = Mission: Berge das verlorene Zeitstueck
-Mission_Race = Mission: Ehrlich gewinnen- pfffft hahaha
-Mission_Safe = Mission: Mach den großen Safe auf!
+Mission_RecoverTP = Mission: Berge das verlorene Zeitstück
+Mission_Race = Mission: Ehrlich gewinn-- pfffft! Hahaha!
+Mission_Safe = Mission: Mach' den großen Safe auf!
 Mission_Boss =  Mission: Nieder mit der Mafia!
-Mission_Lava = Mission: Da unten sind coole sachen!
+Mission_Lava = Mission: Da unten sind coole Sachen!
 Sweating_No = Perspiration: Hoffentlich nicht
-Sweating_Nope = Perspiration: Keine chance
+Sweating_Nope = Perspiration: Keine Chance
 Sweating_Yes = Perspiration: Leider ja
 Sweating_Rain = Perspiration: Der Himmel scheint sich zu verändern
 
-Mission_Studio = Mission: Finde heraus wo die zeitstücke sind!
+Mission_Studio = Mission: Finde heraus, wo die Zeitstücke sind!
 Mission_Award = Mission: Glückwunsch! Du hast es geschafft!
 ReviewScore = Top Review: "2 1/2 Sterne, Schauspieler waren schrecklich"
 ReviewScore2 = Top Review "5 Sterne, neuer weiblicher Top Darsteller"
 Legality_No = Legal Status: Hier nicht erlaubt
-Legality_Yes = Legal Status: Nichts Unvorhergesehenes Hier!
+Legality_Yes = Legal Status: Nichts unvorhergesehenes hier!
 MovieStars_Starring = Mit...
 MovieStars_Conductor = SCHAFFNER als DER GEFÄHRLICHER ZUGFÜHRER
 MovieStars_DJ = DJ GROOVES als DER STYLISHE MENTOR
 MovieStars_DetectiveHatKid = EIN MÄDCHEN als DETEKTIV NUTZLOS
-MovieStars_BombHatKid = EIN MÄDCHEN als RECKLESS DETONATOR
+MovieStars_BombHatKid = EIN MÄDCHEN als RÜCKSICHTSLOSER ZÜNDER
 MovieStars_ParadeHatKid = KLEINES MÄDCHEN als PARADE FÜHRER
 MovieStars_CameraHatKid = KLEINES MÄDCHEN als MYSTERIÖSE DIVA
 MovieStars_Crows = KRÄHEN als C.A.W. AGENTEN
@@ -99,10 +99,10 @@ MovieStars_Owls = EULEN als EULEN
 MovieStars_Penguins = MOND PENGUINE als HUNGRIGE FANBASE
 
 Mission_Mail = Verpflichtung: Liefer diese wirklich alte Post!
-Mission_Manor = Verpflichtung: Sieh dir das alte Haus vom Snatcher an!
+Mission_Manor = Verpflichtung: Sieh' dir das alte Haus vom Snatcher an!
 Mission_Well = Verpflichtung: Säubere den alten Brunnen!
 Mission_Toilet = Verpflichtung: Werd' diese komische... Toilette los?
-Mission_Snatcher = Verpflichtung: Hol was du dir verdienst!
+Mission_Snatcher = Verpflichtung: Hol' was du dir verdienst!
 Atmosphere_Tense = Atmosphere: Angespannt
 Atmosphere_Energetic = Atmosphere: Aktiv
 Atmosphere_Menacing = Atmosphere: Bedrohlich
@@ -127,7 +127,7 @@ TheWindmill = Die Windmühle
 Twilight = Die Mitternachts Glocke
 BirdHouse = Das Vogelhaus
 LavaCake = Der Lava Kuchen
-Mini1 = Ziegen Aussenposten
+Mini1 = Ziegen Außenposten
 Mini2 = Ziegenraffinerie
 OwlBrewMountain = Gelbe Band Hügel
 SnatcherTeleportMountain = Mystifizierende Zeit Mesa

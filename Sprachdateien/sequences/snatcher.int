@@ -47,7 +47,7 @@ contract_agree1 = [shake2]Das schließt den Deal ab! Wir sind im Geschäft! Ich ne
 
 contract_soul = Du fühlst dich außerordentlich leer von innen an.
 
-contract_agree2 = [shake2]Oops! Deine Seele gehört jetzt mir![/shake2]
+contract_agree2 = [shake2]Uups! Deine Seele gehört jetzt mir![/shake2]
 contract_agree3 = [shake2]Aber keine Angst! Wenn du deine Aufgaben schnell erledigst, bekommst du deine Seele wieder![/shake2]
 contract_agree4 = [shake2]Und vergiss bloß nicht unseren Vertrag! Ich habe ihn in dein [button:start] Menü getan, damit du ihn nie aus den Augen verlierst![/shake2]
 contract_agree5 = [shake2]Auf Wiedersehen! Sei vorsichtig! Versuch' nicht zu sterben![/shake2]

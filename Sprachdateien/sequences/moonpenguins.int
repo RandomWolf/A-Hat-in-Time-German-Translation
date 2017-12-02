@@ -1,22 +1,22 @@
 [deadbird]
-lobby_a0 = Hey! Pass auf wo du hinläufst, Kollege![br]Halt dich von[icon:djgrooves][name]DJ Grooves[/name] fern, verstanden?
-lobby_a1 = [icon:djgrooves][name]DJ Grooves[/name] bedeutet uns viel, deswegen müssen wir ihn beschützen. Denk nicht daran ihn irgendwas anzutun! Ich werde ein Auge auf dich halten, Kumpel.
+lobby_a0 = Hey! Pass' auf, wo du hinläufst, Kollege![br]Halt' dich von[icon:djgrooves][name]DJ Grooves[/name] fern, verstanden?
+lobby_a1 = [icon:djgrooves][name]DJ Grooves[/name] bedeutet uns viel, deswegen müssen wir ihn beschützen. [br]Denk' nicht daran ihn irgendwas anzutun! Ich werde dich im Auge behalten, Kumpel.
 
-lobby_b0 = Siehst du meine Finger? Siehst du wie sie Schnappen?[br]Das ist Vogelsprache für "hau ab".
+lobby_b0 = Siehst du meine Finger? Siehst du, wie sie schnappen?[br]Das ist Vogelsprache für "zisch ab".
 lobby_b1 = Oh, meine Finger fangen an dich zu mögen. Schau sie dir an. Schnipp, Schnipp, Schnipp.
 
-lobby_c0 = Du bist kein Vogel, eh? Was bringt dich dann nach Dead Bird Studio? Bevor du was sagst, du solltest [icon:djgrooves][name]DJ Grooves[/name] neuen Film schauen. Er ist echt gut, und ich wurde nicht bezahlt um das zu sagen. Ehrlich!
+lobby_c0 = Du bist kein Vogel, nich'? Was bringt dich dann nach Dead Bird Studio? Bevor du was sagst, du solltest [icon:djgrooves][name]DJ Grooves[/name] neuen Film schauen. [br]Er ist echt gut, und ich wurde nicht bezahlt, um das zu sagen. Ehrlich!
 
-lobby_d0 = Hey, kleines Mädchen! Du solltest unseren [icon:djgrooves][name]DJ Grooves[/name] fanclub beitreten. Du bekommst eine Mitgliedskarte und all das. Es ist ein guter Deal für jeden Film Vogel.
+lobby_d0 = Hey, kleines Mädchen! Du solltest unseren [icon:djgrooves][name]DJ Grooves[/name]-Fanclub beitreten. Du bekommst eine Mitgliedskarte und alles. Es ist ein guter Deal für jeden Film-Vogel.
 
-lobby_e0 = Erzähls nicht weiter, aber bevor [icon:djgrooves][name]DJ Grooves[/name] Filme gemacht hat, hat er einen Nacht Club geleitet. Verrückt, oder? Wer hätte das gedacht.
+lobby_e0 = Erzähl's nicht weiter, aber bevor [icon:djgrooves][name]DJ Grooves[/name] Filme gemacht hat, hatte er einen Nachtklub geleitet. Verrückt, oder? Wer hätte das gedacht.
 
 [finale]
-outside0 = Hau ab, kleine. [br] Ich versuche in der [br]Schlange zu stehen.
-outside1 = Der Boss wird uns[br]hier rausholen. [name]DJ Grooves[/name] [br]ist ein Star, verstehste.
-outside2 = Im nachhinein, [br]vielleicht hätte ich [br]etwas besseres mit [br]meinem Leben [br]machen können.
-group_counter0 = Hau ab! Ist's nicht so, gang?!
+outside0 = Hau ab, Kleine. [br] Ich versuche in der [br]Schlange zu stehen.
+outside1 = Der Boss wird uns[br]hier 'rausholen. [name]DJ Grooves[/name] [br]ist ein Star, verstehste.
+outside2 = Im Nachhinein, [br]vielleicht hätte ich [br]etwas besseres mit [br]meinem Leben [br]machen können.
+group_counter0 = Hau ab! Ist's nicht so, Gang?!
 group_counter1 = Hau ab!
 group_counter2 = Yeah, Hau ab!
-group_counter3 = Geh weg!
-group_counter4 = Du Stinkst!
+group_counter3 = Geh' weg!
+group_counter4 = Du stinkst!

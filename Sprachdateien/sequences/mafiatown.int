@@ -7,12 +7,12 @@ dotdotdot = . . .
 
 [impossible_race]
 MaybeWait0 = Nicht alle Akte können sofort nach dem Freischalten beendet werden.[br]Unter Umständen brauchst du einen bestimmten Gegenstand.
-MaybeWait1 = Du musst dich nicht schämen, wenn du es später noch mal versuchst!
+MaybeWait1 = Du musst dich nicht schämen, wenn du später zurückkommen möchtest!
 
 [hq]
 window0 = Es schüttet draußen immer noch.
-window1 = Es ist viel schöner, von drinnen raus zu gucken.
-slotmachine0 = Es sieht so aus, als ob nur die Landeswährung genommen wird aber du hast leider vergessen bei der Wechselstube vorbeizuschauen.
+window1 = Es ist viel schöner, von drinnen den Regen zu beobachten.
+slotmachine0 = Es sieht so aus, als ob nur die Landeswährung genommen wird, aber du hast leider vergessen bei der Wechselstube vorbeizuschauen.
 cans0 = Das sieht wie die Mafiaversion eines 5-Sterne-Essens aus. Aber es riecht nicht danach.
 cans1 = Du könntest vielleicht was davon probieren, aber du möchtest das nicht auf deinem Grabstein stehen haben.
 bigfish0 = Du widerstehst dem Drang, einen Fischwitz zu machen. Du schaffst es aber, obwohl dir einer auf der [small]See[/small]Zunge liegt
@@ -34,6 +34,6 @@ vista0 = So bildhaft! Du kannst aber nicht ganz entscheiden, nach welchem Videos
 finish0 = Kleines Mädchen hat uns gerettet! Komm rauf hier!
 finish1 = Wir haben [timepiece][icon:timepiece]Belohnung[/timepiece] für dich!
 
-goofy0 = Geschafft! Kleines Kind hat Mafia Town gerettet!
+goofy0 = Geschafft! Kleines Kind hat Mafia-Stadt gerettet!
 goofy1 = Jetzt muss Mafia nicht mehr Lava zum Frühstück essen... Großartig!
-goofy2 = Bitte, nimm Trophäe. Du bist wirklich Held von Mafia Town!
+goofy2 = Bitte, nimm Trophäe. Du bist wirklich Held von Mafia-Stadt!

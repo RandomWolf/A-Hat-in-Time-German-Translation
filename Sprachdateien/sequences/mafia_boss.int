@@ -1,22 +1,22 @@
 [ThroneRoom]
 throne0 = So... du bist es!
-throne1 = Seitdem du in Mafia Stadt gelandet bist, regnet es diese[timepiece][icon:timepiece] magischen Sanduhren[/timepiece].
+throne1 = Seitdem du in Mafia-Stadt gelandet bist, regnet es diese[timepiece][icon:timepiece] magischen Sanduhren[/timepiece].
 throne2 = Du musst sehr verloren sein, Kind mit dem Hut.[br]Du stehst im Herzen unserer Stadt, vor dem Stärksten Mann den du jemans begegnet bist.[br]Alles was dir gehört, gehört nun mir.
-throne3 = Auch diese [timepiece][icon:timepiece]Sanduhr[/timepiece].[br]Wenn du es zurück haben willst, müssen wir es in einem Mafia typischen Kampf herausfinden!
-throne4 = Licht! Action! Es ist... showtime.
+throne3 = Auch diese [timepiece][icon:timepiece]Sanduhr[/timepiece].[br]Wenn du es zurückhaben willst, müssen wir es in einem Mafia typischen Kampf herausfinden!
+throne4 = Licht! Action! Es ist... Showtime.
 
 [Spaceship]
 Intro0 = So... wir treffen uns wieder. Mein Erzfeind!
 Intro1 = ...[wait][scream][big]WAS?![/big][br]You erinnerst dich nicht an mich?![/scream] Wie unhöflich!
-Intro2 = Ich bin's, Boss der Mafia!  Du hast mich in unseren kleinen Auseinandersetzung gesprengt, und dein kleiner "Freund" hat meine Überreste in dieses Glas gestopft!
-Intro3 = Ich habe keinen Körper! Ich sollte Zornig sein! Aber, ich bin es nicht. Vergangenheit ist Vergangenheit, und ich akzeptiere deinen Kadaver als entschuldigung.
-Intro4 = [scream][big]DU WILLST IHN MIR NICHT GEBEN?![/big][br]Du hast vielleicht Nerven![/scream] Hätte ich noch Hände, würde ich dir jetzt eine Klatschen!
-Intro5 = Ich kaufe mir einfach einen neuen Körper! Es gibt bestimmt jemanden der seine Leiche für Geld verkauft!
+Intro2 = Ich bin's, Boss der Mafia! Du hast mich in unseren kleinen Auseinandersetzung gesprengt, und dein kleiner "Freund" hat meine Überreste in dieses Glas gestopft!
+Intro3 = Ich habe keinen Körper! Ich sollte zornig sein! Aber, ich bin es nicht. Vergangenheit ist Vergangenheit, und ich akzeptiere deinen Kadaver als Entschuldigung.
+Intro4 = [scream][big]DU WILLST IHN MIR NICHT GEBEN?![/big][br]Du hast vielleicht Nerven![/scream] Hätte ich noch Hände, würde ich dir jetzt eine klatschen!
+Intro5 = Ich kaufe mir einfach einen neuen Körper! Es gibt bestimmt jemanden, der seine Leiche für Geld verkauft!
 
-Intro6 = Ich sehe zwar nicht gerade danach aus, aber ich komm viel herum! Ich kenne alle geheimen Orte auf dieser Welt!
-Intro7 = Kaufe meinen Schatzkarten Anstecker und es zeigt dir wo du [name][icon:relic]Schätze[/name] finden kannst, die dich reich machen!
+Intro6 = Ich sehe zwar nicht gerade danach aus, aber ich komm' viel herum! Ich kenne alle geheimen Orte auf dieser Welt!
+Intro7 = Kaufe meinen Schatzkarten-Anstecker und es zeigt dir, wo du [name][icon:relic]Schätze[/name] finden kannst, die dich reich machen!
 
-NothingToSell0 = Öffne meine Karte wenn du [name][icon:relic]Schätze[/name]finden musst!
+NothingToSell0 = Öffne meine Karte, wenn du [name][icon:relic]Schätze[/name]finden musst!
 
 [Finale]
 suicide0 = Nein, DU bist der Bösewicht! Hau ab!

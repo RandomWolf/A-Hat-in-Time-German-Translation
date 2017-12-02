@@ -73,15 +73,9 @@ breakice7 = [shake2]Du bist auf der Suche nach [icon:timepiece][timepiece]Zeitst
 breakice8 = [shake2]Du darfst es behalten, aber das ist das einzige Mal wo ich dich belohnen werde! Denn im Vertrag stand nie was von einer Vergütung! [wave][scream]HA HA HA HA HA![/scream][/wave][/shake2]
 
 [contract_generic_trap]
-<<<<<<< HEAD
 trapA0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]NAAAAAArrr... oh, du bist's..[/shake2]
 trapA1 = [shake2]Ich habe gehofft, dass jemand anderes in meine Falle tritt. Ich habe schon deine Seele genommen und alles. Hast du überhaubt deinen anderen Vertrag schon abgeschlossen?[/shake2]
 trapA2 = [shake2]Nimm's nicht persönlich, Kleine. Aber bleib' von meinen Fallen fern. Ich kann nicht so oft schreien wie's mir lieb ist. Du nimmst die Erfahrungen weg von anderen![/shake2]
-=======
-trapA0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]NAAAAAArrr... oh, du bist es..[/shake2]
-trapA1 = [shake2]Ich habe gehofft das jemand anderes in meine Falle tritt. Ich habe schon deine Seele genommen und alles. Hast du überhaubt deinen anderen Vertrag schon fertig?[/shake2]
-trapA2 = [shake2]Nimm's nicht Persönlich, Kleine. Aber bleib von meinen Fallen fern. Ich kann nicht so oft Schreien wie's mir lieb ist. Du nimmst die Erfahrung weg von anderen![/shake2]
->>>>>>> c93df64f8163e45613816ab7e1facf1a0811f0ce
 trapA3 = [shake2]Aber, da du ja eh in meine Falle reingelaufen bist, verlängern wir einfach mal deine Verträge![/shake2]
 trapA4 = [shake2][small]*hust*[/small][/shake2][br] [br][shake][big][scream][wave]NAAAAAAAAAAAAAAAAAARRRR!![/wave][/scream][/big][/shake]
 trapA5 = [shake2]Du hast meinen Wald betreten, und nun musst du dafür bezahlen![/shake2]
@@ -91,11 +85,7 @@ trapA7 = [shake2]Keine schlechte Wahl! Das wird' ein Kinderspiel sein! Du lässt 
 trapA8 = [shake2]Was auch immer! Ich bin weg! Bis zum nächsten Mal![/shake2]
 
 [home]
-<<<<<<< HEAD
 home_question0 = [shake2]Wie geht's, Kleine? Du weißt nicht, wo du hingehen musst?[/shake2]
-=======
-home_question0 = [shake2]Wie gehts, Kleine? Du weißt nicht wo du hingehen musst?[/shake2]
->>>>>>> c93df64f8163e45613816ab7e1facf1a0811f0ce
 home_question0_whereto = Wo muss ich hin?
 home_question0_contract = Vertrag abschließen
 
@@ -107,15 +97,9 @@ nosoul1 = [shake2]Na, [shake][big][scream]ZU SCHADE![/scream][/big][/shake][/sha
 
 home_businessconcluded = [shake2]Kind, wir sind fertig. Ich gebe dir keine weiteren Aufträge. Hau ab![/shake2]
 
-<<<<<<< HEAD
 wheretogo_subconwell0 = [shake2]Du solltest doch den Brunnen sauber machen! Er ist tief im Sumpf, aber groß genug sodass etwas Kleines wie du ihn nicht verfehlen kannst. Bitte fall' und knall' deinen Kopf nicht am Boden an... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
 postfinale0 = [shake2]Du schon wieder? Ich war mir ziemlich sicher, dass ich mich beim letzten Mal klar ausgedrückt habe, Kleine.[/shake2]
-=======
-wheretogo_subconwell0 = [shake2]Du solltest doch den Brunnen sauber machen! Er ist tief im Sumpf, aber Groß genug das sogar etwas kleines wie du ihn nicht verfehlen kannst. Fall nicht und hau dir den Kopf am Boden an... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
-
-postfinale0 = [shake2]Du schon wieder? Ich war mir ziemlich sicher ich hab mich klar ausgedrückt beim letzten mal, Kleine.[/shake2]
->>>>>>> c93df64f8163e45613816ab7e1facf1a0811f0ce
 postfinale1 = [shake2]Wir sind fertig. Komplett. Unsere Arbeitsbeziehung ist vorbei. Ich verschwende keine Vorräte mehr an dir![/shake2]
 postfinale2 = [shake2][wave][scream][big]Jetzt verschwinde aus meinem Wald![/big][/scream][/wave][/shake2]
 
@@ -131,7 +115,6 @@ Derp0 = So siehst du aus![br]Du bist ein Trottel!
 Derp1 = Und du stinkst!
 
 blue0 = [shake2]Du wartest darauf das ich mich blau färbe, oder?[/shake2]
-<<<<<<< HEAD
 blue1 = [shake2]Sorry, Kleine. Blau steht mir nicht.[br]Das macht mich dann unbesiegbar, huh?[br]Das ist zu schade! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
 Chemicals0 = [shake2]Mal schauen, wie dir [br]diese hier passen![/shake2]
@@ -152,28 +135,6 @@ Cherry0 = [shake2]Oh nein![/shake2]
 Cherry1 = [shake2]Ich wollte diese[br]Kirschbombe fallenlassen![/shake2]
 Cherry2 = [shake2]... NICHT.[/shake2]
 Cherry3 = [shake2]Glaubst du wirklich, ich sei dumm genug[br]dir Bomben geben zu lassen?[/shake2]
-=======
-blue1 = [shake2]Sorry Kleine, blau steht mir nicht.[br]Ich denke, das macht mich unbesiegbar, huh?[br]Das ist zu schade! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
-
-Chemicals0 = [shake2]Probieren wir ein Paar hiervon![/shake2]
-Chemicals1 = [shake2]Zu wenig?[br]Wie wär's mit 1,000![/shake2]
-Chemicals2 = [shake2]Zu viele?[br]Versuchen wir einen![/shake2]
-Chemicals3 = [shake2]Hey, warte kurz.[/shake2]
-Chemicals4 = [shake2]Der hätte[br]dich treffen müssen![/shake2]
-Chemicals5 = [shake2]Komm schon,[br]gib ihm 'ne chance![/shake2]
-Chemicals6 = [shake2]Ich bin froh[br]das du es dir anders überlegt hast![/shake2]
-Chemicals7 = [shake2]Du bist echt unhöflich,[br]weißt du das?[/shake2]
-
-turned_blue0 = [shake2]...[/shake2]
-turned_blue1 = [shake2]Hast du mich gerade mit meinem eigenen Angriff blau gefärbt?[/shake2]
-turned_blue2 = [shake2]Das kann nicht zählen, oder? Ich bin mir sicher das Zählt nicht...[/shake2]
-turned_blue3 = [shake2]Anscheinend schon.. Zeit zu [scream][wave]STERBEN[wait][/wave][/scream]![/shake2]
-
-Cherry0 = [shake2]Oh nein![/shake2]
-Cherry1 = [shake2]Ich habe diese[br]Kirschombe fallen lassen![/shake2]
-Cherry2 = [shake2]... NICHT.[/shake2]
-Cherry3 = [shake2]Glaubst du echt ich bin Dumm genug,[br]um dir Bomben zu geben?[/shake2]
->>>>>>> c93df64f8163e45613816ab7e1facf1a0811f0ce
 
 [death]
 death0 = [shake2]*huff*[waitlong] *huff*[waitlong] Du bist so eine respektlose Göre...[/shake2]
@@ -182,7 +143,6 @@ death2 = [shake2]Bitte...[waitlong] *huff*[waitlong] habe Gnade...[/shake2]
 death3 = [shake2][waitlong][wait]Bitte... [br] [waitlong][waitlong][br][big]SETZ' DICH DOCH[/big][/shake2][waitlong][waitlong]
 death4 = [shake2]All diese [icon:timepiece][timepiece]Zeitstücke[/timepiece] sind in MEINEM Wald gelandet. Sie sind MEIN Eigentum.[/shake2]
 death5 = [shake2]So, wie wär's mit einem Deal, junge Dame? Du verschwindest aus meinem Wald, und wir sehen dich hier nie wieder. Wie hört sich das an?[/shake2]
-<<<<<<< HEAD
 death6 = [shake2]Nicht gut? Was für'n Jammer! Du hast hier nichts zu sagen.[/shake2]
 death7 = [shake2]Hier, ich mach' es dir sogar einfach![/shake2]
 death8 = [shake2]Alles was du machen musst, ist zu unterschreiben![/shake2]
@@ -193,29 +153,13 @@ sign2 = [shake2]Was wenn ich dir deine Seele zurück gebe? Haust du dann ab?[/sha
 sign3 = [shake2]Ja? Nein? Hallo? Ist da jemand? Warum sagst du nichts?[/shake2]
 sign4 = [shake2].......[/shake2]
 sign5 = [shake2]...Du bist nicht gerade sehr gesprächig, oder? Und ein schwerer Verhandler.[/shake2]
-=======
-death6 = [shake2]Nicht gut? Zu schade! Du hast hier nichts zu sagen.[/shake2]
-death7 = [shake2]Hier, ich mach es dir sogar einfach![/shake2]
-death8 = [shake2]Alles was du machen musst, ist zu unterschreiben![/shake2]
-
-sign0 = [shake2]...Du weißt schon das Verträge so nicht funktionieren, oder?[/shake2]
-sign1 = [shake2]Ich geb dir 'ne chance abzuhauen, Kleine! Keine Tricks dieses mal! [/shake2]
-sign2 = [shake2]Was, wenn ich dir deine Seele zurück gebe? Haust du dann ab?[/shake2]
-sign3 = [shake2]Ja? Nein? Hallo? Ist da jemand? Warum sagst du nichts?[/shake2]
-sign4 = [shake2].......[/shake2]
-sign5 = [shake2]...Du bist nicht gerade sehr gesprächig, oder? Und ein geschickter Verhandler.[/shake2]
->>>>>>> c93df64f8163e45613816ab7e1facf1a0811f0ce
 sign6 = [shake2]Okay, ich werde den Deal für dich verbessern.[/shake2]
 sign7 = [shake2]Hier, nimm mein letztes [icon:timepiece][timepiece]Zeitstück[/timepiece]. Sollte ich dich hiernach noch in meinem Wald sehen, werde ich sehr enttäuscht sein![/shake2]
 
 contract_soul_return = Du hast deine Seele zurück! Du fühlst dich erleichtert, fröhlich, und nur die übliche Menge an leer!
 
 [finale]
-<<<<<<< HEAD
 outside0 = [shake2]Hey, Kleine! Wie geht's deiner Seele? Immer noch da?[/shake2]
-=======
-outside0 = [shake2]Hey Kleine! Wie geht's deiner Seele? Immer noch da?[/shake2]
->>>>>>> c93df64f8163e45613816ab7e1facf1a0811f0ce
 outside0b = [shake2]Oh, warte. Du hast sie nie wirklich zurückbekommen, oder?[/shake2]
 outside1 = [shake2]Ich würde gerne wissen, wer hier meint [wave]mich[/wave] zu verurteilen! Klar, ich hab' ich mir ein paar [small]hundert[/small] Seelen mitgenommen - wem kümmert's?![/shake2]
 outside2 = [shake2]Bitte tue uns alle einen Gefallen und finde heraus, wer hinter all dem hier steckt! [br]Und verpass' dem eine![/shake2]
@@ -227,9 +171,5 @@ cherrybombs1 = [shake2]Hahaha! Okay, los geht's! Ich erschaffe, du wirfst![/shak
 suicide0 = [shake2]Wir BRAUCHEN keinen Held! HAU AB![/shake2]
 
 [ending]
-<<<<<<< HEAD
 hang0 = [shake2]Hey, Kleine, wie wär's mit einem neuen Vertrag![/shake2]
-=======
-hang0 = [shake2]Hey Kleine, wie wärs mit einem neuen Vertrag![/shake2]
->>>>>>> c93df64f8163e45613816ab7e1facf1a0811f0ce
 hang1 = Wir werden dich vermisseeeeeeeeeen...!!!

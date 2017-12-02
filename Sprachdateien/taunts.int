@@ -1,6 +1,6 @@
 [exit]
 SleepWakeUp = Aufwachen
 ClosetExit = Schrank verlassen
-GenericExit = Ausgang
-LeaveHiding = Aufhören dich zu verstecken
+GenericExit = Aufstehen
+LeaveHiding = Nicht mehr verstecken
 ToggleFirstperson = In erste Person umschalten

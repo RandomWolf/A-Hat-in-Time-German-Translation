@@ -1,20 +1,20 @@
 [murder]
-FirstTip0 = [shake2]Ist da das Kind mit dem Hut? Ich hoffe dir gefällt mein Geschenk... [wave]he he he.[/wave][/shake2]
-FirstTip1 = [shake2][hint]Geh zum hintersten Wagon des Zuges[/hint]. Die Schwester deines Onkels [MotherMaidenName] ist gekommen um dich zu besuchen.[/shake2]
+FirstTip0 = [shake2]Ist da das Kind mit dem Hut? Ich hoffe dir gefällt mein Geschenk... [wave]He he he.[/wave][/shake2]
+FirstTip1 = [shake2][hint]Geh' zum hintersten Wagon des Zuges[/hint]. Die Schwester deines Onkels [MotherMaidenName] ist gekommen um dich zu besuchen.[/shake2]
 FirstTip2 = [shake2]Du zeigst deiner lieben Familie besser etwas Mitgefühl, oder sonst spreche ich beim nächsten Mal mit einer Leiche.[/shake2]
-FirstTip3 = [scream]*CLICK*[/scream]
+FirstTip3 = [scream]*KLICK*[/scream]
 
 SecondTip0 = [shake2]Du denkst also, du kannst einfach so im Zug herumschleichen?[/shake2]
-SecondTip1 = [shake2]Hör einfach auf mit den Detektivspielchen. Du wirst niemals den echten Mörder finden...[br][wave]he he he.[/wave][/shake2]
-SecondTip2 = [shake2]Du kannst nicht einfach Leute verurteilen ohne Hinweise.[br]Die Zeit rennt. Wirst du es schaffen genug Hinweise zu finden um den Mörder zu stellen?[/shake2]
+SecondTip1 = [shake2]Hör' einfach mit den Detektivspielchen auf. Du wirst niemals den echten Mörderer finden...[br][wave]he he he.[/wave][/shake2]
+SecondTip2 = [shake2]Du kannst nicht einfach Leute verurteilen ohne Hinweise.[br]Die Zeit rennt. Wirst du es schaffen genug Hinweise zu finden, um den Mörder zu stellen?[/shake2]
 
-PetTrap0 = [shake2]Du gibts nie auf, oder?[/shake2]
-PetTrap1 = [shake2]Es scheint als gäbe es nur einen Weg, damit ich dich endlich loswerde... unzwar dir die Zeit rauben.[/shake2]
-PetTrap2 = [shake2]Also, hier ist ein spaßiger Zeitfresser für dich: [PetName] hat sich selbst in eine sehr[br]ungewöhnliche Lage gebracht. Es hängt an einem dünnem Seil und bangt um sein Leben, gleich ueber einem Holzschredder. Was für ein merkwürdiger Zufall![/shake2]
+PetTrap0 = [shake2]Du gibst nie auf, oder?[/shake2]
+PetTrap1 = [shake2]Es scheint, als gäbe es nur einen Weg, damit ich dich endlich loswerde... und zwar dir die Zeit rauben.[/shake2]
+PetTrap2 = [shake2]Also, hier ist ein spaßiger Zeitfresser für dich: [PetName] hat sich selbst in eine sehr[br]ungewöhnliche Lage gebracht. Es hängt an einem dünnem Seil und bangt um sein Leben, gleich über einem Holzschredder. Was für ein merkwürdiger Zufall![/shake2]
 PetTrap3 = [shake2]Was wirst du tun?[br][PetName] retten, bevor es zu Sägespäne wird oder herausfinden, wer der Mörder ist?[/shake2]
 
 DogThankYou0 = Danke für deine Rettung, gütiger Mensch. Wuff. Wuff.
-DogThankYou1 = Ich habe diesen Hinweis gefunden. Ich hoffe er hilft dir. Wuff. Wuff.
+DogThankYou1 = Ich habe diesen Hinweis gefunden. [br]Ich hoffe, dass er dir hilft. Wuff. Wuff.
 
 PetWarning0 = [shake2]Bist du sicher, dass du [PetName] hängen lassen willst?[/shake2]
 PetWarning1 = [shake2]Warum drehst du dich nicht um und gibst [PetName] eine [br]kleine zeitfressende Hilfe, bevor es zu spät ist?[/shake2]
@@ -25,13 +25,13 @@ suspect_mothermaiden2 = Wie du es vielleicht schon bemerkt hast, Schätzchen, bin
 suspect_mothermaiden3 = Ich weiß, dass du Probleme hattest einen guten Film hervorzubringen, Schätzchen, daher hab ich diesen Plan entwickelt um deinem Film eine interessante Handlung zu geben!
 suspect_mothermaiden4 = Die Express Eule war auch freundlich genug, sich ein Gummimesser anzustecken und mir zu helfen.
 
-ending_revealed0 = Ich denke du hast mich gut enttarnt, huh, Schätzchen? Es scheint niemand kann ein Mord vortäuschen, wenn du dich herumtreibst!
+ending_revealed0 = Ich denke du hast mich gut enttarnt, nicht, Schätzchen? Es scheint niemand kann ein Mord vortäuschen, wenn du dich herumtreibst!
 
 [spaceship]
 hub_alert_generic0 = ...
-hub_alert_generic1 = Der [icon:trophy][trophy]jährliche Bird Movie-Award[/trophy] war manipuliert. Er war ein Inside-Job.
-hub_alert_dj2 = Der Gewinner weiß über die Macht der [icon:timepiece][timepiece]Zeitstücke[/timepiece]. Er behält eines und er wird es zebrechen.
-hub_alert_conductor2 =  Der Gewinner weiß über die Macht der [icon:timepiece][timepiece]Zeitstücke [/timepiece]. Er hatte eines behalten und er wird es zebrechen.
+hub_alert_generic1 = Der [icon:trophy][trophy]jährliche Bird Movie-Award[/trophy] war manipuliert. Er war ein Werk der Insiders.
+hub_alert_dj2 = Der Gewinner weiß über die Macht der [icon:timepiece][timepiece]Zeitstücke[/timepiece]. Er behält eines und er wird es zerbrechen.
+hub_alert_conductor2 =  Der Gewinner weiß über die Macht der [icon:timepiece][timepiece]Zeitstücke [/timepiece]. Er hatte eines behalten und er wird es zerbrechen.
 hub_alert_generic3 = Die Wahrheit liegt vergraben unter dem [hint]Dead Bird Studio[/hint].[br]Was passiert wohl im Dead Bird Studio, wenn niemand da ist?
 hub_alert_dj4 = Deck diese Verschwörung auf, Schätzchen.
 hub_alert_conductor4 = Deck diese Verschwörung auf, Lassie.

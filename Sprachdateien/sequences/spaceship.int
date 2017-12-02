@@ -9,10 +9,10 @@ Location_Basement = im Keller
 Location_Attic = auf dem Dachboden
 
 [Decorations]
-DecorationPerfect = Als die [decorations] kombiniert wurden, erscheinte eine [dreamworld] in [name][chaptername][/name]! [br]Schaue in das Kapitels Fernrohr, um zu sehen, wo es sich versteckt!
+DecorationPerfect = Als die [decorations] kombiniert wurden, erschien eine [dreamworld] in [name][chaptername][/name]! [br]Schaue in das Fernrohr des Kapitels, um zu sehen, wo es sich versteckt!
 
 [Ending]
-ThrowMu0 = Ein[icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um [icon:mugirl][name]Mädchen mit roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece] Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann vielleicht nicht mehr nach Hause kommen können.)
+ThrowMu0 = Ein[icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um [icon:mugirl][name]Mädchen mit roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece]-Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann vielleicht nicht mehr nach Hause kommen können.)
 ThrowMu0_Yes = Ja
 ThrowMu0_No = Nein
 
@@ -21,12 +21,10 @@ bookcase0 = Es ist ein Bücherregal. Man nennt es auch 'cooler Wörter-Ort' oder e
 harmoniser0 = Ein 7-Stufen Tri-Kalkulierender Quantum Harmonisierer. Es war sehr teuer, aber wer mag sich nicht belohnen mal hier und da?
 brightness0 = Dieser Hebel macht ganz und gar nichts, außerhalb von der Helligkeit der Platte.
 brightness1 = Es steckt fest auf 'eigentlich wirklich hell'.
-radio0 = This is your bleeding-edge, top of the line audio device. 
-Das ist dein allerneustes, 'besser als die Besten' Audio-Gerät.
+radio0 = Das ist dein allerneustes, 'besser als die Besten' Audio-Gerät.
 radio1 = Ohne das, könntest du nicht deine Lieblingsradiosender einschalten, wie 'Unterhaltungen Am Tisch', 'Tschüsschen, Sonnenscheinstadt', oder 'Zwei Brüder Und Dann Auch Ein Weiterer Dritter Bruder, Ich'.
 microwave0 = Es ist eine Mikrowelle! Damit bestrafst du Essen, was schlecht war.
-wardrobe0 = A closet! You only really wear one outfit, so there's lots of room for skeletons.
-Ein Schrank! Obwohl du nur ein Outfit bevorzugst, denkst du immer noch der Keller wäre ein besserer Ort für Leichen.
+wardrobe0 = Ein Schrank! Obwohl du nur ein Outfit bevorzugst, [br]denkst du immer noch, dass der Keller ein besserer Ort wäre für Leichen.
 button0 = Der Notfall-Knopf, das perfekte Design für Momente, [br]wenn du einen Knopf drücken möchtest, aber nirgendswo anders einen finden kannst.
 
 [Tokens]

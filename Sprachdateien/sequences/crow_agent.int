@@ -1,41 +1,41 @@
 [murder]
 IntroMaidenName0 = Ich grüße dich, werte Express-Eule. Ich glaube, wir hatten noch nicht das Vergnügen?
 IntroMaidenName1 = Wie du erkennen kannst, bin auch ich eine Express-Eule. Ich drehe meinen Kopf besonders gern.
-IntroMaidenName2 = Von einer Eule zur anderen, wir können doch Geheimnisse teilen, ja? Wie lautet der Mädchenname der Schwester deines Onkels?
-IntroMaidenName3 = Oh, es ist [MotherMaidenName]? Verstehe, verstehe. Das ist der Mädchenname der Schwester eines Onkels, den ich von einer werten Express-Eule erwarten habe.
+IntroMaidenName2 = Von einer Eule zur anderen, wir können doch Geheimnisse teilen, ja?[br]Wie lautet der Mädchenname der Schwester deines Onkels?
+IntroMaidenName3 = Oh, es ist [MotherMaidenName]? Verstehe, verstehe. [br]Diesen Mädchenname der Schwester eines Onkels, [br]würde ich von einer werten Express-Eule erwarten.
 IntroMaidenName4 = Ich hoffe, ich kann [MotherMaidenName] eines Tages kennenlernen,[br]da wir Express-Eulen die Familie unserer werten Express-Eulen gerne kennenlernen.
 
-BlackboardHelp0 = Hallo, werte Express-Eule. Ich hänge an einer fortgeschrittenen mathematischen und wissenschaftlichen Aufgabe.
-BlackboardHelp1 = Siehst du diese anspruchsvolle Formel an der Tafel? Ich kann sie nicht lösen.
-BlackboardHelp2 = Kannst du die wissenschaftliche Formel für mich lösen? Was ist das Ergebnis?
+BlackboardHelp0 = Hallo, werte Express-Eule. Ich hänge an einer fortgeschrittenen, [br]mathematischen und wissenschaftlichen Aufgabe.
+BlackboardHelp1 = Siehst du diese anspruchsvolle Formel an der Tafel? [br]Ich kann sie nicht lösen.
+BlackboardHelp2 = Kannst du die wissenschaftliche Formel für mich lösen? [br]Was ist das Ergebnis?
 BlackboardHelp3 = Ich verstehe! Die Lösung ist [BlackboardSolution]! Das war doch offensichtlich! Danke, werte Express-Eule.
-BlackboardHelp4 = Und danke auch für die Zustimmung der AGB auf der Rückseite dieser Tafel.
+BlackboardHelp4 = Und danke auch für die Zustimmung der [br]Geschäftsbedingungen auf der Rückseite dieser Tafel.
 
 Pet0 = Wusstest du, dass ein Haustier hilft, das Selbstvertrauen zu stärken und Stress abzubauen?
 Pet1 = Wusstest du auch, dass Haustiere Haustiere haben können? Es ist wahr!
 Pet2 = Leider ist es uns Express-Eulen nicht erlaubt, Haustiere zu halten. Es ist ein Opfer, das wir im Namen unserer Ehre bringen müssen.
-Pet3 = Aber, wenn du ein Haustier hättest, was glaubst du, wie der Name des Haustieres deines Haustieres aus der Kindheit lauten würde?
+Pet3 = Aber, wenn du ein Haustier hättest, was glaubst du, [br]wie der Name des Haustieres deines Haustieres aus der Kindheit lauten würde?
 Pet4 = [PetName] ist zweifellos ein interessanter Name für ein Haustier. Sogar für ein Haustier eines Haustieres.
 
 Password0 = Hallo, werte Express-Eule. Sorgst du dich um deine Sicherheit? Ich sorge mich sehr um Sicherheit.
-Password1 = Du solltest nicht jeden Fremden deine persönlichen Informationen verraten. Es könnte ein Sicherheitsrisiko sein!
-Password2 = Ich kann dir helfen, deinen Alltag sicherer zu machen. Was ist deine Lieblingskombination aus Buchstaben und Ziffern?
+Password1 = Du solltest nicht jeden Fremden deine persönlichen Informationen verraten. [br]Es könnte ein Sicherheitsrisiko sein!
+Password2 = Ich kann dir helfen, deinen Alltag sicherer zu machen. [br]Was ist deine Lieblingskombination aus Buchstaben und Ziffern?
 Password3 = Aha, aha. [FavoritePassword] ist auch meine Lieblingskombination aus Buchstaben und Ziffern.
 
 Username0 = Werte Express-Eule, hast du dich je gefragt, wie es wäre, ein Superheld zu sein?
 Username1 = Das wichtigste Merkmal eines Superhelden ist der Name. Jeder ruhmreiche Superheld braucht einen kunstvollen Namen.
 Username2 = Wenn du ein Superheld wärst, was wäre der Name, wenn du in einem Online-Formular mit[br]standardisierten Anforderungen an die Konto-Identifikation eingegeben würdest?
 Username3 = Der Name ist klasse! Ich kann es mir schon vorstellen: der große [SuperheroName], Retter der Gerechtigkeit!
-Username4 = Ich schreibe mir nur schnell deine Antwort auf...
+Username4 = Ich schreibe mir nur mal schnell deine Antwort auf...
 
-PrivatePart0 = Wir Express-Eulen haben alle ein Körperteil, für das wir uns schämen. Deshalb zupfen manche Eulen ihre Federn aus.
+PrivatePart0 = Wir Express-Eulen haben alle ein Körperteil, für das wir uns schämen. [br]Deshalb zupfen manche Eulen ihre Federn aus.
 PrivatePart1 = Für welches Körperteil schämst du dich am meisten, werte Express-Eule?
-PrivatePart2 = Oh, du arme Express-Eule, du brauchst dich nicht zu schämen für [BodyPartName]!
-PrivatePart3 = Aber du solltest [BodyPartName] besser von einem Arzt untersuchen lassen. Ich habe online gelesen, dass das ein Anzeichen für die Vogelgrippe sein könnte.
-PrivatePart3b = Aber du solltest [BodyPartName] besser von einem Arzt untersuchen lassen. Ich habe online gelesen, dass [BodyPartName] mit der Vogelgrippe infiziert sein könnte.
+PrivatePart2 = Oh, du arme Express-Eule, du brauchst dich nicht für dein(e/en) [BodyPartName] zu schämen!
+PrivatePart3 = Aber du solltest dein(e/en) [BodyPartName] besser von einem Arzt untersuchen lassen. Ich habe online gelesen, dass das ein Anzeichen für die Vogelgrippe sein könnte.
+PrivatePart3b = Aber du solltest dein(e/en) [BodyPartName] besser von einem Arzt untersuchen lassen. Ich habe online gelesen, dass ein(e) [BodyPartName] mit der Vogelgrippe infiziert kann.
 
 Victim_Reveal0 = Überlasst den Fall uns.
-Victim_Reveal1 = Wir sind CAW, die [name]Krähen-Agenten-Wächter[/name]. Wir Überwachen jeden in diesem Zug seit der letzten Haltestelle.
+Victim_Reveal1 = Wir sind CAW, die [name]Krähen-Agenten-Wächter[/name]. Wir überwachen jeden in diesem Zug seit der letzten Haltestelle.
 Victim_Reveal2 = Wir werden den ganzen [hint]Zug nach Beweismitteln[/hint] durchsuchen. Niemand darf diesen Waggon verlassen.
 Victim_Reveal3 = Wenn die [hint]Uhr Mitternacht schlägt[/hint], steigen wir mit dem Mörder in Handschellen aus dem Zug.
 Victim_Reveal4 = Wartet hier, während wir weitere Ermittlungen anstellen.
@@ -56,24 +56,24 @@ CafeteriaChatter3 = weil ihm eine seiner[br]Federn fehlte
 CafeteriaChatter4 = und die Eulen rücken ihre[br]Pläne nicht raus
 CafeteriaChatter5 = selbst wenn ein riesiges[br]Feuer ausbricht
 CafeteriaChatter6 = genau als er dabei[br]war zu niesen
-CafeteriaChatter7 = hat jemand bemerkt,[br]dass wir alle den[br]selben Mantel tragen?
+CafeteriaChatter7 = aber hat jemand bemerkt,[br]dass wir alle den[br]selben Mantel tragen?
 
-BodyPartChatter0 = sie sagte, sie[br]schäme sich für [BodyPartName]
-BodyPartChatter1 = ihr hättet [BodyPartName][br]sehen sollen. Hässlich!
-BodyPartChatter2 = [BodyPartName] von der[br]kleinen sah so scheußlich aus
-BodyPartChatter3 = Ich habe noch nie so was[br]Schreckliches wie[br][BodyPartName] gesehen.
+BodyPartChatter0 = sie sagte, sie[br]schäme sich für ihr(e/en) [BodyPartName]
+BodyPartChatter1 = ihr hättet ihr(e/en) [BodyPartName][br]sehen sollen. Hässlich!
+BodyPartChatter2 = niemand hatte eine(n) scheußlichere(n) [BodyPartName] als sie
+BodyPartChatter3 = Ich habe noch nie so was[br]schreckliches wie[br]ihr(e/en) [BodyPartName] gesehen.
 BodyPartChatter4 = Ich habe sie[br]nach ihrem unliebsten[br]Körperteil gefragt
 
 [spaceship]
-visit0 = Na sowas, Hallo wertes Raumfahrer-Kind. Ich bin auch ein Raumfahrer-Kind. Ich fahre viel durch den Raum.
-visit1 = Von einem Raumfahrt-Kind zum anderen, wir können private Informationen teilen, ja? Was ist das Geheimnis der [icon:timepiece][timepiece]Sanduhren[/timepiece]?
+visit0 = Na sowas, hallo wertes Raumfahrer-Kind. Ich bin auch ein Raumfahrer-Kind. Ich fahre viel durch den Raum.
+visit1 = Von einem Raumfahrt-Kind zur anderen, wir können private Informationen teilen, ja? Was ist das Geheimnis der [icon:timepiece][timepiece]Sanduhren[/timepiece]?
 visit2 = Aber ja, natürlich! Und als wertes Raumfahrt-Kind weiß ich natürlich, was das bedeutet und impliziert.
 visit3 = Nimm das als Zeichen der Anerkennung. Wie wir Raumfahrt-Kinder wissen, ist es sicherlich von großem Wert.
 visit4 = Ich muss jetzt gehen. Wir Raumfahrt-Kinder sind immer auf der Flucht. Es war schön, ein anderes Raumfahrt-Kind kennen zu lernen.
 Idle_mafiaboss0 = Als Raumfahrt-Kind verstehe ich nicht, wie ein Mann im Glas ohne Organe und Körperteile leben kann.
 Idle_mafiaboss1 = Es verwundert und verwirrt mich, aber ich bin verleitet, die Antwort herauszufinden. So ist das Leben eines Raumfahrt-Kindes wie ich es bin.
 Idle_vault0 = Hallo, wertes Raumfahrt-Kind. Als Raumfahrt-Kind bin ich selbst ungeschickt und vergesslich. Ich habe die Kombination zu unserem riesigen Tresorraum vergessen.
-Idle_vault1 = Ich weiß, es war sehr ungeschickt von mir. Kannst du mir die Kombination noch mal verraten? Nein?
+Idle_vault1 = Ich weiß, es war sehr ungeschickt von mir. Kannst du mir die Kombination nochmal verraten? Nein?
 
 [finale]
 outside0 = Grüße, werter,[br]angeblicher Krimineller.[br]Wir sind sehr viele.

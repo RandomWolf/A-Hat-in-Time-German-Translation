@@ -11,7 +11,7 @@ SubconVillage = Finde das Subcon-Dorf
 KillFireSpirits = Töte die Geister
 SubconWell = Säubere den Subcon-Brunnen
 BreakIce = Zerbreche das Eis
-FlowBloom = Lass die Blumen blühen
+FlowBloom = Lass' die Blumen blühen
 
 [Hat_SnatcherContract_Bonfires]
 Title = Erhitze das Lagerfeuer für die Feuergeister
@@ -21,7 +21,7 @@ BonfireBlue = Erhitze das blaue Lagerfeuer
 BonfirePurple = Erhitze das lilane Lagerfeuer
 
 [Hat_SnatcherContract_Vanessa]
-Title = Bring mir etwas aus der Villa
+Title = Bring' mir etwas aus der Villa
 EnterManor = Gehe in die Villa
 CompleteManor = Finde heraus, was auf dem Dachboden ist
 

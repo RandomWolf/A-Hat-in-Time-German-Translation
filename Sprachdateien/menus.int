@@ -366,7 +366,7 @@ BrokenControllerSoftware0 = [name]WARNUNG![/name][br]Du benutzt ebengerade Dritt
 BrokenControllerSoftware1 = Überlege bitte die Software auszuschalten und überprüfe, ob A Hat in Time standardmäßig mit deinen Controller funktioniert!
 
 [Loadout]
-TimePieces_Main = Main
+TimePieces_Main = Zeitstücke
 TimePieces_Bonus = Zeitriss
 Loadout_Swap_Hat = Wähle einen Hut aus!
 Loadout_Swap_Mask = Wähle eine Maske aus!
@@ -385,7 +385,7 @@ Loadout_AbilityActivation_Weapon = Waffe
 Options_ReturnToHUB_Q = Speichern & zurück zum Hub?
 Options_QuitGame_Q = Das Spiel verlassen?
 Options_QuitGame_InGame_Q = Speichern & Beenden zum...
-Options_QuitGame_InGame_A_MainMenu = Hauptmenu!
+Options_QuitGame_InGame_A_MainMenu = Hauptmenü!
 Options_QuitGame_InGame_A_Desktop = Desktop!
 Options_QuitGame_InGame_A_Return = Zurück!
 
@@ -421,18 +421,18 @@ Msg_DoF = Depth of Field
 Msg_EnabledDoF = Depth of Field an
 Msg_DisabledDoF = Depth of Field aus
 
-Filter0 = Action Blue
-Filter1 = Dreamy
-Filter2 = The 80s
-Filter3 = Vibrant
-Filter4 = Just Girly Things
-Filter5 = Vintage
-Filter6 = Vintage 2
-Filter7 = Cold
+Filter0 = Action-Blau
+Filter1 = Verträumt
+Filter2 = Die 80er
+Filter3 = Kräftig
+Filter4 = Nur Mädchenhafte Dinge
+Filter5 = Klassisch
+Filter6 = Klassisch 2
+Filter7 = Kalt
 Filter8 = Noir
-Filter9 = Purple Night
-Filter10 = Sunset
-Filter11 = #NoFilter
+Filter9 = Lilane Nacht
+Filter10 = Sonnenuntergang
+Filter11 = #KeinFilter
 
 [ActSelect]
 Help_GoToAct = Akt beginnen

@@ -38,7 +38,7 @@ HoverDescFun0 = Fliege vor brenzligen Situationen weg!
 HoverDescTech0 = Drücke und halte [button:badge], um kurz zu fliegen!
 
 HelpName = Kids-Hut
-HelpDescTech0 = Drücke [button:badge], um das nächste [br][icon:timepiece][timepiece]Zeitstück[/timepiece] zu finden!
+HelpDescTech0 = Drücke [button:badge], um das nächste [icon:timepiece][timepiece]Zeitstück[/timepiece][br]zu finden!
 HelpUsage = Nutze [icon:activehat], um dein Ziel zu finden!
 
 ChemicalName = Hexen-Hut
@@ -164,7 +164,7 @@ BadgeSlotName = Anstecknadel
 BadgeSlotDesc0 = Erlaubt dir, einen weiteren [icon:badge][name]Anstecker[/name] auszurüsten!
 
 RouletteTokenName = Riss-Token
-RouletteTokenDesc0 = Benutze die Tokens an der Orb-Maschine, um coole Belohnungen zu bekommen!
+RouletteTokenDesc0 = Benutze die Tokens an der Orb-Maschine,[br]um niedliche Belohnungen zu bekommen!
 
 [levelspecific]
 VaultCodeName = Tresor-Code
@@ -286,9 +286,9 @@ RedCrayonName = Roter Stift
 GreenCrayonName = Grüner Stift
 BlueCrayonName = Blauer Stift
 
-RedCrayonDesc = Rot ist eine gute Farbe. Aber nur, weil man sie braucht um Lila herzustellen!
+RedCrayonDesc = Rot ist eine gute Farbe. Aber nur, weil man sie braucht um lila herzustellen!
 GreenCrayonDesc = Jetzt kann ich endlich ein Vandal sein! Zeit die Wände grün zu färben!
-BlueCrayonDesc = Blau ist eine anständige Farbe, aber es würde niemals einen Kampf gegen Lila gewinnen!
+BlueCrayonDesc = Blau ist eine anständige Farbe, aber es würde niemals einen Kampf gegen lila gewinnen!
 
 CrayonCompleteName = Drei-Farben Graffiti-Kit
 CrayonCompleteDesc0 = Sie wurden für Vandalismus gemacht. Ich fühle mich beim Anblick gezwungen sie zu nehmen und ALLES anzumalen!

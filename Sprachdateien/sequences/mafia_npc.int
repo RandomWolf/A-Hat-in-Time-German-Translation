@@ -101,7 +101,7 @@ intro2 = Boss, was machen wir mit Zeugen?
 boss_intro0 = Bringt ihr eine Lektion bei, Jungs!
 wake0 = Komm zu Papa Mafia!
 wake1 = Du kleine...
-wake2 = Ich werde dich fertig machen!
+wake2 = Ich werde dich[br]fertig machen!
 wake3 = Kein Kind wird Mafia im Weg stehen!
 boss_wake0 = [scream]GENUG![/scream]
 boss_wake1 = Mafia wird sich nicht vor Mädchen beugen! Spüre Mafias Zorn!!
@@ -109,7 +109,7 @@ boss_wake1 = Mafia wird sich nicht vor Mädchen beugen! Spüre Mafias Zorn!!
 barrelthrow0 = Sehen wir, ob Mädchen [br]dieses Fass bewältigen kann!
 barrelthrow1 = Kopf hoch,[br]kleiner Punk!
 barrelthrow2 = Bleib' stehen!
-barrelthrow3 = Denk nicht daran[br]Fass[br]auszuweichen!
+barrelthrow3 = Denk' nicht daran[br]Fass auszuweichen!
 
 boss_godown0 = Das bring nichts! Mafia muss sich im Mafia-Style darum kümmern!
 boss_godown1 = Spüre was Mafia alten Frauen antut!
@@ -145,10 +145,10 @@ trade_ties_intro3 = Mafia verkauft Krawatten. Aber kaufe sie auch. Du verstehen?
 trade_ties_intro4 = Verkaufe einen Mann eine Krawatte und er sieht fein aus. Feine Männer kaufen keine Krawatten.
 trade_ties_intro5 = Mann muss Krawatten verlieren um Neue zu kaufen. Aber wie verschwindet Krawatte? Mafia nicht fragen. Du verstehen?
 trade_ties_intro6 = Mafia kauft Krawatte von dir. Du gibst Krawatte zu Mafia vom feinen Mann. Feiner Mann kommt zurück.
-trade_ties_intro7 = Du nun verstehen, ja? Du bist schlau. Bring mir [name]Mafia Krawatte[/name] und [clue]als Belohnung bekommst du etwas[/clue].
+trade_ties_intro7 = Du nun verstehen, ja? Du bist schlau. Bring mir [name]Mafia-Krawatte[/name] und [clue]als Belohnung bekommst du etwas[/clue].
 
 trade_ties_sale0 = Hallo Kind. Du hast eine Krawatte, ja?
-trade_ties_sale1 = Willkommen zurück. du bringst Mafia Krawatte?
+trade_ties_sale1 = Willkommen zurück. du bringst Mafia-Krawatte?
 trade_ties_sale_noitem0 = Item zu verkaufen: Kein Item. Ausverkauft.
 trade_ties_sale_noitem1 = Wirtschaft ist Schuld. Komm später wieder wenn Mafia etwas zu verkaufen hat.
 trade_ties_sale_badgepart0 = Item zum kaufen: Anstecker. Kombiniere sie um sie auf deinen Hut zu stecken. Ist süß.
@@ -205,8 +205,8 @@ lobby4 = Mafia sagt nur Wahrheit. Hier passieren keine illegalen Dinge.
 bar0 = Was ist los, kleines Mädchen? Mafia nicht wissen, was Kind trinkt.
 bar1 = Was auch immer dein Problem ist, Mafia sicher du kommst damit klar.
 bar2 = Du siehst hartnäckig aus, du lässt Probleme nicht allein.
-bar3 = Anderes Mädchen Küche gelaufen, wenn du nach ihr suchst. 
-bar4 = Sie sieht unruhig aus. Pass besser auf. 
+bar3 = Anderes Mädchen in Küche gelaufen, wenn du nach ihr suchst. 
+bar4 = Sie sieht unruhig aus. Pass' besser auf. 
 
 
 [spaceship]

@@ -136,7 +136,7 @@ LungeAttackBadgeName = Ausholangriff-Anstecker
 LungeAttackBadgeDesc0 = Ausholangriff-Anstecker
 
 NoFallDamageBadgeName = Schwebe-Anstecker
-NoFallDamageBadgeDesc0 = Öffnet deinen Regenschirm kurz vor einem tödlichen Sturz automatisch!
+NoFallDamageBadgeDesc0 = Öffnet deinen Regenschirm kurz vor einem tödlichen Sturz automatisch! Dein Regenschirm wird kurz[br]vor einen großem Sturz[br]automatisch geöffnet!
 
 NoBonkBadgeName = Anti-Abprall-Anstecker
 NoBonkBadgeDesc0 = Du prallst nicht mehr an Wänden ab, wenn du einen Hechtsprung machst!

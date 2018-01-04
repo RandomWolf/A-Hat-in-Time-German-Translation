@@ -14,17 +14,17 @@ umbrella_there2 = Man sieht sich!
 
 [chapter1combat]
 grabbed0 = Hey, geh runter [br]von mir!!
-grabbed1 = Ich meine es ernst! [br]Lass mich runter, du dummer Idiot!
-grabbed2 = Was für Mann[br]greift bitte ein unschuldiges,[br]kleines Mädchen an?!
-grabbed3 = Deine Kockkünste sind schlecht[br]und du bist auch eine[br]schlechte Person![br]Jetzt lass mich runter!!
+grabbed1 = Ich meine es ernst! [br]Lass mich runter,[br]du dummer Idiot!
+grabbed2 = Was für Mann greift[br]bitte ein unschuldiges,[br]kleines Mädchen an?!
+grabbed3 = Deine Kockkünste[br]sind schlecht und du bist[br]eine schlechte Person![br]Jetzt lass mich runter!!
 grabbed4 = Ich gehe nirgendwo[br]mit dir hin![br]Lass mich los!!
-grabbed5 = Wenn du mich jetzt nicht[br]auf der Stelle loslässt,[br]dann beiß ich!
+grabbed5 = Wenn du mich jetzt[br]nicht auf der Stelle loslässt,[br]beiß' ich!
 grabbed6 = Hör auf!
 
 thrown0 = Ächz!
 thrown1 = Nein, wirf nicht miiiiiiiiiiiiich.....!
 
-battleend0 = Pfft. Kannst du den glauben? Was für ein Haufen Loser.
+battleend0 = Pfft. Kannst du denen glauben? Was für ein Haufen Loser.
 battleend1 = Hey. Du bist ziemlich okay, neues Kind. Hast du einen Namen?
 battleend2 = Nein? Bist du schüchtern? Ist okay. Du bist anscheinend mehr ein "weniger Reden, mehr Kämpfen"-Kind.
 battleend3 = Dieses [timepiece][icon:timepiece]Ding[/timepiece], das du da nahmst... sammelst du sie? Weil ich weiß, wo mehr von ihnen sind.
@@ -41,7 +41,7 @@ PreAwakening2 = Zuerst, erdrosseln wir sie! Wir erwürgen sie und schauen wie sie
 PreAwakening3 = Nein, warte, erdrosseln ist zu nett...
 PreAwakening4 = Wir schmeißen sie aneinander, bis sie nur noch Brei sind und füllen sie in ein Glas!
 PreAwakening5 = Dann verkaufen wir das Glas für etwas Taschengeld! Das wird das ultimative Salz in der Wunde!
-PreAwakening6 = ... [scream]*ähm*[/scream] Aber zuerst, müssen wir es durch ihr[name]Mafia-Hauptquatier[/name] schaffen.
+PreAwakening6 = ... [scream]*ähm*[/scream] Aber zuerst, müssen wir es durch[br]ihr [name]Mafia-Hauptquatier[/name] schaffen.
 PreAwakening7 = Sobald wir den [name]Mafia-Boss[/name] gefunden und entthront haben, folgt der Rest. Dann wird unsere "Brei und Glas"-Party kein Problem mehr sein!
 PreAwakening8 = Wir müssen uns jedoch aufrüsten! Dein Hut ist Standard und wir sind nicht mit "Standard" in dieser Gang zufrieden!
 PreAwakening9 = [hint][icon:yarn]Garn[/hint] kann überall in Mafia-Stadt gefunden werden und wird dazu benutzt neue Hüte zu nähen. Ich habe schon eins für dich gesammelt!
@@ -53,13 +53,13 @@ outside0 = Hast dir echt Zeit gelassen! Hilf mir mal!
 outside1 = Halte mir diese Tiere vom Leib, dann können wir rein!
 outside2 = Gute Arbeit, Mädel!
 outside3 = Na los,[br]es ist Showtime!
-freezer0 = Bitteschön, Mädel. Mach die Tür auf, während ich Wache stehe.
+freezer0 = Bitteschön, Mädel. Mach' die Tür auf, während ich Wache stehe.
 captured0 = Lass mich los,[br]du Psycho!!
 mafia_ball_hint0 = Hey![br]Triff ihn endlich!
 mafia_ball_hint1 = Komm schon! Kletter hoch[br]und gib ihm Saures!
 
-timepiecebreak0 = Also, was machen diese Teile eigentlich? Sind das eine Art seltene Sammelstücke für Streber?
-timepiecebreak1 = Sind das eine Art seltene S... Moment, hä?
+timepiecebreak0 = Also, was machen diese Teile eigentlich? Sind das so eine Art seltene Sammelstücke für Streber?
+timepiecebreak1 = Sind das so eine Art seltene S... Moment mal, hä?
 timepiecebreak2 = [big][scream]Warte, WAS?![/scream][/big]
 timepiecebreak3 = Wa... hast... äh, hast du darüber gewusst?
 proposal0 = [scream]Das ist verrückt![/scream] Hast du überhapt eine Idee, was man damit machen kann?
@@ -67,10 +67,10 @@ proposal1 = Wir könnten dich davor bewahren, damals von der Mafia geschlagen zu 
 proposal2 = Wir könnten die Mafia niederschlagen, zurückreisen und es nochmals tun!
 proposal3 = Nee, warte! Wir könnten verhindern, dass die Mafia auf diese Insel jemals gekommen sind!
 proposal4 = Moment, noch besser! Wir könnten zeitreisende Verbrechungskämpfer sein!
-tantrum0 = Äh, wie?! Das macht keinen Sinn!
+tantrum0 = Äh, warum?! Das macht keinen Sinn!
 tantrum1 = Du hast diese gesamte Kraft, und benutzt es nicht für das Gute?
 tantrum2 = Wenn du sie nicht dafür einsetzt... dann werde ICH das tun!
-tantrum3 = Ich werde nicht diese Insel als Mafia-Stadt stehen lassen! Ich sammle alle [timepiece][icon:timepiece]Zeitstücke[/timepiece] selber! Merk dir diese Worte!
+tantrum3 = Ich werde nicht diese Insel als Mafia-Stadt stehen lassen! Ich sammle alle [timepiece][icon:timepiece]Zeitstücke[/timepiece] selber! Merke dir diese Worte!
 pickpocket_no_va = [name]Mustache Girl[/name] hat die Häflte deiner [icon:money][hint]Pons[/hint] geklaut.
 
 [MuMission_UI]

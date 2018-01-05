@@ -11,7 +11,7 @@ punch1 = Leben des Mafia ist toll.
 punch2 = Manchmal vergisst Mafia, ob er Fass oder alte Frau schlagen soll. Deswegen macht er beides.
 
 seagull0 = Möwe isst Fisch, aber Fisch gehört Mafia. Wir hauen respektlose Möwe.
-seagull1 = Möwe sagt, "Nicht Schlagen, ich habe ein Kind!" Mafia schlägt Möwe mit Kind.
+seagull1 = Möwe sagt, "Nicht schlagen, ich habe ein Kind!" Mafia schlägt Möwe mit Kind.
 seagull2 = Blöde Möwe. Stehen nur dumm in der Gegend herum. So wie Mafia! Nachmacher.
 
 road0 = Alle Wege führen zu Mafia. Nicht gut, große Immigrationsprobleme.
@@ -234,10 +234,10 @@ retry0 = Please buy! Please buy! Mafia really need money!!
 accept0 = Thank you! Mafia will spend money carefully. At secret gamble room.
 
 [cave_dreams]
-rules_explained0 = Hallo, kleines Mädchen. Das hier ist Mafia Zeitriss. [timepiece][icon:timepiece]Zeitstück[/timepiece] hat Mafia an Kopf getroffen, und nun ist Zeitriss gefüllt mit Mafias Träumen und Gedanken.
+rules_explained0 = Hallo, kleines Mädchen. Das hier ist Mafia-Zeitriss. [timepiece][icon:timepiece]Zeitstück[/timepiece] hat Mafia an Kopf getroffen, und nun ist Zeitriss gefüllt mit Mafias Träumen und Gedanken.
 rules_explained1 = Dieser Zeitriss ist einfach. Einfach wie Mafia, genau wie Mafia es mag.
 rules_explained2 = Regeln des Zeitrisses: Solltest du sterben, startest du von neu. Du brauchst [treasure][icon:treasure]Riss-Pons[/treasure] um weiter zu kommen.
-rules_explained3 = Das ist alles. Bitte sei vorsichtig im Mafia Zeitriss. Mafia mag die Vergangenheit.
+rules_explained3 = Das ist alles. Bitte sei vorsichtig im Mafia-Zeitriss. Mafia mag die Vergangenheit.
 
 orbs_preserved0 = Hat kleines Mädchen bemerkt, dass [treasure][icon:treasure]Riss-Pons[/treasure] auf Etagen behalten werden? Du musst nicht alle sammeln.
 orbs_preserved1 = Viel Glück! Mafia hat den [hint]Eingang zur nächsten Etage[/hint] geöffnet!

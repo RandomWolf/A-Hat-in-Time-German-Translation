@@ -446,7 +446,7 @@ Help_UnSeeDreamWorld = Foto schließen
 Help_Exit = Verlassen
 
 Action_EnterCompletedAct = Du hast diesen Akt schon abgeschlossen. Trotzdem betreten?
-Action_MissingItem = Dir fehlt ein Schlüsselitem![br]Dadurch wird es dir nicht möglich sein, diesen Akt abzuschließen.[br]Trotzdem betreten?
+Action_MissingItem = Dir fehlt ein Schlüsselitem![br]Ansonsten kann die Akte unmöglich sein.[br]Trotzdem betreten?
 
 StandOff_Confirm_Conductor0 = Der Schaffner hat den Highscore! Ihn als Sieger bestätigen?
 StandOff_Confirm_Conductor1 = Er ist irgendwie selbstgefällig darüber.[br]Bist du sicher, dass du ihn gewinnen lassen möchtest?
@@ -504,7 +504,7 @@ PayCost = Reparaturkosten:
 [DeadBirdBills]
 Bill_WalkOnSet = Studioaufnahmen stören
 Bill_DestroyProp = Zerstörung von Eigentum
-Bill_EnterStudio = unbefugtes Betreten
+Bill_EnterStudio = Unbefugtes Betreten
 Bill_Spotted_Owl = Eulen-Belästigung
 Bill_Spotted_Penguin = Pinguin-Belästigung
 Bill_Power_Outage = Manipulation mit Elektronik

@@ -59,7 +59,7 @@ reception_desk2 = Ich bin wirklich schlecht beim Reden mit anderen Vögeln.
 
 [ExpressBand]
 intro0 = Hey! Wir sind die [name]Express-Band[/name], wir sind Eulen die Musik auf dem Zug des [icon:conductor][name]Schaffners[/name] spielen. 
-intro1 = Ist es OK wenn wir hier ein wenig üben? [br]Wenn du einen bestimmten Song haben möchtest, immer raus damit! [br]Wir spielen gerne alles, was du auf dem Gewissen hast!
+intro1 = Ist es OK, wenn wir hier ein wenig üben? [br]Wenn du einen bestimmten Song haben möchtest, immer raus damit! [br]Wir spielen gerne alles, was du auf dem Gewissen hast!
 
 initial0 = Möchtest du die Musik austauschen, die du in Kapiteln hörst, oder willst du uns üben hören?
 initial0_a = Musik austauschen

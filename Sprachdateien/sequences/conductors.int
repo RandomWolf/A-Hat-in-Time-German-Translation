@@ -58,13 +58,13 @@ director_idle1 = Kommt schon, gebt zumindestens eine bessere Performance als die
 director_idle2 = Du! Was machst du hier!? Geht zurück auf eure Positionen!
 director_idle3 = Bei welcher Szene sind wir jetzt? Zweiundvierzig? [br]Weil, du hättest nicht im Frame von Szene [br]zweiundvierzig sein sollen!
 
-outro0 = [scream][big]HEY! WAS DENKST DU, WAS DU DA TUST?![/big][/scream]
-outro1 = Du kannst hier nicht einfach 'reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Preisen[/trophy] herumspielen! [br]Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, [br]wir haben ein BETRÜGER HIER!
+outro0 = [scream][big]HEY! WAS MACHST DU DENN DA?![/big][/scream]
+outro1 = Du kannst hier nicht einfach 'reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Preisen[/trophy] herumspielen! [br]Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, wir haben hier einen BETRÜGER!
 outro2 = ...
 outro3 = WO SIND MEINE EULEN-WACHEN?! Warum sind die Eulen so verdammt nutzlos?!
-outro5 = Okay okay, hör mir zu, Lassie! Du bist in großen Schwierigkeiten. Wenn du dem betrügerischen [icon:djgrooves][name]DJ Grooves[/name] hilfst, die Preise zu manipulieren und[br]ich dich auch nicht ins Gefängnis stecken kann, dann wirst du mir ebenfalls helfen müssen!
+outro5 = Okay okay, hör mir zu, Lassie! Du bist in großen Schwierigkeiten. Wenn du dem betrügerischen [icon:djgrooves][name]DJ Grooves[/name] hilfst, die Preise zu manipulieren und ich dich auch nicht ins Gefängnis stecken kann,[br]dann wirst du mir ebenfalls helfen müssen!
 outro6 = Richtig gehört, du wirst auch der Star von meinen Filmen sein!
-outro7 = Hier, halt' unser [icon:timepiece][timepiece]neustes Requisit[/timepiece], üb' es gut zu präsentieren, und bring' es morgen zu meinem Filmset! [br]Verstanden? Komm nicht zu spät!
+outro7 = Hier, halt' unser [icon:timepiece][timepiece]neustes Requisit[/timepiece], üb' es gut zu präsentieren, und bring' es morgen zu meinem Filmset! [br]Verstanden? Komm' nicht zu spät!
 
 [murder]
 intro0=Willkommen zurück, Lassie! Ich hab' das Skript für meinen nächsten Film noch nicht geschrieben, also filmen wir grad' auch nich'!

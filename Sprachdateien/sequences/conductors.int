@@ -10,15 +10,15 @@ sketch_done2 = Dieser Film wird die BOMBE!! [wave]GWAHAHAHAHA[/wave]!
 sketch_done3 = ... Und ich meine Bombe im positivem Sinne, Grünschnabel!
 
 trigger_detonation0 = Okay, Lassie, hör' mir zu. Ich habe schlechte Nachrichten!
-trigger_detonation1 = Diesen Hebel, den du grad' gezogen hast... er startet die [b]Selbstzerstörungssequenz des Zuges, und das ist kein Witz. [waitlong][br]Er wird in die Luft gehen!
+trigger_detonation1 = Diesen Hebel, den du grad' gezogen hast... er startet die[br]Selbstzerstörungssequenz des Zuges, und das ist kein Witz. [waitlong][br]Er wird in die Luft gehen!
 trigger_detonation2 = Ich brauch ein Film mit richtiger Action, deshalb machen wir das jetzt so! Dieser Zug wird in ein paar Minuten explodieren!
 trigger_detonation3 = Aber, du kannst uns alle retten, Lassie! Schaff' es zum Schalter im vordersten Wagon, und schalt' ihn aus!
-trigger_detonation4 = UND DU SCHAFFST ES BESSER RECHTZEITIG, VERSTANDEN? Ich kümmer' mich nicht um die Eulen oder um dich, [br]aber du wagst es besser nicht meinen Zug explodieren zu lassen! [br]Er ist mein Baby!
+trigger_detonation4 = UND DU SCHAFFST ES BESSER RECHTZEITIG, VERSTANDEN? Ich kümmer' mich nicht um die Eulen oder um dich, aber wag' es ja nich' meinen Zug explodieren zu lassen! Das ist mein Baby!
 trigger_detonation5 = Die Kameras sind auf dich gedreht, Lassie, du beeilst dich jetzt besser! Los! Ende der Durchsage!
 
 ending0 = Du hast es geschafft! Und pünktlich!
 ending1 = Oh ho ho hooo... schau' dir nur all dieses rohe Filmmaterial an![br]Schau, wie du um dein Leben rennst![br][wave]EH HE HE[/wave]!
-ending2 = Was? Wir taten es alles im Namen der Cinomatografie! ... und um diesen Ungut [icon:djgrooves][name]DJ Grooves[/name] zu überbieten! [br]Ich wette, er wird nicht mal in der Lage sein, die HÄLFTE von dem zu drehn',[br]was wir hier geschafft haben!
+ending2 = Was? Wir taten es alles im Namen der Cinematografie! ... und um diesen Ungut [icon:djgrooves][name]DJ Grooves[/name] zu überbieten! [br]Ich wette, er wird nicht mal in der Lage sein, die HÄLFTE von dem zu drehn', was wir hier geschafft haben!
 ending3 = Nun gut hier, nimm' eines von diesen [icon:timepiece][timepiece]Dingsbumsen[/timepiece], die du so magst. Du verdienst es!
 
 [big_parade]
@@ -97,7 +97,7 @@ suspect_generic1 = Bitte, was? GUMMImesser?!
 suspect_ending0 = Nun, danke für's Lösen von diesem Mord, Lassie.
 suspect_ending1 = Nicht nur enthülltest du den Mörder, du enthülltest auch, dass das Opfer nie verletzt wurde.
 suspect_ending2 = ... und du gabst uns spannendes Bildmaterial für den Film!
-suspect_ending3 = Was? Du dachtest, ich lasse einfach so ein Mord auf meinem Eulen-Express stattfinden?[br] Denk nochmal nach! Es war alles nur der Aufbau für meinen neuen Film:[br][name]Mord auf dem Eulen-Express![/name]
+suspect_ending3 = Was? Du dachtest, ich lasse einfach so ein Mord auf meinem Eulen-Express stattfinden?[br]Denk nochmal![br]Es war alles nur der Aufbau für meinen neuen Film:[br][name]Mord auf dem Eulen-Express![/name]
 suspect_ending4 = Du denkst[icon:djgrooves][name]DJ Grünschnabel[/name] wird einen genau so guten Film drehen? Ich glaub' wohl kaum!
 suspect_ending5 = Hier, nimm' dieses [icon:timepiece][timepiece]Dingsbums[/timepiece] und verschwinde!
 suspect_ending6 = ... und du spielst besser nicht den Star in einer der Filme von [icon:djgrooves][name]DJ Grooves[/name]'! Seine Filme sind GROTTIGE FLOPS OHNE AUFWAND ![br] Außerdem haben wir ein exklusiven Vertrag, ja?
@@ -119,9 +119,9 @@ suspect_conductor11 = Die Express-Eule is' nichtmal tot. Ich gab ihm einfach die
 suspect_hatkid0 = Du warst es?!
 suspect_hatkid1 = Aber, ja, es ergibt alles Sinn!
 suspect_hatkid2 = Du sahst die Express-Eule ganz allein da, ein einsames Opfer für deinen Masterplan.
-suspect_hatkid3 = Mit Hass auf die Gesellschaft und einem schnellen Fortschritt in Personenbeförderung, [br]ermordetest du den ersten Passagier, den du erblicktest. 
-suspect_hatkid4 = Sein Körper lag da wie eine Schaufensterpuppe, mit Blutschmierereien, und der Geruch... [br]er erweckte deine inneren Dämonen!
-suspect_hatkid5 = Dann riss du seine Gliedmaßen 'raus und aßt sie auf. Ein Stück nach dem anderen, [br]wie ein Tier mit der LUST nach Blut.
+suspect_hatkid3 = Mit Hass auf die Gesellschaft und einem schnellen Fortschritt in Personenbeförderung, ermordetest du den ersten Passagier, den du erblicktest. 
+suspect_hatkid4 = Sein Körper lag da wie eine Schaufensterpuppe, mit Blutschmierereien, und der Geruch... [br]Er erweckte deine inneren Dämonen!
+suspect_hatkid5 = Dann riss du seine Gliedmaßen 'raus und aßt sie auf. Ein Stück nach dem anderen, wie ein Tier mit der LUST nach Blut.
 suspect_hatkid6 = So ist es geschehen, oder?!
 suspect_hatkid7 = Du ermordetest diese Eule in kaltem Blut!
 

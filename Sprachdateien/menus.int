@@ -492,11 +492,11 @@ SelectSuspect = WER IST DER MÖRDER?
 ConfirmSuspect = BIST DU DIR SICHER, DASS DIESER TROTTEL DER MÖRDER IST?
 
 Suspect_Select0 = Schützen und dienen[br]um jeden Preis!
-Suspect_Select1 = Wir haben Augen[br]überall, und wir[br]haben nichts gesehen!
-Suspect_Select2 = Was schaust'n [br]mich so an, Grünschnabel?
-Suspect_Select3 = Ich musste es tun,[br]oder die Stimmen[br]würden nicht aufhören!
+Suspect_Select1 = Wir haben Augen[br]überall, und sahen nichts!
+Suspect_Select2 = Was schaust'n mich[br]so an, Grünschnabel?
+Suspect_Select3 = Ich hoffe, dass die[br]Stimmen jetzt aufhören!
 Suspect_Select4 = ...
-Suspect_Select5 = Du kannst keine[br]tote Eule beschuldigen! Ich meine...[br]zzzz...
+Suspect_Select5 = Tote können nicht schuldig[br]sein! Ups, ähm... zzzz... 
 
 [Decoration]
 PayCost = Reparaturkosten:

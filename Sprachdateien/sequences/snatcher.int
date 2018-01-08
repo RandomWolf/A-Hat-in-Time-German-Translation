@@ -33,13 +33,13 @@ intro4 = [shake2]Normalerweise würde ich deine Seele essen und deinen Körper weg
 intro5 = [shake2]Du hast richtig gehört! Der andere ist gestorben. Sein Kopf ist geplatzt! Jetzt brauche ich einen neuen Laufburschen![/shake2]
 contract_appear0 = [shake2]Hör' gut zu. Ich habe ein Stück Papier hier, kümmer dich nicht um das Kleingedruckte! Du musst nur hier unten unterschreiben![/shake2]
 
-contract_disagree_retry = Lass mich nachdenken...
-contract_disagree_decline = Ich unterschreibe nicht!
+contract_disagree_retry = Gutes Argument.
+contract_disagree_decline = Ich verweigere mich!
 
 contract_disagree0 = [shake2]Komm schon, mach das nicht schwierig! Du hast nicht wirklich eine Wahl! Unterschreib das Papier![/shake2]
 contract_disagree1 = [shake2]Ich glaube nicht ich hab mich klar genug ausgedrückt: WAS DU DENKST INTERESSIERT MICH NICHT. Schreib deinen Namen auf den Vertrag oder ich werde deinen Leblosen Körper dafür nutzen![/shake2]
-contract_disagree2 = [shake2]LETZTE CHANCE! Unterschreib das Papier![/shake2]
-contract_disagree3 = [shake2]Zu Schade! Ich gab dir eine Möglichkeit eine schlechte Situation wieder hinzubekommen, aber du hast es vermasselt! Deine einzige Überlebenschance direkt aus dem Fenster geworfen![/shake2]
+contract_disagree2 = [shake2]LETZTE CHANCE! Unterschreibe das Papier![/shake2]
+contract_disagree3 = [shake2]Zu Schade! Ich gab dir eine Möglichkeit eine schlechte Situation wieder hinzubekommen, aber du hast es vermasselt! Deine einzige[br]Überlebenschance direkt aus dem Fenster geworfen![/shake2]
 contract_disagree4 = [shake2]Tschüss! Ich mein', "Tschüss" zu deinem Selbstbewusstsein, und "Hallo" zu deinen leblosen Körper![/shake2]
 
 contract_agree0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
@@ -49,7 +49,7 @@ contract_soul = Du fühlst dich außerordentlich leer von innen an.
 
 contract_agree2 = [shake2]Uups! Deine Seele gehört jetzt mir![/shake2]
 contract_agree3 = [shake2]Aber keine Angst! Wenn du deine Aufgaben schnell erledigst, bekommst du deine Seele wieder![/shake2]
-contract_agree4 = [shake2]Und vergiss bloß nicht unseren Vertrag! Ich habe ihn in dein [button:start] Menü getan, damit du ihn nie aus den Augen verlierst![/shake2]
+contract_agree4 = [shake2]Und vergiss bloß nicht unseren Vertrag! Ich habe ihn in dein [button:start]-Menü getan, damit du ihn nie aus den Augen verlierst![/shake2]
 contract_agree5 = [shake2]Auf Wiedersehen! Sei vorsichtig! Versuch' nicht zu sterben![/shake2]
 
 enter_village0 = [shake][big][scream][wave]HALLÖÖÖÖÖÖCHEEEEEEN![/wave][/scream][/big][/shake][br][shake2]Du hast mich doch nicht vergessen, oder?! Sag' mir nicht "Doch."![/shake2]
@@ -119,7 +119,7 @@ blue1 = [shake2]Sorry, Kleine. Blau steht mir nicht.[br]Das macht mich dann unbe
 
 Chemicals0 = [shake2]Mal schauen, wie dir [br]diese hier passen![/shake2]
 Chemicals1 = [shake2]Nicht genug?[br]Wie wär's mit 1,000![/shake2]
-Chemicals2 = [shake2]Zu viele?[br]Versuchen wir es mit einem![/shake2]
+Chemicals2 = [shake2]Zu viele?[br]Versuchen wir es[br]mit einem![/shake2]
 Chemicals3 = [shake2]Hey, warte kurz.[/shake2]
 Chemicals4 = [shake2]Das eine hätte[br]dich treffen müssen![/shake2]
 Chemicals5 = [shake2]Komm schon,[br]gib ihm 'ne Chance![/shake2]

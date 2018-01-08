@@ -38,12 +38,12 @@ HoverDescFun0 = Fliege vor brenzligen Situationen weg!
 HoverDescTech0 = Drücke und halte [button:badge], um kurz zu fliegen!
 
 HelpName = Kids-Hut
-HelpDescTech0 = Drücke [button:badge], um das nächste [icon:timepiece][timepiece]Zeitstück[/timepiece][br]zu finden!
+HelpDescTech0 = Drücke [button:badge], um das nächste [icon:timepiece][timepiece]Zeitstück[/timepiece] zu finden!
 HelpUsage = Nutze [icon:activehat], um dein Ziel zu finden!
 
 ChemicalName = Hexen-Hut
 ChemicalDescFun0 = Koche verrückten Mischmasch!
-ChemicalDescTech0 = Drücke[button:badge] um einen explosiven Zaubertrank zu werfen!
+ChemicalDescTech0 = Drücke [button:badge] und werfe einen explosiven Zaubertrank!
 
 TimeStopName = Zeitlupen-Hut
 TimeStopDescFun0 = Der Tod ist zwangsläufig, aber deine Zeit nicht.
@@ -52,7 +52,7 @@ TimeStopDescTech0 = Drücke [button:badge], um die Zeit zu verlangsamen!
 FoxMaskName = Einwohner-Maske
 FoxMaskDescFun0 = Das ist echt gruseliges Garn!
 FoxMaskDescHat0 = Das ist eine gruselige Maske!
-FoxMaskDescTech0 = Drücke [button:badge], um die Welt durch die Augen eines Einwohners zu sehen!
+FoxMaskDescTech0 = Drücke [button:badge] und du hast dann die Augen eines Einwohners!
 
 MapName = Schatzsucher-Karte
 MapDesc0 = Eine helfende Hand beim Schätze suchen!
@@ -292,8 +292,8 @@ BlueCrayonDesc = Blau ist eine anständige Farbe, aber es würde niemals einen Kam
 
 CrayonCompleteName = Drei-Farben Graffiti-Kit
 CrayonCompleteDesc0 = Sie wurden für Vandalismus gemacht. Ich fühle mich beim Anblick gezwungen sie zu nehmen und ALLES anzumalen!
-CrayonCompleteDesc1 = Ich kann daraus nur schließen, dass dieses Kit illegal sein muss.
-CrayonCompleteDesc2 = Das macht diesen Schatz viel mehr wert. Wenn nur das Paket nicht schon offen wäre...[br]Nur ein Monster würde sich trauen sowas zu tun!
+CrayonCompleteDesc1 = Ich kann daraus nur schließen, dass dieses Kit illegal sein muss. Das macht diesen Schatz viel mehr wert. 
+CrayonCompleteDesc2 = Wenn nur das Paket nicht schon offen wäre... Nur ein Monster würde sich trauen sowas zu tun!
 
 ToyDetonatorName = Spielzeugzünder
 ToyDetonatorDesc = Es endet nie gut mit diesen Dingern!

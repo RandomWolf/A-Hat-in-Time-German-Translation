@@ -10,7 +10,7 @@ SecondTip2 = [shake2]Du kannst nicht einfach Leute verurteilen ohne Hinweise.[br
 
 PetTrap0 = [shake2]Du gibst nie auf, oder?[/shake2]
 PetTrap1 = [shake2]Es scheint, als gäbe es nur einen Weg, damit ich dich endlich loswerde... und zwar dir die Zeit rauben.[/shake2]
-PetTrap2 = [shake2]Also, hier ist ein spaßiger Zeitfresser für dich: [PetName] hat sich selbst in eine sehr[br]ungewöhnliche Lage gebracht. Es hängt an einem dünnem Seil und bangt um sein Leben, gleich über einem Holzschredder. Was für ein merkwürdiger Zufall![/shake2]
+PetTrap2 = [shake2]Hier ist also ein spaßiger Zeitfresser für dich: [PetName] hat sich selbst in eine sehr ungewöhnliche Lage gebracht. Es hängt an einem dünnem Seil und bangt um sein Leben, gleich über einem Holzschredder. Was für ein merkwürdiger Zufall![/shake2]
 PetTrap3 = [shake2]Was wirst du tun?[br][PetName] retten, bevor es zu Sägespäne wird oder herausfinden, wer der Mörder ist?[/shake2]
 
 DogThankYou0 = Danke für deine Rettung, gütiger Mensch. Wuff. Wuff.

@@ -100,7 +100,7 @@ suspect_ending2 = ... und du gabst uns spannendes Bildmaterial für den Film!
 suspect_ending3 = Was? Du dachtest, ich lasse einfach so ein Mord auf meinem Eulen-Express stattfinden?[br]Denk nochmal![br]Es war alles nur der Aufbau für meinen neuen Film:[br][name]Mord auf dem Eulen-Express![/name]
 suspect_ending4 = Du denkst[icon:djgrooves][name]DJ Grünschnabel[/name] wird einen genau so guten Film drehen? Ich glaub' wohl kaum!
 suspect_ending5 = Hier, nimm' dieses [icon:timepiece][timepiece]Dingsbums[/timepiece] und verschwinde!
-suspect_ending6 = ... und du spielst besser nicht den Star in einer der Filme von [icon:djgrooves][name]DJ Grooves[/name]'! Seine Filme sind FAULER HAGGIS AUF EINEM RIESIGEN HAUFEN SCHWEINEKOT![br] Außerdem haben wir ein exklusiven Vertrag, ja?
+suspect_ending6 = ... und du spielst besser nicht den Star in einer der Filme von [icon:djgrooves][name]DJ Grooves[/name]'! Seine Filme sind FAULER HAGGIS AUF EINEM RIESIGEN HAUFEN SCHWEINEKOT![br] Außerdem haben wir ein exklusiven Vertrag, nich'?
 
 suspect_conductor0 = ... ICH?!
 suspect_conductor1 = Ich kann nicht der Mörderer sein, ich bin der Schaffner!
@@ -146,7 +146,7 @@ story_Jungle07 = And so I tore down the poster, stole their Gear Piece, 'n ran o
 
 [BossBattle]
 SupportNotice0 = Lassie, hier drüben!
-SupportNotice1 = Warte,[br]Ich finde einen Weg,[br] um die Bombe zu entschärfen!
+SupportNotice1 = Warte,[br]ich finde einen Weg,[br] um die Bombe zu[br]entschärfen!
 SupportNotice2 = Mein "Entschärfer"[br] ist bereit, komm' her!
 
 hth_intro0 = Lass uns ein kleines Vertrauensgespräch haben. Setz' dich, Lassie.

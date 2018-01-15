@@ -449,7 +449,7 @@ Action_EnterCompletedAct = Du hast diesen Akt schon abgeschlossen. Trotzdem betr
 Action_MissingItem = Dir fehlt ein Schlüsselitem![br]Ansonsten kann die Akte unmöglich sein.[br]Trotzdem betreten?
 
 StandOff_Confirm_Conductor0 = Der Schaffner hat den Highscore! Ihn als Sieger bestätigen?
-StandOff_Confirm_Conductor1 = Er ist irgendwie selbstgefällig darüber.[br]Bist du sicher, dass du ihn gewinnen lassen möchtest?
+StandOff_Confirm_Conductor1 = Er ist irgendwie egoistisch darüber.[br]Bist du sicher, dass du ihn gewinnen lassen möchtest?
 
 StandOff_Confirm_DJGrooves0 = DJ Grooves hat den Highscore! Ihn als Sieger bestätigen?
 StandOff_Confirm_DJGrooves1 = Sein Tanz ist irgendwie abscheulich.[br]Bist du sicher, dass du ihn gewinnen lassen möchtest?

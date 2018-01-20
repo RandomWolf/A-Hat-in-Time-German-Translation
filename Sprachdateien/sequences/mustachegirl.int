@@ -136,7 +136,7 @@ snatcher20_mu = Wha?! Hey!
 snatcher21_sn = Children these days.
 
 [finale]
-plead0 = Oh, was für eine berührende Geschichte. Ha, Scherz! Bösewicht! NÄCHSTER!
+plead0 = Oh, was für eine berührende Geschichte.[waitlong]Ha, Scherz![br]Bösewicht! NÄCHSTER!
 plead1 = Ich sagte, NÄCHSTER!
 plead2 = Ach, du bist's!
 plead3 = Du warst schon ein kleines egoistisches Vieh. Aber egal! Du warst mir nicht im Weg. Ich lass' dich gehen, du bist einer der Guten, oder so.
@@ -144,11 +144,11 @@ plead4 = Na komm. Du bleibst am Leben.
 plead5 = NÄCHSTER!
 
 slap0 = [scream]ENTSCHUDLIGE BITTE?[/scream]
-slap1 = Wage es ja nicht, mich anzufassen. Du hast anscheinend noch nicht ganz verstanden wer hier vor dir steht, Kleine.
+slap1 = Wage es ja nicht, mich anzufassen. Du hast anscheinend noch nicht ganz verstanden, wer hier vor dir steht, Kleine.
 slap0_alt = [scream]ERBÄRMLICH![/scream]
 slap2 = Weißt du, ich wollte dir verzeihen. Ich dachte damals, dass wir beste Freunde werden.
 slap3 = Aber NEIN, du wolltest egoistisch und faul sein. Retten den Planeten vom Bösen? Pfft, wer braucht das schon, hab' ich Recht?
-slap4 = Schau', was ich ohne dich erreicht hab. Ich hab' Gerechtigkeit wiederhergestellt. ICH BIN die Gerechtigkeit.[br]Keine Gegner, für immer.
+slap4 = Schau', was ich ohne dich erreicht hab. Ich hab' Gerechtigkeit[br]wiederhergestellt. ICH BIN die Gerechtigkeit.[br]Keine Gegner, für immer.
 slap5 = Ich brauche dich nicht. Dieser Planet braucht dich nicht. Niemand wird dich vermissen, und keinen wird es kümmern!
 slap6 = DU bist der Gegner, und ich zeige dir wie die Gerechtigkeit mit Gegnern umgeht.
 
@@ -156,9 +156,9 @@ leaving0 = Ernsthaft? Du gehst einfach? Nicht mal kämpfen? Erbärmlich.
 
 group_counter0 = W-Wa? Aber ich habe alles balanciert! Kein Böses mehr![br]Warum könnt ihr nicht sehen, dass ich das für uns alle tue?
 group_counter1 = Wie kannst du hinter diesen Leuten stehen? Sie sind Gauner! Verbrecher! Und du... Du hilfst ihnen?
-group_counter2 = Das wird enden!
+group_counter2 = Das hört jetzt auf!
 
 final_phase0 = [scream][big]Genug!![/big][/scream]
 
-suicide0 = W-Was passiert hier!? Wenn jeder weg ist, dann bleibe ich für immer aleine![br]Böse Gegner, hört auf!
+suicide0 = W-Was passiert hier!? Wenn jeder weg ist, dann bleibe ich für immer alleine![br]Böse Gegner, hört auf!
 suicide1 = Meine... Meine Kräfte verschwinden!?

@@ -12,7 +12,7 @@ Location_Attic = auf dem Dachboden
 DecorationPerfect = Als die [decorations] kombiniert wurden, erschien eine [dreamworld] in [name][chaptername][/name]! [br]Schaue in das Fernrohr des Kapitels, um zu sehen, wo es sich versteckt!
 
 [Ending]
-ThrowMu0 = Ein[icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um [icon:mugirl][name]Mädchen mit roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece]-Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann vielleicht nicht mehr nach Hause kommen können.)
+ThrowMu0 = Ein [icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um [icon:mugirl][name]Mädchen mit roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece]-Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann vielleicht nicht mehr nach Hause kommen können.)
 ThrowMu0_Yes = Ja
 ThrowMu0_No = Nein
 
@@ -25,7 +25,7 @@ radio0 = Das ist dein allerneustes, 'besser als die Besten' Audio-Gerät.
 radio1 = Ohne das, könntest du nicht deine Lieblingsradiosender einschalten, wie 'Unterhaltungen Am Tisch', 'Tschüsschen, Sonnenscheinstadt', oder 'Zwei Brüder Und Dann Auch Ein Weiterer Dritter Bruder, Ich'.
 microwave0 = Es ist eine Mikrowelle! Damit bestrafst du Essen, was schlecht war.
 wardrobe0 = Ein Schrank! Obwohl du nur ein Outfit bevorzugst, [br]denkst du immer noch, dass der Keller ein besserer Ort wäre für Leichen.
-button0 = Der Notfall-Knopf, das perfekte Design für Momente, [br]wenn du einen Knopf drücken möchtest, aber nirgendswo anders einen finden kannst.
+button0 = Der Notfall-Knopf, das perfekte Design für Momente, wenn du einen Knopf drücken möchtest, aber nirgendswo anders einen finden kannst.
 
 [Tokens]
 tokenmachine0 = Es ist eine kleine Maschine, die [icon:token][name]Münzen[/name] nimmt und dir ein Geschenk dafür gibt! [br][icon:token][name]3 Münzen[/name] einwerfen für ein Geschenk?

@@ -245,17 +245,17 @@ orbs_preserved1 = Viel Glück! Mafia hat den [hint]Eingang zur nächsten Etage[/hi
 [finale]
 outside0 = Das erinnert [br]Mafia an Zeit, wo Insel [br]mit Lava überflutet war. [br]Nur, anders.
 outside1 = Mafia hat nichts gemacht! Mafia lebt und enspannt sich auf Insel. Dort ist es immer 5 Uhr.
-outside2 = Mafia möchte nicht [br]veurteilt werden. Mafia ängstlich. Schwitz [br]durch Anzug.
-outside3 = Nicht sicher, ob [br]verurteilt wegen [br]Verbrechen oder Kochen. Nicht sicher, was [br]schlimmer ist.
-plea0 = Ich habe alten Mann nicht geschlagen für 2 ganze Tage!
+outside2 = Mafia möchte[br]nicht veurteilt werden.[br]Mafia ängstlich. Schwitz[br]durch Anzug.
+outside3 = Nicht sicher,[br]ob verurteilt wegen [br]Verbrechen oder Kochen. Nicht sicher, was [br]schlimmer ist.
+plea0 = Mafia hat alten Mann nicht für so 2 ganze Tage mal geschlagen!
 group_counter0 = [scream]SIE KANN ABHAUEN![/scream]
 group_counter1 = Bärtiges Mädchen ist hier nicht willkommen. Mafia sagt, hau ab!
-mafiaball0 = Kleines Hut-Kind kann das Bärtige Mädchen nicht treffen! Wir müssen helfen!
+mafiaball0 = Kleines Hut-Kind kann bärtiges Mädchen nicht treffen![br]Wir müssen helfen!
 
 suicide0 = Oh... wenn Mafia explodiert, Mafia lässt [icon:health][name]Pons[/name] fallen... das gibt Mafia eine Idee!
 suicide1 = Kleines Hut-Mädchen braucht unsere Hilfe. Wenn Mafia explodiert, bekommt sie nüzliche [icon:health][name]Pons[/name]. Mafia muss platzen, um Welt zu retten!
 suicide2 = Was?! Plan ist verrückt!
-suicide3 = Keine Sorge, Mafia-Freund. Sollte das Mädchen es schaffen, kommt Mafia zurück wenn sie Zeit zurückdreht! Nun... schlag mich mit deiner ganzen Kraft, Mafia-Kollege! Ohne zu Zögern!
+suicide3 = Keine Sorge, Mafia-Freund. Sollte das Mädchen es schaffen, kommt Mafia zurück, wenn sie Zeit zurückdreht! Nun... schlag mich mit deiner ganzen Kraft, Mafia-Kollege! Ohne zu zögern!
 suicide4 = [scream]Rotkäppchen...[br]Mädchen...[br]HAU AB![/scream]
 suicide5 = Hut-Mädchen, hier! Nimm!
 

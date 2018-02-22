@@ -115,7 +115,10 @@ TOTD_DCad = Begriff des Tages: Trägerische Trittfrequenz
 TOTD_Rondo = Begriff des Tages: Rondo
 TOTD_Allegro = Begriff des Tages: Allegro
 
-
+TP_Secured = ZEITSTÜCK GERETTET!
+TP_Detected = ZEITSTÜCK GESICHTET!
+TimeRift = Zerschmettertes Zeitstück hat einen Zeit-Riss erschaffen
+TimeRift_Cave = Zeitstück fiel und traf jemanden
 
 
 [Mountains]

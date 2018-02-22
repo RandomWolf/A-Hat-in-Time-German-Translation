@@ -57,8 +57,8 @@ acT_5_1 = Das Finale
 Spaceship_WaterRift_Gallery = Die Gallerie
 Spaceship_WaterRift_MailRoom = Das Labor
 
-Location_DreamWorld_Water = Zeit-Riss - Blau
-Location_DreamWorld_Cave = Zeit-Riss - Lila
+Location_DreamWorld_Water = Zeitriss - Blau
+Location_DreamWorld_Cave = Zeitriss - Lila
 Location_Spaceship = Das Raumschiff
 Location_Bookstore = Zeit abgelaufen
 
@@ -117,7 +117,7 @@ TOTD_Allegro = Begriff des Tages: Allegro
 
 TP_Secured = ZEITSTÜCK GERETTET!
 TP_Detected = ZEITSTÜCK GESICHTET!
-TimeRift = Zerschmettertes Zeitstück hat einen Zeit-Riss erschaffen
+TimeRift = Zerschmettertes Zeitstück hat einen Zeitriss erschaffen
 TimeRift_Cave = Zeitstück fiel und traf jemanden
 
 

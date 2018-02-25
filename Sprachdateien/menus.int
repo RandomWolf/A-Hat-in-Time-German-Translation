@@ -32,11 +32,11 @@ InputSettings_Title = Eingabeeinstellungen
 InputSettings_Desc = Ändere die Eingabemethode, füge neue Gamepads hinzu oder ändere die Tastenbelegung.
 InputSettings_Desc_Console = Passe die Einstellungen in Bezug auf Steuerelemente an.
 
-InputSettings_Icon_KeyBinds = Input Assist
-InputSettings_Icon_Controllers = Controllers
-InputSettings_Icon_Controllers_PS4 = Wireless controller
+InputSettings_Icon_KeyBinds = Eingabehilfe
+InputSettings_Icon_Controllers = Controller
+InputSettings_Icon_Controllers_PS4 = Drahtloser Controller
 InputSettings_Icon_Controllers_XBOX = Controller
-InputSettings_Icon_InvertAxis = Invert Axis
+InputSettings_Icon_InvertAxis = Achse umkehren
 
 [systemsettings.game]
 Header_Singleplayer = Einzelspieler
@@ -335,7 +335,7 @@ Item_OnTheFlyController_Title = Auto-Select Kontroller
 Item_OnTheFlyController_Desc = Wenn diese Option aktiviert ist und der Einzelspieler gespielt wird, ändert sich der[br]aktive Controller automatisch, wenn du eine Taste an einem neuen Controller drückst.
 
 Item_ManageDefinitions_Title = Controller-Definitionen
-Item_ManageDefinitions_Title_Item = Definitionen verwalten
+Item_ManageDefinitions_Title_Item = Verwalten
 Item_ManageDefinitions_Desc = Wir haben Unterstützung für eine Reihe von gängigen Controllern hinzugefügt, aber wenn du einen ungewöhnlichen Controller verwendest,[br]musst du ihn hier einrichten, um ihn verwenden zu können.
 
 Item_MouseSensitivity_Title = Maus-Empfindlichkeit

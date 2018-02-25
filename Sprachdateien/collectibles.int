@@ -108,7 +108,7 @@ MuddyDescTech0 = Drücke [button:badge], um dich mit Schlamm zu bedecken!
 
 AttackProjectileName = Projektil-Anstecker
 AttackProjectileDescFun0 = Projektil-Anstecker
-AttackProjectileDescTech0 = Halte [button:attack] gedrückt für eine Laser-Attacke!
+AttackProjectileDescTech0 = Halte [button:attack] gedrückt für eine[br]Laser-Attacke!
 
 CameraName = Kamera-Anstecker
 CameraDesc0 = Drücke [button:share], um Bilder von deiner Reise zu machen!
@@ -136,7 +136,7 @@ LungeAttackBadgeName = Ausholangriff-Anstecker
 LungeAttackBadgeDesc0 = Ausholangriff-Anstecker
 
 NoFallDamageBadgeName = Schwebe-Anstecker
-NoFallDamageBadgeDesc0 = Öffnet deinen Regenschirm kurz vor einem tödlichen Sturz automatisch! Dein Regenschirm wird kurz[br]vor einen großem Sturz[br]automatisch geöffnet!
+NoFallDamageBadgeDesc0 = Dein Regenschirm wird kurz vor einen großem Sturz automatisch geöffnet!
 
 NoBonkBadgeName = Anti-Abprall-Anstecker
 NoBonkBadgeDesc0 = Du prallst nicht mehr an Wänden ab, wenn du einen Hechtsprung machst!

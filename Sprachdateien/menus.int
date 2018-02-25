@@ -280,8 +280,8 @@ Item_Adv_Bloom_Desc = Wenn aktiviert, erzeugen helle Bereiche einen Glüheffekt.
 Item_Adv_LightShafts_Title = Lichtstrahlen
 Item_Adv_LightShafts_Desc = Die Sonne und andere helle Lichtquellen erzeugen Strahlen, die von Objekten vor der Kamera blockiert werden können.
 
-Item_Adv_ObjectMotionBlur_Title = Bewegungsunschärfe pro Objekt
-Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charakter angewendet.[br]Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
+Item_Adv_ObjectMotionBlur_Title = Bewegungsunschärfe
+Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charaktere angewendet.[br]Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
 
 Item_Adv_RadialBlur_Title = Kreisförmige Unschärfe
 Item_Adv_RadialBlur_Desc = Wenn aktiviert, werden Explosionen und Angriffe eine Unschärfe um den Effektbereich erzeugen.
@@ -325,7 +325,7 @@ Item_Adv_PP_Downsample_Title = Post Processing Auflösung
 Item_Adv_PP_Downsample_Desc = Downsampling-Post-Verarbeitung, um die Leistung zu verbessern.
 
 Header_Adv_Game = Spiel
-Item_Adv_PredictiveCamera_Title = Vorausschauende verfolgungs Kamera
+Item_Adv_PredictiveCamera_Title = Vorausschauende Verfolgungskamera
 Item_Adv_PredictiveCamera_Desc = Verbessert das Glätten der Kamera, indem Sie die Geometrie in der Nähe verfolgt.
 
 [systemsettings.input]
@@ -374,7 +374,7 @@ Loadout_Swap_Skin = Wähle eine Farbe aus!
 Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
 Loadout_Swap_Badge = Wähle einen Anstecker aus!
 Loadout_BadgeLocked = Du brauchst [yarn][num] [icon:yarn]Garn[/yarn] um das zu nähen!
-Loadout_BadgeLocked_Affordable = Drücke [button:menuconfirm] zum [yarn][num] [icon:yarn]Garn[/yarn] zu benutzen um zu nähen!
+Loadout_BadgeLocked_Affordable = Drücke [button:menuconfirm] zum [yarn][num] [icon:yarn]Garn[/yarn] zu[br]benutzen um zu nähen!
 
 Loadout_AbilityActivation_Trigger = Aktivieren
 Loadout_AbilityActivation_Jump = Sprung
@@ -391,11 +391,11 @@ Options_QuitGame_InGame_A_Return = Zurück!
 
 [MainMenu]
 FileSelect_File = Datei
-FileSelect_Progress_Completed = Vollständig
+FileSelect_Progress_Completed = Fertig
 FileSelect_New = Neue Datei erstellen
 
 Action_Delete = Spielstand löschen
-Action_Delete_Q = Bist du sicher, dass du[br]Spielstand [id]löschen willst?
+Action_Delete_Q = Bist du sicher, dass du[br]Spielstand [id] löschen willst?
 
 Action_NewGame = Neues Spiel starten
 Action_NewGame_Q = Neues Spiel starten?

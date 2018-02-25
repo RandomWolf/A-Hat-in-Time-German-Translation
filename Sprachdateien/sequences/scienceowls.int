@@ -63,7 +63,7 @@ intro1 = Ist es OK, wenn wir hier ein wenig üben? [br]Wenn du einen bestimmten S
 
 initial0 = Möchtest du die Musik austauschen, die du in Kapiteln hörst, oder willst du uns üben hören?
 initial0_a = Musik austauschen
-initial0_b = Spielt mir eine Melodie
+initial0_b = Spiel mir eine Melodie
 initial0_c = Tschau!
 listentomusic_generic0 = Okay, hör dir das an. Es ist ein neues Stück, an dem wir gearbeitet haben!
 listentomusic_bubblegum0 = Okay, Ohren auf. Wir haben diese Melodie in einem fernen Dorf gehört![br]Es hört sich sehr nach Bubblegum an! 

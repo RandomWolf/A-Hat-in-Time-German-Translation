@@ -2,4 +2,4 @@
 SplashScreen_CopyrightInfo=Copyright © 2013-2017   Gears for Breakfast, Aps.   All rights reserved.
 
 [Errors]
-NoDownload=You cannot join the match because the host has downloadable content you do not, or your content is outdated ('`~').
+NoDownload=Du kannst dem Spiel nicht beitreten, da der Host über herunterladbare Inhalte verfügt, die du nicht hast, oder wenn dein Inhalt veraltet ist ('`~').

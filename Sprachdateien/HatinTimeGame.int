@@ -117,8 +117,8 @@ TOTD_Allegro = Begriff des Tages: Allegro
 
 TP_Secured = ZEITSTÜCK GERETTET!
 TP_Detected = ZEITSTÜCK GESICHTET!
-TimeRift = Zerschmettertes Zeitstück hat einen Zeitriss erschaffen
-TimeRift_Cave = Zeitstück fiel und traf jemanden
+TimeRift = Ein Zerschmettertes Zeitstück hat einen Zeitriss [br]erschaffen!
+TimeRift_Cave = Das Zeitstück fiel und hat jemanden getroffen!
 
 
 [Mountains]

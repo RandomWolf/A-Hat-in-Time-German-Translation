@@ -126,10 +126,10 @@ AirAttackBadgeDesc0 = Erlaubt es dir in der Luft anzugreifen!
 MumbleBadgeName = Nuschel-Anstecker
 MumbleBadgeDesc0 = Verstopft deine Ohren, damit du nur noch leichtes Nuscheln hören kannst!
 
-HookshotBadgeName = Enterhaken-Anstecker
+HookshotBadgeName = Enterhaken
 HookshotBadgeDesc0 = Drücke und halte [button:attack], um von Haken zu Haken zu schwingen!
 
-FindRelicsBadgeName = Schatzsucher-Anstecker
+FindRelicsBadgeName = Entdecker-Anstecker
 FindRelicsBadgeDesc0 = Zeigt dir eine Karte, um [icon:relic] zu finden!
 
 LungeAttackBadgeName = Ausholangriff-Anstecker
@@ -141,7 +141,7 @@ NoFallDamageBadgeDesc0 = Dein Regenschirm wird kurz vor einen großem Sturz autom
 NoBonkBadgeName = Anti-Abprall-Anstecker
 NoBonkBadgeDesc0 = Du prallst nicht mehr an Wänden ab, wenn du einen Hechtsprung machst!
 
-HatCooldownBonusBadgeName = Flinker Hutmacher-Anstecker
+HatCooldownBonusBadgeName = Hutmacher-Anstecker
 HatCooldownBonusBadgeDesc0 = Verringert den Cooldown für Hüte!
 
 [loot]

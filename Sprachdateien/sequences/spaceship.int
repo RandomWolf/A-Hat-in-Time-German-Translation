@@ -30,16 +30,17 @@ button0 = Der Notfall-Knopf, das perfekte Design für Momente, wenn du einen Knop
 [Tokens]
 tokenmachine0 = Es ist eine kleine Maschine, die [icon:token][name]Münzen[/name] nimmt und dir ein Geschenk dafür gibt! [br][icon:token][name]3 Münzen[/name] einwerfen für ein Geschenk?
 tokenmachine1 = Nicht genügend [icon:token][name]Münzen[/name]!
-tokenmachine0_yes = Auf jedem Fall
+tokenmachine2 = Die Maschine ist leer!
+tokenmachine0_yes = Auf jeden Fall
 tokenmachine0_no = Ich hasse Geschenke
 
 [computer]
-computerstart0 = Ach ja. Der VGS 1 - der schnellste, komplizierteste Supercomputer, der jemals gebaut worden wurde.
-computerstart1 = Möchstest du es starten?
+computerstart0 = Ach ja. Der VGS 1 - der schnellste, komplizierteste Supercomputer, der jemals gebaut wurde.
+computerstart1 = Möchstest du ihn starten?
 computer_on_yes = Ja!
 computer_on_no = NEIN!!
-computerstart2a = Du startest es. Eine Computerwunderwelt wartet auf dich!
-computerstart2b = Du hast dich entschieden den Computer alein zu lassen. [br]Du bist noch nicht bereit dafür schnell zu sein.
+computerstart2a = Du startest ihn. Eine Computerwunderwelt wartet auf dich!
+computerstart2b = Du hast dich entschieden den Computer allein zu lassen. [br]Du bist noch nicht bereit für diese Geschwindigkeit.
 computer0 = HALLO, BENUTZER {UNDEFINED.USER}. [br]WILLKOMMEN ZU IHREM HEIMCOMPUTER-ERLEBNIS.
 computer1 = ÖFFNE PROGRAMM?
 computer2 = SYSTEM WIRD HERUNTERGEFAHREN.
@@ -50,7 +51,7 @@ computer_app_game = 'SPIELE'
 computer_app_earth = 'PLANET ERDE'
 computer_app_selfcare = 'VERSICHERUNG'
 computer_app_search = 'SUCHEN'
-computer_app_browser = 'DAS NETZ SURFEN'
+computer_app_browser = 'NETZ SURFEN'
 computer_app_shutdown = 'HERUNTERFAHREN'
 
 computersearch0 = SIE HABEN DAS SUCHPROGRAMM AUSGEWÄHLT.
@@ -152,11 +153,11 @@ computerself1 = SIE SEHEN WIRKLICH NETT HEUTE AUS.
 computerself2 = HABEN SIE ETWAS ANDERES MIT IHREM HAAR GEMACHT?[br]SIE SEHEN MUNTER AUS.
 computerself3 = VERGISS NICHT ALLES SAUBER ZU HALTEN UND ALLES SCHÖN ZU ORDNEN. [br]ES KANN STRESSIG WERDEN, FALLS AUFGABEN SICH AUFTÜRMEN.
 computerself4 = DU SOLLTEST NACH DRAUßEN GEHEN UND FRISCHE LUFT BEKOMMEN, FALLS SIE KÖNNEN. ES IST GUT NACH DRAUßEN FÜR EINE WEILE ZU GEHEN.
-computerself5 = VERGISSE NICHT GENUG ZU ESSEN. VERSUCHE NICHT FRÜHSTÜCK ZU VERPASSEN, ES IST WICHTIG.
-computerself6 = ES IST NATÜRLICH FEHLER UND TEILE VON DIR ZU HABEN, MIT DENEN DU NICHT GLÜCKLICH BIST. ES IST OKAY DARAN MIT EINEM GEMÜTLICHEN TEMPO ZU ARBEITEN. 
-computerself7 = DU HAST WERT. PASSE AUF DICH AUF. SEI GUT ZU DICH UND ZU ANDEREN.
+computerself5 = VERGISS NICHT GENUG ZU ESSEN. VERSUCHE NICHT DAS FRÜHSTÜCK ZU VERPASSEN, ES IST WICHTIG.
+computerself6 = ES IST NATÜRLICH FEHLER UND TEILE IN DIR ZU HABEN, MIT DENEN DU NICHT GLÜCKLICH BIST. ES IST OKAY DARAN MIT EINEM GEMÜTLICHEN TEMPO ZU ARBEITEN. 
+computerself7 = DU HAST WERT. PASS AUF DICH AUF. SEI GUT ZU DIR UND ZU ANDEREN.
 computerself8 = VERSICHERUNG-PROGRAMM WIRD GESCHLOSSEN.
 
-computersurf0 = SIE HABEN DAS 'DAS NETZ SURFEN'-PROGRAMM AUSGEWÄHLT.
-computersurf1 = LEIDER SIND DIE WELLEN KLEIN GERADE. BITTE VERSUCHEN SIE ES SPÄTER NOCHMAL.
-computersurf2 = 'DAS NETZ SURFEN'-PROGRAMM WIRD GESCHLOSSEN.
+computersurf0 = SIE HABEN DAS 'NETZ SURFEN'-PROGRAMM AUSGEWÄHLT.
+computersurf1 = LEIDER SIND DIE WELLEN GERADE KLEIN. BITTE VERSUCHEN SIE ES SPÄTER NOCHMAL.
+computersurf2 = DAS 'NETZ SURFEN'-PROGRAMM WIRD GESCHLOSSEN.

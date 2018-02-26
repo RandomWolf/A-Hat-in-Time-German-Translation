@@ -5,6 +5,10 @@ Contract = Vertrag
 Hostage0 = Ich werde folgende Geisel nehmen:
 Hostage1 = ... aber behalte alles, was du auf deinem Weg findest!
 
+Conditions_3Lives = Du hast 3 Leben
+Conditions_NoCheckpoints = Keine Checkpoints
+Conditions_ClearLevel = Du musst ein Zeitstück finden
+
 [Hat_SnatcherContract_IceWall]
 Title = Säubere den Subcon-Brunnen
 SubconVillage = Finde das Subcon-Dorf
@@ -14,11 +18,11 @@ BreakIce = Zerbreche das Eis
 FlowBloom = Lass' die Blumen blühen
 
 [Hat_SnatcherContract_Bonfires]
-Title = Erhitze das Lagerfeuer für die Feuergeister
-BonfireYellow = Erhitze das gelbe Lagerfeuer
-BonfireGreen = Erhitze das grüne Lagerfeuer
-BonfireBlue = Erhitze das blaue Lagerfeuer
-BonfirePurple = Erhitze das lilane Lagerfeuer
+Title = Entfache das Lagerfeuer für die Feuergeister
+BonfireYellow = Entfache das gelbe Lagerfeuer
+BonfireGreen = Entfache das grüne Lagerfeuer
+BonfireBlue = Entfache das blaue Lagerfeuer
+BonfirePurple = Entfache das lilane Lagerfeuer
 
 [Hat_SnatcherContract_Vanessa]
 Title = Bring' mir etwas aus der Villa

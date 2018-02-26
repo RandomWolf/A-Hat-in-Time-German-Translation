@@ -225,13 +225,13 @@ intro_b = Bye, Loser!
 intro_c = Mach endlich das Rennen mit mir!
 
 [sell_decoration]
-intro0 = Little child! You! Yes, you! You want to give Mafia money, yes? Of course you do!
-intro1 = Mafia need money... fast! You got money? You buy Mafia's dearest belonging.
-intro2 = Mafia dearest belong is... uh... [name]burger cushion[/name]! Yes, finest [name]burger cushion[/name] in town! 
-intro3 = So please buy, or Mafia may be having bath time with little fishies.
-deny0 = Why, why not buy from Mafia!? Mafia really need money, please buy!!
-retry0 = Please buy! Please buy! Mafia really need money!!
-accept0 = Thank you! Mafia will spend money carefully. At secret gamble room.
+intro0 = Hey kleines Kind! Du! Ja, du! Willst du Mafia Geld geben, ja? Natürlich willst du!
+intro1 = Mafia braucht Geld... schnell! Hast du Geld? Du kaufst Mafia tiefstes Verlangen.
+intro2 = Mafias tiefstes Verlangen ist... uh... [name]Burger-Kissen[/name]! Ja, feinstes [name]Burger-Kissen[/name] der ganzen Stadt! 
+intro3 = Also bitte kaufen, oder Mafia wird vielleicht mit den kleinen Fischen baden.
+deny0 = Wieso, wieso nicht kaufen von Mafia!? Mafia braucht das Geld, bitte kaufen!!
+retry0 = Bitte Kaufen! Bitte Kaufen! Mafia braucht das Geld!!
+accept0 = Danke! Mafia wird das Geld vorsichtig ausgeben. In geheimen Spielzimmer .
 
 [cave_dreams]
 rules_explained0 = Hallo, kleines Mädchen. Das hier ist Mafia-Zeitriss. [timepiece][icon:timepiece]Zeitstück[/timepiece] hat Mafia an Kopf getroffen, und nun ist Zeitriss gefüllt mit Mafias Träumen und Gedanken.

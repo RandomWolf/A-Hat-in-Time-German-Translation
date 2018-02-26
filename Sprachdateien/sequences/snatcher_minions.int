@@ -1,6 +1,6 @@
 [guides]
-SubconWell0 = [hint]Subcon-Brunnen[/hint][br]ist hier lang!
-Manor0 = [hint]Die Villa[/hint][br]ist hier lang!
+SubconWell0 = Zum [hint]Subcon-Brunnen[/hint][br] hier lang!
+Manor0 = Zur [hint]Die Villa[/hint][br] hier lang!
 EyeBlockade0 = Es hat sein [hint]Auge[/hint] auf etwas, hm?
 Swamp0 = Ich habe ein echt[br][hint]sinkendes[/hint] Gefühl bei[br]diesem Ort... Kapiert?
 BigTree0 = Ich wette die Aussicht von dem [hint]großen Baum[/hint] ist ziemlich gut!
@@ -10,7 +10,7 @@ Ice0 = Es ist schwer mit diesen Einwohnern zu reden...
 Ice1 = Vielleicht kannst du mit [hint]denen das Eis[/hint] brechen?
 Graves0 = Ich hab gehört [hint]Grabraub[/hint] zahlt sich aus!
 Mushroom0 = Einige dieser [br][hint]Pilze[/hint] schleudern [br]dich ziemlich hoch! 
-Mushroom1 = Hier ist ein Witz versteckt, [br]aber ich glaube nicht ein Kind [br]würde ihn verstehen.
+Mushroom1 = Hier ist ein Witz versteckt, [br]aber ich glaube ein Kind [br]würde ihn nicht verstehen.
 Noose0 = Diese Seile [br]sind wie Aufzüge, [br]falls du sicher [br][hint]festhängen[/hint] kannst.
 House0 = Ist das [icon:yarn] dort oben? 
 House1 = Vielleicht sind einige dieser [hint]Äste[/hint] [br]noch nicht ganz [br]verbrannt.

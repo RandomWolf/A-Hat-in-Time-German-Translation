@@ -1,13 +1,13 @@
 [manor]
-intro0 = [shake2]Hey hey now! No reason to throw a fist at your old buddy, [wave]ha ha ha ha[/wave]![/shake2]
-intro1 = [shake2]What are you doing up here? Don't you know she'll go mental if she catches you?[/shake2]
-intro2 = [shake2]What, me? Just looking for some dirt on my old friend [name]the Moonjumper[/name][/shake2].
-intro3 = [shake2]Poor fellow, doesn't even know he used to live here! Eeeeevery time I bring him something from this place, he almost wets his bed in fear, [wave]HA HA HA!![/wave][/shake2]
-intro4 = [shake2][name]Subcon Forest[/name] isn't big enough for the two of us, you know. And now you, a little girl, are trying to enter the fight for the forest as well? My my, that won't do.[/shake2]
-intro5 = [shake2]You need to go up, or else she'll come up here and find you, right? I guess it would be a terrible misfortune if [hint]the key disappeared[/hint], [wave]ha ha ha[/wave]![/shake2]
+intro0 = [shake2]Aber aber! Es gibt keinen Gund deinen alten Freund zu boxen, [wave]ha ha ha ha[/wave]![/shake2]
+intro1 = [shake2]Was machst du ort oben? Weißt du nicht, dass sie verrückt wird, wenn sie dich fängt?[/shake2]
+intro2 = [shake2]Was, ich? Ich suche nur nach etwas Dreck an meinem alten Freund, dem [name]Moonjumper[/name][/shake2].
+intro3 = [shake2]Armer Kerl, weiß nicht einmal, dass er hier gewohnt hat! Jeeeedes Mal, wenn ich ihm etwas von hier bringe, durchnässt er fast sein Bett vor Angst, [wave]HA HA HA!![/wave][/shake2]
+intro4 = [shake2]Der [name]Subcon Wald[/name] ist nicht groß genug für uns beide, weißt du. Und jetzt versuchst du, ein kleines Mädchen, auch um den Wald zu kämpfen? Mein Güte, das wird nicht reichen.[/shake2]
+intro5 = [shake2]Du musst nach oben gehen, sonst wird sie hier heraufkommen und dich finden, oder? Ich denke, es wäre ein schreckliches Unglück, wenn [hint]der Schlüssel verschwindet[/hint], [wave]ha ha ha[/wave]![/shake2]
 
-chase0 = [shake2][wave]Ha ha ha![/wave] It's mine![/shake2]
-chase1 = [shake2]What are you gonna do? Don't you know, you can't [hint]hurt a shadow[/hint]![/shake2]
+chase0 = [shake2][wave]Ha ha ha![/wave] Das ist meins![/shake2]
+chase1 = [shake2]Was willst du machen? Schon vergessen, du kannst keinen [hint]Schatten verletzen[/hint]![/shake2]
 
 givekey0 = [shake2]Oh, du willst den Schlüssel? Kannst du gerne haben![/shake2]
 givekey1 = [shake2]Ich brauche den Schlüssel eh nicht... du aber auch nicht wenn sie dich fängt! [wave]HA HA HA![/wave][/shake2]
@@ -54,7 +54,7 @@ contract_agree5 = [shake2]Auf Wiedersehen! Sei vorsichtig! Versuch' nicht zu ste
 
 enter_village0 = [shake][big][scream][wave]HALLÖÖÖÖÖÖCHEEEEEEN![/wave][/scream][/big][/shake][br][shake2]Du hast mich doch nicht vergessen, oder?! Sag' mir nicht "Doch."![/shake2]
 enter_village1 = [shake2]Wie geht's? Arbeitest du gerade an deinen vertraglichen Verpflichtungen? Hoffentlich! Denk' an unseren Deal![/shake2]
-enter_village2 = [shake2]Zieh' dir das rein. Diese nervigen [name]Feuer-Geister[/name] die dort rumsitzen, mitten in meinem Dorf.[/shake2]
+enter_village2 = [shake2]Zieh' dir das rein. Diese nervigen [name]Feuergeister[/name] die dort rumsitzen, mitten in meinem Dorf.[/shake2]
 enter_village3 = [shake2]Ihr kleiner Tanz erschafft diese sehr nervigen Barrieren, die mir den Zugang zu meinem Wald abblocken. Es ist fast so, als würden sie versuchen mich los werden zu wollen. Wie niedlich.[/shake2]
 enter_village4 = [shake2]Werd' sie los. Mich kümmert es nicht wie du es machst. Hauptsache ist, dass sie leiden müssen! [wave]HEHEHEHE![/wave][/shake2]
 enter_village5 = [shake2]Jedenfalls, zurück zur Arbeit, Sklave![br]Das hier ist kein Urlaub, und ich werde ziemlich ungeduldig![/shake2]

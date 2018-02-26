@@ -2,10 +2,10 @@
 WorkshopBrowser=Steam Workshop
 
 [UnrealEd]
-WorkshopName = Workshop Item Name
-WorkshopLastMod = Last Updated
+WorkshopName = Workshop Objekt Name
+WorkshopLastMod = Letztes Update
 WorkshopStatus = Status
-WorkshopStatus_NotSubmit = Not Submitted
+WorkshopStatus_NotSubmit = Nicht eingereicht
 
 ConversationTreeEditor_F=Gears for Breakfast ConversationTree Editor: `~
 ConversationPlay = Play Conversation

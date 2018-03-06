@@ -57,7 +57,7 @@ enter_village1 = [shake2]Wie geht's? Arbeitest du gerade an deinen vertraglichen
 enter_village2 = [shake2]Zieh' dir das rein. Diese nervigen [name]Feuergeister[/name] die dort rumsitzen, mitten in meinem Dorf.[/shake2]
 enter_village3 = [shake2]Ihr kleiner Tanz erschafft diese sehr nervigen Barrieren, die mir den Zugang zu meinem Wald abblocken. Es ist fast so, als würden sie versuchen mich los werden zu wollen. Wie niedlich.[/shake2]
 enter_village4 = [shake2]Werd' sie los. Mich kümmert es nicht wie du es machst. Hauptsache ist, dass sie leiden müssen! [wave]HEHEHEHE![/wave][/shake2]
-enter_village5 = [shake2]Jedenfalls, zurück zur Arbeit, Sklave![br]Das hier ist kein Urlaub, und ich werde ziemlich ungeduldig![/shake2]
+enter_village5 = [shake2]Jedenfalls, zurück zur Arbeit, Soldat![br]Das hier ist kein Urlaub, und ich werde ziemlich ungeduldig![/shake2]
 
 [breakice_contract]
 breakice0 = [shake][big][scream][wave]GUT GEMACHT![/wave][/scream][/big][/shake][br][shake2]Bitte sag mir, dass sie gelitten haben. Du hast sie getötet, oder? Ich wette, du hast sie erdrosselt! Gutes Mädchen! [scream][wave]Ha ha ha ha![/wave][/scream][/shake2]

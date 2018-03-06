@@ -1,6 +1,6 @@
 [manor]
-intro0 = [shake2]Aber aber! Es gibt keinen Gund deinen alten Freund zu boxen, [wave]ha ha ha ha[/wave]![/shake2]
-intro1 = [shake2]Was machst du ort oben? Weißt du nicht, dass sie verrückt wird, wenn sie dich fängt?[/shake2]
+intro0 = [shake2]Aber aber! Es gibt keinen Grund deinen alten Freund zu boxen, [wave]ha ha ha ha[/wave]![/shake2]
+intro1 = [shake2]Was machst du dort oben? Weißt du nicht, dass sie verrückt wird, wenn sie dich fängt?[/shake2]
 intro2 = [shake2]Was, ich? Ich suche nur nach etwas Dreck an meinem alten Freund, dem [name]Moonjumper[/name][/shake2].
 intro3 = [shake2]Armer Kerl, weiß nicht einmal, dass er hier gewohnt hat! Jeeeedes Mal, wenn ich ihm etwas von hier bringe, durchnässt er fast sein Bett vor Angst, [wave]HA HA HA!![/wave][/shake2]
 intro4 = [shake2]Der [name]Subcon Wald[/name] ist nicht groß genug für uns beide, weißt du. Und jetzt versuchst du, ein kleines Mädchen, auch um den Wald zu kämpfen? Mein Güte, das wird nicht reichen.[/shake2]
@@ -31,7 +31,7 @@ intro2 = [shake2]Du hast es vermasselt! Komplett vermasselt! Keiner betritt mein
 intro3 = [shake2]Ich sag dir was, warte eine Minute! Du darfst leben! Du hast richtig gehört, du Glückspilz![/shake2]
 intro4 = [shake2]Normalerweise würde ich deine Seele essen und deinen Körper wegwerfen, aber heute nicht! Du hast die Lotterie gewonnen, denn ich benötige einen hirnlosen Sklaven![/shake2]
 intro5 = [shake2]Du hast richtig gehört! Der andere ist gestorben. Sein Kopf ist geplatzt! Jetzt brauche ich einen neuen Laufburschen![/shake2]
-contract_appear0 = [shake2]Hör' gut zu. Ich habe ein Stück Papier hier, kümmer dich nicht um das Kleingedruckte! Du musst nur hier unten unterschreiben![/shake2]
+contract_appear0 = [shake2]Hör' gut zu. Ich habe ein Stück Papier hier, kümmere dich nicht um das Kleingedruckte! Du musst nur hier unten unterschreiben![/shake2]
 
 contract_disagree_retry = Gutes Argument.
 contract_disagree_decline = Ich verweigere mich!
@@ -40,7 +40,7 @@ contract_disagree0 = [shake2]Komm schon, mach das nicht schwierig! Du hast nicht
 contract_disagree1 = [shake2]Ich glaube nicht ich hab mich klar genug ausgedrückt: WAS DU DENKST INTERESSIERT MICH NICHT. Schreib deinen Namen auf den Vertrag oder ich werde deinen leblosen Körper dafür nutzen![/shake2]
 contract_disagree2 = [shake2]LETZTE CHANCE! Unterschreibe das Papier![/shake2]
 contract_disagree3 = [shake2]Schade! Ich gab dir eine Möglichkeit eine schlechte Situation wieder hinzubekommen, aber du hast es vermasselt! Deine einzige[br]Überlebenschance direkt aus dem Fenster geworfen![/shake2]
-contract_disagree4 = [shake2]Tschüss! Ich mein', "Tschüss" zu deinem Selbstbewusstsein, und "Hallo" zu deinen leblosen Körper![/shake2]
+contract_disagree4 = [shake2]Tschüss! Ich mein', "Tschüss" zu deinem Selbstbewusstsein, und "Hallo" zu deinem leblosen Körper![/shake2]
 
 contract_agree0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
 contract_agree1 = [shake2]Das schließt den Deal ab! Wir sind im Geschäft! Ich nehm' das hier nur kurz...[/shake2]
@@ -63,7 +63,7 @@ enter_village5 = [shake2]Jedenfalls, zurück zur Arbeit, Sklave![br]Das hier ist 
 breakice0 = [shake][big][scream][wave]GUT GEMACHT![/wave][/scream][/big][/shake][br][shake2]Bitte sag mir, dass sie gelitten haben. Du hast sie getötet, oder? Ich wette, du hast sie erdrosselt! Gutes Mädchen! [scream][wave]Ha ha ha ha![/wave][/scream][/shake2]
 breakice1 = [shake2]Noch sind wir aber nicht fertig! Es sind noch mehr als genug Plagegeister in meinem Wald, und du musst dich um sie kümmern.[/shake2]
 breakice2 = [shake2]Das nächste auf deiner Liste: Säubere den Subcon-Brunnen. Das ist richtig, du bist jetzt ein Klempner! Glückwunsch zu deiner Beförderung![/shake2]
-breakice3 = [shake2]Ich habe auch noch... andere Arbeit für dich, die ich nicht selbst machen kann. Aber hey, solange ich dich brauche bleibst du am Leben. Was für'n Deal, oder?[/shake2]
+breakice3 = [shake2]Ich habe auch noch... andere Arbeit für dich, die ich nicht selbst machen kann. Aber hey, solange ich dich brauche bleibst du am Leben. Was für ‘n Deal, oder?[/shake2]
 
 breakice4 = [shake2]Genug geredet! Du siehst aus als könntest du mehrere Aufgaben ausführen! Wie wär's mit einem weiteren Vertrag?[/shake2]
 breakice5 = [shake2]Nimm' einen, aber nur einen! Ist es nicht spannend sein Leben davon zu schreiben?[/shake2]
@@ -74,14 +74,14 @@ breakice8 = [shake2]Du darfst es behalten, aber das ist das einzige Mal wo ich d
 
 [contract_generic_trap]
 trapA0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]NAAAAAArrr... oh, du bist's..[/shake2]
-trapA1 = [shake2]Ich habe gehofft, dass jemand anderes in meine Falle tritt. Ich habe schon deine Seele genommen und alles. Hast du überhaubt deinen anderen Vertrag schon abgeschlossen?[/shake2]
+trapA1 = [shake2]Ich habe gehofft, dass jemand anderes in meine Falle tritt. Ich habe schon deine Seele genommen und alles. Hast du überhaupt deinen anderen Vertrag schon abgeschlossen?[/shake2]
 trapA2 = [shake2]Nimm's nicht persönlich, Kleine. Aber bleib' von meinen Fallen fern. Ich kann nicht so oft schreien wie's mir lieb ist. Du nimmst die Erfahrungen weg von anderen![/shake2]
 trapA3 = [shake2]Aber, da du ja eh in meine Falle reingelaufen bist, verlängern wir einfach mal deine Verträge![/shake2]
 trapA4 = [shake2][small]*hust*[/small][/shake2][br] [br][shake][big][scream][wave]NAAAAAAAAAAAAAAAAAARRRR!![/wave][/scream][/big][/shake]
 trapA5 = [shake2]Du hast meinen Wald betreten, und nun musst du dafür bezahlen![/shake2]
 trapA6 = [shake2]Such' dir was aus! Welche Last willst du für den Rest deines Lebens mit dir 'rumschleppen?![/shake2]
 
-trapA7 = [shake2]Keine schlechte Wahl! Das wird' ein Kinderspiel sein! Du lässt aber alle schweren Aufträger für die Neulinge. Was ziemlich gemein ist wenn man darüber nachdenkt.[/shake2]
+trapA7 = [shake2]Keine schlechte Wahl! Das wird' ein Kinderspiel sein! Du lässt aber alle schweren Aufträge für die Neulinge. Was ziemlich gemein ist wenn man darüber nachdenkt.[/shake2]
 trapA8 = [shake2]Was auch immer! Ich bin weg! Bis zum nächsten Mal![/shake2]
 
 [home]
@@ -143,16 +143,16 @@ death2 = [shake2]Bitte...[waitlong] *huff*[waitlong] habe Gnade...[/shake2]
 death3 = [shake2][waitlong][wait]Bitte... [br] [waitlong][waitlong][br][big]SETZ' DICH DOCH[/big][/shake2][waitlong][waitlong]
 death4 = [shake2]All diese [icon:timepiece][timepiece]Zeitstücke[/timepiece] sind in MEINEM Wald gelandet. Sie sind MEIN Eigentum.[/shake2]
 death5 = [shake2]So, wie wär's mit einem Deal, junge Dame? Du verschwindest aus meinem Wald, und wir sehen dich hier nie wieder. Wie hört sich das an?[/shake2]
-death6 = [shake2]Nicht gut? Was für'n Jammer! Du hast hier nichts zu sagen.[/shake2]
+death6 = [shake2]Nicht gut? Was für 'n Jammer! Du hast hier nichts zu sagen.[/shake2]
 death7 = [shake2]Hier, ich mach' es dir sogar einfach![/shake2]
 death8 = [shake2]Alles was du machen musst, ist zu unterschreiben![/shake2]
 
 sign0 = [shake2]...Du weißt schon, dass Verträge so nicht funktionieren, oder?[/shake2]
-sign1 = [shake2]Ich geb dir 'ne Chance abzuhauen, Kleine! Keine Tricks dieses Mal! [/shake2]
+sign1 = [shake2]Ich geb' dir 'ne Chance abzuhauen, Kleine! Keine Tricks dieses Mal! [/shake2]
 sign2 = [shake2]Was wenn ich dir deine Seele zurück gebe? Haust du dann ab?[/shake2]
 sign3 = [shake2]Ja? Nein? Hallo? Ist da jemand? Warum sagst du nichts?[/shake2]
 sign4 = [shake2].......[/shake2]
-sign5 = [shake2]...Du bist nicht gerade sehr gesprächig, oder? Und ein schwerer Verhandler.[/shake2]
+sign5 = [shake2]...Du bist nicht gerade sehr gesprächig, oder? Und ein harter Verhandlungspartner.[/shake2]
 sign6 = [shake2]Okay, ich werde den Deal für dich verbessern.[/shake2]
 sign7 = [shake2]Hier, nimm mein letztes [icon:timepiece][timepiece]Zeitstück[/timepiece]. Sollte ich dich hiernach noch in meinem Wald sehen, werde ich sehr enttäuscht sein![/shake2]
 
@@ -168,7 +168,7 @@ group_counter0 = [shake2]Diese alternative Realität stinkt! Hau ab![/shake2]
 cherrybombs0 = [shake2]Einigen wir uns auf einen Vertrag und sorgen dafür, dass das Mädchen abhaut! [br]Ein für alle Mal![/shake2]
 cherrybombs1 = [shake2]Hahaha! Okay, los geht's! Ich erschaffe, du wirfst![/shake2]
 
-suicide0 = [shake2]Wir BRAUCHEN keinen Held! HAU AB![/shake2]
+suicide0 = [shake2]Wir BRAUCHEN keinen Helden! HAU AB![/shake2]
 
 [ending]
 hang0 = [shake2]Hey, Kleine, wie wär's mit einem neuen Vertrag![/shake2]

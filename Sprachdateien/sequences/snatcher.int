@@ -37,7 +37,7 @@ contract_disagree_retry = Gutes Argument.
 contract_disagree_decline = Ich verweigere mich!
 
 contract_disagree0 = [shake2]Komm schon, mach das nicht schwierig! Du hast nicht wirklich eine Wahl! Unterschreib das Papier![/shake2]
-contract_disagree1 = [shake2]Ich glaube nicht ich hab mich klar genug ausgedrückt: WAS DU DENKST INTERESSIERT MICH NICHT. Schreib deinen Namen auf den Vertrag oder ich werde deinen Leblosen Körper dafür nutzen![/shake2]
+contract_disagree1 = [shake2]Ich glaube nicht ich hab mich klar genug ausgedrückt: WAS DU DENKST INTERESSIERT MICH NICHT. Schreib deinen Namen auf den Vertrag oder ich werde deinen leblosen Körper dafür nutzen![/shake2]
 contract_disagree2 = [shake2]LETZTE CHANCE! Unterschreibe das Papier![/shake2]
 contract_disagree3 = [shake2]Schade! Ich gab dir eine Möglichkeit eine schlechte Situation wieder hinzubekommen, aber du hast es vermasselt! Deine einzige[br]Überlebenschance direkt aus dem Fenster geworfen![/shake2]
 contract_disagree4 = [shake2]Tschüss! Ich mein', "Tschüss" zu deinem Selbstbewusstsein, und "Hallo" zu deinen leblosen Körper![/shake2]

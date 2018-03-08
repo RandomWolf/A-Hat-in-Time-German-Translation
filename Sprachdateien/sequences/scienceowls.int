@@ -81,7 +81,7 @@ calm1 = Haben wir mehr [br]Sprengstoff wie üblich[br] geladen?
 calm2 = Ich hoffe wir nehmen[br]heute nicht so lange auf...
 rush0 = [scream]Wir sind am Ende![/scream]
 rush1 = [scream]Lauf, Kleine![/scream]
-rush2= [scream]Ist hier eine Bombe auf dem Zug?![/scream]
+rush2= [scream]Ist hier eine Bombe[br]auf dem Zug?![/scream]
 
 [finale]
 outside0 = Was haben wir gemacht? 

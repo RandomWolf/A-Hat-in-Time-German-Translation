@@ -66,8 +66,8 @@ ParadeHatDesc0 = Die Anführerin, die diese Stadt braucht!
 [abilities]
 BadgeCollect0 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren; nur [name][badgepoints_left][/name] übrig!
 BadgeCollect1 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren und du hast [name][badgepoints_player][/name]![br]Drücke [button:start], um in das Pausemenü zu gelangen, wo du es aktivieren kannst!
-BadgeCollect2 = Er benötigt [badgepoints_required] Anstecker Punkte zum Aktivieren!
-BadgeCollect3 = Du hast genug Anstecker Punkte um ihn zu aktivieren!
+BadgeCollect2 = Er benötigt [badgepoints_required] Anstecker-Punkte zum Aktivieren!
+BadgeCollect3 = Du hast genug Anstecker-Punkte um ihn zu aktivieren!
 BadgeCollect4 = Du hast diesen Anstecker schon, aber bekommst trotzdem +1 Anstecker-Punkt!
 BadgePart = Teil
 

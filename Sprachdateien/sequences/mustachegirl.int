@@ -1,15 +1,15 @@
 [chapter1muchase]
 tower0 = Hey du,[waitlong] da unten! [waitlong][waitlong]Glaub nicht, dass mir nicht [br]aufgefallen ist, dass du hinter mich her schleichst!
-tower1 = Wir Kinder sollten uns zusammentun, nicht einander belästigen. Ich meine, [name]Mafia-Stadt[/name] kann ein sehr gefährlicher Ort sein! Also, was sagst du, willst du meiner kleinen Rebellion beitreten?
+tower1 = Wir Kinder sollten zusammenhalten, nicht einander belästigen. Ich meine, [name]Mafia-Stadt[/name] kann ein sehr gefährlicher Ort sein! Also, was sagst du, willst du meiner kleinen Rebellion beitreten?
 tower2 = Oh, so nebenbei, hast du irgendwas mit diesem [timepiece][icon:timepiece]Müll[/timepiece] zu tun, der vom Himmel fällt? Ja? Au weia, scheint als müsstest du viel aufräumen, nich'?
 tower3 = Weiß du was, komm' hier hoch und ich zeige dir, wo ein bisschen von deinem [timepiece][icon:timepiece]Müll[/timepiece] gelandet ist!
 
-tower_wrong_jump = Dein Standart-Sprung reicht dafür nicht aus. Du brauchst ein Doppelsprung dafür!
+tower_wrong_jump = Dein Standard-Sprung reicht dafür nicht aus. Du brauchst ein Doppelsprung dafür!
 
-mu_follow0 = Folg' mir, Rebell!
+mu_follow0 = Folge mir, Rebell!
 
 umbrella_there0 = Hey! Ich glaube, eines deiner [timepiece][icon:timepiece]Müllstücke[/timepiece] fiel und krachte direkt in die Markt-Fontäne. Hat sie ordentlich zersplittert.
-umbrella_there1 = Wenn du dahin gehen willst, dann vermeide einfach Augenkontakt mit den Mafiosi und alles wird gut sein. Viel Glück, neuer Rebell!
+umbrella_there1 = Wenn du dahin gehen willst, solltest Augenkontakt mit den Mafiosi vermeiden und dann wird alles gut sein. Viel Glück, neuer Rebell!
 umbrella_there2 = Man sieht sich!
 
 [chapter1combat]
@@ -26,27 +26,27 @@ thrown1 = Nein, wirf nicht miiiiiiiiiiiiich.....!
 
 battleend0 = Pfft. Kannst du denen glauben? Was für ein Haufen Loser.
 battleend1 = Hey. Du bist ziemlich okay, neues Kind. Hast du einen Namen?
-battleend2 = Nein? Bist du schüchtern? Ist okay. Du bist anscheinend mehr ein "weniger Reden, mehr Kämpfen"-Kind.
+battleend2 = Nein? Bist du schüchtern? Ist okay. Du bist also eher ein "weniger Reden, mehr Kämpfen"-Kind.
 battleend3 = Dieses [timepiece][icon:timepiece]Ding[/timepiece], das du da nahmst... sammelst du sie? Weil ich weiß, wo mehr von ihnen sind.
-battleend4 = Seitdem du hier angekommen bist, sind sie vom Himmel gefallen. Ich habe gesehen, dass die Trottel sie zu ihrem Hauptquatier nach ganz dort oben hinbringen.
+battleend4 = Seitdem du hier angekommen bist, sind sie vom Himmel gefallen. Ich habe gesehen, dass die Trottel sie zu ihrem Hauptquatier nach ganz dort oben schleppten.
 battleend5 = Wir sollten dahin gehen und dein Müll besorgen! Das wird spaßig! Ich nehme an jeder Gelegenheit teil, wo man mit den Mafia rumscherzen kann.
 battleend6 = Schlägst du ein?
 
 hifive0 = Yeah!!
 
 [intruder]
-PreAwakening0 = Bist du bereit, die Mafia zu stürzen!? Lass' es uns sofort tun! Ich bin so aufgeregt!
+PreAwakening0 = Bist du bereit, die Mafias zu besiegen!? Lass' es uns sofort tun! Ich bin so aufgeregt!
 PreAwakening1 = Lass uns einmal den Plan durchgehen! Alle Überfälle brauchen ein Plan, sonst funktioniert nichts!
-PreAwakening2 = Zuerst, erdrosseln wir sie! Wir erwürgen sie und schauen wie sie um Gnade winseln! Das wird's ihnen so richtig zeigen!
+PreAwakening2 = Zuerst, erdrosseln wir sie! Wir erwürgen sie und schauen wie sie um Gnade winseln! Das wird's denen so richtig zeigen!
 PreAwakening3 = Nein, warte, erdrosseln ist zu nett...
-PreAwakening4 = Wir schmeißen sie aneinander, bis sie nur noch Brei sind und füllen sie in ein Glas!
-PreAwakening5 = Dann verkaufen wir das Glas für etwas Taschengeld! Das wird das ultimative Salz in der Wunde!
-PreAwakening6 = ... [scream]*ähm*[/scream] Aber zuerst, müssen wir es durch[br]ihr [name]Mafia-Hauptquatier[/name] schaffen.
+PreAwakening4 = Wir schmeißen sie aneinander, bis sie nur noch Brei sind und füllen sie in einen Krug!
+PreAwakening5 = Dann verkaufen wir den Krug für Taschengeld! Das wird das ultimative Salz in der Wunde!
+PreAwakening6 = ... [scream]*ähem*[/scream] Aber zuerst, müssen wir es durch[br]ihr [name]Mafia-Hauptquatier[/name] schaffen.
 PreAwakening7 = Sobald wir den [name]Mafia-Boss[/name] gefunden und entthront haben, folgt der Rest. Dann wird unsere "Brei und Glas"-Party kein Problem mehr sein!
-PreAwakening8 = Wir müssen uns jedoch aufrüsten! Dein Hut ist Standard und wir sind nicht mit "Standard" in dieser Gang zufrieden!
+PreAwakening8 = Wir müssen uns jedoch aufrüsten! Dein Hut ist Standard und wir sind nicht mit "Standard" in unserer Gang zufrieden!
 PreAwakening9 = [hint][icon:yarn]Garn[/hint] kann überall in Mafia-Stadt gefunden werden und wird dazu benutzt neue Hüte zu nähen. Ich habe schon eins für dich gesammelt!
 PreAwakening10 = Du brauchst für manche Hüte mehr Garn als für andere. Kreativ sein ist anscheinend nicht grade kostenlos, oder? Also halte Ausschau nach Garn!
-PreAwakening11 = Jetzt bist du eine Killer-Maschine! Jetzt zeigen wir's denen!!
+PreAwakening11 = Jetzt bist du eine Killer-Maschine! Los, wir werden sie fertig machen!!
 
 [mafiahq]
 outside0 = Hast dir echt Zeit gelassen! Hilf mir mal!
@@ -58,19 +58,19 @@ captured0 = Lass mich los,[br]du Psycho!!
 mafia_ball_hint0 = Hat Kid![br]Triff ihn endlich!
 mafia_ball_hint1 = Komm schon! Kletter hoch[br]und gib' ihm Saures!
 
-timepiecebreak0 = Also, was machen diese Teile eigentlich? Sind das so eine Art seltene Sammelstücke für Streber?
-timepiecebreak1 = Sind das so eine Art seltene S... Moment mal, hä?
+timepiecebreak0 = Also, was machen diese Teile eigentlich? Sind das etwa so eine Art seltene Sammelstücke für Streber?
+timepiecebreak1 = Sind das etwa so eine Art seltene S... Moment mal, hä?
 timepiecebreak2 = [big][scream]Warte, WAS?![/scream][/big]
 timepiecebreak3 = Wa... hast... äh, hast du darüber gewusst?
-proposal0 = [scream]Das ist verrückt![/scream] Hast du überhapt eine Idee, was man damit machen kann?
-proposal1 = Wir könnten dich davor bewahren, damals von der Mafia geschlagen zu werden!
+proposal0 = [scream]Das ist der Wahnsinn![/scream] Hast du überhapt eine Idee, was man damit machen kann?
+proposal1 = Wir könnten vermeiden, dass dich dieser eine Mafia mal geschlagen hatte!
 proposal2 = Wir könnten die Mafia niederschlagen, zurückreisen und es nochmals tun!
 proposal3 = Nee, warte! Wir könnten verhindern, dass die Mafia auf diese Insel jemals gekommen sind!
 proposal4 = Moment, noch besser! Wir könnten zeitreisende Verbrechungskämpfer sein!
 tantrum0 = Äh, warum?! Das macht keinen Sinn!
 tantrum1 = Du hast diese gesamte Kraft, und benutzt es nicht für das Gute?
 tantrum2 = Wenn du sie nicht dafür einsetzt... dann werde ICH das tun!
-tantrum3 = Ich werde nicht diese Insel als Mafia-Stadt stehen lassen! Ich sammle alle [timepiece][icon:timepiece]Zeitstücke[/timepiece] selber! Merke dir diese Worte!
+tantrum3 = Ich werde diese Insel nicht als Mafia-Stadt stehen lassen! Ich sammle alle [timepiece][icon:timepiece]Zeitstücke[/timepiece] selber! Merke dir diese Worte!
 pickpocket_no_va = [name]Mustache Girl[/name] hat die Häflte deiner [icon:money][hint]Pons[/hint] geklaut.
 
 [MuMission_UI]
@@ -147,14 +147,14 @@ slap0 = [scream]ENTSCHUDLIGE BITTE?[/scream]
 slap1 = Wage es ja nicht, mich anzufassen. Du hast anscheinend noch nicht ganz verstanden, wer hier vor dir steht, Kleine.
 slap0_alt = [scream]ERBÄRMLICH![/scream]
 slap2 = Weißt du, ich wollte dir verzeihen. Ich dachte damals, dass wir beste Freunde werden.
-slap3 = Aber NEIN, du wolltest egoistisch und faul sein. Retten den Planeten vom Bösen? Pfft, wer braucht das schon, hab' ich Recht?
-slap4 = Schau', was ich ohne dich erreicht hab. Ich hab' Gerechtigkeit[br]wiederhergestellt. ICH BIN die Gerechtigkeit.[br]Keine Bösewichte, für immer.
-slap5 = Ich brauche dich nicht. Dieser Planet braucht dich nicht. Niemand wird dich vermissen, und keinen wird es kümmern!
+slap3 = Aber NEIN, du wolltest selbstsüchtig und faul sein. Retten den Planeten vom Bösen? Pfft, wer braucht das schon, hab' ich Recht?
+slap4 = Schau' was ich ohne dich erreicht hab. Ich hab' Gerechtigkeit[br]wiederhergestellt. ICH BIN die Gerechtigkeit.[br]Keine Bösewichte, für immer.
+slap5 = Ich brauche dich nicht. Dieser Planet braucht dich nicht. Niemand wird dich vermissen, und keinem wird es kümmern!
 slap6 = DU bist der Bösewicht, und ich zeige dir wie die Gerechtigkeit mit Gaunern umgeht.
 
 leaving0 = Ernsthaft? Du gehst einfach? Nicht mal kämpfen? Erbärmlich.
 
-group_counter0 = W-Wa? Aber ich habe alles balanciert! Kein Böses mehr![br]Warum könnt ihr nicht sehen, dass ich das für uns alle tue?
+group_counter0 = W-Wa? Aber ich habe alles balanciert! Kein Böses mehr![br]Warum könnt ihr nicht sehen, dass ich das für uns alle mache?
 group_counter1 = Wie kannst du hinter diesen Leuten stehen? Sie sind Gauner! Verbrecher! Und du... Du hilfst ihnen?
 group_counter2 = Das hört jetzt auf!
 

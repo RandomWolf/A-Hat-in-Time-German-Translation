@@ -11,7 +11,7 @@ GameSettings_Title = Spiel Einstellungen
 GameSettings_Desc = Anpassen von Einstellungen im Zusammenhang mit dem Gameplay.
 
 GameSettings_Icon_Singleplayer = Einzelspieler
-GameSettings_Icon_SplitScreen = Geteilter Bildschrim
+GameSettings_Icon_SplitScreen = Geteilter Bildschirm
 GameSettings_Icon_Camera = Kamera
 
 GraphicsSettings_Title = Grafik Einstellungen
@@ -29,7 +29,7 @@ AudioSettings_Icon_Volume = Lautstärke
 AudioSettings_Icon_Music = Musik
 
 InputSettings_Title = Eingabeeinstellungen
-InputSettings_Desc = Ändere die Eingabemethode, füge neue Gamepads hinzu oder ändere die Tastenbelegung.
+InputSettings_Desc = Ändere die Eingabemethode, füge neue Gamepads hinzu oder ändere die[br]Tastenbelegung.
 InputSettings_Desc_Console = Passe die Einstellungen in Bezug auf Steuerelemente an.
 
 InputSettings_Icon_KeyBinds = Eingabehilfe
@@ -46,6 +46,9 @@ Item_SpeedrunTimer_Desc = Verfolgt die Spielzeit pro Level.
 
 Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
 Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kannst du alle überspringbaren Zwischensequenzen überspringen, indem du diese Funktion aktivierst. Beachte, dass du unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen kannst.
+
+Item_Language_Title = Sprache
+Item_Language_Desc = Die Sprache, was der Text anzeigen wird. Ändert nicht die Synchronsprecher (du kannst diese in den Audio Einstellungen ändern).
 
 Header_SplitScreen = Geteilter Bildschirm
 Item_AllowSharedScreen_Title = Erlaube Bildschirmfreigabe
@@ -68,6 +71,9 @@ Item_FieldOfView_Item_Desc = Höhere Field of View(FoV)-Werte erweitern das perip
 Item_CameraAssist_Title = Kamera-Assist
 Item_CameraAssist_Desc = Wenn diese Option aktiviert ist, kann das Spiel die Kamera kontextabhängig steuern, um ein besseres Erlebnis zu erzielen. Empfohlen, wenn du manuelle Kamerasteuerungen nicht magst.
 
+Item_CameraShake_Title = Kamera-Schütteln
+Item_CameraShake_Desc = Schalte dies an und fühle wahrlich realistische Erdbeben während dein Bildschirm sich leicht schüttelt. Schalte es aus, damit dir nicht mehr übel ist.
+
 Item_ControllerTopDown_Title = Top-Down Kamera
 Item_ControllerTopDown_Desc = Wenn diese Option aktiviert ist, zoomt die Kamera aus der Vogelperspektive heraus. Wenn diese Option deaktiviert ist, dreht sich die Kamera frei.
 Item_ControllerTopDown_Item_None = Keines
@@ -76,8 +82,8 @@ Item_ControllerTopDown_Item_Mouse = Nur Maus
 Item_ControllerTopDown_Item_All = Beides
 
 Item_CameraSmoothRotation_Title = Kamera Glättung
-Item_CameraSmoothRotation_Desc = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervositöt und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen). Der Effekt ist am meisten mit einer Maus bemerkbar. Ausgestellt für rohe Mauseingaben.
-Item_CameraSmoothRotation_Desc_Console = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervositöt und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen).
+Item_CameraSmoothRotation_Desc = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervosität und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen). Der Effekt ist am meisten mit einer Maus bemerkbar. Ausgestellt für rohe Mauseingaben.
+Item_CameraSmoothRotation_Desc_Console = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervosität und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen).
 Item_CameraSmoothRotation_Item_VerySlow = Sehr Langsam
 Item_CameraSmoothRotation_Item_Slow = Langsam
 Item_CameraSmoothRotation_Item_Medium = Medium
@@ -102,7 +108,7 @@ Item_CameraZoomRestore_Desc = Wenn du dich ein wenig bewegt hast, [br]kehrt die 
 
 Header_Game_Misc = Misc
 Item_CameraUpscaling_Title = Sofortbildkamera
-Item_CameraUpscaling_Desc = Der Spielgegenstand "Sofortbildkamera" kann Bilder mit höherer Auflösung aufnehmen, als das Spiel gerade hat.[br]Ändere diese Option, um festzulegen, wie hochauflösende Bilder aufgenommen werden sollen[br](auf Kosten von Aufnahmen, die länger dauern).
+Item_CameraUpscaling_Desc = Der Spielgegenstand "Sofortbildkamera" kann Bilder mit höherer Auflösung aufnehmen, als das Spiel gerade hat.[br]Ändere diese Option, um festzulegen, wie hochauflösende Bilder aufgenommen werden sollen (auf Kosten von Aufnahmen, die länger dauern).
 Item_CameraUpscaling_Item_0 = Wie im Spiel
 
 Header_System = System-Einstellungen
@@ -134,7 +140,7 @@ Item_VAType_Item_Full = Voll
 Item_VAType_Item_Mumble = Nuscheln
 Item_VAType_Item_None = Keines
 
-Item_VolumeOnFocusLost_Title = Out of Focus Lautstärke
+Item_VolumeOnFocusLost_Title = "Out of Focus"-Lautstärke
 Item_VolumeOnFocusLost_Desc = Passt die Lautstärke des Spiels an, wenn das Spielfenster nicht im Fokus ist.
 
 Item_Audio3DPositioning_Title = 3D Positions-Audio
@@ -222,7 +228,7 @@ Item_Adv_SkelMeshLODBias_Title = Charakter Modell LOD Bias
 Item_Adv_SkelMeshLODBias_Desc = Je weiter du dich von den Charaktermodellen entfernst, desto geringer wird die Qualität.[br]Wenn du diese Einstellung erhöhst, entscheidest du, ab wann dies eintrifft.
 
 Item_Adv_Jigglebones_Title = Dynamische Charakterphysik
-Item_Adv_Jigglebones_Desc = Wenn aktiviert, werden Stoff, Haare und andere Komponenten auf bestimmten Charakteren basierend auf ihrer Bewegung simuliert.[br]Für den Spielercharakter umfasst das Dinge wie den Umhang, Haare und Reißverschlüsse.
+Item_Adv_Jigglebones_Desc = Wenn aktiviert, werden Stoff, Haare und andere Komponenten auf bestimmten Charakteren basierend auf ihrer Bewegung simuliert.[br]Für den Spielercharakter umfasst das Dinge wie den Umhang, Haare und[br]Reißverschlüsse.
 
 Item_Adv_CharacterTextureQuality_Title = Texturen-Qualität für Zeichen
 Item_Adv_CharacterTextureQuality_Desc = Bestimmt die Auflösung von Texturen für Zeichen. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
@@ -232,13 +238,13 @@ Item_Adv_DetailMode_Title = Spielweltdetails
 Item_Adv_DetailMode_Desc = [High]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Medium]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Low]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
 
 Item_Adv_DrawDistance_Title = Sichtweite
-Item_Adv_DrawDistance_Desc = Wenn du dich von einigen Umgebungsmodellen weiter entfernst, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden.[br]Wenn du diese Einstellung erhöhen, erhöhen Sie, wie weit sie reichen können, bevor dies geschieht.[br]Ein höherer Wert bedeutet höhere Qualitätshintergründe, jedoch zu erheblichen Leistungskosten.[br]Diese Option hat großen Einfluss auf die Leistung.
+Item_Adv_DrawDistance_Desc = Wenn du dich von einigen Umgebungsmodellen weiter entfernst, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden.[br]Wenn du diese Einstellung erhöhen, erhöhen Sie, wie weit sie reichen können, bevor dies geschieht.[br]Ein höherer Wert bedeutet höhere Qualitätshintergründe, jedoch zu erheblichen Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.
 
 Item_Adv_AnisotropicFiltering_Title = Anisotrope Filterung
 Item_Adv_AnisotropicFiltering_Desc = Wenn einige Texturen in einem Winkel betrachtet werden (wie Etagen), werden sie verschwommen, je weiter sie von der Kamera entfernt sind.[br]Die anisotrope Filterung verbessert dies für jeden Grad der Anisotropie; Die Anisotropie 16 ist doppelt so scharf wie die Anisotropie von 8.
 
 Item_Adv_WorldTextureQuality_Title = Texturen-Qualität für die Welt
-Item_Adv_WorldTextureQuality_Desc = Bestimmt die Auflösung von Texturen für die Umgebung. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
+Item_Adv_WorldTextureQuality_Desc = Bestimmt die Auflösung von Texturen für die Umgebung. Die niedrigste[br]Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
 
 Item_Adv_Fog_Title = Weltnebel
 Item_Adv_Fog_Desc = Rendert Nebel in der Spielwelt. Dies ist in Low-End-Systemen etwas aufwendiger.
@@ -258,17 +264,17 @@ Item_Adv_DominantDirectionalLight_Title = Spielwelt-Beleuchtung/Schattenqualität
 Item_Adv_DominantDirectionalLight_Desc = Der Renderer für Umgebungsbeleuchtung und Schatten.
 
 Item_Adv_ParticleShadows_Title = Partikelschatten
-Item_Adv_ParticleShadows_Desc = Entscheidet, ob Partikel Schatten werfen sollten.
+Item_Adv_ParticleShadows_Desc = Entscheidet, ob Partikelschatten werfen sollten.
 Item_Adv_ParticleShadows_Item_None = Keine
 Item_Adv_ParticleShadows_Item_Player = Nur Spieler
 Item_Adv_ParticleShadows_Item_Full = Alle
 
 Item_Adv_AllowDetailShadows_Title = Detailschatten
-Item_Adv_AllowDetailShadows_Desc = Erlaubt kleinere Objekte (wie Sammlerstücke), Schatten zu werfen. Qualität und Sichtbarkeit hängen von der Schattenauflösung ab.
+Item_Adv_AllowDetailShadows_Desc = Erlaubt kleinere Objekte (wie Sammelstücke), Schatten zu werfen. Qualität und Sichtbarkeit hängen von der Schattenauflösung ab.
 
 Header_Adv_Effects = Post-Processing-Effekte
 Item_Adv_DoF_Title = Tiefenschärfe
-Item_Adv_DoF_Desc = Die Schärfentiefe wendet eine Hintergrundunschärfe an. Du kannst dich auf das konzentrieren, was vor dir liegt, und entfernen visuelle Geräusche von weit entfernten Objekten.[br]Die komplexe Schärfentiefe ist präziser, jedoch mit viel höheren Leistungskosten.
+Item_Adv_DoF_Desc = Die Schärfentiefe wendet eine Hintergrundunschärfe an. Du kannst dich auf das konzentrieren, was vor dir liegt, und entfernen visuelle Geräusche von weit entfernten Objekten.[br]Die komplexe Schärfentiefe ist präziser, jedoch mit viel höheren[br]Leistungskosten.
 Item_Adv_DoF_Item_None = Keine
 Item_Adv_DoF_Item_Simple = Einfach
 Item_Adv_DoF_Item_Standard = Standard
@@ -303,7 +309,7 @@ Item_Adv_Decals_Title = Abziehbilder
 Item_Adv_Decals_Desc = Abziehbilder sind 2D-Bilder, die auf eine Oberfläche projeziert werden, um diese Oberfläche detaillierter erscheinen zu lassen (wie Risse, Schmutz oder Graffiti).
 
 Item_Adv_DynamicLights_Title = Dynamische Lichter
-Item_Adv_DynamicLights_Desc = Echtzeit-Lichteffekte, wie z. B. Moving Lights oder Explosionen.
+Item_Adv_DynamicLights_Desc = Echtzeit-Lichteffekte, wie z. B. bewegende Lichter oder Explosionen.
 
 Item_Adv_ConservativeShadowBounds_Title = Präzise Schattengrenzen
 Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert, versucht das Spiel genauer zu verfolgen, wo Schatten landen.
@@ -374,7 +380,7 @@ Loadout_Swap_Skin = Wähle eine Farbe aus!
 Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
 Loadout_Swap_Badge = Wähle einen Anstecker aus!
 Loadout_BadgeLocked = Du brauchst [yarn][num] [icon:yarn]Garn[/yarn] um das zu nähen!
-Loadout_BadgeLocked_Affordable = Drücke [button:menuconfirm] zum [yarn][num] [icon:yarn]Garn[/yarn] zu[br]benutzen um zu nähen!
+Loadout_BadgeLocked_Affordable = Drücke [button:menuconfirm] zum [yarn][num] [icon:yarn]Garn[/yarn] zu[br]spenden um zu nähen!
 
 Loadout_AbilityActivation_Trigger = Aktivieren
 Loadout_AbilityActivation_Jump = Sprung

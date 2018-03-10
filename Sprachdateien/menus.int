@@ -43,6 +43,10 @@ Header_Singleplayer = Einzelspieler
 
 Item_SpeedrunTimer_Title = Speedrun Timer
 Item_SpeedrunTimer_Desc = Verfolgt die Spielzeit pro Level.
+Item_SpeedrunTimer_Item_Off = Aus
+Item_SpeedrunTimer_Item_On = An
+Item_SpeedrunTimer_Item_GameOnly = Nur Spielzeit
+Item_SpeedrunTimer_Item_ActOnly = Nur Aktezeit
 
 Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
 Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kannst du alle überspringbaren Zwischensequenzen überspringen, indem du diese Funktion aktivierst. Beachte, dass du unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen kannst.
@@ -348,7 +352,7 @@ Item_MouseSensitivity_Title = Maus-Empfindlichkeit
 Item_MouseSensitivity_Desc = Je höher die Empfindlichkeit, desto mehr Auswirkungen hat eine Mausbewegung auf das Spiel.
 
 Item_InvertCameraX_Controller_Title = Horizontale Kamera invertieren (Controller)
-Item_InvertCameraX_Controller_Desc = Kehrt die horizontale Bewegung um, wenn ein Controller verwendet wird
+Item_InvertCameraX_Controller_Desc = Kehrt die horizontale Bewegung bei Verwendung eines Controllers um
 Item_InvertCameraX_Controller_Desc_Console = Kehrt die horizontale Kamerabewegung um
 Item_InvertCameraY_Controller_Title = Vertikale Kamera invertieren (Controller)
 Item_InvertCameraY_Controller_Desc = Kehrt die vertikale Bewegung bei Verwendung eines Controllers um
@@ -523,6 +527,15 @@ Author_Condutor = REGIE: SCHAFFNER
 Author_DJ = REGIE: DJ GROOVES
 Starring = MIT
 Highscore = DIE BEWERTUNGEN SIND DA ...
+
+[Modding]
+PleaseRate_0 = Help determine the rating of this mod on Hilf dem Mod eine gute Rezension zu geben,
+PleaseRate_1 = indem du Feedback an dem Mod im Workshop schickst!
+HowToComment = Um einen Kommentar abzugeben, musst du den Mod in Steam Workshop ansehen.
+BackToHub = Zurück zum Raumschiff
+NextMap = Nächste Karte
+ViewInWorkshop = Im Workshop ansehen
+NoMods = Du hast keine Mods installiert! Probiere mal einige vom Workshop aus.
 
 [ConsoleProfileSwap]
 SwapProfile = Profil wechseln

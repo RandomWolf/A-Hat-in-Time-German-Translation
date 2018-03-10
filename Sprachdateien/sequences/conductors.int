@@ -59,7 +59,7 @@ director_idle2 = Du! Was machst du hier!? Geht zurück auf eure Positionen!
 director_idle3 = Bei welcher Szene sind wir jetzt? Zweiundvierzig? [br]Weil, du hättest nicht im Frame von Szene [br]zweiundvierzig sein sollen!
 
 outro0 = [scream][big]HEY! WAS MACHST DU DENN DA?![/big][/scream]
-outro1 = Du kannst hier nicht einfach 'reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Preisen[/trophy] herumspielen! [br]Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, wir haben hier einen BETRÜGER!
+outro1 = Du kannst hier nicht einfach 'reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Awards[/trophy] herumspielen! [br]Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, wir haben hier einen BETRÜGER!
 outro2 = ...
 outro3 = WO SIND MEINE EULEN-WACHEN?! Warum sind die Eulen so verdammt nutzlos?!
 outro5 = Okay okay, hör mir zu, Lassie! Du bist in großen Schwierigkeiten. Wenn du dem betrügerischen [icon:djgrooves][name]DJ Grooves[/name] hilfst, die Preise zu manipulieren und ich dich auch nicht ins Gefängnis stecken kann,[br]dann wirst du mir ebenfalls helfen müssen!
@@ -153,12 +153,12 @@ hth_intro0 = Lass uns ein kleines Vertrauensgespräch haben. Setz' dich, Lassie.
 hth_intro1 = Seitdem du hier auf diesem Planeten bist, haben diese [icon:timepiece][timepiece]Zeitstücke[/timepiece] angefangen vom Himmel zu fallen.
 hth_intro2 = Nun, ich kann verstehen, dass du denken würdest, dass sie dir gehören. Ich versteh's. Aber wusstest du, dass sie die Zeit zurückspuln' können?
 hth_intro3 = Mit nur einem [timepiece][icon:timepiece]Zeitstück[/timepiece], könnte ich mir die Trophäe zurückholen, die mir gehört! Das ist richtig, der Verlust von Preis 42!
-hth_intro4 = Ich wurd' nur zweiter Platz beim [icon:trophy][trophy]zweiundvierzigsten jährlichen Bird Preis[/trophy]! Ich! [br]Kannst du dir das vorstellen? [icon:djgrooves][name]DJ Grooves[/name] schaffte es erster Platz zu werden!
+hth_intro4 = Ich wurd' nur zweiter Platz beim [icon:trophy][trophy]zweiundvierzigsten jährlichen Bird Movie-Award[/trophy]! Ich! [br]Kannst du dir das vorstellen? [icon:djgrooves][name]DJ Grooves[/name] schaffte es erster Platz zu werden!
 hth_intro5 = Ich brauch' nur ein kleines [timepiece][icon:timepiece]Zeitstück[/timepiece], um diesen Fehler zu beheben. Kannst du nicht ein kleines [icon:timepiece][timepiece]Zeitstück[/timepiece] mir erübrigen?
 hth_intro5_yes = Vielleicht?
 hth_intro5_no = Nö!
 hth_intro6a = Danke, Lassie! Du wirst es nicht bereuen! Wir beheben diesen kleinen Fehler in der Geschichte und gehn' wieder zurück für einen makellosen Rekord!
-hth_intro7a = Unglücklicherweise... Kann ich dir nicht erlauben, diesen Raum zu verlassen. Ich darf kein Risiko haben, dass auch nur ein Wort nach draußen gelangt. DJ Grünschnabel würde mich für's Schummeln verspotten!
+hth_intro7a = Unglücklicherweise... Kann ich dir nicht erlauben, diesen Raum zu verlassen. Ich darf kein Risiko eingehen, dass auch nur ein Wort nach draußen gelangt. DJ Grünschnabel würde mich für's Schummeln verspotten!
 hth_intro8a = Es war nett dich kennengelernt zu haben, Lassie! Leb' wohl!
 hth_intro6b = Du bist ziemlich geizig, Lassie, oder? Ich brauch' doch nur ein klitzekleines Zeitstück, und du willst nicht teilen?
 hth_intro7b = Nun, wenn du dieses [timepiece][icon:timepiece]Zeitstück[/timepiece] unbedingt willst, komm' und hol's dir!
@@ -169,7 +169,7 @@ Intro1 = Dieses letzte [icon:timepiece][timepiece]Zeitstück[/timepiece] gehört m
 
 [award]
 intro0 = Danke, danke euch! Ihr seid zu gütig! Nein, bitte macht weiter!
-intro1 = Oh! Lassie, du bist es! Ich hab's geschafft! Ich gewann den [icon:trophy][trophy]jährlichen Bird Movie-Preis[/trophy] schon wieder![br]Stell' dir das Gesicht von [icon:djgrooves][name]DJ Grooves[/name] jetzt vor! [scream][wave]EH HE HE HE![/wave][/scream]
+intro1 = Oh! Lassie, du bist es! Ich hab's geschafft! Ich gewann den [icon:trophy][trophy]jährlichen Bird Movie-Award[/trophy] schon wieder![br]Stell' dir das Gesicht von [icon:djgrooves][name]DJ Grooves[/name] jetzt vor! [scream][wave]EH HE HE HE![/wave][/scream]
 intro2 = Hier, nimm' dieses [icon:timepiece][timepiece]kleine, unbedeutende Filmrequisit[/timepiece] um deinem kleinen, unbedeutendem Aufwand, in meinem Sieg gerecht zu werden. Du kannst es vielleicht bei eBird für ein bisschen Kleingeld verkaufen!
 intro3 = Was? Erwartest du mehr, oder sowas?[br]Vergiss es! Geh! Husch! Verschwinde von hier![br]Ich will nie mehr deine hässliche Visage hier sehen!
 

@@ -68,7 +68,7 @@ Item_FieldOfView_Item_PC = PC Monitor (90)
 Item_FieldOfView_Item_Custom = Angepasst...
 Item_FieldOfView_Item_Desc = Höhere Field of View(FoV)-Werte erweitern das periphere Sehen, während niedrigere Werte es einschränken. Höhere FoV-Werte werden empfohlen, wenn du dich in der Nähe des Displays befindest, während niedrigere Werte empfohlen werden, wenn du dich in der Ferne befindest.
 
-Item_CameraAssist_Title = Kamera-Assist
+Item_CameraAssist_Title = Kamera-Assistent
 Item_CameraAssist_Desc = Wenn diese Option aktiviert ist, kann das Spiel die Kamera kontextabhängig steuern, um ein besseres Erlebnis zu erzielen. Empfohlen, wenn du manuelle Kamerasteuerungen nicht magst.
 
 Item_CameraShake_Title = Kamera-Schütteln

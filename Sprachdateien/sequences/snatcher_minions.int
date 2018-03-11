@@ -1,6 +1,6 @@
 [guides]
-SubconWell0 = Zum [hint]Subcon-Brunnen[/hint][br] hier lang!
-Manor0 = Zur [hint]Die Villa[/hint][br] hier lang!
+SubconWell0 = Zum [hint]Subcon-Brunnen[/hint][br] geht's hier lang!
+Manor0 = Zur [hint]Villa[/hint][br] geht's hier lang!
 EyeBlockade0 = Es hat sein [hint]Auge[/hint] auf etwas, hm?
 Swamp0 = Ich habe ein echt[br][hint]sinkendes[/hint] Gefühl bei[br]diesem Ort... Kapiert?
 BigTree0 = Ich wette die Aussicht[br]von dem [hint]großen Baum[/hint][br]ist ziemlich gut!
@@ -32,9 +32,9 @@ ScooterWall1 = Du musst [br]die [icon:painting][name]Feuer-Geister[/name][br] fi
 
  
 [manor]
-limitations_alert0 = Hey, Neuling! Boss hat mir gesagt ich soll dir mittleien, das auf dem Papier was du Unterzeichnet hast draufstand das du deine Hüte in der Villa nicht nutzen darfst.
+limitations_alert0 = Hey, Neuling! Der Boss wollte dir mitteilen, dass du deine Hüte hier nicht verwenden darfst. Es stand auf deinem Vertrag.
 limitations_alert_alt0 = Hey, Neuling! Boss hat mir gesagt, dass ähhh... alle deiner Hüte hier nicht erlaubt sind. Oder sowas.
-limitations_alert1 = Genau. Verwende sie nicht. Danke.
+limitations_alert1 = Also... verwende sie nicht. Danke.
 
 [finale]
 outside0 = Fall' nicht [br]in die Lava, Kleine!

@@ -21,7 +21,7 @@ scooter_intro1 = [shake2]Ich bin nicht herzlos! Hin und wieder klaue ich Briefe 
 scooter_intro2 = [shake2]Aber unser letzter Postbote ging... naja... [wave]*poof*[/wave]. Deswegen musst du es machen![/shake2]
 scooter_intro3 = [shake2]Ich spendiere dir sogar ein "Geschenk" für deine Aufgabe. Allerdings brauchst du einen bestimmten Hut dafür. Ich hoffe du hast ihn! [wave]Ha ha ha![/wave][/shake2]
 
-scooter_onenter0 = [shake2]Dieser [icon:badge][name]Anstecker[/name] ist nur geliehen. Ich brauche ihn zurück bevor du abhaust! Denk daran das Abzeichen auf deinen [icon:sprinthat][name]Sprinthut[/name]zu packen, sonst funktioniert es nicht! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
+scooter_onenter0 = [shake2]Dieser [icon:badge][name]Anstecker[/name] ist nur geliehen. Ich brauche ihn zurück bevor du abhaust! Denk daran das Abzeichen auf deinen [icon:sprinthat][name]Sprinthut[/name] zu packen, sonst funktioniert es nicht! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
 scooter_onenter1 = [shake2]Alle Untertanen die auf ihre Post warten haben [hint]ein Symbol über ihnen[/hint]. Wenn du fertig bist, kommst du zu mir zurück und stempelst dich aus. Verstanden?[/shake2]
 
 [contract_initial]

@@ -529,10 +529,10 @@ Starring = MIT
 Highscore = DIE BEWERTUNGEN SIND DA ...
 
 [Modding]
-PleaseRate_0 = Help determine the rating of this mod on Hilf dem Mod eine gute Rezension zu geben,
-PleaseRate_1 = indem du Feedback an dem Mod im Workshop schickst!
-HowToComment = Um einen Kommentar abzugeben, musst du den Mod in Steam Workshop ansehen.
-BackToHub = Zurück zum Raumschiff
+PleaseRate_0 = Hilf mit dem Mod eine Bewertung zu geben
+PleaseRate_1 = indem du dein Feedback gibst!
+HowToComment = Um zu kommentieren, musst du den Mod in Steam Workshop ansehen.
+BackToHub = Zum Raumschiff
 NextMap = Nächste Karte
 ViewInWorkshop = Im Workshop ansehen
 NoMods = Du hast keine Mods installiert! Probiere mal einige vom Workshop aus.

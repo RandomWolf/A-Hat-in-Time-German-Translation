@@ -422,7 +422,7 @@ ItemUnlock_Flair = Du kannst jetzt das Aussehen dieses Items austauschen!
 Help_TakePicture = Ein Bild machen
 Help_ChangeFilter = Filter ändern
 Help_ChangeDoF = Schärfentiefe ändern
-Help_EnableDoF = Tiefenschärfe aktivieren
+Help_EnableDoF = Schärfentiefe aktivieren
 Help_DisableDoF = Schärfentiefe deaktivieren
 Help_Exit = Verlassen
 

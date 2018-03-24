@@ -535,7 +535,39 @@ HowToComment = Um zu kommentieren, musst du den Mod in Steam Workshop ansehen.
 BackToHub = Zum Raumschiff
 NextMap = Nächste Karte
 ViewInWorkshop = Im Workshop ansehen
+NoMods_Steam = You have no mods installed! Try grabbing a few from the workshop.
 NoMods = Du hast keine Mods installiert! Probiere mal einige vom Workshop aus.
+
+DownloadingMod = Downloading mod
+ModCreatedBy = By
+ModVersion = Version
+HowToAccessLevelMods = Mod Levels can be accessed in the[br]Spaceship mail room once you have[br]the following:
+
+PreviewButtonsText_Play = Play!
+PreviewButtonsText_Enable = Enable
+PreviewButtonsText_Config = Configure
+PreviewButtonsText_ViewInWorkshop = View in Workshop
+
+Category_Levels = LEVELS
+Category_AllLevels = ALL LEVELS
+Category_Chapters = CHAPTERS
+Category_TimeRifts = TIME RIFTS
+Category_HatsAndBadges = HATS & BADGES
+Category_Collectibles = COLLECTIBLES
+Category_Misc = MISC
 
 [ConsoleProfileSwap]
 SwapProfile = Profil wechseln
+
+[Action]
+Action_Delete = Delete
+Action_Play = Play
+Action_Select = Select
+
+[LoadoutMenuOptions]
+ReturnToHUB = Back to HUB
+Settings = Settings
+QuitGame = Quit Game
+Coop = CO-OP
+Mods = Mods
+RestartToLastCheckpoint = Restart

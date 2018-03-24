@@ -122,6 +122,8 @@ Item_NoSaving_Desc = Das Spiel wird deinen Fortschritt nicht speichern.[br]Dies 
 Item_DevConsole_Title = Entwicklerkonsole
 Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole.[br]Das Spiel muss neu gestartet werden, damit diese Option wirksam wird.[br]Drücke zum Öffnen TAB/Zirkumflex.
 
+Item_DisableMods_Title = Mods deaktivieren
+Item_DisableMods_Desc = Mod Support und den Steam Workshop deaktivieren für die wahre, unverfälschte Erfahrung.
 [systemsettings.audio]
 Header_Audio = Audio
 Header_Volume = Lautstärke
@@ -399,6 +401,12 @@ Options_QuitGame_InGame_A_MainMenu = Hauptmenü!
 Options_QuitGame_InGame_A_Desktop = Desktop!
 Options_QuitGame_InGame_A_Return = Zurück!
 
+Label_Equipment = EQUIPMENT
+Label_Badges = BADGES
+Label_Weapon = WAFFE
+Label_Contract = VERTRAG
+
+Options_RestartLevel_Q = Akt neustarten?
 [MainMenu]
 FileSelect_File = Datei
 FileSelect_Progress_Completed = Fertig
@@ -412,11 +420,19 @@ Action_NewGame_Q = Neues Spiel starten?
 
 Action_SwitchUser = Benutzer wechseln
 
+YarnBall = Garn Ball
+YarnBall_multiple = Garn Balle
+TimePiece = Zeit-Stück
+ModTimePiece = Mod Token
+ModTimePiece_multiple = Mod Tokens
+
+Offer_AvailableNow = Jetzt erhältlich
 [ItemUnlock]
 ItemUnlock_Badge = Neuer Hut genäht, probiere ihn an!
 ItemUnlock_Rare = Dieses Flair ist selten!
 ItemUnlock_VeryRare = Dieses Flair ist sehr selten!
 ItemUnlock_Flair = Du kannst jetzt das Aussehen dieses Items austauschen!
+ItemUnlock_Equip = AUSRÜSTEN
 
 [InventoryCamera]
 Help_TakePicture = Ein Bild machen
@@ -538,36 +554,36 @@ ViewInWorkshop = Im Workshop ansehen
 NoMods_Steam = You have no mods installed! Try grabbing a few from the workshop.
 NoMods = Du hast keine Mods installiert! Probiere mal einige vom Workshop aus.
 
-DownloadingMod = Downloading mod
-ModCreatedBy = By
+DownloadingMod = Mod wird heruntergeladen
+ModCreatedBy = Erstellt von
 ModVersion = Version
-HowToAccessLevelMods = Mod Levels can be accessed in the[br]Spaceship mail room once you have[br]the following:
+HowToAccessLevelMods = Mod Level können über die [br]Post-Zentrale im Schiff abgerufen werden, sobald du[br]folgendes besitzt:
 
-PreviewButtonsText_Play = Play!
-PreviewButtonsText_Enable = Enable
-PreviewButtonsText_Config = Configure
-PreviewButtonsText_ViewInWorkshop = View in Workshop
+PreviewButtonsText_Play = Starten!
+PreviewButtonsText_Enable = Aktivieren
+PreviewButtonsText_Config = Konfigurieren
+PreviewButtonsText_ViewInWorkshop = Im Workshop anzeigen
 
-Category_Levels = LEVELS
-Category_AllLevels = ALL LEVELS
-Category_Chapters = CHAPTERS
-Category_TimeRifts = TIME RIFTS
-Category_HatsAndBadges = HATS & BADGES
-Category_Collectibles = COLLECTIBLES
-Category_Misc = MISC
+Category_Levels = LEVEL
+Category_AllLevels = ALLE LEVEL
+Category_Chapters = KAPITEL
+Category_TimeRifts = ZEITRISSE
+Category_HatsAndBadges = HÜTE & ABZEICHEN
+Category_Collectibles = SAMMELOBJEKTE
+Category_Misc = VERSCHIEDENES
 
 [ConsoleProfileSwap]
 SwapProfile = Profil wechseln
 
 [Action]
-Action_Delete = Delete
-Action_Play = Play
-Action_Select = Select
+Action_Delete = Löschen
+Action_Play = Spielen
+Action_Select = Auswahl
 
 [LoadoutMenuOptions]
-ReturnToHUB = Back to HUB
-Settings = Settings
-QuitGame = Quit Game
+ReturnToHUB = Zurück zum HUB
+Settings = Einstellungen
+QuitGame = Spiel verlassen
 Coop = CO-OP
 Mods = Mods
-RestartToLastCheckpoint = Restart
+RestartToLastCheckpoint = Neustart

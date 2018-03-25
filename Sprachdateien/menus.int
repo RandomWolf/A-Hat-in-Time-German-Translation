@@ -547,17 +547,17 @@ Highscore = DIE BEWERTUNGEN SIND DA ...
 [Modding]
 PleaseRate_0 = Hilf mit dem Mod eine Bewertung zu geben
 PleaseRate_1 = indem du dein Feedback gibst!
-HowToComment = Um zu kommentieren, musst du den Mod in Steam Workshop ansehen.
+HowToComment = Um zu kommentieren, musst du den Mod im Steam Workshop ansehen.
 BackToHub = Zum Raumschiff
 NextMap = Nächste Karte
 ViewInWorkshop = Im Workshop ansehen
-NoMods_Steam = You have no mods installed! Try grabbing a few from the workshop.
-NoMods = Du hast keine Mods installiert! Probiere mal einige vom Workshop aus.
+NoMods_Steam = Du hast keine Mods installiert! Probiere mal einige vom Workshop aus.
+NoMods = Du hast keine Mods installiert! Platziere die Mods in den Mod-Ordner, um sie zu installieren.
 
 DownloadingMod = Mod wird heruntergeladen
-ModCreatedBy = Erstellt von
+ModCreatedBy = Von
 ModVersion = Version
-HowToAccessLevelMods = Mod Level können über die [br]Post-Zentrale im Schiff abgerufen werden, sobald du[br]folgendes besitzt:
+HowToAccessLevelMods = Mod-Levels können über die[br]Post-Zentrale im Raumschiff aufgerufen werden, sobald du[br]folgendes besitzt:
 
 PreviewButtonsText_Play = Starten!
 PreviewButtonsText_Enable = Aktivieren
@@ -565,12 +565,12 @@ PreviewButtonsText_Config = Konfigurieren
 PreviewButtonsText_ViewInWorkshop = Im Workshop anzeigen
 
 Category_Levels = LEVEL
-Category_AllLevels = ALLE LEVEL
+Category_AllLevels = ALLE LEVELS
 Category_Chapters = KAPITEL
 Category_TimeRifts = ZEITRISSE
-Category_HatsAndBadges = HÜTE & ABZEICHEN
+Category_HatsAndBadges = HÜTE & ANSTECKER
 Category_Collectibles = SAMMELOBJEKTE
-Category_Misc = VERSCHIEDENES
+Category_Misc = SONSTIGES
 
 [ConsoleProfileSwap]
 SwapProfile = Profil wechseln
@@ -578,12 +578,12 @@ SwapProfile = Profil wechseln
 [Action]
 Action_Delete = Löschen
 Action_Play = Spielen
-Action_Select = Auswahl
+Action_Select = Auswählen
 
 [LoadoutMenuOptions]
 ReturnToHUB = Zurück zum HUB
 Settings = Einstellungen
-QuitGame = Spiel verlassen
+QuitGame = Spiel beenden
 Coop = CO-OP
 Mods = Mods
-RestartToLastCheckpoint = Neustart
+RestartToLastCheckpoint = Neustarten

@@ -54,57 +54,23 @@ FoxMaskDescFun0 = Das ist echt gruseliges Garn!
 FoxMaskDescHat0 = Das ist eine gruselige Maske!
 FoxMaskDescTech0 = Drücke [button:badge] und dann hast du die Augen eines Einwohners!
 
-MapName = Schatzsucher-Karte
-MapDesc0 = Eine helfende Hand beim Schätze suchen!
-
 DetectiveHatName = Detektiv-Outfit
-DetectiveHatDesc0 = Zeit-Verbrechen aufzuklären! Augen auf! 
+DetectiveHatDesc0 = Zeit-Verbrechen aufzuklären! Augen auf!
 
 ParadeHatName = Parade-Outfit
 ParadeHatDesc0 = Die Anführerin, die diese Stadt braucht!
 
 [abilities]
-BadgeCollect0 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren; nur [name][badgepoints_left][/name] übrig!
-BadgeCollect1 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren und du hast [name][badgepoints_player][/name]![br]Drücke [button:start], um in das Pausemenü zu gelangen, wo du es aktivieren kannst!
-BadgeCollect2 = Er benötigt [badgepoints_required] Anstecker-Punkte zum Aktivieren!
-BadgeCollect3 = Du hast genug Anstecker-Punkte um ihn zu aktivieren!
-BadgeCollect4 = Du hast diesen Anstecker schon, aber bekommst trotzdem +1 Anstecker-Punkt!
-BadgePart = Teil
-
 UnknownName = ??? Fähigkeit
 UnknownDescFun0 = Keine Beschreibung.
 UnknownDescTech0 = Diese Fähigkeit scheint keinen Nutzen zu haben.
 
-OneHitDeathName = 1-Hit Held-Anstecker
+OneHitDeathName = 1-Treffer Held-Anstecker
 OneHitDeathDesc0 = Du stirbst durch einen Treffer. Nur für die Mutigen!
-
-DamageToEnergyName = Kindliche Energie-Anstecker
-DamageToEnergyFun0 = Ein wütendes kleines Mädchen hat immer Energie!
-DamageToEnergyTech0 = Fülle Energie auf, wenn du Gegner angreifst!
-
-TeleportName = Snatchers Bezirk-Anstecker
-TeleportDescFun0 = Mach deine Fehler ungeschehen!
-TeleportDescTech0 = Drücke [button:badge], um einen Sprung ungeschehen zu machen!
-
-MoreEnergyFromOrbsName = Forschers Anstecker
-MoreEnergyFromOrbsFun0 = Ich kann es kaum erwarten auf Abenteuer zu gehen!
-MoreEnergyFromOrbsTech0 = Bekomme 4x Energie von Orbs!
 
 SuckInOrbsName = Item Magnet-Anstecker
 SuckInOrbsFun0 = Item außer Reichweite? Kein Problem!
 SuckInOrbsTech0 = Zieht automatisch Gegenstände an dich heran!
-
-RocketJumpName = Raketensprung-Anstecker
-RocketJumpFun0 = Flieg in den Himmel!
-RocketJumpTech0 = Halte [button:jump] nach einem Doppelsprung, um nach oben geschossen zu werden!
-
-MoreHealthName = Mehr Gesundheit-Abzeichen
-MoreHealthFun0 = Halte mehr Schläge aus!
-MoreHealthTech0 = Bietet einen zusätzlichen Herzschlitz!
-
-MuddyName = Eimer voll Schlamm-Anstecker
-MuddyDescFun0 = Dieser Anstecker kommt mit einem kostenlosen Eimer voll Schlamm! Yay?
-MuddyDescTech0 = Drücke [button:badge], um dich mit Schlamm zu bedecken!
 
 AttackProjectileName = Projektil-Anstecker
 AttackProjectileDescFun0 = Projektil-Anstecker
@@ -132,9 +98,6 @@ HookshotBadgeDesc0 = Drücke und halte [button:attack], um von Haken zu Haken zu 
 FindRelicsBadgeName = Entdecker-Anstecker
 FindRelicsBadgeDesc0 = Zeigt dir eine Karte, um [icon:relic] zu finden!
 
-LungeAttackBadgeName = Ausholangriff-Anstecker
-LungeAttackBadgeDesc0 = Ausholangriff-Anstecker
-
 NoFallDamageBadgeName = Schwebe-Anstecker
 NoFallDamageBadgeDesc0 = Dein Regenschirm wird kurz vor einen großem Sturz automatisch geöffnet!
 
@@ -145,20 +108,8 @@ HatCooldownBonusBadgeName = Hutmacher-Anstecker
 HatCooldownBonusBadgeDesc0 = Verringert den Cooldown für Hüte!
 
 [loot]
-MafiaTieName = Mafia-Krawatte
-MafiaTieDesc0 = Sie ist total verschwitzt und ekelhaft! Ew!
-MafiaTieGoldName = Goldene Mafia-Krawatte
-MafiaTieGoldDesc0 = Was zum?! Die muss echt schwer zu tragen sein! Und teuer!
-
-LevelTabletName = Altes Tablett
-LevelTabletDesc0 = Es versucht etwas zu verdeutlichen,... aber es benötigt mehr Teile!
-LevelTabletDesc1 = Es sieht ziemlich selten aus. Ich halte besser Ausschau nach mehr von diesen Ballons!
-
 BirdPassportName = Ausweis für die Bundesvereinigung der Vögel
 BirdPassportDesc0 = Ich bin nun ein legaler Vogel, glaube ich?
-
-TimePieceName = Zeitstück
-TimePieceDesc0 = Ich will sie. Sehr.
 
 BadgeSlotName = Anstecknadel
 BadgeSlotDesc0 = Erlaubt dir, einen weiteren [icon:badge][name]Anstecker[/name] auszurüsten!
@@ -174,7 +125,167 @@ VaultCodeGreenName = Grüner Tresorcode
 VaultCodeBlueName = Blauer Tresorcode
 VaultCodeYellowName = Goldener Tresorcode
 
-[cosmetic]
+[skins]
+SkinDesc0 = Ändere die Farbe deiner Kleidung!
+WhiteRedSkinName = Der Big Boss
+RedWhiteSkinName = Der Blutmond
+GreenOrangeSkinName = Der Nussknacker
+BlueYellowSkinName = Blaubeerkuchen
+BlackSkinName = Die Witwe
+CaptainName = Kapitän der See
+WahooName = Der große Appetit
+FreedomSkinName = Die Freiheit
+MarginOfNightSkinName = Rand der Nacht
+GirlySkinName = Niedlich und gefährlich
+BronzeSkinName = Bronze
+GreenGoldName = Das Waldtier
+LiquoriceName = Lakritze
+MintyName = Minzfrisch
+CookieDoughSkinName = Plätzchenteig
+80sCandy = 80er Bonbon
+Cardboard = Pappe
+RaincoatName = Regenmantel
+ParadeName = Parade-Outfit
+DetectiveName = Detektiv-Outfit
+
+[remixes]
+RemixDesc_MafiaTown0 = Ein neuer Musik-Remix wurde für Mafia-Stadt freigeschaltet!
+RemixDesc_Subcon0 = Ein neuer Musik-Remix wurde für Subcon-Wald freigeschaltet!
+RemixDesc_Trainwreck0 = Ein neuer Musik-Remix wurde für Kampf der Vögel freigeschaltet!
+RemixDesc_Sand0 = Ein neuer Musik-Remix wurde für Alpin Bergkette freigeschaltet!
+RemixDesc_Rift0 = Ein neuer Musik-Remix wurde für Zeitrisse freigeschaltet!
+MafiaTownElectroName = Mafia-Stadt (Electronic Remix)
+ClockTowersOrchestralName = Wasser Zeitriss (Orchestral Remix)
+SandmobileJazzName = Sandmobil (Jazz Remix)
+MafiaBossOrchestralName = Mafia-Boss (Orchestral Remix)
+TrainRushElectroSwingName = Zug Sause (Electro Swing Remix)
+MoonJazzName = Der Mond (Jazz Remix)
+SubconVillageScifiName = Subcon-Dorf (Sci-fi Remix)
+SnatcherBossOrchestralName = Dein Vertrag Ist Abgelaufen (Orchestral Remix)
+
+[camerafilters]
+CameraFilterDescription = Kamera-Filter
+ActionBlueName = Action Blau
+DreamyName = Träumlich
+SunriseName = Die 80er
+VibrantName = Vibrant
+GirlyThingsName = Just Girly Things
+VintageName = Altmodisch
+Vintage2Name = Altmodisch 2
+NoirName = Noir
+PurpleNightName = Purple Night
+SunsetName = Sonnenuntergang
+SilhouetteName = Silhouette
+HazeName = Nebel
+ColdName = Kalt
+MangaName = Nani
+PosterName = Filmplakat
+
+[decorations]
+DecorationMatch = Du hast einen Schatz von dem komischen Planeten identifiziert!
+DecorationSaved = Dieser Schatz könnte mit anderen Schätzen übereinstimmen!
+DecorationMystery = Du spürst eine kurze Störung in diesem Raum,... aber es ist wahrscheinlich nichts.
+
+DecorationGenericName = Schatz
+
+TrainToyName = Spielzeugbahn
+TrainToyDesc = Tschu tschuu! Hier komm' ich!
+TrainTracksName = Spielzeugeisenbahn-Gleise
+TrainTracksDesc = Diese Gleise würden super mit einem Zug zusammenpassen!
+TrainSetName = Mini-Zug (und Vögel?)
+TrainSetDesc0 = Das sieht aus wie eine kleine Version von dem "Zug", den die "Vögel" nutzen um zur "Arbeit" zu kommen.
+TrainSetDesc1 = Sind da kleine Vögel drinne? Machen sie kleine "Filme"?
+TrainSetDesc2 = Ich hab keine Zeit, um mich mit der kleinen Vogel-Gesellschaft zu beschäftigen!
+
+UFOName = UFO
+UFODesc = Dieses Spielzeug benutzt Pflanzen als Zeichentablett!
+CowToyName = Plastikkuh
+CowToyDesc = Diese Kuh sieht so aus, als währe sie viel herumgekommen!
+UFOName = Verspottung des Planeten außerhalb des Planeten
+UFODesc0 = Was zum?! Raumschiffe sehen nicht so aus!
+UFODesc1 = Wo ist das Holz? Warum saugt es Kühe ein?
+UFODesc2 = Das ist beleidigend! Ich werde jemanden dafür verklagen!
+
+CrayonBoxName = Buntstiftbox
+CrayonBoxDesc = Gut um... gigantische Buntstifte zu lagern?
+
+RedCrayonName = Roter Stift
+GreenCrayonName = Grüner Stift
+BlueCrayonName = Blauer Stift
+
+RedCrayonDesc = Rot ist eine gute Farbe. Aber nur, weil man sie braucht um lila herzustellen!
+GreenCrayonDesc = Jetzt kann ich endlich ein Vandal sein! Zeit die Wände grün zu färben!
+BlueCrayonDesc = Blau ist eine anständige Farbe, aber es würde niemals einen Kampf gegen Lila gewinnen!
+
+CrayonCompleteName = Drei-Farben Graffiti-Kit
+CrayonCompleteDesc0 = Sie wurden für Vandalismus gemacht. Ich fühle mich beim Anblick gezwungen sie zu nehmen und ALLES anzumalen!
+CrayonCompleteDesc1 = Ich kann daraus nur schließen, dass dieses Kit illegal sein muss. Das macht diesen Schatz viel mehr wert.
+CrayonCompleteDesc2 = Wenn nur das Paket nicht schon offen wäre... Nur ein Monster würde sich trauen sowas zu tun!
+
+BurgerTopName = Burger-Kissen (obere Hälfte)
+BurgerTopDesc = Ein Kissen in der Form eines Burgers. Sein unterer Bruder fehlt! Oh nein!
+BurgerBottomName = Burger-Kissen (untere Hälfte)
+BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehlt! Oh nein!
+BurgerCushionName = Sitz-Gerät der Erdbewohner
+BurgerCushionDesc0 = Nachforschungen ergeben, dass dies sehr weich ist.
+BurgerCushionDesc1 = So weich, dass die einzige logische Schlussfolgerung ist, dass dies die Stühle dieses Planeten sind.
+BurgerCushionDesc2 = Es ist kein Snack. Ich habe es versucht. Es schmeckt wie Stoff.
+
+[ItemQuality]
+SupporterPrefix = Unterstützer
+GoldPrefix = Gold
+CompletionistPrefix = Komplettist
+
+[unused/deleted]
+BadgeCollect0 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren; nur [name][badgepoints_left][/name] übrig!
+BadgeCollect1 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren und du hast [name][badgepoints_player][/name]![br]Drücke [button:start], um in das Pausemenü zu gelangen, wo du es aktivieren kannst!
+BadgeCollect2 = Er benötigt [badgepoints_required] Anstecker-Punkte zum Aktivieren!
+BadgeCollect3 = Du hast genug Anstecker-Punkte um ihn zu aktivieren!
+BadgeCollect4 = Du hast diesen Anstecker schon, aber bekommst trotzdem +1 Anstecker-Punkt!
+BadgePart = Teil
+
+TeleportName = Snatchers Bezirk-Anstecker
+TeleportDescFun0 = Mach deine Fehler ungeschehen!
+TeleportDescTech0 = Drücke [button:badge], um einen Sprung ungeschehen zu machen!
+
+MoreEnergyFromOrbsName = Forschers Anstecker
+MoreEnergyFromOrbsFun0 = Ich kann es kaum erwarten auf Abenteuer zu gehen!
+MoreEnergyFromOrbsTech0 = Bekomme 4x Energie von Orbs!
+
+RocketJumpName = Raketensprung-Anstecker
+RocketJumpFun0 = Flieg in den Himmel!
+RocketJumpTech0 = Halte [button:jump] nach einem Doppelsprung, um nach oben geschossen zu werden!
+
+MoreHealthName = Mehr Gesundheit-Abzeichen
+MoreHealthFun0 = Halte mehr Schläge aus!
+MoreHealthTech0 = Bietet einen zusätzlichen Herzschlitz!
+
+MuddyName = Eimer voll Schlamm-Anstecker
+MuddyDescFun0 = Dieser Anstecker kommt mit einem kostenlosen Eimer voll Schlamm! Yay?
+MuddyDescTech0 = Drücke [button:badge], um dich mit Schlamm zu bedecken!
+
+DamageToEnergyName = Kindliche Energie-Anstecker
+DamageToEnergyFun0 = Ein wütendes kleines Mädchen hat immer Energie!
+DamageToEnergyTech0 = Fülle Energie auf, wenn du Gegner angreifst!
+
+LungeAttackBadgeName = Ausholangriff-Anstecker
+LungeAttackBadgeDesc0 = Ausholangriff-Anstecker
+
+MapName = Schatzsucher-Karte
+MapDesc0 = Eine helfende Hand beim Schätze suchen! 
+
+MafiaTieName = Mafia-Krawatte
+MafiaTieDesc0 = Sie ist total verschwitzt und ekelhaft! Ew!
+MafiaTieGoldName = Goldene Mafia-Krawatte
+MafiaTieGoldDesc0 = Was zum?! Die muss echt schwer zu tragen sein! Und teuer!
+
+LevelTabletName = Altes Tablett
+LevelTabletDesc0 = Es versucht etwas zu verdeutlichen,... aber es benötigt mehr Teile!
+LevelTabletDesc1 = Es sieht ziemlich selten aus. Ich halte besser Ausschau nach mehr von diesen Ballons!
+
+TimePieceName = Zeitstück
+TimePieceDesc0 = Ich will sie. Sehr.
+
 UnknownName = ??? Kosmetisch
 UnknownDesc0 = Keine Beschreibung.
 
@@ -211,67 +322,11 @@ RaccoonHatDesc0 = Schläft auf deinen Kopf, welches Monster würde ihn wecken?
 ParadeHatName = Parade-Hut
 ParadeHatDesc0 = Die Anführerin, die diese Stadt braucht!
 
-[skins]
-SkinDesc0 = Ändere die Farbe deiner Kleidung!
-WhiteRedSkinName = Der Big Boss
-RedWhiteSkinName = Der Blutmond
-GreenOrangeSkinName = Der Nussknacker
-BlueYellowSkinName = Blaubeerkuchen
-BlackSkinName = Die Witwe
-CaptainName = Kapitän der See
-WahooName = Der große Appetit
-FreedomSkinName = Die Freiheit
-MarginOfNightSkinName = Rand der Nacht
-GirlySkinName = Niedlich und gefährlich
-BronzeSkinName = Bronze
-GreenGoldName = Das Waldtier
-LiquoriceName = Lakritze
-MintyName = Minzfrisch
-CookieDoughSkinName = Plätzchenteig
-
-[remixes]
-RemixDesc_MafiaTown0 = Ein neuer Musik-Remix wurde für Mafia-Stadt freigeschaltet!
-RemixDesc_Subcon0 = Ein neuer Musik-Remix wurde für Subcon-Wald freigeschaltet!
-RemixDesc_Trainwreck0 = Ein neuer Musik-Remix wurde für Kampf der Vögel freigeschaltet!
-RemixDesc_Sand0 = Ein neuer Musik-Remix wurde für Alpin Bergkette freigeschaltet!
-RemixDesc_Rift0 = Ein neuer Musik-Remix wurde für Zeit Risse freigeschaltet!
-MafiaTownElectroName = Mafia-Stadt (Electronic Remix)
-ClockTowersOrchestralName = Wasser Zeitriss (Orchestral Remix)
-SandmobileJazzName = Sandmobil (Jazz Remix)
-MafiaBossOrchestralName = Mafia-Boss (Orchestral Remix)
-MoonJazzName = Der Mond (Jazz Remix)
-SubconVillageScifiName = Subcon-Dorf (Sci-fi Remix)
-
-[weapons]
 UmbrellaName = Dein Regenschirm
 UmbrellaDesc0 = Du hast deinen treuen Schirm zurück!
 UmbrellaDesc1 = Schlag die Dummküpfe mit [button:attack]!
 
-[decorations]
-DecorationMatch = Du hast einen Schatz von dem komischen Planeten identifiziert!
-DecorationSaved = Dieser Schatz könnte mit anderen Schätzen übereinstimmen!
 DecorationMoney = Du hast diesen Schatz schon, deswegen bekommst du [number] Orbs dafür!
-DecorationMystery = Du spürst eine kurze Störung in diesem Raum,... aber es ist wahrscheinlich nichts.
-
-DecorationGenericName = Schatz
-
-TrainToyName = Spielzeugbahn
-TrainToyDesc = Tschu tschuu! Hier komm' ich!
-TrainTracksName = Spielzeugeisenbahn-Gleise
-TrainTracksDesc = Diese Gleise würden super mit einem Zug zusammenpassen!
-TrainSetName = Mini-Zug (und Vögel?)
-TrainSetDesc0 = Das sieht aus wie eine kleine Version von dem "Zug", den die "Vögel" nutzen um zur "Arbeit" zu kommen.
-TrainSetDesc1 = Sind da kleine Vögel drinne? Machen sie kleine "Filme"?
-TrainSetDesc2 = Ich hab keine Zeit, um mich mit der kleinen Vogel-Gesellschaft zu beschäftigen!
-
-UFOName = UFO
-UFODesc = Dieses Spielzeug benutzt Pflanzen als Zeichentablett!
-CowToyName = Plastikkuh
-CowToyDesc = Diese Kuh sieht so aus, als währe sie viel herumgekommen!
-UFOName = Verspottung des Planeten außerhalb des Planeten
-UFODesc0 = Was zum?! Raumschiffe sehen nicht so aus!
-UFODesc1 = Wo ist das Holz? Warum saugt es Kühe ein?
-UFODesc2 = Das ist beleidigend! Ich werde jemanden dafür verklagen!
 
 StatuePedestalName = Statuensockel
 StatuePedestalDesc = Ich habe nackte Skulpturen auf diesen Sockeln gesehen. Iiih!
@@ -279,21 +334,6 @@ StatuePedestalDesc = Ich habe nackte Skulpturen auf diesen Sockeln gesehen. Iiih
 StatueHeadName = Statue von mir
 StatueHeadDesc = Das bin ich! Das muss bestimmt heißen, dass ich berühmt bin.
 
-CrayonBoxName = Buntstiftbox
-CrayonBoxDesc = Gut um... gigantische Buntstifte zu lagern?
-
-RedCrayonName = Roter Stift
-GreenCrayonName = Grüner Stift
-BlueCrayonName = Blauer Stift
-
-RedCrayonDesc = Rot ist eine gute Farbe. Aber nur, weil man sie braucht um lila herzustellen!
-GreenCrayonDesc = Jetzt kann ich endlich ein Vandal sein! Zeit die Wände grün zu färben!
-BlueCrayonDesc = Blau ist eine anständige Farbe, aber es würde niemals einen Kampf gegen lila gewinnen!
-
-CrayonCompleteName = Drei-Farben Graffiti-Kit
-CrayonCompleteDesc0 = Sie wurden für Vandalismus gemacht. Ich fühle mich beim Anblick gezwungen sie zu nehmen und ALLES anzumalen!
-CrayonCompleteDesc1 = Ich kann daraus nur schließen, dass dieses Kit illegal sein muss. Das macht diesen Schatz viel mehr wert.
-CrayonCompleteDesc2 = Wenn nur das Paket nicht schon offen wäre... Nur ein Monster würde sich trauen sowas zu tun!
 
 ToyDetonatorName = Spielzeugzünder
 ToyDetonatorDesc = Es endet nie gut mit diesen Dingern!
@@ -306,17 +346,3 @@ RobotCatDesc = Ein Teil von mir kann es kaum erwarten eine alte Katzen-Oma zu we
 
 BallOfStringName = Bindfaden-Rolle
 BallOfStringDesc = Nur eine Katze würde das interessant finden.
-
-BurgerTopName = Burger-Kissen (obere Hälfte)
-BurgerTopDesc = Ein Kissen in der Form eines Burgers. Sein unterer Bruder fehlt! Oh nein!
-BurgerBottomName = Burger-Kissen (untere Hälfte)
-BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehlt! Oh nein!
-BurgerCushionName = Sitz-Gerät der Erdbewohner
-BurgerCushionDesc0 = Nachforschungen ergeben, dass dies sehr weich ist.
-BurgerCushionDesc1 = So weich, dass die einzige logische Schlussfolgerung ist, dass dies die Stühle dieses Planeten sind.
-BurgerCushionDesc2 = Es ist kein Snack. Ich habe es versucht. Es schmeckt wie Stoff.
-
-[ItemQuality]
-SupporterPrefix = Unterstützer
-GoldPrefix = Gold
-CompletionistPrefix = Komplettist

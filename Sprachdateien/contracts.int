@@ -17,13 +17,6 @@ SubconWell = Säubere den Subcon-Brunnen
 BreakIce = Zerbreche das Eis
 FlowBloom = Lass' die Blumen blühen
 
-[Hat_SnatcherContract_Bonfires]
-Title = Entfache das Lagerfeuer für die Feuergeister
-BonfireYellow = Entfache das gelbe Lagerfeuer
-BonfireGreen = Entfache das grüne Lagerfeuer
-BonfireBlue = Entfache das blaue Lagerfeuer
-BonfirePurple = Entfache das lilane Lagerfeuer
-
 [Hat_SnatcherContract_Vanessa]
 Title = Bring' mir etwas aus der Villa
 EnterManor = Gehe in die Villa
@@ -44,3 +37,10 @@ GetOut2 = Hau einfach ab
 ActsAvailableNone = Nichts. Hau ab.
 Hostage0 = Bitte
 Hostage1 = und geh weg.
+
+[unused/deleted]
+Title = Entfache das Lagerfeuer für die Feuergeister
+BonfireYellow = Entfache das gelbe Lagerfeuer
+BonfireGreen = Entfache das grüne Lagerfeuer
+BonfireBlue = Entfache das blaue Lagerfeuer
+BonfirePurple = Entfache das lilane Lagerfeuer

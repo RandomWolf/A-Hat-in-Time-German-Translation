@@ -5,13 +5,16 @@ SystemSetting_Value_Unchecked = Unchecked
 SystemSetting_Requires_Restart = Diese Einstellung erfordert einen Neustart, um wirksam zu werden.
 SystemSetting_ArtStyle_Warning = Warnung: Der Kunststil des Spiels wurde mit dieser Funktion entworfen. Das Ausschalten bietet nur einen geringen Leistungsgewinn. Wir empfehlen, dass diese Option auf deinem Standardwert belassen wird; Schalte es nur aus, wenn du dir absolut sicher bist.
 SystemSetting_Gameplay_Warning = Warnung: Diese Einstellung wird dringend empfohlen, bei der Standardeinstellung belassen zu werden!
+SystemSetting_Confirm = BESTÄTIGEN
+SystemSetting_Back = ZURÜCK
 
 [systemsettings.main]
 GameSettings_Title = Spiel Einstellungen
-GameSettings_Desc = Anpassen von Einstellungen im Zusammenhang mit dem Gameplay.
+GameSettings_Desc = Anpassen von Einstellungen im Zusammenhang mit Gameplay.
 
 GameSettings_Icon_Singleplayer = Einzelspieler
 GameSettings_Icon_SplitScreen = Geteilter Bildschirm
+GameSettings_Icon_SystemSettings = System Einstellungen
 GameSettings_Icon_Camera = Kamera
 
 GraphicsSettings_Title = Grafik Einstellungen
@@ -124,6 +127,7 @@ Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole.[br]Das 
 
 Item_DisableMods_Title = Mods deaktivieren
 Item_DisableMods_Desc = Mod Support und den Steam Workshop deaktivieren für die wahre, unverfälschte Erfahrung.
+
 [systemsettings.audio]
 Header_Audio = Audio
 Header_Volume = Lautstärke
@@ -329,7 +333,6 @@ Item_Adv_Vignette_Desc = Fügt einen subtilen schwarzen Rand um den Bildschirm hi
 Item_Adv_RigidBody_Title = Simulierte Weltphysik
 Item_Adv_RigidBody_Desc = Wenn aktiviert, werden Trümmer und starre Körper über PhysX simuliert.[br]Mach keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte du hast.
 
-
 Item_Adv_SuperSampling_Title = Supersampling
 Item_Adv_SuperSampling_Desc = Erhöht die Grafikleistung
 
@@ -395,18 +398,21 @@ Loadout_AbilityActivation_Attack = Attacke
 Loadout_AbilityActivation_Weapon = Waffe
 
 Options_ReturnToHUB_Q = Speichern & zurück zum Hub?
+Options_ReturnToHUB_NoSaving_Q = Zurück zum Hub?
 Options_QuitGame_Q = Das Spiel verlassen?
 Options_QuitGame_InGame_Q = Speichern & Beenden zum...
+Options_QuitGame_InGame_NoSaving_Q = Verlassen ohne Speichern zum...
 Options_QuitGame_InGame_A_MainMenu = Hauptmenü!
 Options_QuitGame_InGame_A_Desktop = Desktop!
 Options_QuitGame_InGame_A_Return = Zurück!
 
 Label_Equipment = EQUIPMENT
-Label_Badges = BADGES
+Label_Badges = ANSTECKER
 Label_Weapon = WAFFE
 Label_Contract = VERTRAG
 
 Options_RestartLevel_Q = Akt neustarten?
+
 [MainMenu]
 FileSelect_File = Datei
 FileSelect_Progress_Completed = Fertig
@@ -427,6 +433,7 @@ ModTimePiece = Mod Token
 ModTimePiece_multiple = Mod Tokens
 
 Offer_AvailableNow = Jetzt erhältlich
+
 [ItemUnlock]
 ItemUnlock_Badge = Neuer Hut genäht, probiere ihn an!
 ItemUnlock_Rare = Dieses Flair ist selten!
@@ -446,19 +453,7 @@ Msg_Filter = Filter
 Msg_DoF = Depth of Field
 Msg_EnabledDoF = Depth of Field an
 Msg_DisabledDoF = Depth of Field aus
-
-Filter0 = Action-Blau
-Filter1 = Verträumt
-Filter2 = Die 80er
-Filter3 = Kräftig
-Filter4 = Nur Mädchenhafte Dinge
-Filter5 = Klassisch
-Filter6 = Klassisch 2
-Filter7 = Kalt
-Filter8 = Noir
-Filter9 = Lilane Nacht
-Filter10 = Sonnenuntergang
-Filter11 = #KeinFilter
+Filter_None = #KeinFilter
 
 [ActSelect]
 Help_GoToAct = Akt beginnen
@@ -587,3 +582,6 @@ QuitGame = Spiel beenden
 Coop = CO-OP
 Mods = Mods
 RestartToLastCheckpoint = Neustarten
+
+[unused/deleted]
+//Die Filter-Namen waren mal unter den Filter-Einstellungen

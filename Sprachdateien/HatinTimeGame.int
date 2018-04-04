@@ -64,6 +64,7 @@ Location_Bookstore = Zeit abgelaufen
 
 FreeRoam = Freier Modus
 TimeRift = Zeitriss
+
 secretlevel_beta_space = Beta Hero's Challenge
 
 [ActInfoBoxDetails]
@@ -83,6 +84,7 @@ Sweating_Rain = Schweißperlen: Der Himmel scheint sich zu verändern
 
 Mission_Studio = Mission: Finde heraus, wo die Zeitstücke sind!
 Mission_Award = Mission: Glückwunsch! Du hast es geschafft!
+Mission_Uncanny = Passiert hier etwas eigenartiges?
 ReviewScore = Top Review: "2.5 Sterne, Schauspieler waren schrecklich"
 ReviewScore2 = Top Review "5 Sterne, neuer weiblicher Top Darsteller"
 Legality_No = Rechtslage: Hier nicht erlaubt
@@ -97,6 +99,9 @@ MovieStars_CameraHatKid = KLEINES MÄDCHEN als MYSTERIÖSE DIVA
 MovieStars_Crows = KRÄHEN als C.A.W. AGENTEN
 MovieStars_Owls = EULEN als EULEN
 MovieStars_Penguins = MOND PENGUINE als HUNGRIGE FANBASE
+HighScore = High Score
+CharacterName_Conductor = SCHAFFNER
+CharacterName_DJGrooves = DJ GROOVES
 
 Mission_Mail = Verpflichtung: Liefer diese wirklich alte Post!
 Mission_Manor = Verpflichtung: Sieh' dir das alte Haus vom Snatcher an!
@@ -119,7 +124,6 @@ TP_Secured = ZEITSTÜCK GERETTET!
 TP_Detected = ZEITSTÜCK GESICHTET!
 TimeRift = Ein zerschmettertes Zeitstück hat einen Zeitriss erschaffen!
 TimeRift_Cave = Das Zeitstück fiel und hat jemanden getroffen!
-
 
 [Mountains]
 TowerOfGods = Turm der Götter

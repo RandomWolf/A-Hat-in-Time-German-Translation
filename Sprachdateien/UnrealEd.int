@@ -1,5 +1,6 @@
 [Caption]
 WorkshopBrowser=Steam Workshop
+HatActorClassesBrowser = Hat Actor Classes
 
 [UnrealEd]
 WorkshopName = Workshop Objekt Name
@@ -21,7 +22,7 @@ MusicTreeClean = Clean Unused Nodes
 InterpEd_ExpressionActionDialogTitle=Choose Expression
 InterpEd_ExpressionActionDialogText=Expression
 
-MainMenu_GameInfo = Game Info
+MainMenu_GameInfo = A Hat in Time
 MainMenu_SimplifiedEditorToggle = Simplified Editor
 ToolTip_SimplifiedEditorToggle = Select to use a simplified editor (commonly unused features hidden)
 
@@ -68,6 +69,9 @@ MainMenu_GameInfo_GameDesign = Game Design
 MainMenu_GameInfo_ClearPlaySession = Clear Play Sessions
 MainMenu_GameInfo_ClearPlaySession_Desc = Remove all recorded play sessions
 
+MainMenu_GameInfo_SaveSlots = Save Slot
+MainMenu_GameInfo_Slot = Slot %i
+
 JiggleboneEditor_F=Gears for Breakfast Jigglebone Editor: `~
 UnPhat_OpenJigglebone = Open Jigglebone Editor
 
@@ -109,6 +113,9 @@ ObjectContext_CreateSoundCueSFX = Create New SoundCue (Sound Effect)
 ObjectContext_CreateSoundCueVoice = Create New SoundCue (Vocals)
 ObjectContext_CreateSoundCueMusic = Create New SoundCue (Music)
 CreateNewSoundCue=Create New SoundCue
+ObjectContext_CreateMusicTree = Create New Music Tree
+CreateNewMusicTree=Create New Music Tree
+ObjectContext_ApplyMapMusic = Make this the map's music
 
 RemoveRootMovementFirstFrame=Reset Root Movement (XYZ) to First Frame
 RemoveRootMovementXY=Reset Root Movement (XY) to First Frame
@@ -169,3 +176,13 @@ GizmoTransformActor_AddSpline = New Spline Here
 StaticMesh_Bake_Spline_VertexColor_SelectForward = Bake Spline VertexColor
 StaticMesh_Bake_Spline_VertexColor_SelectedForward = Forward Axis:
 
+Error_ImportFailed_Texture2D = Failed to import Texture2D! Check that its size is a power of 2?
+
+PackageContext_SetPrivate=Set Private
+PackageContext_SetPublic=Set Public
+
+MainMenu_GameInfo_Editors = Editors
+
+ConnectToPBR_Metallic=Connect to "Metallic"
+ConnectToPBR_Roughness=Connect to "Roughness"
+ConnectToPBR_EnvironmentDesaturation=Connect to "Environment Desaturation"

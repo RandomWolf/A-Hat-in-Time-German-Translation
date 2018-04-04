@@ -9,6 +9,7 @@ divecancel = Während des Weitsprungs zum Abbrechen
 trigger_ability = Um deine [icon:activehat] Hut-Fähigkeit zu benutzen
 hat_swap = Zum Wechseln
 umbrella_attack = Attackieren
+homingattack = In der Luft für einen Verfolgungsangriff
 helper_ability_no_target = Hier gibt es nichts Interessantes...
 
 drop_carry = Fallen lassen

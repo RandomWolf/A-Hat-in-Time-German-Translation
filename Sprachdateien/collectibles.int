@@ -31,7 +31,7 @@ SprintDesc0 = Drücke und halte [button:badge], um zu sprinten!
 
 StatueFallName = Eis-Hut
 StatueFallFun0 = Er ist so kalt!
-StatueFallTech0 = Drücke [button:badge], um auf den Boden unter dir zu schmettern!
+StatueFallTech0 = Drücke [button:badge], um den Boden zu zerschmettern!
 
 HoverName = Fliegender Hut
 HoverDescFun0 = Fliege vor brenzligen Situationen weg!

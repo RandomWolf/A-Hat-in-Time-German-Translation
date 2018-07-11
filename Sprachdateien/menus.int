@@ -144,12 +144,6 @@ Item_VAVolume_Desc = Stellt die Lautstärke des gesprochenen Dialogs ein, einschl
 Item_MasterVolume_Title = Gesamtlautstärke
 Item_MasterVolume_Desc = Stellt die Lautstärke des gesamten Spiels an.[br]100% ist der empfohlene Wert, aber du kannst die Lautstärke darüber hinaus erhöhen.
 
-Item_VAType_Title = Stimmenauswahl
-Item_VAType_Desc = [Full]: Alle Charaktere sprechen ganze Sätze. [newline][Mumble]: Charaktere sprechen generischen Kauderwelsch. [newline][None]: Keine Stimme, die wie auch immer wirkt.
-Item_VAType_Item_Full = Voll
-Item_VAType_Item_Mumble = Nuscheln
-Item_VAType_Item_None = Keines
-
 Item_VolumeOnFocusLost_Title = "Out of Focus"-Lautstärke
 Item_VolumeOnFocusLost_Desc = Passt die Lautstärke des Spiels an, wenn das Spielfenster nicht im Fokus ist.
 
@@ -172,7 +166,6 @@ Item_WindowType_Desc = [Fullscreen]: Das Spiel nimmt die gesamte Monitoranzeige 
 Item_WindowType_Item_Fullscreen = Vollbild
 Item_WindowType_Item_Windowed = Fenster
 Item_WindowType_Item_Borderless_Window = Randloses Fenster
-Item_WindowType_Item_MultiMonitor = Multi-Monitor
 
 Item_DisplayMonitor_Title = Display Monitor
 Item_DisplayMonitor_Desc = Der Monitor, auf dem das Spiel angezeigt wird.[newline][Default]: Das Betriebssystem entscheidet, welcher Monitor angezeigt werden soll.
@@ -245,7 +238,7 @@ Item_Adv_CharacterTextureQuality_Desc = Bestimmt die Auflösung von Texturen für 
 
 Header_Adv_Environment = Spielwelt
 Item_Adv_DetailMode_Title = Spielweltdetails
-Item_Adv_DetailMode_Desc = [High]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Medium]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Low]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
+Item_Adv_DetailMode_Desc = [[option2]]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Medium]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Low]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
 
 Item_Adv_DrawDistance_Title = Sichtweite
 Item_Adv_DrawDistance_Desc = Wenn du dich von einigen Umgebungsmodellen weiter entfernst, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden.[br]Wenn du diese Einstellung erhöhen, erhöhen Sie, wie weit sie reichen können, bevor dies geschieht.[br]Ein höherer Wert bedeutet höhere Qualitätshintergründe, jedoch zu erheblichen Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.
@@ -368,6 +361,14 @@ Item_Rumble_Controller_Desc = Ob Vibrationen während bestimmter Aktionen zugelas
 Item_InputAssist_Title = Eingabehilfe
 Item_InputAssist_Desc = Das Spiel wird versuchen, die Eingabeerfahrung zu verbessern, indem Eingaben,[br]die zu früh auf ein kleines Stück gedrückt wurden, gespeichert werden,[br]sowie versehentliche doppelte Tastendrücke zu vermeiden.
 
+[systemsettings.controller]
+Header_Controller = Hinzugefügte Controller
+Item_NewController_Title = Neuer Controller
+Item_NewController_Desc =  Erstelle dein eigenen Controller!
+Item_NewController_Item_New = Neu
+
+Item_ConfigureController_Item_Configure = Konfigurieren
+
 [alpha_warnings]
 alpha0 = Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
 alpha1 = So if you'd like your first impression of [name]A Hat in Time[/name] to be an experience at your own pace, feel free to sit this one out! It's OK, the full game releases [hint]October 5th[/hint]!
@@ -412,6 +413,10 @@ Label_Weapon = WAFFE
 Label_Contract = VERTRAG
 
 Options_RestartLevel_Q = Akt neustarten?
+
+Coop_NoControllerPluggedIn = Bitte schließe einen Kontroller an
+Coop_CantDisableRightNow = Kann gerade nicht Co-op Modus ausschalten
+Coop_CantEnableRightNow = Kann gerade nicht Co-op Modus einschalten
 
 [MainMenu]
 FileSelect_File = Datei
@@ -510,6 +515,7 @@ Suspect3 = ICH BIN JETZT EIN VERFÜGBARER VERDÄCHTIGER!
 Suspect4 = [MotherMaidenName] IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
 Suspect5 = DAS OPFER IST JETZT EIN VERFÜGBARER VERDÄCHTIGER!
 SelectSuspect = WER IST DER MÖRDER?
+SelectSuspectButton = Ist es dieser Trottel?
 ConfirmSuspect = BIST DU DIR SICHER, DASS DIESER TROTTEL DER MÖRDER IST?
 
 Suspect_Select0 = Schützen und dienen[br]um jeden Preis!
@@ -584,5 +590,16 @@ Coop = CO-OP
 Mods = Mods
 RestartToLastCheckpoint = Neustarten
 
+[Cinematics]
+SkipCinematic = ÜBERSPRINGEN
+
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen
+
+Item_VAType_Title = Stimmenauswahl
+Item_VAType_Desc = [Full]: Alle Charaktere sprechen ganze Sätze. [newline][Mumble]: Charaktere sprechen generischen Kauderwelsch. [newline][None]: Keine Stimme, die wie auch immer wirkt.
+Item_VAType_Item_Full = Voll
+Item_VAType_Item_Mumble = Nuscheln
+Item_VAType_Item_None = Keines
+
+Item_WindowType_Item_MultiMonitor = Multi-Monitor

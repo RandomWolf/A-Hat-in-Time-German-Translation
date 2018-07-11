@@ -554,7 +554,6 @@ NextMap = Nächste Karte
 ViewInWorkshop = Im Workshop ansehen
 BrowseTheWorkshop = DURCH DEN WORKSHOP STÖBERN
 NoMods_Steam = Du hast keine Mods installiert! Probiere mal einige vom Workshop aus.
-NoMods = Du hast keine Mods installiert! Platziere die Mods in den Mod-Ordner, um sie zu installieren.
 
 DownloadingMod = Mod wird heruntergeladen
 ModCreatedBy = Von
@@ -593,6 +592,7 @@ RestartToLastCheckpoint = Neustarten
 [Cinematics]
 SkipCinematic = ÜBERSPRINGEN
 
+
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen
 
@@ -603,3 +603,5 @@ Item_VAType_Item_Mumble = Nuscheln
 Item_VAType_Item_None = Keines
 
 Item_WindowType_Item_MultiMonitor = Multi-Monitor
+
+NoMods = Du hast keine Mods installiert! Platziere die Mods in den Mod-Ordner, um sie zu installieren.

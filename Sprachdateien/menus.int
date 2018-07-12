@@ -364,7 +364,7 @@ Item_InputAssist_Desc = Das Spiel wird versuchen, die Eingabeerfahrung zu verbes
 [systemsettings.controller]
 Header_Controller = Hinzugefügte Controller
 Item_NewController_Title = Neuer Controller
-Item_NewController_Desc =  Erstelle dein eigenen Controller!
+Item_NewController_Desc =  Erstelle deinen eigenen Controller!
 Item_NewController_Item_New = Neu
 
 Item_ConfigureController_Item_Configure = Konfigurieren

@@ -1,7 +1,7 @@
 [systemsettings.global]
-SystemSetting_DefaultValue = Default:
-SystemSetting_Value_Checked = Checked
-SystemSetting_Value_Unchecked = Unchecked
+SystemSetting_DefaultValue = Standard:
+SystemSetting_Value_Checked = Abgehakt
+SystemSetting_Value_Unchecked = Unabgehakt
 SystemSetting_Requires_Restart = Diese Einstellung erfordert einen Neustart, um wirksam zu werden.
 SystemSetting_ArtStyle_Warning = Warnung: Der Kunststil des Spiels wurde mit dieser Funktion entworfen. Das Ausschalten bietet nur einen geringen Leistungsgewinn. Wir empfehlen, dass diese Option auf deinem Standardwert belassen wird; Schalte es nur aus, wenn du dir absolut sicher bist.
 SystemSetting_Gameplay_Warning = Warnung: Diese Einstellung wird dringend empfohlen, bei der Standardeinstellung belassen zu werden!

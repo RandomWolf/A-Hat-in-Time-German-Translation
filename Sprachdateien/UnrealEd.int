@@ -94,6 +94,7 @@ StaticMesh_CollisionFromBuilderBrush_Append = The mesh already has collision, do
 StaticMesh_Bake_Radial_VertexColor = Bake Radial Vertex Color
 StaticMesh_Bake_Spline_VertexColor = Bake Spline Vertex Color
 ShowVertexColor = Show Vertex Color
+RotatePreview = Rotate Preview
 
 SkelMeshAnim_GrabRef = Do you wish to grab ref from this anim?
 SkelMeshAnim_RotationPatch = Do you wish to patch this anim? Use this when importing Mafia anims from Blender!
@@ -178,11 +179,13 @@ StaticMesh_Bake_Spline_VertexColor_SelectedForward = Forward Axis:
 
 Error_ImportFailed_Texture2D = Failed to import Texture2D! Check that its size is a power of 2?
 
-PackageContext_SetPrivate=Set Private
-PackageContext_SetPublic=Set Public
+PackageContext_SetPrivate=Mark as Secret DLC
+PackageContext_SetPublic=Unmark as Secret DLC
 
 MainMenu_GameInfo_Editors = Editors
 
 ConnectToPBR_Metallic=Connect to "Metallic"
 ConnectToPBR_Roughness=Connect to "Roughness"
+
+TouchAll=Touch All
 ConnectToPBR_EnvironmentDesaturation=Connect to "Environment Desaturation"

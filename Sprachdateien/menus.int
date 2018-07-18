@@ -318,7 +318,7 @@ Item_Adv_ConservativeShadowBounds_Title = Präzise Schattengrenzen
 Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert, versucht das Spiel genauer zu verfolgen, wo Schatten landen.
 
 Item_Adv_SeparateTranslucency_Title = Zweilagige Transluzenz
-Item_Adv_SeparateTranslucency_Desc = Die Transluzenz wird durchgeführt, bevor das Depth-of-Field-Rendering bestanden wird.[br]Infolgedessen werden viele lichtdurchlässige Objekte verschwommen, selbst wenn sie direkt vor dir liegen.[br]Durch die zweilagige Transluzenz können diese Objekte gerendert werden, nachdem das Depth of Field-Rendering bestanden wurde.
+Item_Adv_SeparateTranslucency_Desc = Die Transluzenz wird durchgeführt, bevor das Schärfentiefe-Rendering bestanden wird.[br]Infolgedessen werden viele lichtdurchlässige Objekte verschwommen, selbst wenn sie direkt vor dir liegen.[br]Durch die zweilagige Transluzenz können diese Objekte gerendert werden, nachdem das Schärfentiefe-Rendering bestanden wurde.
 
 Item_Adv_Vignette_Title = Kamera-Vignette
 Item_Adv_Vignette_Desc = Fügt einen subtilen schwarzen Rand um den Bildschirm hinzu.
@@ -455,9 +455,9 @@ Help_DisableDoF = Schärfentiefe deaktivieren
 Help_Exit = Verlassen
 
 Msg_Filter = Filter
-Msg_DoF = Depth of Field
-Msg_EnabledDoF = Depth of Field an
-Msg_DisabledDoF = Depth of Field aus
+Msg_DoF = Schärfentiefe
+Msg_EnabledDoF = Schärfentiefe an
+Msg_DisabledDoF = Schärfentiefe aus
 Filter_None = #KeinFilter
 
 [ActSelect]

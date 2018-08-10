@@ -64,6 +64,17 @@ BodyPartChatter2 = niemand hatte eine(n) scheußlichere(n) [BodyPartName] als sie
 BodyPartChatter3 = Ich habe noch nie so was[br]schreckliches wie[br]ihr(e/en) [BodyPartName] gesehen.
 BodyPartChatter4 = Ich habe sie[br]nach ihrem unliebsten[br]Körperteil gefragt
 
+[finale]
+outside0 = Grüße, werter,[br]angeblicher Krimineller.[br]Wir sind sehr viele.
+outside1 = Wir sind alle wegen eines Verbrechens hier. Angeblich. Welches Verbrechen hast du begangen, werter Mitverbrecher?
+outside1a = Mit welchem juristischen Begriff würdest du deine Straftat beschreiben?
+outside1b = Verstehe. Das ist also das wahre Gesicht von [Crimes].
+outside2 = Das ist verblüffend. Warum wurden wir Vögel hier versammelt? Weißt du es, werter Mitverbrecher?
+inside0 = Meine werten[br]Mitverbrecher sind aus der[br]Lava nicht wieder[br]aufgetaucht.[br]Sehr merkwürdig.
+inside1 = Wir Kriminellen[br]können erleichtert sein, dass wir nicht[br][Crimes][br]begangen haben.
+suicide0 = Hau AB!
+
+[unused/deleted]
 [spaceship]
 visit0 = Na sowas, hallo wertes Raumfahrer-Kind. Ich bin auch ein Raumfahrer-Kind. Ich fahre viel durch den Raum.
 visit1 = Von einem Raumfahrt-Kind zur anderen, wir können private Informationen teilen, ja? Was ist das Geheimnis der [icon:timepiece][timepiece]Sanduhren[/timepiece]?
@@ -74,13 +85,3 @@ Idle_mafiaboss0 = Als Raumfahrt-Kind verstehe ich nicht, wie ein Mann im Glas oh
 Idle_mafiaboss1 = Es verwundert und verwirrt mich, aber ich bin verleitet, die Antwort herauszufinden. So ist das Leben eines Raumfahrt-Kindes wie ich es bin.
 Idle_vault0 = Hallo, wertes Raumfahrt-Kind. Als Raumfahrt-Kind bin ich selbst ungeschickt und vergesslich. Ich habe die Kombination zu unserem riesigen Tresorraum vergessen.
 Idle_vault1 = Ich weiß, es war sehr ungeschickt von mir. Kannst du mir die Kombination nochmal verraten? Nein?
-
-[finale]
-outside0 = Grüße, werter,[br]angeblicher Krimineller.[br]Wir sind sehr viele.
-outside1 = Wir sind alle wegen eines Verbrechens hier. Angeblich. Welches Verbrechen hast du begangen, werter Mitverbrecher?
-outside1a = Mit welchem juristischen Begriff würdest du deine Straftat beschreiben?
-outside1b = Verstehe. Das ist also das wahre Gesicht von [Crimes].
-outside2 = Das ist verblüffend. Warum wurden wir Vögel hier versammelt? Weißt du es, werter Mitverbrecher?
-inside0 = Meine werten[br]Mitverbrecher sind aus der[br]Lava nicht wieder[br]aufgetaucht.[br]Sehr merkwürdig.
-inside1 = Wir Kriminellen[br]können erleichtert sein, dass wir nicht[br][Crimes][br]begangen haben.
-suicide0 = Hau AB!

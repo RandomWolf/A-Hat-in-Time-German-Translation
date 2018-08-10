@@ -111,14 +111,6 @@ Endorsement_Alley1 = Gefahr ist ihr zweiter Name und sie hat keine Angst ihre ei
 
 Ending0 = Das Publikum rastet aus, Schätzchen! Komm' hier her und zeige denen die Riesenüberaschung... unser [icon:timepiece][timepiece]neues Requisit[/timepiece]!
 
-[Highscore]
-NewHighScore0 = Gut gemacht, Schätzchen!
-NewHighScore1 = So nahe dran, Schätzchen!
-NewHighScore2 = Die Trophäe wird unsere sein, Schätzchen!
-NoNewScore0 = Es ist okay, Schätzchen! Nächstes Mal!
-NoNewScore1 = Es ist schwer Erfolg zu wiederholen!
-NoNewScore2 = Versuch's nochmal, Schätzchen!
-
 [finale]
 outside0 = Gut dich zu sehen, Schätzchen! Es ist gut zu wissen, dass ich nicht der einzige Superstar bin, der in diesem geschmackslosen Ort warten muss.
 outside1 = Rutsche durch die Türen hoch und finde heraus, wer den Ton dort angibt, okay?
@@ -126,3 +118,12 @@ outside1 = Rutsche durch die Türen hoch und finde heraus, wer den Ton dort angib
 [ending]
 hang0 = Lass uns unseren Film ansehen, Schätzchen!
 hang1 = Wir werden dich vermisseeeeeeeeeeeeeen...!!!
+
+[unused/deleted]
+[Highscore]
+NewHighScore0 = Gut gemacht, Schätzchen!
+NewHighScore1 = So nahe dran, Schätzchen!
+NewHighScore2 = Die Trophäe wird unsere sein, Schätzchen!
+NoNewScore0 = Es ist okay, Schätzchen! Nächstes Mal!
+NoNewScore1 = Es ist schwer Erfolg zu wiederholen!
+NoNewScore2 = Versuch's nochmal, Schätzchen!

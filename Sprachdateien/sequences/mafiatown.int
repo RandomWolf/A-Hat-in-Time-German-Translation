@@ -1,7 +1,3 @@
-[umbrella]
-umbrella_back0 = Du hast deinen [name]treuen Schirm[/name] wieder!
-umbrella_back1 = Brate Holzköpfe mit [button:attack] eins über!
-
 [act1postbattle]
 dotdotdot = . . .
 
@@ -37,3 +33,8 @@ finish1 = Wir haben [timepiece][icon:timepiece]Belohnung[/timepiece] für dich!
 goofy0 = Geschafft! Kleines Kind hat Mafia-Stadt gerettet!
 goofy1 = Jetzt muss Mafia nicht mehr Lava zum Frühstück essen... Großartig!
 goofy2 = Bitte, nimm Trophäe. Du bist wirklich Held von Mafia-Stadt!
+
+[unused/deleted]
+[umbrella]
+umbrella_back0 = Du hast deinen [name]treuen Schirm[/name] wieder!
+umbrella_back1 = Brate Holzköpfe mit [button:attack] eins über!

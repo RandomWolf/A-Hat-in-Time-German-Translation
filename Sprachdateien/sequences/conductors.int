@@ -21,10 +21,6 @@ ending1 = Oh ho ho hooo... schau' dir nur all dieses rohe Filmmaterial an![br]Sc
 ending2 = Was? Wir taten es alles im Namen der Cinematografie! ... und um diesen Ungut [icon:djgrooves][name]DJ Grooves[/name] zu überbieten! [br]Ich wette, er wird nicht mal in der Lage sein, die HÄLFTE von dem zu drehn', was wir hier geschafft haben!
 ending3 = Nun gut hier, nimm' eines von diesen [icon:timepiece][timepiece]Dingsbumsen[/timepiece], die du so magst. Du verdienst es!
 
-[big_parade]
-playing_cards0 = ... warte... warte ein Moment... gib' mir Zeit, über meinen nächsten Move nachzudenken!
-playing_cards1 = ... ähhh... ist ein Ass die beste oder die schlechteste Karte...?
-
 [deadbird]
 intro0 = Dieses Filmstudio ist nicht groß genug für uns beide, [icon:djgrooves][name]DJ Grooves[/name]! Der Film soll' von richtigen Vögeln produziert werden!
 intro1 = Ihr [name]Mondpinguine[/name] schreibt doch eh nur wieder ein lautes, lärmendes Geschwafel! Wenn ich ein paar Grünschnäbel will, [br]die von Vogelsamen betäubt, albern herumtanzen, dann besuch ich meine Enkelkinder!
@@ -40,23 +36,6 @@ intro10 = Oh wirklich?! Wolln' wir doch mal sehen, wie gut euer Film wird, wenn 
 intro11 = Oh warte, die Grünschnäbel in ihrem Studio einzusperren, zwingt sie dazu härter zu arbeitn'.
 intro12 = Nun gut, Zeit zu gehen, meine Eulen! Lasst uns einen Killer-Movie drehen!!
 intro13 = Oh, und Rezeptionist, kannst du bitte diesen Lüftungsschacht dort endlich zuschließen? Ich will den Geruch von Pinguinen, nicht in der Nähe meiner Crew haben!
-
-director_cut0 = SCHNITT!
-director_cut1 = Was. War. DAS?!
-director_cut2 = Durchsucht die Kameras!
-director_cut3 = Wer ist DAS?!
-director_cut4 = Verlass' sofort mein Filmset!
-
-director_action0 = Okay, Allemann bereit? Dann lasst uns starten. ACTION!
-director_action1 = Lassen wir diesen Film wahr werden! Eulen! In Position! ACTION!
-director_action2 = Kameras! Lichter! ACTION!
-director_action3 = Klappe viertausendfünfundsechzig! ACTION!
-director_action4 = Seid ihr Eulen bereit, die nächste Szene zu drehen? Lasst es uns tun! ACTION!
-
-director_idle0 = Ihr Eulen seid lausige Schauspieler! Lausige!
-director_idle1 = Kommt schon, gebt zumindestens eine bessere Performance als die Pinguine ab!
-director_idle2 = Du! Was machst du hier!? Geht zurück auf eure Positionen!
-director_idle3 = Bei welcher Szene sind wir jetzt? Zweiundvierzig? [br]Weil, du hättest nicht im Frame von Szene [br]zweiundvierzig sein sollen!
 
 outro0 = [scream][big]HEY! WAS MACHST DU DENN DA?![/big][/scream]
 outro1 = Du kannst hier nicht einfach 'reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Awards[/trophy] herumspielen! [br]Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, wir haben hier einen BETRÜGER!
@@ -128,22 +107,6 @@ suspect_hatkid7 = Du ermordetest diese Eule in kaltem Blut!
 suspect_hatkid8 = Oh.
 suspect_hatkid9 = Dennoch, damit bist du zu weit gegangen, Detektiv! Dafür kommst du ab in die Hundehütte!
 
-[GearPieces]
-story_intro0 = Gemütlichen Ort hast du hier, Lassie! Nicht schlecht, überhaupt nicht schlecht.
-story_intro1 = Weißt du, früher in meinen alten Tagen, ging ich auch auf Abenteuerreisen, wie du!
-story_intro2 = Willst du eine alte Geschichte, von einem alten Mann hören? [br]Es wird dir keine Belohnung oder so geben.
-story_intro3 = Was für eine Geschichte willst du hören?
-story_intro4 = Das kostet [cost] pons für eine neue Geschichte! Was, du dachtest Weißheit gibt's auch kostenlos? Ha!
-story_intro5 = Nun gut, such dir eine Geschichte aus!
-
-story_Jungle01 = Me 'n the Owl Express were heading to new territory, in search of the next Gear Piece!
-story_Jungle02 = I ventured to the deepest parts of the macaroni jungle, when suddenly, I was met with tribesmen! Lots of them! I was surrounded, kid!
-story_Jungle03 = But wait... they recognized me! They all bowed down in awe! They said I was the great bird of the west! They must've seen me movies or somethin'!
-story_Jungle04 = They brought me to their temple, and I saw the next Gear Piece in broad daylight. I knew I had to get me hands on it, but how?
-story_Jungle05 = As they led me to their worship chamber, my expectations got higher and higher, you know? I was awaiting seeing myself in golden statue form!
-story_Jungle06 = But lo and behold, you know what I saw, kiddo? A poster of [icon:djgrooves][name]DJ GROOVES[/name]! I was like, YER WHAT, PECK NECKS?!
-story_Jungle07 = And so I tore down the poster, stole their Gear Piece, 'n ran off! And that's how I got my 7th Gear Piece! Soon the Black Jewel Train will be mine!
-
 [BossBattle]
 SupportNotice0 = Lassie, hier drüben!
 SupportNotice1 = Warte,[br]ich finde einen Weg,[br] um die Bombe zu[br]entschärfen!
@@ -194,3 +157,41 @@ suicide2 = Dieses wütende, rote Mädchen soll... ABHAUEN!
 [ending]
 hang0 = Wag es ja nicht uns zu verlassen, Lassie!
 hang1 = Wir werden dich vermisseeeeeeeeeeen...!!!
+
+[big_parade]
+playing_cards0 = ... warte... warte ein Moment... gib' mir Zeit, über meinen nächsten Move nachzudenken!
+playing_cards1 = ... ähhh... ist ein Ass die beste oder die schlechteste Karte...?
+
+[unused/deleted]
+director_cut0 = SCHNITT!
+director_cut1 = Was. War. DAS?!
+director_cut2 = Durchsucht die Kameras!
+director_cut3 = Wer ist DAS?!
+director_cut4 = Verlass' sofort mein Filmset!
+
+director_action0 = Okay, Allemann bereit? Dann lasst uns starten. ACTION!
+director_action1 = Lassen wir diesen Film wahr werden! Eulen! In Position! ACTION!
+director_action2 = Kameras! Lichter! ACTION!
+director_action3 = Klappe viertausendfünfundsechzig! ACTION!
+director_action4 = Seid ihr Eulen bereit, die nächste Szene zu drehen? Lasst es uns tun! ACTION!
+
+director_idle0 = Ihr Eulen seid lausige Schauspieler! Lausige!
+director_idle1 = Kommt schon, gebt zumindestens eine bessere Performance als die Pinguine ab!
+director_idle2 = Du! Was machst du hier!? Geht zurück auf eure Positionen!
+director_idle3 = Bei welcher Szene sind wir jetzt? Zweiundvierzig? [br]Weil, du hättest nicht im Frame von Szene [br]zweiundvierzig sein sollen!
+
+[GearPieces]
+story_intro0 = Gemütlichen Ort hast du hier, Lassie! Nicht schlecht, überhaupt nicht schlecht.
+story_intro1 = Weißt du, früher in meinen alten Tagen, ging ich auch auf Abenteuerreisen, wie du!
+story_intro2 = Willst du eine alte Geschichte, von einem alten Mann hören? [br]Es wird dir keine Belohnung oder so geben.
+story_intro3 = Was für eine Geschichte willst du hören?
+story_intro4 = Das kostet [cost] pons für eine neue Geschichte! Was, du dachtest Weißheit gibt's auch kostenlos? Ha!
+story_intro5 = Nun gut, such dir eine Geschichte aus!
+
+story_Jungle01 = Me 'n the Owl Express were heading to new territory, in search of the next Gear Piece!
+story_Jungle02 = I ventured to the deepest parts of the macaroni jungle, when suddenly, I was met with tribesmen! Lots of them! I was surrounded, kid!
+story_Jungle03 = But wait... they recognized me! They all bowed down in awe! They said I was the great bird of the west! They must've seen me movies or somethin'!
+story_Jungle04 = They brought me to their temple, and I saw the next Gear Piece in broad daylight. I knew I had to get me hands on it, but how?
+story_Jungle05 = As they led me to their worship chamber, my expectations got higher and higher, you know? I was awaiting seeing myself in golden statue form!
+story_Jungle06 = But lo and behold, you know what I saw, kiddo? A poster of [icon:djgrooves][name]DJ GROOVES[/name]! I was like, YER WHAT, PECK NECKS?!
+story_Jungle07 = And so I tore down the poster, stole their Gear Piece, 'n ran off! And that's how I got my 7th Gear Piece! Soon the Black Jewel Train will be mine!

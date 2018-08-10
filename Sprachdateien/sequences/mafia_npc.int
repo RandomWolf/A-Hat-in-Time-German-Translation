@@ -20,7 +20,7 @@ road2 = Allerdings gibt es ein Problem: Sachen, die man online bestellt brauchen
 road3 = Kleines Boot kommt, aber jedesmal wenn es kommt, schießen wir. Nach einer Weile, kommt Boot nicht mehr.
 road4 = Manchmal Mafia möchte etwas anderes probieren als Fisch, aber alles weit weg.
 road5 = Mafia fragt sich, warum Mafia hier hingezogen ist.
-road6 = Mafia mag nichtmal Fisch.
+road6 = Mafia mag nicht mal Fisch.
 
 geyser0 = Wir bauen Basis auf gigantischen Geiser. Du fragst, "Wie habt ihr das gemacht?", aber wir nicht sagen.
 geyser1 = Wenn wir dir es sagen, versuchst du auch eine zu bauen. Aber stellt sich heraus Basis ist klein.
@@ -87,12 +87,6 @@ cave_restricted2 = Keiner erlaubt in Höhle.
 cave_restricted_lazy0 = Geh... einfach nicht in Höhle. Bitte.
 cave_restricted_lazy1 = Lass Mafia in Ruhe und bleib weg von Höhle. Zwinge Mafia nicht zum Aufstehen.
 cave_restricted_lazy2 = Bleibe von der Höhle fern, Fräulein. Denk nicht einmal daran.
-
-[milkman]
-intro0 = Sieh dich um. Siehst du wie stark Mafia ist? Alles nur dank dem Milchmann.
-intro1 = Ohne Milch zwei mal am Tag, Mafia ist nichts.
-intro2 = Milch wurde schon geliefert, aber Mafia braucht mehr diese Nacht.
-intro3 = Sieh mich heute Abend und wir liefern Milch zusammen.
 
 [chapter1combat]
 intro0 = Hey! Kind! Husch! Mafia darf keine Zeugen haben, wenn Mafia Lektion erteilt. 
@@ -167,31 +161,9 @@ boat_ticket_island0 = Mafia verkauft Tickets für Reise zu Insel.
 boat_ticket_island1 = Aber... Mafia hat keine Tickets. Komm später wieder.
 boat_ticket_island2 = Mafia schon gesagt, dass Mafia keine Tickets hat. Hau ab!
 
-[muchase]
-MuTower0 = Hey! Kleines Mädchen! Du stinkst!
-MuTower1 = Komm' runter da! Wir wollen dich wieder in Fluss werfen! [wave]Ha ha ha[/wave]!
-run_by0 = Hey! Pass auf, wo du hinläufst.
-
 [blackmarket]
 guard0 = Halt! Kind nicht erlaubt im Schwarzmarkt.
 guard1 = Schwarzmarkt ist nur für Mafia!
-
-[chapter1act4]
-intro0 = Waren wir nicht, Göre. Wir haben nichts gemacht.
-intro1 = Alles was wir gemacht haben, war Zeug ins Meer werfen, Befehle vom Boss. Sagt es kühlt den Berg ab.
-intro2 = Aber da wir das nun nicht mehr dürfen, wissen wir nicht wie wir Hitze stoppen.
-beach1 = Ich sag dir mal was, es ist eigentlich ganz schön mit der Hitze.
-beach2 = Nur der Strand ist voll mit heißer Lava.....
-sign0 = Da wir nun nicht mehr für den Boss arbeiten, haben wir neue Jobs.
-sign1 = Wir machen Wettervorhersage. Heutiges Wetter: Schlecht. Zu warm. Ende der Welt? Mehr um 11.
-sign2 = Leute brauchen Nachrichten. Leute keine Zeit haben für Smalltalk.
-sign3 = Mein Bruder treibt ein falsches Spiel, er hat zwei Wörter benutzt. Zu viel.
-kickbad0 = Uns aus dem Geschäft zu schmeißen war eine schlechte Idee, Kind. Diese Stadt braucht einen Tyrann oder alle sind zu Nett!
-kickbad1 = Weißt du was eine nette Stadt wäre? Langweilig. Kein Gewürz in der Pasta.
-magic0 = Das einzige Wasser in der Stadt, und meine magische Illusion macht es unantastbar! Was habe ich nur getan!
-magic2 = Wer hätte gedacht, dass meine einzige Schwachstelle meine eigenen Fähigkeiten sind!
-magic1 = [scream]NEEEiiiiinnnn....[/scream]
-chef0 = Vulkan-Lava ist gut zum Kochen!
 
 [hq]
 rude_jeer0 = Geh' weg, kleines Mädchen! Dies ist Mafia-Basis!
@@ -224,15 +196,6 @@ intro_a = Bist du ein Feigling?
 intro_b = Bye, Loser!
 intro_c = Mach endlich das Rennen mit mir!
 
-[sell_decoration]
-intro0 = Hey kleines Kind! Du! Ja, du! Willst du Mafia Geld geben, ja? Natürlich willst du!
-intro1 = Mafia braucht Geld... schnell! Hast du Geld? Du kaufst Mafia tiefstes Verlangen.
-intro2 = Mafias tiefstes Verlangen ist... uh... [name]Burger-Kissen[/name]! Ja, feinstes [name]Burger-Kissen[/name] der ganzen Stadt! 
-intro3 = Also bitte kaufen, oder Mafia wird vielleicht mit den kleinen Fischen baden.
-deny0 = Wieso, wieso nicht kaufen von Mafia!? Mafia braucht das Geld, bitte kaufen!!
-retry0 = Bitte Kaufen! Bitte Kaufen! Mafia braucht das Geld!!
-accept0 = Danke! Mafia wird das Geld vorsichtig ausgeben. In geheimen Spielzimmer .
-
 [cave_dreams]
 rules_explained0 = Hallo, kleines Mädchen. Das hier ist Mafia-Zeitriss. [timepiece][icon:timepiece]Zeitstück[/timepiece] hat Mafia an Kopf getroffen, und nun ist Zeitriss gefüllt mit Mafias Träumen und Gedanken.
 rules_explained1 = Dieser Zeitriss ist einfach. Einfach wie Mafia, genau wie Mafia es mag.
@@ -262,3 +225,41 @@ suicide5 = Hut-Mädchen, hier! Nimm!
 [ending]
 hang0 = Verlass uns nicht!
 hang1 = Wir werden dich vermisseeeeeeeeeeeen...!!!
+
+[unused/deleted]
+[milkman]
+intro0 = Sieh dich um. Siehst du wie stark Mafia ist? Alles nur dank dem Milchmann.
+intro1 = Ohne Milch zwei mal am Tag, Mafia ist nichts.
+intro2 = Milch wurde schon geliefert, aber Mafia braucht mehr diese Nacht.
+intro3 = Sieh mich heute Abend und wir liefern Milch zusammen.
+
+[muchase]
+MuTower0 = Hey! Kleines Mädchen! Du stinkst!
+MuTower1 = Komm' runter da! Wir wollen dich wieder in Fluss werfen! [wave]Ha ha ha[/wave]!
+run_by0 = Hey! Pass auf, wo du hinläufst.
+
+[chapter1act4]
+intro0 = Waren wir nicht, Göre. Wir haben nichts gemacht.
+intro1 = Alles was wir gemacht haben, war Zeug ins Meer werfen, Befehle vom Boss. Sagt es kühlt den Berg ab.
+intro2 = Aber da wir das nun nicht mehr dürfen, wissen wir nicht wie wir Hitze stoppen.
+beach1 = Ich sag dir mal was, es ist eigentlich ganz schön mit der Hitze.
+beach2 = Nur der Strand ist voll mit heißer Lava.....
+sign0 = Da wir nun nicht mehr für den Boss arbeiten, haben wir neue Jobs.
+sign1 = Wir machen Wettervorhersage. Heutiges Wetter: Schlecht. Zu warm. Ende der Welt? Mehr um 11.
+sign2 = Leute brauchen Nachrichten. Leute keine Zeit haben für Smalltalk.
+sign3 = Mein Bruder treibt ein falsches Spiel, er hat zwei Wörter benutzt. Zu viel.
+kickbad0 = Uns aus dem Geschäft zu schmeißen war eine schlechte Idee, Kind. Diese Stadt braucht einen Tyrann oder alle sind zu Nett!
+kickbad1 = Weißt du was eine nette Stadt wäre? Langweilig. Kein Gewürz in der Pasta.
+magic0 = Das einzige Wasser in der Stadt, und meine magische Illusion macht es unantastbar! Was habe ich nur getan!
+magic2 = Wer hätte gedacht, dass meine einzige Schwachstelle meine eigenen Fähigkeiten sind!
+magic1 = [scream]NEEEiiiiinnnn....[/scream]
+chef0 = Vulkan-Lava ist gut zum Kochen!
+
+[sell_decoration]
+intro0 = Hey kleines Kind! Du! Ja, du! Willst du Mafia Geld geben, ja? Natürlich willst du!
+intro1 = Mafia braucht Geld... schnell! Hast du Geld? Du kaufst Mafia tiefstes Verlangen.
+intro2 = Mafias tiefstes Verlangen ist... uh... [name]Burger-Kissen[/name]! Ja, feinstes [name]Burger-Kissen[/name] der ganzen Stadt! 
+intro3 = Also bitte kaufen, oder Mafia wird vielleicht mit den kleinen Fischen baden.
+deny0 = Wieso, wieso nicht kaufen von Mafia!? Mafia braucht das Geld, bitte kaufen!!
+retry0 = Bitte Kaufen! Bitte Kaufen! Mafia braucht das Geld!!
+accept0 = Danke! Mafia wird das Geld vorsichtig ausgeben. In geheimen Spielzimmer.

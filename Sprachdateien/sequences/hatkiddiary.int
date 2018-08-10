@@ -83,11 +83,12 @@ AlpineSkyline_Windmill_1 = Die war riesig! Warum würde jemand so etwas Großes ba
 AlpineSkyline_Finale_0 = Was zur Hölle war das alles? Diese fiesen Pflanzen blühten und infizierten diese großen Ziegen, oder sowas?
 AlpineSkyline_Finale_1 = Alles was ich weiß ist, dass sie richtig aggresiv wurden und es sehr stürmisch war, es war für alle keine wirklich schöne Zeit.
 
+//FINALE
+Mu_Finale_0 = Das lief aus dem Ruder. Als hätte dieser Planet schon nicht genug Lava! 
+Mu_Finale_1 = Leute schleichen dauernd in mein Haus. Wie unhöflich! Mir reicht's!! Zeit nach Hause zu gehen.
+
+[unused/deleted]
 act2a = Jemand starb heute. Aber nicht wirklich. Es war nur Ketchup.
 act2b = Wie sich herausstellte war alles nur ein Film...
 act3a = ICH BIN EINE DIVA OMG!
 act3b = VERBEUGT EUCH VOR MIR!!!
-
-//FINALE
-Mu_Finale_0 = Das lief aus dem Ruder. Als hätte dieser Planet schon nicht genug Lava! 
-Mu_Finale_1 = Leute schleichen dauernd in mein Haus. Wie unhöflich! Mir reicht's!! Zeit nach Hause zu gehen.

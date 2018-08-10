@@ -1,20 +1,3 @@
-[manor]
-intro0 = [shake2]Aber aber! Es gibt keinen Grund deinen alten Freund zu boxen, [wave]ha ha ha ha[/wave]![/shake2]
-intro1 = [shake2]Was machst du dort oben? Weißt du nicht, dass sie verrückt wird, wenn sie dich fängt?[/shake2]
-intro2 = [shake2]Was, ich? Ich suche nur nach etwas Dreck an meinem alten Freund, dem [name]Moonjumper[/name][/shake2].
-intro3 = [shake2]Armer Kerl, weiß nicht einmal, dass er hier gewohnt hat! Jeeeedes Mal, wenn ich ihm etwas von hier bringe, durchnässt er fast sein Bett vor Angst, [wave]HA HA HA!![/wave][/shake2]
-intro4 = [shake2]Der [name]Subcon Wald[/name] ist nicht groß genug für uns beide, weißt du. Und jetzt versuchst du, ein kleines Mädchen, auch um den Wald zu kämpfen? Mein Güte, das wird nicht reichen.[/shake2]
-intro5 = [shake2]Du musst nach oben gehen, sonst wird sie hier heraufkommen und dich finden, oder? Ich denke, es wäre ein schreckliches Unglück, wenn [hint]der Schlüssel verschwindet[/hint], [wave]ha ha ha[/wave]![/shake2]
-
-chase0 = [shake2][wave]Ha ha ha![/wave] Das ist meins![/shake2]
-chase1 = [shake2]Was willst du machen? Schon vergessen, du kannst keinen [hint]Schatten verletzen[/hint]![/shake2]
-
-givekey0 = [shake2]Oh, du willst den Schlüssel? Kannst du gerne haben![/shake2]
-givekey1 = [shake2]Ich brauche den Schlüssel eh nicht... du aber auch nicht wenn sie dich fängt! [wave]HA HA HA![/wave][/shake2]
-
-enter_manor_hascontract0 = [shake2]Hey, Kumpel! Erinnere dich an unseren Vertrag? Keine Hüte im Hause![/shake2]
-enter_manor_hascontract1 = [shake2]Da drin ist... Zeug... mit dem du nicht rumspielen solltest! Denk an deine vertraglichen Verpflichtungen![/shake2]
-
 [subconforest]
 scooter_intro0 = [shake2]GUUUUUUUTEEEEEEN MOOOORGEEEN! Bist du bereit für deine vertraglichen Verpflichtungen?[/shake2]
 scooter_intro1 = [shake2]Ich bin nicht herzlos! Hin und wieder klaue ich Briefe aus Briefkästen und bringe sie meinen Untertanen. Damit denken sie, dass sich jemand um sie kümmert![/shake2]
@@ -131,11 +114,6 @@ turned_blue1 = [shake2]Hast du mich mit meinem eigenen Angriff gerade blau gefär
 turned_blue2 = [shake2]Das kann nicht zählen, oder? Das kann doch wahrlich nicht zählen.[/shake2]
 turned_blue3 = [shake2]Jetzt reicht es. Zeit zu [scream][wave]STERBEN[wait][/wave][/scream].[/shake2]
 
-Cherry0 = [shake2]Oh nein![/shake2]
-Cherry1 = [shake2]Ich wollte diese[br]Kirschbombe fallenlassen![/shake2]
-Cherry2 = [shake2]... NICHT.[/shake2]
-Cherry3 = [shake2]Glaubst du wirklich, ich sei dumm genug[br]dir Bomben geben zu lassen?[/shake2]
-
 [death]
 death0 = [shake2]*huff*[waitlong] *huff*[waitlong] Du bist so eine respektlose Göre...[/shake2]
 death1 = [shake2]Ich fühle mich... so schwach...[waitlong] *huff*[/shake2]
@@ -173,3 +151,26 @@ suicide0 = [shake2]Wir BRAUCHEN keinen Helden! HAU AB![/shake2]
 [ending]
 hang0 = [shake2]Hey, Kleine, wie wär's mit einem neuen Vertrag?[/shake2]
 hang1 = Wir werden dich vermisseeeeeeeeeen...!!!
+
+[unused/deleted]
+[manor]
+intro0 = [shake2]Aber aber! Es gibt keinen Grund deinen alten Freund zu boxen, [wave]ha ha ha ha[/wave]![/shake2]
+intro1 = [shake2]Was machst du dort oben? Weißt du nicht, dass sie verrückt wird, wenn sie dich fängt?[/shake2]
+intro2 = [shake2]Was, ich? Ich suche nur nach etwas Dreck an meinem alten Freund, dem [name]Moonjumper[/name][/shake2].
+intro3 = [shake2]Armer Kerl, weiß nicht einmal, dass er hier gewohnt hat! Jeeeedes Mal, wenn ich ihm etwas von hier bringe, durchnässt er fast sein Bett vor Angst, [wave]HA HA HA!![/wave][/shake2]
+intro4 = [shake2]Der [name]Subcon Wald[/name] ist nicht groß genug für uns beide, weißt du. Und jetzt versuchst du, ein kleines Mädchen, auch um den Wald zu kämpfen? Mein Güte, das wird nicht reichen.[/shake2]
+intro5 = [shake2]Du musst nach oben gehen, sonst wird sie hier heraufkommen und dich finden, oder? Ich denke, es wäre ein schreckliches Unglück, wenn [hint]der Schlüssel verschwindet[/hint], [wave]ha ha ha[/wave]![/shake2]
+
+chase0 = [shake2][wave]Ha ha ha![/wave] Das ist meins![/shake2]
+chase1 = [shake2]Was willst du machen? Schon vergessen, du kannst keinen [hint]Schatten verletzen[/hint]![/shake2]
+
+givekey0 = [shake2]Oh, du willst den Schlüssel? Kannst du gerne haben![/shake2]
+givekey1 = [shake2]Ich brauche den Schlüssel eh nicht... du aber auch nicht wenn sie dich fängt! [wave]HA HA HA![/wave][/shake2]
+
+enter_manor_hascontract0 = [shake2]Hey, Kumpel! Erinnere dich an unseren Vertrag? Keine Hüte im Hause![/shake2]
+enter_manor_hascontract1 = [shake2]Da drin ist... Zeug... mit dem du nicht rumspielen solltest! Denk an deine vertraglichen Verpflichtungen![/shake2]
+
+Cherry0 = [shake2]Oh nein![/shake2]
+Cherry1 = [shake2]Ich wollte diese[br]Kirschbombe fallenlassen![/shake2]
+Cherry2 = [shake2]... NICHT.[/shake2]
+Cherry3 = [shake2]Glaubst du wirklich, ich sei dumm genug[br]dir Bomben geben zu lassen?[/shake2]

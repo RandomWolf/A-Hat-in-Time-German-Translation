@@ -98,6 +98,9 @@ HookshotBadgeDesc0 = Drücke und halte [button:attack], um von Haken zu Haken zu 
 FindRelicsBadgeName = Entdecker-Anstecker
 FindRelicsBadgeDesc0 = Zeigt dir eine Karte, um [icon:relic] zu finden!
 
+CompassBadgeName = Kompass-Anstecker
+CompassBadgeDesc0 = Wenn du stillstehst, zeigt es dir den in der Nähe liegenden [icon:relic] [icon:token] an!
+
 NoFallDamageBadgeName = Schwebe-Anstecker
 NoFallDamageBadgeDesc0 = Dein Regenschirm wird kurz vor einen großem Sturz automatisch geöffnet!
 

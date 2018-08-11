@@ -526,7 +526,7 @@ Suspect_Select4 = ...
 Suspect_Select5 = Tote können nicht [br] schuldig sein! [br] Ups, ähm... zzzz... 
 
 [Decoration]
-PayCost = Reparaturkosten:
+PayCost = Kosten:
 
 [DeadBirdBills]
 Bill_WalkOnSet = Studioaufnahmen stören

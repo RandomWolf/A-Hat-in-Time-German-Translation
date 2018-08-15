@@ -47,7 +47,7 @@ passport14 = Perfekt! Jetzt nur noch das Foto in den Pass einfügen... Fertig! Ei
 passport15 = Wunderbar, Schätzchen! Einfach wunderbar! Treff mich morgen am Set, wir machen dich zum Star!
 
 [award]
-intro0 = Dankesehr Schätzchen, danke![br]Du hast unseren Sieg gesichert! Wie haben den [icon:trophy][trophy]Bird Movie-Award[/trophy] gewonnen!
+intro0 = Dankeschön Schätzchen, danke![br]Du hast unseren Sieg gesichert! Wie haben den [icon:trophy][trophy]Bird Movie-Award[/trophy] gewonnen!
 intro1 = Der [icon:conductor][name]Schaffner[/name] ist wahrscheinlich extremst sauer über seine einzige zweite Niederlage, aber keine Sorge, er beruhigt sich wieder.
 intro2 = Wie auch immer, das war's! Keine Filme mehr bis zum nächsten Jahr. Weil du ja so scharf bist auf diese Teile, kannst du mein letztes [icon:timepiece][timepiece]Requisit[/timepiece] nehmen als die letzte Bezahlung.
 intro3 = Wie, hast du etwas Verrücktes erwartet?[br]Unsinn, Schätzchen, Unsinn!
@@ -76,10 +76,10 @@ Intro0 = Schau wen wir hier haben, Schätzchen! Scheint so als ob du mein Verstec
 Intro1 = Dieses letzte [icon:timepiece][timepiece]Zeitstück[/timepiece] gehört mir allein, Schätzchen. [br]Wenn du es haben willst, nun, dann denke ich musst du kommen und es dir holen.
 
 [PicturePerfect]
-Intro0 = Willkommen zu deinem ersten Tag an der Filmarbeit, Schätzchen!
-Intro1 = Wir müssen dich zu dem größten Filmstar der ganzen Vögelwelt transformieren! Du musst zu eine... Diva werden!
-Intro2 = Deshalb haben wir dich zu einer Pressekonferenz auf unserem Mondset gerufen. Du musst vor die Kameras gehen und das Publikum elektrifizieren, Schätzchen! Unterhalte sie enorm für deine Filme!
-Intro3 = Und wenn sie verrückt werden für dich, komm' hier her und zeige denen unser Requisit! Genau, wir stellen unser neues [icon:timepiece][timepiece]Filmrequisit[/timepiece] den Pinguinen vor!
+Intro0 = Willkommen zu deinem ersten Drehtag, Schätzchen!
+Intro1 = Wir müssen dich zum größten Filmstar, den die Vögelwelt je gesehen hat machen! Aus dir wird... eine Diva!
+Intro2 = Deshalb habe ich dich zu einer Pressekonferenz in unserem Mondset gerufen. Du musst vor die Kameras gehen und das Publikum umhauen, Schätzchen! Bereite sie so richtig auf deine Filme vor!
+Intro3 = Und wenn sie verrückt nach dir sind, komm' hier her und zeig' das neue Requisit! Genau, wir werden unser neues [icon:timepiece][timepiece]Filmrequisit[/timepiece] vor den Massen enthüllen!
 Endorsement_Generic0 = Du hast mich gerufen, Schätzchen? Sieht so aus, als bräuchtest du Unterstützung!
 Endorsement_Generic1 = Alle Pinguine hier kennen meinen Namen... [name]DJ Grooves[/name]![br]Und ich sage euch, dieses Mädchen hier ist der nächste heiße Trend. Garantiert!
 Endorsement_Generic2 = Vergiss nicht ihrem Fanclub beizutreten! DJ Grooves... out!

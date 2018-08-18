@@ -1,128 +1,128 @@
 [parade]
-welcome0 = Hallo, Sch√§tzchen! Willkommen zum gr√∂√üten Filmset, was du jemals sehen wirst!
-welcome1 = Wir sind gerade dabei [hint]die gro√üe Parade[/hint] zu drehen, den atemberaubendsten Film weltweit! Du wirst unser Star sein, wie immer!
-welcome2 = F√ºr diesen Film werden wir unser [icon:timepiece][timepiece]Spezial-Requisit[/timepiece] brauchen! Es wird ganz am Ende auftauchen!
-welcome3 = Aber warte, Sch√§tzchen! So, wie du jetzt aussiehst, passt du wirklich nicht in eine Parade. Kannst du dort mal hingehen und dir das neue Outfit anziehen?
+welcome0 = Hallo, Sch‰tzchen! Willkommen zum grˆﬂten Filmset, was du jemals sehen wirst!
+welcome1 = Wir sind gerade dabei [hint]die groﬂe Parade[/hint] zu drehen, den atemberaubendsten Film weltweit! Du wirst unser Star sein, wie immer!
+welcome2 = F¸r diesen Film werden wir unser [icon:timepiece][timepiece]Spezial-Requisit[/timepiece] brauchen! Es wird ganz am Ende auftauchen!
+welcome3 = Aber warte, Sch‰tzchen! So, wie du jetzt aussiehst, passt du wirklich nicht in eine Parade. Kannst du dort mal hingehen und dir das neue Outfit anziehen?
 welcome3b = So, wie du jetzt aussiehst, passt du wirklich nicht in eine Parade. Kannst du dort mal hingehen und dir das neue Outfit anziehen?
-welcome4 = Du siehst toll aus, Sch√§tzchen! Mach' dir keine Sorgen, der Film ist wirklich leicht. Bleib einfach in Bewegung w√§hrend die Parade dir folgt und lauf nicht in sie rein!
-welcome5 = Und schaue dich nach Goodies um! Das Publikum liebt eine gute Parade und wird dir Belohnungen zuwerfen, wenn du in der N√§he bist.
+welcome4 = Du siehst toll aus, Sch‰tzchen! Mach' dir keine Sorgen, der Film ist wirklich leicht. Bleib einfach in Bewegung w‰hrend die Parade dir folgt und lauf nicht in sie rein!
+welcome5 = Und schaue dich nach Goodies um! Das Publikum liebt eine gute Parade und wird dir Belohnungen zuwerfen, wenn du in der N‰he bist.
 welcome5b = Und schaue dich nach Erfrischungen um! Das Team hinter den Kulissen wird es dir zuwerfen, um dich frisch zu halten!
-welcome5c = Und schaue dich nach den Kameras um! Das Team wird versuchen, so viel Material von dir zu kriegen wie m√∂glich, also lauf bei ihnen vorbei so oft es geht!
-welcome6 = Die Parade dauert 'ne Weile; daran kannst du nicht viel √§ndern. Wir sagen schon Bescheid, wenn wir genug Filmmaterial haben. Bleib' immer positiv!
-welcome7 = Viel Gl√ºck, Sch√§tzchen!
+welcome5c = Und schaue dich nach den Kameras um! Das Team wird versuchen, so viel Material von dir zu kriegen wie mˆglich, also lauf bei ihnen vorbei so oft es geht!
+welcome6 = Die Parade dauert 'ne Weile; daran kannst du nicht viel ‰ndern. Wir sagen schon Bescheid, wenn wir genug Filmmaterial haben. Bleib' immer positiv!
+welcome7 = Viel Gl¸ck, Sch‰tzchen!
 
 first_intermission0 = Es ist Zeit, die Stimmung aufzudrehen!
-first_intermission1 = Sch√§tzchen, kannst du die Pyrotechnik einschalten?
+first_intermission1 = Sch‰tzchen, kannst du die Pyrotechnik einschalten?
 
-second_intermission0 = Dieser Film braucht mehr Action! Sch√§tzchen, schalt' die Feuerwerks-Kanonen f√ºr die gro√üe Feuerwerksshow ein!
+second_intermission0 = Dieser Film braucht mehr Action! Sch‰tzchen, schalt' die Feuerwerks-Kanonen f¸r die groﬂe Feuerwerksshow ein!
 
-third_intermission0 = Zeit die gro√üe [icon:timepiece][timepiece]√úberraschung[/timepiece] zu enth√ºllen![br]Hol sie dir, Sch√§tzchen!
+third_intermission0 = Zeit die groﬂe [icon:timepiece][timepiece]‹berraschung[/timepiece] zu enth¸llen![br]Hol sie dir, Sch‰tzchen!
 [deadbird]
-intro0 = Unsinn, Sch√§tzchen, Unsinn!
-intro1 = Ihr [name]Eulen-Express-V√∂gel[/name] werdet sowieso wieder einen langweiligen Western mit einem Zug filmen! So, wie die letzten 10 Jahre schon, Sch√§tzchen!
-intro2 = [icon:conductor][name]Schaffner[/name], Sch√§tzchen, dieses Jahr werden wir den[icon:trophy][trophy]j√§hrlichen Bird Movie-Award[/trophy] gewinnen, da unser neues Requisit die Zuschauer begeistern wird!
-intro3 = Diese [icon:timepiece][timepiece]gl√§nzenden Teile[/timepiece] sind vom Himmel gefallen! Sie werden unsere Filmsets mit Licht und Glimmer f√ºllen!
-intro4 = Niemals, Sch√§tzchen! Ganz klar bist du der jenige, der sich von meinen strahlenen Requisiten hat inspirieren lassen.
-intro5 = In Ordnung, Sch√§tzchen. Aber wir werden die jenigen sein, die den[icon:trophy][trophy]j√§hrlichen Bird Movie-Award[/trophy] gewinnen werden. Merk dir meine Worte!
+intro0 = Unsinn, Sch‰tzchen, Unsinn!
+intro1 = Ihr [name]Eulen-Express-Vˆgel[/name] werdet sowieso wieder einen langweiligen Western mit einem Zug filmen! So, wie die letzten 10 Jahre schon, Sch‰tzchen!
+intro2 = [icon:conductor][name]Schaffner[/name], Sch‰tzchen, dieses Jahr werden wir den[icon:trophy][trophy]j‰hrlichen Bird Movie-Award[/trophy] gewinnen, da unser neues Requisit die Zuschauer begeistern wird!
+intro3 = Diese [icon:timepiece][timepiece]gl‰nzenden Teile[/timepiece] sind vom Himmel gefallen! Sie werden unsere Filmsets mit Licht und Glimmer f¸llen!
+intro4 = Niemals, Sch‰tzchen! Ganz klar bist du der jenige, der sich von meinen strahlenen Requisiten hat inspirieren lassen.
+intro5 = In Ordnung, Sch‰tzchen. Aber wir werden die jenigen sein, die den[icon:trophy][trophy]j‰hrlichen Bird Movie-Award[/trophy] gewinnen werden. Merk dir meine Worte!
 
-passport0 = Bezaubert! Atemberaubend! Diese Troph√§e ist alles, was ich will... auf dem Regal in meinem Wohnzimmer!
-passport1 = Nat√ºrlich ist das nur eine Plastik-Kopie! Die eigentliche Troph√§e ist sehr klein!
-passport2 = Ach du meine G√ºte! Was seh ich da? Ist das innere Sch√∂nheit? Eine pure Seele mit einem Herz aus Gold?
-passport3 = Oh, nein. Es ist nur ein kleines M√§dchen. Hallo!
+passport0 = Bezaubert! Atemberaubend! Diese Troph‰e ist alles, was ich will... auf dem Regal in meinem Wohnzimmer!
+passport1 = Nat¸rlich ist das nur eine Plastik-Kopie! Die eigentliche Troph‰e ist sehr klein!
+passport2 = Ach du meine G¸te! Was seh ich da? Ist das innere Schˆnheit? Eine pure Seele mit einem Herz aus Gold?
+passport3 = Oh, nein. Es ist nur ein kleines M‰dchen. Hallo!
 passport3b = Oh, nein. Es ist nur ein kleiner Junge. Hallo!
-passport4 = Oh moment, du bist kein Penguin. Das ist super! Ich k√∂nnte ein wenig menschliche Gesellschaft vertragen, da die Pinguine alle ziemlich schlechte Schauspieler sind!
+passport4 = Oh moment, du bist kein Penguin. Das ist super! Ich kˆnnte ein wenig menschliche Gesellschaft vertragen, da die Pinguine alle ziemlich schlechte Schauspieler sind!
 passport5 = Hier ist mein Problem: Ich brauche deine Hilfe. Ich hab seit Jahren nur verloren, und MUSS den [icon:trophy][trophy]Bird Movie-Award[/trophy] dieses Jahr einfach gewinnen.
 passport6 = Da gibt es kein Wenn und Aber; Ich brauche dich ABSOLUT als den Star! Hier, lass mich das machen.
-passport7 = Wie m√ºssen dir einen Vogel-Pass besorgen, Sch√§tzchen! Stell dich dort hin.
-passport8 = Das wichtigste vom Pass ist das Foto, Sch√§tzchen! Du must auff√§llig und atemberaubend aussehen! Stell dich dort dr√ºben hin. Lass uns das Foto schie√üen.
-passport9 = Okay, l√§chel und bleib stehen! Beweg dich nicht!
+passport7 = Wie m¸ssen dir einen Vogel-Pass besorgen, Sch‰tzchen! Stell dich dort hin.
+passport8 = Das wichtigste vom Pass ist das Foto, Sch‰tzchen! Du must auff‰llig und atemberaubend aussehen! Stell dich dort dr¸ben hin. Lass uns das Foto schieﬂen.
+passport9 = Okay, l‰chel und bleib stehen! Beweg dich nicht!
 passport10 = Mal sehen, wie das Foto geworden ist...
 passport11 = W-WAS?!
-passport12a = Sch√§tzchen, du bist nicht sehr fotogen, oder?
-passport12b = Sch√§tzchen, du hast dich bewegt! Das Foto ist ruiniert! Wie konntest du nur?!
-passport13 = Wir m√ºssen dieses h√§ssliche Verbrecherfoto mit etwas guter alter Farbe in Ordnung bringen! Hier, nimm diese Stifte und mach dich zum stylischsten, modischsten M√§dchen!
-passport13b = Wir m√ºssen dieses h√§ssliche Verbrecherfoto mit etwas guter alter Farbe in Ordnung bringen! Hier, nimm diese Stifte und mach dich zum stylischsten, modischsten Jungen!
-passport14 = Perfekt! Jetzt nur noch das Foto in den Pass tun... Fertig! Ein Pass f√ºr dich!
-passport15 = Wunderbar, Sch√§tzchen! Einfach wunderbar! Triff mich morgen am Set, wir machen dich zu einem Star!
+passport12a = Sch‰tzchen, du bist nicht sehr fotogen, oder?
+passport12b = Sch‰tzchen, du hast dich bewegt! Das Foto ist ruiniert! Wie konntest du nur?!
+passport13 = Wir m¸ssen dieses h‰ssliche Verbrecherfoto mit etwas guter alter Farbe in Ordnung bringen! Hier, nimm diese Stifte und mach dich zum stylischsten, modischsten M‰dchen!
+passport13b = Wir m¸ssen dieses h‰ssliche Verbrecherfoto mit etwas guter alter Farbe in Ordnung bringen! Hier, nimm diese Stifte und mach dich zum stylischsten, modischsten Jungen!
+passport14 = Perfekt! Jetzt nur noch das Foto in den Pass tun... Fertig! Ein Pass f¸r dich!
+passport15 = Wunderbar, Sch‰tzchen! Einfach wunderbar! Triff mich morgen am Set, wir machen dich zu einem Star!
 
 [award]
-intro0 = Danke Sch√§tzchen, danke![br]Du hast unseren Sieg gesichert! Wir haben den [icon:trophy][trophy]Bird Movie-Award[/trophy] gewonnen!
-intro1 = Der [icon:conductor][name]Schaffner[/name] ist wahrscheinlich ziemlich sauer √ºber seine zweite Niederlage jemals, aber keine Sorge, er beruhigt sich wieder.
-intro2 = Wie auch immer, das war's! Keine Filme mehr bis zum n√§chsten Jahr. Weil du ja so scharf auf diese Teile bist, kannst du mein letztes [icon:timepiece][timepiece]Requisit[/timepiece] als Bezahlung nehmen.
-intro3 = Wie, hast du was Verr√ºcktes erwartet?[br]Unsinn, Sch√§tzchen, Unsinn!
+intro0 = Danke Sch‰tzchen, danke![br]Du hast unseren Sieg gesichert! Wir haben den [icon:trophy][trophy]Bird Movie-Award[/trophy] gewonnen!
+intro1 = Der [icon:conductor][name]Schaffner[/name] ist wahrscheinlich ziemlich sauer ¸ber seine zweite Niederlage jemals, aber keine Sorge, er beruhigt sich wieder.
+intro2 = Wie auch immer, das war's! Keine Filme mehr bis zum n‰chsten Jahr. Weil du ja so scharf auf diese Teile bist, kannst du mein letztes [icon:timepiece][timepiece]Requisit[/timepiece] als Bezahlung nehmen.
+intro3 = Wie, hast du was Verr¸cktes erwartet?[br]Unsinn, Sch‰tzchen, Unsinn!
 
 [BossBattle]
-SupportNotice0 = Sch√§tzchen! Sch√§tzchen!
-SupportNotice1 = Halte durch, ich werd'[br]einen Weg finden die[br]Bombe zu entsch√§rfen!
-SupportNotice2 = Mein Entsch√§rfer ist[br]bereit, komm' her!
+SupportNotice0 = Sch‰tzchen! Sch‰tzchen!
+SupportNotice1 = Halte durch, ich werd'[br]einen Weg finden die[br]Bombe zu entsch‰rfen!
+SupportNotice2 = Mein Entsch‰rfer ist[br]bereit, komm' her!
 
-hth_intro0 = Lass uns unter vier Augen sprechen. Setz' dich, Sch√§tzchen.
-hth_intro1 = Seitdem du herkamst, sind diese [icon:timepiece][timepiece]Zeitst√ºcke[/timepiece] vom Himmel gefallen.
-hth_intro2 = Nun, ich kann verstehen, dass du meinst, sie geh√∂ren dir, Sch√§tzchen. Das verstehe ich. Aber hast du gewusst, dass man damit Zeit zur√ºckdrehen kann?
-hth_intro3 = Mit einem [icon:timepiece][timepiece]Zeitst√ºck[/timepiece] k√∂nnte ich alle Preise, die mir geh√∂ren, zur√ºckholen Sch√§tzchen. Jeder einzelne Preis den ich durch den [icon:conductor][name]Schaffner[/name], verlor, dem Betr√ºger.
-hth_intro4 = Ich kann es nicht beweisen, Sch√§tzchen, aber ich wei√ü der[icon:conductor][name]Schaffner[/name] hat alles manipuliert um sicherzustellen, dass ich nie gewinne.
-hth_intro5 = Ich brauch' nur ein [icon:timepiece][timepiece]Zeitst√ºck[/timepiece] um Jahre wiederherzustellen, voll von Betrug und Schwindel. Kannst du mir nicht [hint]ein Zeitst√ºck[/hint] ausleihen, Sch√§tzchen?
+hth_intro0 = Lass uns unter vier Augen sprechen. Setz' dich, Sch‰tzchen.
+hth_intro1 = Seitdem du herkamst, sind diese [icon:timepiece][timepiece]Zeitst¸cke[/timepiece] vom Himmel gefallen.
+hth_intro2 = Nun, ich kann verstehen, dass du meinst, sie gehˆren dir, Sch‰tzchen. Das verstehe ich. Aber hast du gewusst, dass man damit Zeit zur¸ckdrehen kann?
+hth_intro3 = Mit einem [icon:timepiece][timepiece]Zeitst¸ck[/timepiece] kˆnnte ich alle Preise, die mir gehˆren, zur¸ckholen Sch‰tzchen. Jeder einzelne Preis den ich durch den [icon:conductor][name]Schaffner[/name], verlor, dem Betr¸ger.
+hth_intro4 = Ich kann es nicht beweisen, Sch‰tzchen, aber ich weiﬂ der[icon:conductor][name]Schaffner[/name] hat alles manipuliert um sicherzustellen, dass ich nie gewinne.
+hth_intro5 = Ich brauch' nur ein [icon:timepiece][timepiece]Zeitst¸ck[/timepiece] um Jahre wiederherzustellen, voll von Betrug und Schwindel. Kannst du mir nicht [hint]ein Zeitst¸ck[/hint] ausleihen, Sch‰tzchen?
 hth_intro5_yes = Eventuell?
-hth_intro5_no = N√∂!
-hth_intro6a = Dankesehr, Sch√§tzchen! Du wirst es nicht bereuen! Wir werden Jahre voller Betrug und Schwindel zur√ºckdrehen und fair und ehrlich zum [icon:trophy][trophy]Bird Movie-Award[/trophy] zur√ºckkehren. 
-hth_intro7a = Ungl√ºcklicherwiese... Kann ich dich nicht gehen lassen, Sch√§tzchen. Ich kann es nicht riskieren, dass du hier√ºber ein Wort verlierst. Der [icon:conductor][name]Schaffner[/name] wird zischen wie sonst noch nie zuvor!
-hth_intro8a = Es war nett dich kennengelernt zu haben, Sch√§tzchen. Auf Nimmerwiedersehen!
-hth_intro6b = Sch√§tzchen, Sch√§tzchen, Sch√§tzchen. Du bist so hartn√§ckig und egoistisch. Ich machte dich zum Star, und alles, was ich daf√ºr haben m√∂chte ist ein [icon:timepiece][timepiece]Zeitst√ºck[/timepiece]... Aber du willst nicht teilen?
-hth_intro7b = Nun, Sch√§tzchen, wenn du dieses [icon:timepiece][timepiece]Zeitst√ºck[/timepiece] so sehr zur√ºck haben wisst, komm' und hole es dir!
-hth_intro9 = Kennst du diese Bombe noch, Sch√§tzchen? Ich habe sie vom Filmset des [icon:conductor][name]Schaffner[/name] gestohlen, und nun wird sie dein Untergang sein!
+hth_intro5_no = Nˆ!
+hth_intro6a = Dankesehr, Sch‰tzchen! Du wirst es nicht bereuen! Wir werden Jahre voller Betrug und Schwindel zur¸ckdrehen und fair und ehrlich zum [icon:trophy][trophy]Bird Movie-Award[/trophy] zur¸ckkehren. 
+hth_intro7a = Ungl¸cklicherwiese... Kann ich dich nicht gehen lassen, Sch‰tzchen. Ich kann es nicht riskieren, dass du hier¸ber ein Wort verlierst. Der [icon:conductor][name]Schaffner[/name] wird zischen wie sonst noch nie zuvor!
+hth_intro8a = Es war nett dich kennengelernt zu haben, Sch‰tzchen. Auf Nimmerwiedersehen!
+hth_intro6b = Sch‰tzchen, Sch‰tzchen, Sch‰tzchen. Du bist so hartn‰ckig und egoistisch. Ich machte dich zum Star, und alles, was ich daf¸r haben mˆchte ist ein [icon:timepiece][timepiece]Zeitst¸ck[/timepiece]... Aber du willst nicht teilen?
+hth_intro7b = Nun, Sch‰tzchen, wenn du dieses [icon:timepiece][timepiece]Zeitst¸ck[/timepiece] so sehr zur¸ck haben wisst, komm' und hole es dir!
+hth_intro9 = Kennst du diese Bombe noch, Sch‰tzchen? Ich habe sie vom Filmset des [icon:conductor][name]Schaffner[/name] gestohlen, und nun wird sie dein Untergang sein!
 
-Intro0 = Schau wen wir hier haben, Sch√§tzchen! Scheint so als h√§ttest du mein kleines Versteck gefunden...
-Intro1 = Dieses letzte [icon:timepiece][timepiece]Zeitst√ºck[/timepiece] geh√∂rt mir allein, Sch√§tzchen. [br]Wenn du es haben willst musst du wohl kommen und es dir holen.
+Intro0 = Schau wen wir hier haben, Sch‰tzchen! Scheint so als h‰ttest du mein kleines Versteck gefunden...
+Intro1 = Dieses letzte [icon:timepiece][timepiece]Zeitst¸ck[/timepiece] gehˆrt mir allein, Sch‰tzchen. [br]Wenn du es haben willst musst du wohl kommen und es dir holen.
 
 [PicturePerfect]
-Intro0 = Willkommen zu deinem ersten Drehtag, Sch√§tzchen!
-Intro1 = Wir m√ºssen dich zum gr√∂√üten Filmstar, den die V√∂gelwelt je gesehen hat machen! Aus dir wird... eine Diva!
-Intro2 = Deshalb habe ich dich zu einer Pressekonferenz in unserem Mondset gerufen. Du musst vor die Kameras gehen und das Publikum umhauen, Sch√§tzchen! Bereite sie so richtig auf deine Filme vor!
-Intro3 = Und wenn sie verr√ºckt nach dir sind, komm' hier her und zeig' das neue Requisit! Genau, wir werden unser neues [icon:timepiece][timepiece]Filmrequisit[/timepiece] vor den Massen enth√ºllen!
-Endorsement_Generic0 = Du hast mich gerufen, Sch√§tzchen? Sieht so aus, als br√§uchtest du Unterst√ºtzung!
-Endorsement_Generic1 = Alle Pinguine hier kennen meinen Namen... [name]DJ Grooves[/name]![br]Und ich sage euch, dieses M√§dchen hier ist der n√§chste hei√üe Trend. Garantiert!
+Intro0 = Willkommen zu deinem ersten Drehtag, Sch‰tzchen!
+Intro1 = Wir m¸ssen dich zum grˆﬂten Filmstar, den die Vˆgelwelt je gesehen hat machen! Aus dir wird... eine Diva!
+Intro2 = Deshalb habe ich dich zu einer Pressekonferenz in unserem Mondset gerufen. Du musst vor die Kameras gehen und das Publikum umhauen, Sch‰tzchen! Bereite sie so richtig auf deine Filme vor!
+Intro3 = Und wenn sie verr¸ckt nach dir sind, komm' hier her und zeig' das neue Requisit! Genau, wir werden unser neues [icon:timepiece][timepiece]Filmrequisit[/timepiece] vor den Massen enth¸llen!
+Endorsement_Generic0 = Du hast mich gerufen, Sch‰tzchen? Sieht so aus, als br‰uchtest du Unterst¸tzung!
+Endorsement_Generic1 = Alle Pinguine hier kennen meinen Namen... [name]DJ Grooves[/name]![br]Und ich sage euch, dieses M‰dchen hier ist der n‰chste heiﬂe Trend. Garantiert!
 Endorsement_Generic2 = Vergiss nicht ihrem Fanclub beizutreten! DJ Grooves... out!
 
-Endorsement_Statue0 = Seht euch an, wie sie den Welpen aus der Patsche hilft, indem sie diese Statue hochklettern wird! Stimmt's, Sch√§tzchen?
-Endorsement_Statue1 = Seht euch das an! Sie hatte dem Welpen geholfen und er ist putzmunter! Leider ist er weggerannt und zerbrach definitiv nicht in mehrere St√ºcke.
-Endorsement_Statue2 = Das ist wahrlich eine Diva, die ich verstehen kann. Dieses kleine M√§dchen ist ein absoluter Tierexperte!
+Endorsement_Statue0 = Seht euch an, wie sie den Welpen aus der Patsche hilft, indem sie diese Statue hochklettern wird! Stimmt's, Sch‰tzchen?
+Endorsement_Statue1 = Seht euch das an! Sie hatte dem Welpen geholfen und er ist putzmunter! Leider ist er weggerannt und zerbrach definitiv nicht in mehrere St¸cke.
+Endorsement_Statue2 = Das ist wahrlich eine Diva, die ich verstehen kann. Dieses kleine M‰dchen ist ein absoluter Tierexperte!
 
 Endorsement_Poker0 = Passt auf, wie sie gegen diese Profi-Kartenspieler gewinnt... Beim ihrem ersten Mal!
-Endorsement_Poker1 = Dieses Spiel ganz einfach, Sch√§tzchen. Rate einfach nur welche Zahl der andere Spieler h√§lt, von [hint]1 bis 10[/hint]. Welche glaubst du, welche Karte es ist, Sch√§tzchen?
-Endorsement_Poker2 = Wow! Fantastisch! Unglaublich! Die Antwort ist tats√§chlich [hint]3[/hint]! Zuschauer vor dem Fernseher, ihr habt gerade die Eingebung eines wahren Stars gesehen.
-Endorsement_Poker3 = Ooh, es tut mir so leid, Sch√§tzchen! Die Antwort war [hint]3[/hint]! Zuschauer vor dem Fernseher, das zeigt wie √§hnlich zu anderen unser Superstar ist. Sie macht Fehler, wie wir alle auch!
+Endorsement_Poker1 = Dieses Spiel ganz einfach, Sch‰tzchen. Rate einfach nur welche Zahl der andere Spieler h‰lt, von [hint]1 bis 10[/hint]. Welche glaubst du, welche Karte es ist, Sch‰tzchen?
+Endorsement_Poker2 = Wow! Fantastisch! Unglaublich! Die Antwort ist tats‰chlich [hint]3[/hint]! Zuschauer vor dem Fernseher, ihr habt gerade die Eingebung eines wahren Stars gesehen.
+Endorsement_Poker3 = Ooh, es tut mir so leid, Sch‰tzchen! Die Antwort war [hint]3[/hint]! Zuschauer vor dem Fernseher, das zeigt wie ‰hnlich zu anderen unser Superstar ist. Sie macht Fehler, wie wir alle auch!
 
-Endorsement_Cooking0 = Nun, Sch√§tzchen, ich muss etwas erw√§hnen. Kochshow-Chefs bekommen schreckliche Probleme durch Wut und Schimpfw√∂rter in der Sendung. Versuch bitte, sowas zu vermeiden, OK?
+Endorsement_Cooking0 = Nun, Sch‰tzchen, ich muss etwas erw‰hnen. Kochshow-Chefs bekommen schreckliche Probleme durch Wut und Schimpfwˆrter in der Sendung. Versuch bitte, sowas zu vermeiden, OK?
 Endorsement_Cooking1 = Der [icon:conductor][name]Schaffner[/name] ist altmodisch. Er wirft mit sowas um sich. Es wird ihn irgendwann in Schwierigkeiten bringen! Sowas wollen wir hier vermeiden.
-Endorsement_Cooking2 = Hallo, Zuschauer! Selbst die gr√∂√üten Promis m√ºssen essen und ich habe gerade die gr√∂√üte von allen bei mir.
-Endorsement_Cooking3 = Sag uns, Sch√§tzchen, was f√ºr eine Sosse m√∂chtest du auf deinen Thunfisch-Sandwiches haben?
+Endorsement_Cooking2 = Hallo, Zuschauer! Selbst die grˆﬂten Promis m¸ssen essen und ich habe gerade die grˆﬂte von allen bei mir.
+Endorsement_Cooking3 = Sag uns, Sch‰tzchen, was f¸r eine Sosse mˆchtest du auf deinen Thunfisch-Sandwiches haben?
 Endorsement_Cooking3_a = Ranch-Dressing
 Endorsement_Cooking3_b = Ketchup
 Endorsement_Cooking3_c = Mayo
 Endorsement_Cooking3_d = @%#+!!!
-Endorsement_Cooking4 = Unglaublich! Ich wette, dass sie durch diese Thunfisch-Sandwiches ihre schlanke Figur beh√§lt! Macht Notizen, Pinguin-Zuschauer!
-Endorsement_Cooking5 = [scream][big]SCH√ÑTZCHEN![/big][/scream]
+Endorsement_Cooking4 = Unglaublich! Ich wette, dass sie durch diese Thunfisch-Sandwiches ihre schlanke Figur beh‰lt! Macht Notizen, Pinguin-Zuschauer!
+Endorsement_Cooking5 = [scream][big]SCHƒTZCHEN![/big][/scream]
 Endorsement_Cooking6 = I-Ich meine... sehr geehrte Zuschauer! Sehen Sie sich das an. Sie ist wirklich was besonderes.
-Endorsement_Cooking7 = [small]Jetzt husch, gehe so schnell wie m√∂glich aus dem Bild,[br]bevor die alten Pinguine vor dem Fernseher merken, was passiert ist.[/small]
+Endorsement_Cooking7 = [small]Jetzt husch, gehe so schnell wie mˆglich aus dem Bild,[br]bevor die alten Pinguine vor dem Fernseher merken, was passiert ist.[/small]
 
-Endorsement_Alley0 = Seht euch an, wie diese Diva mit Problemen umgeht! Sie steht in dieser dunklen Gasse, direkt neben zwei potenziellen Misset√§tern!
+Endorsement_Alley0 = Seht euch an, wie diese Diva mit Problemen umgeht! Sie steht in dieser dunklen Gasse, direkt neben zwei potenziellen Misset‰tern!
 Endorsement_Alley1 = Gefahr ist ihr zweiter Vorname und sie hat keine Angst sich auch mal einzumischen!
 
-Ending0 = Das Publikum rastet aus, Sch√§tzchen! Komm' hier her und zeige denen unsere Riesen√ºberraschung... unser [icon:timepiece][timepiece]neues Requisit[/timepiece]!
+Ending0 = Das Publikum rastet aus, Sch‰tzchen! Komm' hier her und zeige denen unsere Riesen¸berraschung... unser [icon:timepiece][timepiece]neues Requisit[/timepiece]!
 
 [finale]
-outside0 = Gut dich zu sehen, Sch√§tzchen! Sch√∂n zu wissen, dass ich nicht der einzige Superstar bin, der an diesem geschmackslosen Ort warten muss.
+outside0 = Gut dich zu sehen, Sch‰tzchen! Schˆn zu wissen, dass ich nicht der einzige Superstar bin, der an diesem geschmackslosen Ort warten muss.
 outside1 = Geh doch mal rein und finde raus, wer hier den Ton angibt, okay?
 
 [ending]
-hang0 = Lass uns unseren Film ansehen, Sch√§tzchen!
+hang0 = Lass uns unseren Film ansehen, Sch‰tzchen!
 hang1 = Wir werden dich vermisseeeeeeeeeeeeeen...!!!
 
 [unused/deleted]
 [Highscore]
-NewHighScore0 = Gut gemacht, Sch√§tzchen!
-NewHighScore1 = So nahe dran, Sch√§tzchen!
-NewHighScore2 = Die Troph√§e wird unsere sein, Sch√§tzchen!
-NoNewScore0 = Es ist okay, Sch√§tzchen! N√§chstes Mal!
+NewHighScore0 = Gut gemacht, Sch‰tzchen!
+NewHighScore1 = So nahe dran, Sch‰tzchen!
+NewHighScore2 = Die Troph‰e wird unsere sein, Sch‰tzchen!
+NoNewScore0 = Es ist okay, Sch‰tzchen! N‰chstes Mal!
 NoNewScore1 = Es ist schwer Erfolg zu wiederholen!
-NoNewScore2 = Versuch's nochmal, Sch√§tzchen!
+NoNewScore2 = Versuch's nochmal, Sch‰tzchen!

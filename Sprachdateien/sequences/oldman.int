@@ -1,17 +1,17 @@
 [rainy_mafia]
-encounter0 = [shake]Oh nein, Aliens sind hinter Mafia her! Ich kann Raumschiff sehen! [hint]Schlamm-Monster[/hint] kÃ¶nnen jede Minute ankommen![/shake]
+encounter0 = [shake]Oh nein, Aliens sind hinter Mafia her! Ich kann Raumschiff sehen! [hint]Schlamm-Monster[/hint] können jede Minute ankommen![/shake]
 
-hit0 = Was zum... [scream]HÃ„H?![/scream]
+hit0 = Was zum... [scream]HÄH?![/scream]
 hit1 = [shake]Es... [scream]ES IST SCHLEIMIGES WELTRAUM ALIEN![/scream][/shake]
 hit2 = [shake][scream]MAFIA HAT RAUMSCHIFF GESEHEN! MAFIA WUSSTE DIE GANZE ZEIT! MAFIA WIRD ANGEGRIFFEN VON ALIENS![/scream][/shake]
 hit3 = [shake][scream]AHHHH!![/scream][/shake]
 
 HeartAttack0 = Huff... huff...
-HeartAttack1 = Lass Mafia in Ruhe, du Monster! Hier, wenn Mafia dir [icon:timepiece][timepiece]das[/timepiece] gibt, lÃ¤sst du Mafia in Ruhe?
+HeartAttack1 = Lass Mafia in Ruhe, du Monster! Hier, wenn Mafia dir [icon:timepiece][timepiece]das[/timepiece] gibt, lässt du Mafia in Ruhe?
 
 [Spaceship]
-ModLevels0 = [shake][scream]AHHHH-[/scream][/shake] oh, du bist's nur! Kleines Baby-Alien! Du bist zurÃ¼ckgekehrt!
+ModLevels0 = [shake][scream]AHHHH-[/scream][/shake] oh, du bist's nur! Kleines Baby-Alien! Du bist zurückgekehrt!
 ModLevels1 = Ich kann in Alien UFO bleiben, nicht? Kann ich mir private Briefe ansehen? Lernen wie Aliens denken? Bitte!
-ModLevels2 = Da sind so viele Briefe, von weit entfernten Orten! Wenn Mafia Briefe liest, ist es fast so als wÃ¤re Mafia da!
-ModLevels3 = Hier, komm und lies Briefe mit Mafia! Zusammen kÃ¶nnen wir uns vorstellen an weit entfernten Orten zu sein.
-ModLevels4 = Willkommen zurÃ¼ck, kleines Baby-Alien! Komm und stÃ¶ber durch Briefe mit Mafia!
+ModLevels2 = Da sind so viele Briefe, von weit entfernten Orten! Wenn Mafia Briefe liest, ist es fast so als wäre Mafia da!
+ModLevels3 = Hier, komm und lies Briefe mit Mafia! Zusammen können wir uns vorstellen an weit entfernten Orten zu sein.
+ModLevels4 = Willkommen zurück, kleines Baby-Alien! Komm und stöber durch Briefe mit Mafia!

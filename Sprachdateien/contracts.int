@@ -1,21 +1,21 @@
 [Info]
 ActsAvailable0 = Die folgenden Gebiete des
-ActsAvailable1 = Waldes werden verfügbar sein:
+ActsAvailable1 = Waldes werden verfÃ¼gbar sein:
 Contract = Vertrag
 Hostage0 = Ich werde folgende Geisel nehmen:
 Hostage1 = ... aber behalte alles, was du auf deinem Weg findest!
 
 Conditions_3Lives = Du hast 3 Leben
 Conditions_NoCheckpoints = Keine Checkpoints
-Conditions_ClearLevel = Du musst ein Zeitstück finden
+Conditions_ClearLevel = Du musst ein ZeitstÃ¼ck finden
 
 [Hat_SnatcherContract_IceWall]
-Title = Säubere den Subcon-Brunnen
+Title = SÃ¤ubere den Subcon-Brunnen
 SubconVillage = Finde das Subcon-Dorf
-KillFireSpirits = Töte die Geister
-SubconWell = Säubere den Subcon-Brunnen
-BreakIce = Zerbreche das Eis
-FlowBloom = Lass' die Blumen blühen
+KillFireSpirits = TÃ¶te die Geister
+SubconWell = SÃ¤ubere den Subcon-Brunnen
+BreakIce = Zerbrich das Eis
+FlowBloom = Lass' die Blumen blÃ¼hen
 
 [Hat_SnatcherContract_Vanessa]
 Title = Bring' mir etwas aus der Villa
@@ -39,8 +39,8 @@ Hostage0 = Bitte
 Hostage1 = und geh weg.
 
 [unused/deleted]
-Title = Entfache das Lagerfeuer für die Feuergeister
+Title = Entfache das Lagerfeuer fÃ¼r die Feuergeister
 BonfireYellow = Entfache das gelbe Lagerfeuer
-BonfireGreen = Entfache das grüne Lagerfeuer
+BonfireGreen = Entfache das grÃ¼ne Lagerfeuer
 BonfireBlue = Entfache das blaue Lagerfeuer
 BonfirePurple = Entfache das lilane Lagerfeuer

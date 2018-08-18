@@ -1,26 +1,26 @@
 [camera_unlock]
-CameraStolen0 = Diese blöde Seemöwe hat meine Kamera gestohlen!
-CameraStolen1 = Ich würd' einen Hechtsprung mit [button:duck] machen, aber dieser Bauch ist zu kostbar um da drauf zu landen!
+CameraStolen0 = Diese blÃ¶de SeemÃ¶we da drÃ¼ben hat meine Kamera gestohlen!
+CameraStolen1 = Ich wÃ¼rd' einen Hechtsprung mit [button:duck] machen, aber dieser Bauch ist zu kostbar um drauf zu landen!
 
-CameraRetrieved0 = Haste meine Kamera? Wow, danke, Kind! Aber ich hab' eigentlich eine Tonne weitere Kameras in Reserve. Ich brauchs nich'.
-CameraRetrieved1 = Ich wollt' eigentlich nur einen Grund finden die Seemöwen anzubrüllen. Du kannst es behalten.
+CameraRetrieved0 = Haste meine Kamera? Wow, danke, Kind! Aber ich hab' eigentlich einen Haufen weitere Kameras in Reserve. Ich brauchs nich'.
+CameraRetrieved1 = Ich wollt' eigentlich nur einen Grund haben, um die SeemÃ¶wen anzubrÃ¼llen. Du kannst sie behalten.
 
 [mafia_town]
-TownIsSoBig0 = Diese Stadt is' so groß! Die Attraktionen sind sehr cool, [br]aber ich muss sagen, nichts is' besser als der Mond.
+TownIsSoBig0 = Diese Stadt ist so groÃŸ! Die Attraktionen sind sehr cool, [br]aber ich muss sagen, nichts ist besser als der Mond.
 
 [finale]
-inside0 = Ich glaub', dass dieser[br]Sprung ein wenig[br]zu groß für mich und[br]meine Kamera is'...
-touristexterior0 = Sein' wir mal ehrlich, Kind. Im Vergleich zu allm' andren Orten, die ich bereist hab', [br]dies ist ohne Frage der schlechteste.
-touristexterior1 = Du musst mal da hinein gehen und das Mädchen zeigen, wer hier der Boss ist, damit ich zurück auf den Mond kann![br]Der Mond war spaßiger als das hier!
+inside0 = Ich glaub', dass dieser[br]Sprung ein wenig[br]zu groÃŸ fÃ¼r mich und[br]meine Kamera ist...
+touristexterior0 = Sein wir mal ehrlich, Kind. Im Vergleich zu allen andren Orten, die ich bereist hab', [br]dies ist ohne Frage der schlechteste.
+touristexterior1 = Du musst mal da hinein gehen und dem MÃ¤dchen zeigen, wer hier der Boss ist, damit ich zurÃ¼ck auf den Mond kann![br]Der Mond war spaÃŸiger als das hier!
 touristexterior2 = Ich glaub' an dich, Kind.
 
 [moon]
-moon0 = Der Mond ist ziemlich gut, Kind. Es fühlt sich toll an endlich hier zu sein nach all den Jahren!
-moon1 = Aber der doofe Steve von der Arbeit hat' mir 'ne Postkarte von der Sonne gesendet! [br]Sagte es wäre super! [br]Ich kann nicht glauben, dass wir so wettstreiten!
+moon0 = Der Mond ist ziemlich gut, Kind. Es fÃ¼hlt sich toll an endlich hier zu sein nach all den Jahren!
+moon1 = Aber der blÃ¶de Steve von der Arbeit hat mir 'ne Postkarte von der Sonne geschickt! [br]Sagte es wÃ¤re super! [br]Ich kann nicht glauben, dass er mich immer Ã¼berbietet!
 
 [subcon]
-touristsubcon0 = Das ist gut. Ich kann mir vorstellen ein Piknick hier zu machen.[br]Jedoch ist es nich' der Mond.[br]Muss dem Steve von dort aus 'ne Postkarte senden.
-touristsubcon1 = Steve von der Arbeit ging letzten Frühling auf dem Mond. Sagt es wäre toll.[br]Blöder Steve. Versucht dauernd besser zu sein.[br] Ich werd' es ihm zeigen mit 'ner Postkarte vom Mond!
+touristsubcon0 = Hier ist's gut. Ich kann mir vorstellen ein Piknick hier zu machen.[br]Jedoch ist es nich' der Mond.[br]Muss dem Steve von dort aus 'ne Postkarte senden.
+touristsubcon1 = Steve von der Arbeit ging letzten FrÃ¼hling auf dem Mond. Sagt es wÃ¤re toll.[br]BlÃ¶der Steve. Versucht dauernd besser zu sein.[br] Ich werd' es ihm zeigen mit 'ner Postkarte vom Mond!
 
 [unused/deleted]
 cameras0 = Och, ja! Stimmt! Ich benutze meine Kamera! Auf geht's!

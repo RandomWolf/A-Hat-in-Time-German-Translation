@@ -1,27 +1,27 @@
 [basement]
 mail_0 = Viele von diesen Briefen sind unbezahlte Rechnungen. 
-mail_1 = Macht Sinn - Bisher hast du kein Kino auf diesem Planeten gesehen, und Züge zerstören ist bestimmt ziemlich teuer.
-mail_2 = Das sieht aus, wie ein Mix aus Fanpost (größenteils von Pinguinen) und Hasspost (von dem [icon:Conductor][name]Schaffner[/name]).
-blocked_0 = Sieht so aus, als wärst du hier nicht erlaubt. Hätte man ja fast übersehen.
-reels_0 = Diese Regale sind voll mit Filmen, von denen du noch nie gehört hast.
-reels_1 = Die Menge an Wortspiele mit Vogelwörtern in den Titeln ist erstaunlich.
+mail_1 = Macht Sinn - Bisher hast du kein Kino auf diesem Planeten gesehen, und ZÃ¼ge zerstÃ¶ren ist bestimmt ziemlich teuer.
+mail_2 = Das sieht aus, wie ein Mix aus Fanpost (grÃ¶ÃŸenteils von Pinguinen) und Hasspost (von dem [icon:Conductor][name]Schaffner[/name]).
+blocked_0 = Sieht so aus, als wÃ¤rst du hier nicht erlaubt. KÃ¶nnte man ja fast Ã¼bersehen.
+reels_0 = Diese Regale sind voll mit Filmen, von denen du noch nie gehÃ¶rt hast.
+reels_1 = Die Menge an Vogelwortspielen in den Titeln ist erstaunlich.
 box_0 = Auf dem Etikett steht "MacGuffins".
 box_1 = Auf dem Etikett steht "Tschechows Gewehre".
 box_2 = Auf dem Etikett steht "Rote Heringe". Diese Kiste riecht streng.
 box_3 = Auf dem Etikett steht "Handlungsrahmen".
-box_4 = Auf dem Etikett steht "Tickende Uhren". Der Fortschritt der Technologie lässt dich zittern....
+box_4 = Auf dem Etikett steht "Tickende Uhren". Der Fortschritt der Technologie lÃ¤sst dich zittern...
 box_5 = Auf dem Etikett steht "Divergenzpunkte". Durch den Spalt siehst du aber nur einen Magneten und einen Kieselstein.
-gold_0 = Wow! Das hier das schönste und teuerste... Ding, dass du jemals gesehen hast.
-gold_1 = Du hast aber auch gesehen, dass du es nicht mitzunehmen kannst. Menno.
-whiteboard_0 = Nichts auf diesem Whiteboard macht in irgendeiner Weise Sinn für dich.
-whiteboard_1 = Es sieht sehr danach aus, als würden jemandem die Ideen ausgehen.
+gold_0 = Dies kÃ¶nnte das schÃ¶nste und teurste Ding sein, das du jemals gesehen hast.
+gold_1 = Es sieht aber nicht so aus, als gÃ¤be es einen einfachen Weg es mitzunehmen. Schade.
+whiteboard_0 = Nichts auf diesem Whiteboard macht in irgendeiner Weise Sinn fÃ¼r dich.
+whiteboard_1 = Es sieht sehr danach aus, als wÃ¼rden jemandem die Ideen ausgehen.
 whiteboard_2 = Hier sind mindestens sieben Instanzen des Wortes "Reboot".
 posters_0 = Diese Poster sehen ziemlich gut aus!
-posters_1 = Allerdings haben sie dich nie danach gefragt, ob sie dein Gesicht nutzen dürfen.
-posters_2 = Du erinnerst dich auch nicht daran einen Vertrag unterzeichnet zu haben. Oder irgendwelche Details über dich.
-posters_3 = ... Es ist möglich, dass du nicht für diese Filme bezahlt wirst.
+posters_1 = Allerdings haben sie dich nie danach gefragt, ob sie dein Gesicht nutzen dÃ¼rfen.
+posters_2 = Du erinnerst dich auch nicht daran einen Vertrag unterzeichnet zu haben. Oder ihnen irgendwelche Details Ã¼ber dich zu geben.
+posters_3 = ... Es ist mÃ¶glich, dass du nicht fÃ¼r diese Filme bezahlt wirst.
 
 [rift]
-manifest_0 = Da ist ein Stück Papier an dieser Box festgenagelt. Es ist eine Rechnung für eine Requisitenlieferung!
-manifest_1 = Eigenartig - sieht so aus, als wollte jemand "Corgi Quest VII", aber die Lieferung war nie angekommen.
-manifest_2 = Stattdessen haben sie anscheinend eine Box mit Fischen erhalten. Äh, interessant.
+manifest_0 = Da ist ein StÃ¼ck Papier an dieser Box festgenagelt. Es ist eine Rechnung fÃ¼r eine Requisitenlieferung!
+manifest_1 = Eigenartig - sieht so aus, als wollte jemand "Corgi Quest VII", aber die Lieferung ist nie angekommen.
+manifest_2 = Stattdessen haben sie anscheinend eine Box mit Fischen erhalten. Ã„h, interessant.

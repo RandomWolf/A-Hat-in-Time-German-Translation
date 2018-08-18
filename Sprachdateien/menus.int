@@ -252,8 +252,8 @@ Item_Adv_WorldTextureQuality_Desc = Bestimmt die Auflösung von Texturen für di
 Item_Adv_Fog_Title = Weltnebel
 Item_Adv_Fog_Desc = Rendert Nebel in der Spielwelt. Dies ist in Low-End-Systemen etwas aufwendiger.
 
-Item_Adv_Translucency_Title = Transluzenz
-Item_Adv_Translucency_Desc = Rendert transluzente Objekte, Oberflächen und Partikel.
+Item_Adv_Translucency_Title = Semi-Transparenz
+Item_Adv_Translucency_Desc = Rendert semi-transparente Objekte, Oberflächen und Partikel.
 Item_Adv_Translucency_None = Keine
 Item_Adv_Translucency_Normal = Single Pass
 Item_Adv_Translucency_SepTrans = Double Pass
@@ -290,7 +290,7 @@ Item_Adv_LightShafts_Title = Lichtstrahlen
 Item_Adv_LightShafts_Desc = Die Sonne und andere helle Lichtquellen erzeugen Strahlen, die von Objekten vor der Kamera blockiert werden können.
 
 Item_Adv_ObjectMotionBlur_Title = Bewegungsunschärfe
-Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charaktere angwandt.[br]Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
+Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charaktere angewandt.[br]Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
 
 Item_Adv_RadialBlur_Title = Kreisförmige Unschärfe
 Item_Adv_RadialBlur_Desc = Wenn aktiviert, werden Explosionen und Angriffe eine Unschärfe um den Effektbereich erzeugen.

@@ -1,55 +1,55 @@
 [AlpsHUB]
 TimePieceDirection0 = Hast du dieses helle, flackernde Licht am Himmel bemerkt?
 TimePieceDirection1 = Sie tauchten auf, als diese [icon:timepiece][timepiece]komischen Sanduhren[/timepiece] vom Himmel fielen. Ich frage mich, was sie sind.
-TimePieceDirection2 = Auf jeden Fall wÃ¼nschte ich, sie wÃ¤ren nicht so hell. Sie blenden!
+TimePieceDirection2 = Auf jeden Fall wünschte ich, sie wären nicht so hell. Sie blenden!
 
 [finale]
 finale0 = Es ist... vorbei? Die Luft ist wieder rein!
-finale1 = Und die Ziegen scheinen wieder zu sich zu kommen. Ich verstehe es nicht wirklich, aber denke, wir mÃ¼ssen dir danken!
-finale2 = Wir haben das in einen Haufen dieser verwelkten Blumen gefunden. Du hast die anderen ziemlich hartnÃ¤ckig gesammelt, also denke ich, dass sie dir gehÃ¶ren.
+finale1 = Und die Ziegen scheinen wieder zu sich zu kommen. Ich verstehe es nicht wirklich, aber denke, wir müssen dir danken!
+finale2 = Wir haben das in einen Haufen dieser verwelkten Blumen gefunden. Du hast die anderen ziemlich hartnäckig gesammelt, also denke ich, dass sie dir gehören.
 finale3 = Danke, dass du uns geholfen hast!
 
 [Guides]
 guide_lavacake0 = Hier geht es[br]zum [name]Lava-Kuchen[/name]!
-guide_lavacake1 = Die Hitze ist groÃŸartig! [br][hint]Rechts[/hint] ist es [br]sogar noch heiÃŸer!
+guide_lavacake1 = Die Hitze ist großartig! [br][hint]Rechts[/hint] ist es [br]sogar noch heißer!
 guide_lavacake2 = Das ist der [br][name]Lava-Kuchen[/name]!
-guide_lavacake3 = Wie entstand dieser [br]Ort Ã¼berhaupt?
-guide_windmill0 = Zur [name]alten WindmÃ¼hle[/name] [br]geht es hier lang! 
-guide_windmill1 = Dieser Ort ist riesig! [br]Zur [hint]Spitze[/hint] zu klettern wÃ¤re bestimmt anstrengend.
-guide_twilight0 = Zur [name]DÃ¤mmerungs-Glocke[/name][br]geht es hier lang!
-guide_twilight1 = Die [name]DÃ¤mmerungs-Glocke[/name][br]ist gleich dort drÃ¼ben!
-guide_twilight2 = Schau dir das an![br]Wenn ich doch nur[br]'rankommen wÃ¼rde.
-guide_birdhouse0 = Die VÃ¶gel am[br][name]Vogelhaus[/name] stehlen [br]leuchtende Dinge!
+guide_lavacake3 = Wie entstand dieser [br]Ort überhaupt?
+guide_windmill0 = Zur [name]alten Windmühle[/name] [br]geht es hier lang! 
+guide_windmill1 = Dieser Ort ist riesig! [br]Zur [hint]Spitze[/hint] zu klettern wäre bestimmt anstrengend.
+guide_twilight0 = Zur [name]Dämmerungs-Glocke[/name][br]geht es hier lang!
+guide_twilight1 = Die [name]Dämmerungs-Glocke[/name][br]ist gleich dort drüben!
+guide_twilight2 = Schau dir das an![br]Wenn ich doch nur[br]'rankommen würde.
+guide_birdhouse0 = Die Vögel am[br][name]Vogelhaus[/name] stehlen [br]leuchtende Dinge!
 guide_birdhouse1 = [name]Das Vogelhaus[/name] liegt [br]in dieser Richtung!
 guide_birdhouse2 = Du bist fast am [br][name]Vogelhaus[/name]!
-guide_horn0 = Blas' in diese HÃ¶rner,[br]um neue Wege[br]zu Ã¶ffnen!
+guide_horn0 = Blas' in diese Hörner,[br]um neue Wege[br]zu öffnen!
 guide_horn1 = Da ist ein[br][hint]Horn[/hint] auf[br]der Spitze!
-guide_binocs0 = Mit diesen FernglÃ¤sern [br]kannst du weit entfernte [br]Gipfel anschauen!
-guide_deadend0 = Hey! Dieser Weg fÃ¼hrt[br]zu keinem[hint]Gipfel[/hint].
+guide_binocs0 = Mit diesen Ferngläsern [br]kannst du weit entfernte [br]Gipfel anschauen!
+guide_deadend0 = Hey! Dieser Weg führt[br]zu keinem[hint]Gipfel[/hint].
 guide_deadend1 = Ich glaube, hier geht es zu einem [hint]Horn[/hint].[br]Du kannst es sehen!
 guide_deadend2 = Ich glaube, ich sehe [br]einen [hint]Schatz[/hint]!
 guide_deadend3 = Ich glaube, [br]nicht, dass jegliche [br][hint]Sanduhren[/hint] hier entlang [br]gefallen sind.
 guide_zipline0 = Sei sicher, [br]dass du den Pfad [br][hint]ansteuerst[/hint], den du [br]gehen willst.
-guide_bridge0 = Vorsicht! Manche[br][hint]BrÃ¼cken[/hint] sind alt.
-guide_cats0 = Pass auf, MÃ¤del. Ich ging voran und wurde[br]leicht gekratzt!
-guide_cats1 = Ich wÃ¼rde deinen [br][icon:hat] hier fester greifen!
+guide_bridge0 = Vorsicht! Manche[br][hint]Brücken[/hint] sind alt.
+guide_cats0 = Pass auf, Mädel. Ich ging voran und wurde[br]leicht gekratzt!
+guide_cats1 = Ich würde deinen [br][icon:hat] hier fester greifen!
 guide_eggs0 = Irgendwas stimmt [br]mit diesen Eiern[br]nicht!
-guide_danger0 = Hi! Das ist eindeutig [br]ein sicherer Platz [br]fÃ¼r ein Kind.
+guide_danger0 = Hi! Das ist eindeutig [br]ein sicherer Platz [br]für ein Kind.
 
 [PeakSize]
-size0 = Auf diesen Gipfeln gibt es viele wirklich groÃŸe GebÃ¤ude.
+size0 = Auf diesen Gipfeln gibt es viele wirklich große Gebäude.
 size1 = Ich frage mich, wer sie gebaut hat.
-size2 = ...VÃ¶gel bauen keine VogelhÃ¤user, oder?
+size2 = ...Vögel bauen keine Vogelhäuser, oder?
 
 [Flowers]
 flowers0 = Hast du die lilanen Blumen, die hier wachsen gesehen?
-flowers1 = Ich wÃ¼rde Abstand halten. Irgendwas an ihnen kommt mir seltsam vor.
+flowers1 = Ich würde Abstand halten. Irgendwas an ihnen kommt mir seltsam vor.
 
 [Horns]
-explanation0 = Warum wir die HÃ¶rner nicht selbst blasen?
-explanation1 = So weit oben ist die Luft wirklich dÃ¼nn! Es ist schwer fÃ¼r uns tief einzuatmen.
+explanation0 = Warum wir die Hörner nicht selbst blasen?
+explanation1 = So weit oben ist die Luft wirklich dünn! Es ist schwer für uns tief einzuatmen.
 explanation2 = Aber dir scheint es nichts auszumachen. 
 
 [Goats]
-goats0 = Ich weiÃŸ nicht viel Ã¼ber die Ziegen hier oben, aber wir versuchen ihnen viel Raum zu lassen.
+goats0 = Ich weiß nicht viel über die Ziegen hier oben, aber wir versuchen ihnen viel Raum zu lassen.
 goats1 = Wenn du ihnen in die Quere kommst, werden sie aufdringlich.

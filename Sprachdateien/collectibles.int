@@ -74,7 +74,7 @@ SuckInOrbsTech0 = Zieht automatisch Gegenstände an dich heran!
 
 AttackProjectileName = Projektil-Anstecker
 AttackProjectileDescFun0 = Projektil-Anstecker
-AttackProjectileDescTech0 = Halte [button:attack] gedrückt für eine[br]Laser-Attacke!
+AttackProjectileDescTech0 = Halte [button:attack] gedrückt für eine Laser-Attacke!
 
 CameraName = Kamera-Anstecker
 CameraDesc0 = Drücke [button:share], um Bilder von deiner Reise zu machen!
@@ -105,7 +105,7 @@ NoFallDamageBadgeName = Schwebe-Anstecker
 NoFallDamageBadgeDesc0 = Dein Regenschirm wird kurz vor einen großem Sturz automatisch geöffnet!
 
 NoBonkBadgeName = Anti-Abprall-Anstecker
-NoBonkBadgeDesc0 = Du prallst nicht mehr an Wänden ab, wenn du einen Hechtsprung machst!
+NoBonkBadgeDesc0 = Niemals wegen dem Hechtsprung an Wänden abprallen!
 
 HatCooldownBonusBadgeName = Hutmacher-Anstecker
 HatCooldownBonusBadgeDesc0 = Verringert den Cooldown für Hüte!

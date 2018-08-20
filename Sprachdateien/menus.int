@@ -168,7 +168,7 @@ Item_WindowType_Item_Windowed = Fenster
 Item_WindowType_Item_Borderless_Window = Randloses Fenster
 
 Item_DisplayMonitor_Title = Display Monitor
-Item_DisplayMonitor_Desc = Der Monitor, auf dem das Spiel angezeigt wird.[newline][Standard]: Das Betriebssystem entscheidet, welcher Monitor angezeigt werden soll.
+Item_DisplayMonitor_Desc = Der Monitor, auf dem das Spiel angezeigt wird.[newline][Standard]: Das Betriebssystem entscheidet,[br]welcher Monitor angezeigt werden soll.
 Item_DisplayMonitor_Item_Default = Standard
 
 Item_MultiMonitorSetup_Title = Multi-Monitor Konfiguration

@@ -162,13 +162,13 @@ Item_DisplayResolution_Title = Bildschirmauflösung
 Item_DisplayResolution_Desc = Bestimmt, wie viele Pixel horizontal und vertikal gerendert werden. Eine höhere Auflösung führt zu höherer Qualität, reduziert jedoch die Leistung
 
 Item_WindowType_Title = Fenstertyp
-Item_WindowType_Desc = [Fullscreen]: Das Spiel nimmt die gesamte Monitoranzeige auf.[newline][Windowed]: Das Spiel wird in einem regulären Fenster angezeigt.[newline][Borderless Window]: Wie Fenster, aber ohne Rahmen und die Titelleiste.[newline][Multi-Monitor]: Zeigt das Spiel über mehrere Monitore an.
+Item_WindowType_Desc = [Vollbild]: Das Spiel nimmt die gesamte Monitoranzeige auf.[newline][Fenster]: Das Spiel wird in einem regulären Fenster angezeigt.[newline][Randloses Fenster]: Wie Fenster, aber ohne Rahmen und die Titelleiste.[newline][Multi-Monitor]: Zeigt das Spiel über mehrere Monitore an.
 Item_WindowType_Item_Fullscreen = Vollbild
 Item_WindowType_Item_Windowed = Fenster
 Item_WindowType_Item_Borderless_Window = Randloses Fenster
 
 Item_DisplayMonitor_Title = Display Monitor
-Item_DisplayMonitor_Desc = Der Monitor, auf dem das Spiel angezeigt wird.[newline][Default]: Das Betriebssystem entscheidet, welcher Monitor angezeigt werden soll.
+Item_DisplayMonitor_Desc = Der Monitor, auf dem das Spiel angezeigt wird.[newline][Standard]: Das Betriebssystem entscheidet, welcher Monitor angezeigt werden soll.
 Item_DisplayMonitor_Item_Default = Standard
 
 Item_MultiMonitorSetup_Title = Multi-Monitor Konfiguration
@@ -179,7 +179,7 @@ Item_Configure = Konfigurieren...
 Header_RefreshRate = Aktualisierungsrate
 
 Item_FrameRate_Title = Maximale Bildrate
-Item_FrameRate_Desc = Legt die maximal zulässige Bildrate oder Bilder pro Sekunde (FPS) fest. [br]Spiele sehen am besten aus, wenn die Bildrate konstant ist, aber oft ändert sich das drastisch,[br]je nachdem, was auf dem Bildschirm angezeigt wird.[br]Dies wird durch Einstellen einer maximalen Bildrate vermieden.[br]Gehe nur unter 60 FPS, wenn das System Probleme mit 60 FPS hat.
+Item_FrameRate_Desc = Legt die maximal zulässige Bildrate oder Bilder pro Sekunde (FPS) fest. [br]Spiele sehen am besten aus, wenn die Bildrate konstant ist, aber oft ändert sich das drastisch, je nachdem, was auf dem Bildschirm angezeigt wird.[br]Dies wird durch Einstellen einer maximalen Bildrate vermieden.[br]Gehe nur unter 60 FPS, wenn das System Probleme mit 60 FPS hat.
 Item_FrameRate_Item_Unlocked = Unbegrenzt
 
 Item_VSync_Title = V-Sync
@@ -238,7 +238,7 @@ Item_Adv_CharacterTextureQuality_Desc = Bestimmt die Auflösung von Texturen für 
 
 Header_Adv_Environment = Spielwelt
 Item_Adv_DetailMode_Title = Spielweltdetails
-Item_Adv_DetailMode_Desc = [[option2]]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Medium]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Low]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
+Item_Adv_DetailMode_Desc = [Hohe Qualität]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Standard]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Leistung]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
 
 Item_Adv_DrawDistance_Title = Sichtweite
 Item_Adv_DrawDistance_Desc = Wenn du dich von einigen Umgebungsmodellen weiter entfernst, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden.[br]Wenn du diese Einstellung erhöhen, erhöhen Sie, wie weit sie reichen können, bevor dies geschieht.[br]Ein höherer Wert bedeutet höhere Qualitätshintergründe, jedoch zu erheblichen Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.

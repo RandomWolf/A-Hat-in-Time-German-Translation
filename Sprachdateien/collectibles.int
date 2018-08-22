@@ -112,7 +112,7 @@ HatCooldownBonusBadgeDesc0 = Verringert die Abklingzeit für Hüte!
 
 [loot]
 BirdPassportName = Ausweis der Bundesvereinigung der Vögel
-BirdPassportDesc0 = Ich bin jetzt ein legaler Vogel, glaube ich...?
+BirdPassportDesc0 = Laut Gesetz, bin ich jetzt ein Vogel, glaube ich...?
 
 BadgeSlotName = Anstecknadel
 BadgeSlotDesc0 = Erlaubt dir, einen weiteren [icon:badge][name]Anstecker[/name] auszurüsten!

@@ -90,7 +90,7 @@ AirAttackBadgeName = Luft Angriff-Anstecker
 AirAttackBadgeDesc0 = Erlaubt es dir in der Luft anzugreifen!
 
 MumbleBadgeName = Nuschel-Anstecker
-MumbleBadgeDesc0 = Verstopft deine Ohren, sodas du nur noch leichtes Nuscheln hören kannst!
+MumbleBadgeDesc0 = Verstopft deine Ohren, sodass du nur noch leichtes Nuscheln hören kannst!
 
 HookshotBadgeName = Enterhaken
 HookshotBadgeDesc0 = Drücke und halte [button:attack], um von Haken zu Haken zu schwingen!
@@ -108,11 +108,11 @@ NoBonkBadgeName = Anti-Abprall-Anstecker
 NoBonkBadgeDesc0 = Niemals wegen dem Hechtsprung an Wänden abprallen!
 
 HatCooldownBonusBadgeName = Hutmacher-Anstecker
-HatCooldownBonusBadgeDesc0 = Verringert die abklingzeit für Hüte!
+HatCooldownBonusBadgeDesc0 = Verringert die Abklingzeit für Hüte!
 
 [loot]
 BirdPassportName = Ausweis der Bundesvereinigung der Vögel
-BirdPassportDesc0 = Ich bin nun gesetzlich ein Vogel! Glaube ich... ?
+BirdPassportDesc0 = Ich bin jetzt ein legaler Vogel, glaube ich...?
 
 BadgeSlotName = Anstecknadel
 BadgeSlotDesc0 = Erlaubt dir, einen weiteren [icon:badge][name]Anstecker[/name] auszurüsten!
@@ -232,7 +232,7 @@ BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehl
 BurgerCushionName = Sitz-Gerät der Erdbewohner
 BurgerCushionDesc0 = Nachforschungen haben ergeben, dass es sehr weich ist.
 BurgerCushionDesc1 = So weich, dass die einzige logische Schlussfolgerung ist, dass dies die Stühle dieses Planeten sein müssen.
-BurgerCushionDesc2 = Es ist kein Snack. Ich habe ihn probiert... Er schmeckt nach Kissen.
+BurgerCushionDesc2 = Es ist kein Snack. Ich habe ihn probiert... Es schmeckt nach Stoff.
 
 [ItemQuality]
 SupporterPrefix = Unterstützer

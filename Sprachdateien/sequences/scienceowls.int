@@ -14,7 +14,7 @@ ScientificEquation0 = Ich verstehe nicht, wie dies eine wissenschaftliche Gleich
 
 StayOut0 = Warte, komm' nicht hier rein. Ich habe meine Kontaktlinse verloren... bitte tritt nicht drauf![br]Ich kann hier nicht weggehen, sonst werde ich noch selbst drauf treten!
 StayOut1 = Ich hoffe niemand geht in den VIP-Bereich und tritt versehentlich auf meine Kontaktlinse...
-PostMurder0 = Menno, ich wollte doch nur nach Hause von der Arbeit. Ich hab keine Zeit für einen geheimen Mord.
+PostMurder0 = Menno, ich wollte doch nur nach Hause von der Arbeit. Ich hab keine Zeit für einen Krimispielchen.
 PostMurder1 = Meine Frau wird mir die Hölle heiß machen.
 
 OwlHiddenRoom0 = So lässt's sich leben.[br]Nix übertrifft eine[br]heiße Sauna.
@@ -39,12 +39,12 @@ suspect_hatkid1 = Sie hat mir nur dieses Gummimesser gegeben und gesagt ich soll
 suspect_victim_idle0 = Mensch, ich hab eine ganze Flasche Ketchup dafür verbraucht, damit dieser Mord echt aussieht...
 
 [DeadBird]
-prop0 = Häh, du willst das Film Prop haben was sie reingetragen haben?
-prop1 = Bist du etwa einer dieser Leute, der Film Props auf eBird verkauft?
+prop0 = Häh, willst du dieses Filmrequisit, was sie reingetragen haben?
+prop1 = Bist du etwa einer dieser Leute, die Filmrequisiten auf eBird verkauften?
 
 intro0 = Öhhh, hallo. Ich bin eine [name]Express-Eule[/name]. Was wirklich nur heißt, dass ich mit dem [name]Eulen-Express[/name] vom [icon:conductor][name]Schaffner[/name] fahre.
-intro1 = Ich muss mit dem Zug zur Arbeit fahren, aber der [icon:conductor][name]Schaffner[/name] hält immer irgendwo an.
-intro2 = Ich habe keine Ahnung, warum wir bei einem Filmstudio sind. Ich muss in 15 Minuten auf der Arbeit sein!
+intro1 = Ich fahre jeden morgen mit dem Zug zur Arbeit, aber der [icon:conductor][name]Schaffner[/name] hält immer irgendwo an.
+intro2 = Ich habe keine Ahnung, warum wir in einem Filmstudio gehalten haben. Ich muss in 15 Minuten auf der Arbeit sein!
 
 guard0 = Tut mir leid, aber der [icon:conductor][name]Schaffner[/name] hat gesagt, dass nur Vögel ab hier erlaubt sind. Und vor allem keine Penguine.
 guard1 = Ich hab keine Ahnung -warum-, Ich bin nur ein Fahrgast. Hoffentlich können wir bald weiterfahren.
@@ -59,17 +59,17 @@ reception_desk2 = Ich bin wirklich schlecht beim Reden mit anderen Vögeln.
 
 [ExpressBand]
 intro0 = Hey! Wir sind die [name]Express-Band[/name], wir sind Eulen die Musik auf dem Zug des [icon:conductor][name]Schaffners[/name] spielen. 
-intro1 = Ist es OK, wenn wir hier ein wenig üben? [br]Wenn du einen bestimmten Song haben möchtest, immer raus damit! [br]Wir spielen gerne alles, was du auf dem Gewissen hast!
+intro1 = Ist es OK, wenn wir hier ein wenig üben? [br]Wenn du einen bestimmten Song haben möchtest, immer raus damit! [br]Wir spielen gerne alles, was dir in den Sinn kommt!
 
 initial0 = Möchtest du die Musik austauschen, die du in Kapiteln hörst, oder willst du uns üben hören?
 initial0_a = Musik austauschen
 initial0_b = Spiel mir eine Melodie
 initial0_c = Tschau!
 listentomusic_generic0 = Okay, hör dir das an. Es ist ein neues Stück, an dem wir gearbeitet haben!
-listentomusic_bubblegum0 = Okay, Ohren auf. Wir haben diese Melodie in einem fernen Dorf gehört![br]Es hört sich sehr nach Bubblegum an! 
-listentomusic_caverave0 = Okay, hör dir das an. Es ist ein neues Stück, an dem wir gearbeitet haben.[br]Es wird dir Heißhunger auf Kürbissuppe geben, aus irgendeinem Grund!
+listentomusic_bubblegum0 = Okay, Ohren auf. Wir haben diese Melodie in einem fernen Dorf gehört![br]Es hört sich sehr nach Pinken Kaugummi an! 
+listentomusic_caverave0 = Okay, hör dir das an. Es ist ein neues Stück, an dem wir gearbeitet haben.[br]Es wird dir aus irgendeinem Grund Heißhunger auf Kürbissuppe geben!
 listentomusic_heatdusts0 = Okay, zieh dir das rein, frisch aus dem Ofen! Es ist ein ruhiger Song, perfekt für Fahrten auf langen Straßen!
-listentomusic_foxmask0 = Okay, hör zu, das hier ist ein alter Ohrwurm.[br]Er gibt dir ein warmes Gefühl, ist aber auch ein bisschen hinterhältig, wie ein Fuchs.[br]Auch ein bisschen unheimlich!
+listentomusic_foxmask0 = Okay, hör zu, das hier ist ein alter Ohrwurm.[br]Er gibt dir ein warmes Gefühl, ist aber auch ein bisschen hinterhältig, wie ein Fuchs.[br]Aber auch ein bisschen unheimlich!
 listentomusic_heatgusts0 = Okay, gut zuhören, wir haben gerade an diesen Track gearbeitet. Er hat ein Wüsten ähnliches Gefühl an sich.
 listentomusic_moonswing0 = Okay, hergehört, der hier kommt frisch vom Mond.[br][name]Die Lazy Paw Gang[/name] weiß einfach, wie man gute Jazz-Songs macht![/name]
 listentomusic_electroswing0 = Hör dir das an, das ist das beste Stück von uns [name]Express-Eulen[/name].[br]Wir haben dieses Mal einen frischen Groove hinzugefügt. Was hälst du davon?

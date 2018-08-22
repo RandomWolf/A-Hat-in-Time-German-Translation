@@ -31,7 +31,7 @@ suspect_sciowls3 = ... und Robin konnte nicht aufhören mit offenem Mund zu essen
 suspect_sciowls4 = Wer isst bitte mit offenem Mund? Deswegen haben wir ihn mit dem Messer gestochen, damit wir unsere Ruhe haben.
 
 suspect_victim0 = Ihr habt mich durchschaut.
-suspect_victim1 = Ich war an der Reihe den Eulen-Express zu säubern, und habe mich entschieden meinen... uhh... Tod vorzutäuschen, mit einem Gummimesser.
+suspect_victim1 = Ich war an der Reihe den Eulen-Express zu säubern, und habe mich entschieden meinen... ähh... Tod vorzutäuschen, mit einem Gummimesser.
 suspect_victim2 = Aber es ist diesen ganzen Ärger nicht wert. Ich fang' jetzt an aufzuräumen.
 
 suspect_hatkid0 = Eigentlich geht es mir gut.
@@ -43,8 +43,8 @@ prop0 = Häh, du willst dieses Filmrequisit, was sie reingetragen haben?
 prop1 = Bist du etwa einer dieser Leute, die Filmrequisiten auf eBird verkaufen?
 
 intro0 = Öhhh, hallo. Ich bin eine [name]Express-Eule[/name]. Was wirklich nur heißt, dass ich mit dem [name]Eulen-Express[/name] vom [icon:conductor][name]Schaffner[/name] fahre.
-intro1 = Ich fahre jeden morgen mit dem Zug zur Arbeit, aber der [icon:conductor][name]Schaffner[/name] hält immer irgendwo an.
-intro2 = Ich habe keine Ahnung, warum wir in einem Filmstudio gehalten haben. Ich muss in 15 Minuten auf der Arbeit sein!
+intro1 = Ich muss heute mit dem Zug zur Arbeit, aber der [icon:conductor][name]Schaffner[/name] hält immer irgendwo an.
+intro2 = Ich habe keine Ahnung, warum wir in einem Filmstudio sind. Ich muss in 15 Minuten auf der Arbeit sein!
 
 guard0 = Tut mir leid, aber der [icon:conductor][name]Schaffner[/name] hat gesagt, dass nur Vögel ab hier erlaubt sind. Und vor allem keine Penguine.
 guard1 = Ich hab keine Ahnung -warum-, Ich bin nur ein Fahrgast. Hoffentlich können wir bald weiterfahren.
@@ -67,7 +67,7 @@ initial0_b = Spiel mir eine Melodie
 initial0_c = Tschau!
 listentomusic_generic0 = Okay, hör dir das an. Es ist ein neues Stück, an dem wir gearbeitet haben!
 listentomusic_bubblegum0 = Okay, Ohren auf. Wir haben diese Melodie in einem fernen Dorf gehört![br]Es hört sich sehr nach Pinken Kaugummi an! 
-listentomusic_caverave0 = Okay, hör dir das an. Es ist ein neues Stück, an dem wir gearbeitet haben.[br]Es wird dir aus irgendeinem Grund Heißhunger auf Kürbissuppe geben!
+listentomusic_caverave0 = Okay, hör dir das an. Es ist ein neues Stück, an dem wir gearbeitet haben.[br]Es wird dir irgendwie Heißhunger auf Kürbissuppe geben!
 listentomusic_heatdusts0 = Okay, zieh dir das rein, frisch aus dem Ofen! Es ist ein ruhiger Song, perfekt für Fahrten auf langen Straßen!
 listentomusic_foxmask0 = Okay, hör zu, das hier ist ein alter Ohrwurm.[br]Er gibt dir ein warmes Gefühl, ist aber auch ein bisschen hinterhältig, wie ein Fuchs.[br]Aber auch ein bisschen unheimlich!
 listentomusic_heatgusts0 = Okay, gut zuhören, wir haben gerade an diesen Track gearbeitet. Er hat ein Wüsten ähnliches Gefühl an sich.

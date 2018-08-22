@@ -187,7 +187,7 @@ PosterName = Filmplakat
 [decorations]
 DecorationMatch = Du hast einen Schatz von dem komischen Planeten identifiziert!
 DecorationSaved = Dieser Schatz könnte zu anderen Schätzen passen!
-DecorationMystery = Dir läuft es kurz kalt den Rücken runter,... aber es ist wahrscheinlich nichts.
+DecorationMystery = Dir läuft etwas kurz kalt den Rücken runter,... aber da war wahrscheinlich nichts.
 
 DecorationGenericName = Schatz
 
@@ -230,9 +230,9 @@ BurgerTopDesc = Ein Kissen in der Form eines Burgers. Sein unterer Bruder fehlt!
 BurgerBottomName = Burger-Kissen (untere Hälfte)
 BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehlt! Oh nein!
 BurgerCushionName = Sitz-Gerät der Erdbewohner
-BurgerCushionDesc0 = Nachforschungen haben ergeben, dass es sehr weich ist.
+BurgerCushionDesc0 = Nachforschungen haben ergeben, dass dies sehr weich ist.
 BurgerCushionDesc1 = So weich, dass die einzige logische Schlussfolgerung ist, dass dies die Stühle dieses Planeten sein müssen.
-BurgerCushionDesc2 = Es ist kein Snack. Ich habe ihn probiert... Es schmeckt nach Stoff.
+BurgerCushionDesc2 = Es ist kein Snack. Ich habe es versucht... Es schmeckt nach Stoff.
 
 [ItemQuality]
 SupporterPrefix = Unterstützer

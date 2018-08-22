@@ -6,22 +6,22 @@ intro2 = Ich bin mir ziemlich sicher jemand wird sterben, sollte er das Essen de
 [spaceship]
 firstdecoration0 = Was ein schönes Raumschiff du hier hast! Sorry für's Einbrechen, ich wollte nur echt mal ein Raumschiff von innen beobachten.
 firstdecoration1 = Weißt du, ich dachte Aliens wären grün und hätten mehr Hunger auf Fleisch. [br]Aber anscheinend kommt ihr Aliens in allen Größen und Farben, oder?
-firstdecoration2 = Hey, wenn du unseren Planeten erkunden willst, musst du ihn erst verstehen. Sonst weißt du nicht, ob du auf Graß oder Treibsand trittst!
-firstdecoration3 = Du weißt nicht, wie man [icon:relic][name]Schätze[/name] identifiziert? Keine Angst, [name]Koch-Katze[/name] ist hier!
+firstdecoration2 = Hey, wenn du unseren Planeten erkunden willst, musst du ihn erst verstehen. Sonst weißt du nicht, ob du auf Gras oder Treibsand trittst!
+firstdecoration3 = Du weißt nicht, wie man [icon:relic][name]Schätze[/name] identifizieren kann? Keine Angst, [name]Koch-Katze[/name] ist hier!
 firstdecoration4 = Du kannst dieses [name]Burger-Kissen[/name] haben!
-firstdecoration5 = Du kannst diese [icon:relic][name]Schätze[/name] an einem Podium identifizieren![br]Wenn du sie in der richtigen Reihenfolge auf dem Podium platzierst,[br]könntest du einen Zusammenschluss finden.
-firstdecoration7 = Wenn du einen [icon:relic][name]Schatz[/name] identifizierst,[br]könnte etwas Tolles passieren! Man weiß ja nie! [br]Halte also ein Auge offen für Schätze.
+firstdecoration5 = Du kannst diese [icon:relic][name]Schätze[/name] an einem Podium identifizieren![br]Wenn du sie in der richtigen Reihenfolge auf dem Podium platzierst,[br]könnten sie einen Sinn ergeben.
+firstdecoration7 = Wenn du deine [icon:relic][name]Schätze[/name] richtig zusammen setzt,[br]könnte etwas Tolles passieren! Man weiß ja nie! [br]Halte also ein Auge offen für Schätze.
 firstdecoration8 = Ich hab dir alles beigebracht, was ich über Schätze weiß!
 
 cooking0 = Oh, hey! Ich hoffe, du nimmst es mir nicht übel wenn ich deine Küche benutze. Ich dachte mir, ich mach' dir ein bisschen Menschen-Futter. Da du ja ein Alien bist und so.
-cooking1 = Sag mal, bist du mehr eine Steak- oder Veggie-Person?
+cooking1 = Sag mal, bist du mehr so der Steak- oder Veggie-Typ?
 cooking_q_steak = Steak
 cooking_q_veggie = Veggie
-cooking2_steak = Oh, wirklich? Nun, hoffentlich hast du nicht vor ein paar Erdlinge in der Zukunft zu kochen!
+cooking2_steak = Oh, wirklich? Nun, hoffentlich hast du nicht vor in der Zukunft ein paar Erdlinge zu kochen!
 cooking2_veggie = Oh, wirklich? Ich glaube ihr Aliens habt mehr in Verbindung mit... Ameisen, und sowas?
-cooking3 = Wie auch immer, ich hoffe mein Gericht ist fertig bevor du gehst. Ich will sehen, wie gut ich mein Gericht auf einem Alien-Herd kochen kann!
+cooking3 = Wie auch immer, ich hoffe mein Gericht ist fertig bevor du gehst. Ich will sehen, wie gut ich auf einem Alien-Herd kochen kann!
 
-cooking4 = Ich hätte gedacht, dass ein Alien-Herd ein bisschen fortgeschrittener sein würde.
+cooking4 = Ich hätte gedacht, dass so ein Alien-Herd ein bisschen fortgeschrittener sein würde.
 
 [finale]
 outside0 = Ich war zuvor in heißen Küchen, aber noch nie so heiß! Ich habe keine Ahnung, wie du es schaffst nicht zu schwitzen, denn ich bin richtig am Kochen.

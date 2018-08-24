@@ -99,7 +99,7 @@ FindRelicsBadgeName = Entdecker-Anstecker
 FindRelicsBadgeDesc0 = Zeigt dir eine Karte, um [icon:relic] zu finden!
 
 CompassBadgeName = Kompass-Anstecker
-CompassBadgeDesc0 = Wenn du stillstehst, zeigt es dir den in der Nähe liegenden [icon:relic] [icon:token] an!
+CompassBadgeDesc0 = Stehe Still um dir [icon:relic] [icon:token] anzeigen zu lassen!
 
 NoFallDamageBadgeName = Schwebe-Anstecker
 NoFallDamageBadgeDesc0 = Dein Regenschirm wird kurz vor einen großem Sturz automatisch geöffnet!
@@ -232,7 +232,7 @@ BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehl
 BurgerCushionName = Sitz-Gerät der Erdbewohner
 BurgerCushionDesc0 = Nachforschungen haben ergeben, dass dies sehr weich ist.
 BurgerCushionDesc1 = So weich, dass die einzige logische Schlussfolgerung ist, dass dies die Stühle dieses Planeten sein müssen.
-BurgerCushionDesc2 = Es ist kein Snack. Ich habe es versucht... Es schmeckt nach Stoff.
+BurgerCushionDesc2 = Es ist kein Snack. Ich habe es probiert... Es schmeckt nach Stoff.
 
 [ItemQuality]
 SupporterPrefix = Unterstützer

@@ -1,5 +1,5 @@
 [parade]
-welcome0 = Hallo, Schätzchen! Willkommen zum größten Filmset, was du jemals sehen wirst!
+welcome0 = Hallo, Schätzchen! Willkommen auf dem größten Filmset, das du jemals gesehen haben wirst!
 welcome1 = Wir sind gerade dabei [hint]die große Parade[/hint] zu drehen, den atemberaubendsten Film weltweit! Du wirst unser Star sein, wie immer!
 welcome2 = Für diesen Film werden wir unser [icon:timepiece][timepiece]Spezial-Requisit[/timepiece] brauchen! Es wird ganz am Ende auftauchen!
 welcome3 = Aber warte, Schätzchen! So, wie du jetzt aussiehst, passt du wirklich nicht in eine Parade. Kannst du dort mal hingehen und dir das neue Outfit anziehen?
@@ -32,8 +32,8 @@ passport3 = Oh, nein. Es ist nur ein kleines Mädchen. Hallo!
 passport3b = Oh, nein. Es ist nur ein kleiner Junge. Hallo!
 passport4 = Oh moment, du bist kein Penguin. Das ist super! Ich könnte ein wenig menschliche Gesellschaft vertragen, da die Pinguine alle ziemlich schlechte Schauspieler sind!
 passport5 = Hier ist mein Problem: Ich brauche deine Hilfe. Ich hab seit Jahren nur verloren, und MUSS den [icon:trophy][trophy]Bird Movie-Award[/trophy] dieses Jahr einfach gewinnen.
-passport6 = Da gibt es kein Wenn und Aber; Ich brauche dich ABSOLUT als den Star! Hier, lass mich das machen.
-passport7 = Wie müssen dir einen Vogel-Pass besorgen, Schätzchen! Stell dich dort hin.
+passport6 = Da gibt es kein Wenn und Aber; Du MUSST der Star meiner Filme werden! Hier, ich übernehme das.
+passport7 = Wie müssen dir einen Vogel-Pass besorgen, Schätzchen! Komm kurz her.
 passport8 = Das wichtigste vom Pass ist das Foto, Schätzchen! Du must auffällig und atemberaubend aussehen! Stell dich dort drüben hin. Lass uns das Foto schießen.
 passport9 = Okay, lächel und bleib stehen! Beweg dich nicht!
 passport10 = Mal sehen, wie das Foto geworden ist...
@@ -42,8 +42,8 @@ passport12a = Schätzchen, du bist nicht sehr fotogen, oder?
 passport12b = Schätzchen, du hast dich bewegt! Das Foto ist ruiniert! Wie konntest du nur?!
 passport13 = Wir müssen dieses hässliche Verbrecherfoto mit etwas guter alter Farbe in Ordnung bringen! Hier, nimm diese Stifte und mach dich zum stylischsten, modischsten Mädchen!
 passport13b = Wir müssen dieses hässliche Verbrecherfoto mit etwas guter alter Farbe in Ordnung bringen! Hier, nimm diese Stifte und mach dich zum stylischsten, modischsten Jungen!
-passport14 = Perfekt! Jetzt nur noch das Foto in den Pass tun... Fertig! Ein Pass für dich!
-passport15 = Wunderbar, Schätzchen! Einfach wunderbar! Triff mich morgen am Set, wir machen dich zu einem Star!
+passport14 = Perfekt! Jetzt nur noch das Foto in den Pass tun... Fertig! Hier ist dein Pass!
+passport15 = Wunderbar, Schätzchen! Einfach wunderbar! Triff mich morgen am Set, wir werden dich zu einem Star machen!
 
 [award]
 intro0 = Danke Schätzchen, danke![br]Du hast unseren Sieg gesichert! Wir haben den [icon:trophy][trophy]Bird Movie-Award[/trophy] gewonnen!

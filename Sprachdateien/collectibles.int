@@ -52,7 +52,7 @@ TimeStopDescTech0 = Drücke [button:badge], um die Zeit zu verlangsamen!
 FoxMaskName = Einwohner-Maske
 FoxMaskDescFun0 = Das ist echt gruseliges Garn!
 FoxMaskDescHat0 = Das ist eine echt gruselige Maske!
-FoxMaskDescTech0 = Drücke [button:badge] und sehe durch die Augen eines Einwohners!
+FoxMaskDescTech0 = Drücke [button:badge] und sehe wie ein Einwohner!
 
 DetectiveHatName = Detektiv-Outfit
 DetectiveHatDesc0 = Zeit-Verbrechen aufzuklären! Augen auf!
@@ -205,9 +205,9 @@ UFODesc = Dieses Spielzeug benutzt Pflanzen als Zeichentablett!
 CowToyName = Plastikkuh
 CowToyDesc = Diese Kuh sieht so aus, als währe sie viel herumgekommen!
 UFOName = Alien-Verspottung
-UFODesc0 = Was zum?! Raumschiffe sehen nicht so aus!
+UFODesc0 = Was zum?! Raumschiffe sehen aber so nicht aus!
 UFODesc1 = Wo ist das Holz? Warum saugt es Kühe ein?
-UFODesc2 = Das ist beleidigend! Ich werde jemanden dafür verklagen!
+UFODesc2 = Das ist beleidigend! Ich werde jemanden deswegen verklagen!
 
 CrayonBoxName = Buntstiftbox
 CrayonBoxDesc = Gut um... gigantische Buntstifte zu lagern?

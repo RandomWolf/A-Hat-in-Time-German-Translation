@@ -130,7 +130,7 @@ sign1 = [shake2]Ich geb' dir 'ne Chance abzuhauen, Kleine! Keine Tricks dieses M
 sign2 = [shake2]Was wenn ich dir deine Seele zurück gebe? Haust du dann ab?[/shake2]
 sign3 = [shake2]Ja? Nein? Hallo? Ist da jemand? Warum sagst du nichts?[/shake2]
 sign4 = [shake2].......[/shake2]
-sign5 = [shake2]...Du bist nicht gerade sehr gesprächig, oder? Und ein harter Verhandlungspartner.[/shake2]
+sign5 = [shake2]...Du bist nicht gerade sehr gesprächig, oder...? [br] Und dazu noch ein harter Verhandlungspartner![/shake2]
 sign6 = [shake2]Okay, ich werde den Deal für dich verbessern.[/shake2]
 sign7 = [shake2]Hier, nimm mein letztes [icon:timepiece][timepiece]Zeitstück[/timepiece]. Sollte ich dich hiernach noch in meinem Wald sehen, werde ich sehr enttäuscht sein![/shake2]
 
@@ -139,7 +139,7 @@ contract_soul_return = Du hast deine Seele zurück! Du fühlst dich erleichtert, f
 [finale]
 outside0 = [shake2]Hey, Kleine! Wie geht's deiner Seele? Immer noch da?[/shake2]
 outside0b = [shake2]Oh, warte. Du hast sie nie wirklich zurückbekommen, oder?[/shake2]
-outside1 = [shake2]Ich würde gerne wissen, wer hier meint [wave]mich[/wave] zu verurteilen! Klar, ich hab' ich mir ein paar [small]hundert[/small] Seelen mitgenommen - wen kümmert's?![/shake2]
+outside1 = [shake2]Ich würde gerne wissen, wer hier meint [wave]mich[/wave] zu verurteilen! Klar, ich hab' ich mir ein paar [small]hundert[/small] Seelen geraubt - wen kümmert's?![/shake2]
 outside2 = [shake2]Bitte tue uns alle einen Gefallen und finde heraus, wer hinter all dem hier steckt! [br]Und verpass' dem eine![/shake2]
 outside3 = [shake2]Normalerweise befürworte ich diese Art von Dingen nicht, aber das hier ist sehr autoritär![/shake2]
 group_counter0 = [shake2]Diese alternative Realität stinkt! Hau ab![/shake2]

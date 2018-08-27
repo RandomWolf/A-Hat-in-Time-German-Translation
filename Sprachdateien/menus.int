@@ -390,7 +390,7 @@ Loadout_Swap_Skin = Wähle eine Farbe aus!
 Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
 Loadout_Swap_Badge = Wähle einen Anstecker aus!
 Loadout_BadgeLocked = Du brauchst [yarn][num] [icon:yarn]Garn[/yarn] um das zu nähen!
-Loadout_BadgeLocked_Affordable = Drücke [button:menuconfirm] um aus [yarn][num] [icon:yarn]Garn[/yarn] den Hut zu nähen!
+Loadout_BadgeLocked_Affordable = [button:menuconfirm] um aus [yarn][num] [icon:yarn]Garn[/yarn] den Hut zu nähen!
 
 Loadout_AbilityActivation_Trigger = Aktivieren
 Loadout_AbilityActivation_Jump = Sprung

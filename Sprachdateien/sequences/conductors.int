@@ -38,12 +38,12 @@ intro12 = Nun gut, Zeit zu gehen, meine Eulen! Lasst uns einen Killer-Movie dreh
 intro13 = Oh, und Rezeptionist, kannst du bitte diesen Lüftungsschacht dort endlich in ordnung bringen? Ich will den Geruch von Pinguinen, nicht in der Nähe meiner Crew haben!
 
 outro0 = [scream][big]HEY! WAS MACHST DU DENN DA?![/big][/scream]
-outro1 = Du kannst hier nicht einfach 'reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Awards[/trophy] herumspielen! [br]Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, wir haben hier einen BETRÜGER!
+outro1 = Du kannst hier nicht einfach 'reinspringen und mit den [icon:trophy][trophy]jährlichen Bird Movie Awards[/trophy] herumspielen! [br]Das ist Betrug! BETRUG! Hey, alle mal aufgepasst, wir haben hier eine BETRÜGERIN!
 outro2 = ...
-outro3 = WO SIND MEINE EULEN-WACHEN?! Warum sind die Eulen so verdammt nutzlos?!
+outro3 = WO SIND MEINE EULEN-WACHEN?! Warum sind die nur immer so verdammt nutzlos?!
 outro5 = Okay okay, hör mir zu, Lassie! Du bist in großen Schwierigkeiten. Wenn du dem betrügerischen [icon:djgrooves][name]DJ Grooves[/name] hilfst, die Preise zu manipulieren und ich dich auch nicht ins Gefängnis stecken kann,[br]dann wirst du mir ebenfalls helfen müssen!
-outro6 = Richtig gehört, du wirst auch der Star von meinen Filmen sein!
-outro7 = Hier, halt' unser [icon:timepiece][timepiece]neustes Requisit[/timepiece], üb' es gut zu präsentieren, und bring' es morgen zu meinem Filmset! [br]Verstanden? Komm' nicht zu spät!
+outro6 = Richtig gehört, du wirst auch der Star in meinen Filmen sein!
+outro7 = Hier, halt' unser [icon:timepiece][timepiece]neustes Requisit[/timepiece], üb' es gut zu präsentieren, und bring' es morgen zu meinem Filmset! [br]Verstanden? Komm' ja nicht zu spät!
 
 [murder]
 intro0=Willkommen zurück, Lassie! Ich hab' das Skript für meinen nächsten Film noch nicht geschrieben, also filmen wir grad' auch nich'!
@@ -76,7 +76,7 @@ suspect_generic1 = Bitte, was? GUMMImesser?!
 suspect_ending0 = Nun, danke für's Lösen von diesem Mord, Lassie.
 suspect_ending1 = Nicht nur enthülltest du den Mörder, du enthülltest auch, dass das Opfer nie verletzt wurde.
 suspect_ending2 = ... und du gabst uns spannendes Bildmaterial für den Film!
-suspect_ending3 = Was? Du dachtest, ich lasse einfach so ein Mord auf meinem Eulen-Express stattfinden?[br]Denk nochmal![br]Es war alles nur der Aufbau für meinen neuen Film:[br][name]Mord auf dem Eulen-Express![/name]
+suspect_ending3 = Was? Du dachtest ernsthaft, ich lasse einfach so ein Mord in meinem Eulen-Express stattfinden?[br]Denk nochmal scharf nach![br]Es war alles nur der Aufbau für meinen neuen Film:[br][name]Mord im Eulen-Express![/name]
 suspect_ending4 = Du denkst[icon:djgrooves][name]DJ Grünschnabel[/name] wird einen genau so guten Film drehen? Ich glaub' wohl kaum!
 suspect_ending5 = Hier, nimm' dieses [icon:timepiece][timepiece]Dingsbums[/timepiece] und verschwinde!
 suspect_ending6 = ... und du spielst besser nicht den Star in einer der Filme von [icon:djgrooves][name]DJ Grooves[/name]'! Seine Filme sind FAULER HAGGIS AUF EINEM RIESIGEN HAUFEN SCHWEINEKOT![br] Außerdem haben wir ein exklusiven Vertrag, nich'?

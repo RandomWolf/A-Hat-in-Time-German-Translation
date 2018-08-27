@@ -37,7 +37,7 @@ PrivatePart3b = Aber du solltest dein(e/en) [BodyPartName] besser von einem Arzt
 Victim_Reveal0 = Überlasst den Fall uns.
 Victim_Reveal1 = Wir sind CAW, die [name]Krähen-Agenten-Wächter[/name]. Wir überwachen jeden in diesem Zug seit der letzten Haltestelle.
 Victim_Reveal2 = Wir werden den ganzen [hint]Zug nach Beweismitteln[/hint] durchsuchen. Niemand darf diesen Waggon verlassen.
-Victim_Reveal3 = Wenn die [hint]Uhr Mitternacht schlägt[/hint], steigen wir mit dem Mörder in Handschellen aus dem Zug.
+Victim_Reveal3 = Wenn die [hint]Uhr Mitternacht schlägt[/hint], werden wir mit dem Mörder in Handschellen aus dem Zug steigen.
 Victim_Reveal4 = Wartet hier, während wir weitere Ermittlungen anstellen.
 
 mission_end0 = Wir wissen es nicht.
@@ -56,7 +56,7 @@ CafeteriaChatter3 = weil ihm eine seiner[br]Federn fehlte
 CafeteriaChatter4 = und die Eulen rücken ihre[br]Pläne nicht raus
 CafeteriaChatter5 = selbst wenn ein riesiges[br]Feuer ausbricht
 CafeteriaChatter6 = genau als er dabei[br]war zu niesen
-CafeteriaChatter7 = aber hat jemand bemerkt,[br]dass wir alle den[br]selben Mantel tragen?
+CafeteriaChatter7 = aber hat jemand bemerkt,dass wir alle den selben Mantel tragen?
 
 BodyPartChatter0 = sie sagte, sie[br]schäme sich für ihr(e/en) [BodyPartName]
 BodyPartChatter1 = ihr hättet ihr(e/en) [BodyPartName][br]sehen sollen. Hässlich!

@@ -32,7 +32,7 @@ PreAwakening0 = Bist du bereit, die Mafias zu besiegen!? Lass' es uns sofort tun
 PreAwakening1 = Lass uns einmal den Plan durchgehen! Alle Überfälle brauchen ein Plan, sonst funktioniert nichts!
 PreAwakening2 = Zuerst, erdrosseln wir sie! Wir erwürgen sie und schauen wie sie um Gnade winseln! Das wird's denen so richtig zeigen!
 PreAwakening3 = Nein, warte, erdrosseln ist zu nett...
-PreAwakening4 = Wir schmeißen sie aneinander, bis sie nur noch Brei sind und füllen sie in einen Glas!
+PreAwakening4 = Wir schlagen sie solange, bis alle nur noch Brei sind und füllen sie in einen Glas!
 PreAwakening5 = Dann verkaufen wir das Glas für Taschengeld! Das wird das ultimative Salz in der Wunde!
 PreAwakening6 = ... [scream]*ähem*[/scream] Aber zuerst, müssen wir es durch[br]ihr [name]Mafia-Hauptquatier[/name] schaffen.
 PreAwakening7 = Sobald wir den [name]Mafia-Boss[/name] gefunden und entthront haben, folgt der Rest. Dann wird unsere "Brei und Glas"-Party kein Problem mehr sein!
@@ -68,7 +68,7 @@ pickpocket_no_va = [name]Mustache Girl[/name] hat die Häflte deiner [icon:money]
 
 [MuMission_Finale]
 intro0 = Alles klar, ich bin drin! Ich hab's geschafft![br]Ich bin erfolgreich in das Raumschiff vom Kind eingebrochen, ohne den Alarm auszulösen!
-intro1 = Ich bin mir sicher, dass sie schon mehr [timepiece][icon:timepiece]Zeitstücke[/timepiece] hat als ich... wo lagert die sie denn?
+intro1 = Ich bin mir sicher, dass sie schon mehr [timepiece][icon:timepiece]Zeitstücke[/timepiece] hat als ich... wo lagert sie die bloß ?
 vault0 = Jackpot! Das hier muss das Lager sein!
 vault1 = Ughn....!
 vault2 = Dann lasst uns mal ein wenig mit Zeit spielen!
@@ -95,13 +95,13 @@ slap1 = Wage es ja nicht, mich anzufassen. Du hast anscheinend noch nicht ganz v
 slap0_alt = [scream]ERBÄRMLICH![/scream]
 slap2 = Weißt du, ich wollte dir verzeihen. Ich dachte damals, dass wir beste Freunde werden.
 slap3 = Aber NEIN, du wolltest selbstsüchtig und faul sein. Den Planeten vorm Bösen retten? Pfft, wer braucht das schon, hab' ich Recht?
-slap4 = Schau' was ich ohne dich erreicht hab. Ich hab' Gerechtigkeit[br]wiederhergestellt. ICH BIN die Gerechtigkeit.[br]Keine Bösewichte, für immer.
-slap5 = Ich brauche dich nicht. Dieser Planet braucht dich nicht. Niemand wird dich vermissen, und keinem wird es kümmern!
+slap4 = Schau' was ich ohne dich erreicht hab. Ich hab' Gerechtigkeit[br]wiederhergestellt. ICH BIN die Gerechtigkeit.[br]Keine Bösewichte, NIE WIEDER.
+slap5 = Ich brauche dich nicht. Dieser Planet braucht dich nicht. Niemand wird dich vermissen, und keinen wird es kümmern!
 slap6 = DU bist der Bösewicht, und ich zeige dir wie die Gerechtigkeit mit Gaunern umgeht.
 
 leaving0 = Ernsthaft? Du gehst einfach? Nicht mal kämpfen? Erbärmlich.
 
-group_counter0 = W-Wa? Aber ich habe alles balanciert! Kein Böses mehr![br]Warum könnt ihr nicht sehen, dass ich das für uns alle mache?
+group_counter0 = W-Wa? Aber ich habe alles ausbalanciert! Kein Böses mehr![br]Warum könnt ihr nicht sehen, dass ich das für uns alle mache?
 group_counter1 = Wie kannst du hinter diesen Leuten stehen? Sie sind Gauner! Verbrecher! Und du... Du hilfst ihnen?
 group_counter2 = Das hört jetzt auf!
 

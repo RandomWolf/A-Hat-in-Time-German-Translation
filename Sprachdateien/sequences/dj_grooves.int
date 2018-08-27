@@ -3,7 +3,7 @@ welcome0 = Hallo, Schätzchen! Willkommen auf dem größten Filmset, das du jemals 
 welcome1 = Wir sind gerade dabei [hint]die große Parade[/hint] zu drehen, den atemberaubendsten Film weltweit! Du wirst unser Star sein, wie immer!
 welcome2 = Für diesen Film werden wir unser [icon:timepiece][timepiece]Spezial-Requisit[/timepiece] brauchen! Es wird ganz am Ende auftauchen!
 welcome3 = Aber warte, Schätzchen! So, wie du jetzt aussiehst, passt du wirklich nicht in eine Parade. Kannst du dort mal hingehen und dir das neue Outfit anziehen?
-welcome3b = So, wie du jetzt aussiehst, passt du wirklich nicht in eine Parade. Kannst du dort mal hingehen und dir das neue Outfit anziehen?
+welcome3b = So, wie du jetzt aussiehst, passt du wirklich nicht in eine Parade. Kannst du dort rüber gehen und dir das neue Outfit anziehen?
 welcome4 = Du siehst toll aus, Schätzchen! Mach' dir keine Sorgen, der Film ist wirklich leicht. Bleib einfach in Bewegung während die Parade dir folgt und lauf nicht in sie rein!
 welcome5 = Und schaue dich nach Goodies um! Das Publikum liebt eine gute Parade und wird dir Belohnungen zuwerfen, wenn du in der Nähe bist.
 welcome5b = Und schaue dich nach Erfrischungen um! Das Team hinter den Kulissen wird es dir zuwerfen, um dich frisch zu halten!
@@ -76,8 +76,8 @@ Intro1 = Dieses letzte [icon:timepiece][timepiece]Zeitstück[/timepiece] gehört m
 
 [PicturePerfect]
 Intro0 = Willkommen zu deinem ersten Drehtag, Schätzchen!
-Intro1 = Wir müssen dich zum größten Filmstar, den die Vögelwelt je gesehen hat machen! Aus dir wird... eine Diva!
-Intro2 = Deshalb habe ich dich zu einer Pressekonferenz in unserem Mondset gerufen. Du musst vor die Kameras gehen und das Publikum umhauen, Schätzchen! Bereite sie so richtig auf deine Filme vor!
+Intro1 = Wir müssen dich zum größten Filmstar machen, den die Vogelwelt je gesehen hat! Aus dir machen wir... eine Diva!
+Intro2 = Deswegen habe ich dich zu einer Pressekonferenz in unserem Mondset gerufen. Du musst vor die Kameras treten und das Publikum umhauen, Schätzchen! Bereite sie so richtig auf deine Filme vor!
 Intro3 = Und wenn sie verrückt nach dir sind, komm' hier her und zeig' das neue Requisit! Genau, wir werden unser neues [icon:timepiece][timepiece]Filmrequisit[/timepiece] vor den Massen enthüllen!
 Endorsement_Generic0 = Du hast mich gerufen, Schätzchen? Sieht so aus, als bräuchtest du Unterstützung!
 Endorsement_Generic1 = Alle Pinguine hier kennen meinen Namen... [name]DJ Grooves[/name]![br]Und ich sage euch, dieses Mädchen hier ist der nächste heiße Trend. Garantiert!
@@ -92,8 +92,8 @@ Endorsement_Poker1 = Dieses Spiel ganz einfach, Schätzchen. Rate einfach nur wel
 Endorsement_Poker2 = Wow! Fantastisch! Unglaublich! Die Antwort ist tatsächlich [hint]3[/hint]! Zuschauer vor dem Fernseher, ihr habt gerade die Eingebung eines wahren Stars gesehen.
 Endorsement_Poker3 = Ooh, es tut mir so leid, Schätzchen! Die Antwort war [hint]3[/hint]! Zuschauer vor dem Fernseher, das zeigt wie ähnlich zu anderen unser Superstar ist. Sie macht Fehler, wie wir alle auch!
 
-Endorsement_Cooking0 = Nun, Schätzchen, ich muss etwas erwähnen. Kochshow-Chefs bekommen schreckliche Probleme durch Wut und Schimpfwörter in der Sendung. Versuch bitte, sowas zu vermeiden, OK?
-Endorsement_Cooking1 = Der [icon:conductor][name]Schaffner[/name] ist altmodisch. Er wirft mit sowas um sich. Es wird ihn irgendwann in Schwierigkeiten bringen! Sowas wollen wir hier vermeiden.
+Endorsement_Cooking0 = Nun, Schätzchen, ich muss etwas erwähnen. Kochshow-Moderatoren haben schreckliche Probleme mit Wut und Schimpfwörter in ihren Sendungen. Versuch bitte, sowas zu vermeiden, OK?
+Endorsement_Cooking1 = Der [icon:conductor][name]Schaffner[/name] ist altmodisch. Er wirft mit solchen Worten um sich. Es wird ihn irgendwann in Schwierigkeiten bringen! Sowas wollen wir hier vermeiden.
 Endorsement_Cooking2 = Hallo, Zuschauer! Selbst die größten Promis müssen essen und ich habe gerade die größte von allen bei mir.
 Endorsement_Cooking3 = Sag uns, Schätzchen, was für eine Sosse möchtest du auf deinen Thunfisch-Sandwiches haben?
 Endorsement_Cooking3_a = Ranch-Dressing

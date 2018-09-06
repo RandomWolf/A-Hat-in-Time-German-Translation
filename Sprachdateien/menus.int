@@ -558,7 +558,7 @@ NoMods_Steam = Du hast keine Mods installiert! Probiere mal einige vom Workshop 
 DownloadingMod = Mod wird heruntergeladen
 ModCreatedBy = Von
 ModVersion = Version
-HowToAccessLevelMods = Mod-Level können über die[br]Post-Zentrale im Raumschiff aufgerufen werden, sobald du[br]folgendes besitzt:
+HowToAccessLevelMods = Mod-Levels können im Raumschiff[br]über die Post-Zentrale aufgeruft[br]werden.[br]Besitze dafür Folgendes:
 
 PreviewButtonsText_Play = Starten!
 PreviewButtonsText_Enable = Aktivieren

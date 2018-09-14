@@ -193,7 +193,7 @@ Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, 
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Cruise]
 Title = Riss-Zusammenbruch: Deep Sea
-Objective = Complete The Deep Sea Zeitriss
+Objective = Schließe den Deep Sea Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
 Faster = Noch mindestens 30 Sekunden übrig
@@ -202,63 +202,63 @@ Condition = Der Zeitriss ist instabil geworden!
 Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, das die Zeit pausieren kann und dich umschauen lässt...
 
 [Hat_SnatcherContract_DeathWish_NoAPresses_MafiaAlien]
-Title = Mafia's Jumps
-Objective = Complete 'She Came From Outer Space' in only 15 jumps
-Presses1 = Complete in 11 jumps
-Presses2 = Complete in 7 jumps
-Objective_Easy = Complete 'She Came From Outer Space' in only 24 jumps
-EasyPresses1 = Complete in 18 jumps
-EasyPresses2 = Complete in 14 jumps
-Tip0 = With a light tap, your [icon:icehat] can be used to climb up ledges without having to actually jump. Sounds useful!
+Title = Mafias Sprünge
+Objective = Schließe 'Sie kam aus dem All' mit nur 15 Sprüngen ab
+Presses1 = Schließe es mit 11 Sprüngen ab
+Presses2 = Schließe es mit 7 Sprüngen ab
+Objective_Easy = Schließe 'Sie kam auf dem All' mit nur 15 Sprüngen ab
+EasyPresses1 = Schließe es mit 18 Sprüngen ab
+EasyPresses2 = Schließe es mit 14 Sprüngen ab
+Tip0 = Mit kurzen Antippen, kann man mit deinem [icon:icehat] Kanten hochklettern, ohne eigentlich springen zu müssen. Klingt hilfreich!
 
 [Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
-Title = Quality Time with Snatcher
-Objective = Survive Snatcher for 2 minutes
-Medium = Survive for 4 minutes
-Long = Survive for 6 minutes
-Objective_Easy = Survive Snatcher for 1 minute
-Medium_Easy = Survive Snatcher for 2 minutes
-Long_Easy = Survive Snatcher for 3 minutes
-Condition = This time, no blue chemicals!
-Tip0 = Come on, kid! Lets just be pals! How about I don't throw any blue chemicals at you, and you don't hit me with your umbrella. Deal?
+Title = Gemeinsame Zeit mit Snatcher
+Objective = Überlebe Snatcher für 2 Minuten
+Medium = Überlebe für 4 Minuten
+Long = Überlebe für 6 Minuten
+Objective_Easy = Überlebe Snatcher für 1 Minute
+Medium_Easy = Überlebe Snatcher für 2 Minuten
+Long_Easy = Überlebe Snatcher für 3 Minuten
+Condition = Dieses Mal, keine blauen Chemikalien!
+Tip0 = Komm' schon, Kleine! Lass uns Freunde sein! Ich werfe keine blauen Chemikalien und du schlägst mich mit deinem Schirm. Kommen wir ins Geschäft?
 
 [Hat_SnatcherContract_DeathWish_HardCastle]
-Title = The Mustache Gauntlet
-Objective = Defeat all the Bad Guys
-DontFry = Don't get burned
-KillFast = Do it in less than 8 minutes
-Tip0 = Make sure you [name]kill everyone[/name], kiddo! You don't want to reach the end just to find out you have to [name]start over[/name], do you?
+Title = Die Bärtige Herausforderung
+Objective = Besiege alle Bösewichte
+DontFry = Verbrenn dich nicht
+KillFast = Schließe es in weniger als 8 Minuten ab
+Tip0 = Sei sicher [name]alle zu töten[/name], Kleine! Du möchtest nicht das Ende erreichen, nur um herauszufinden, dass du [name]alles nochmal[/name] machen musst.
 
 [Hat_SnatcherContract_DeathWish_NiceBirdhouse]
-Title = Bird Sanctuary
-Objective = Beat the Birdhouse without any birds getting hurt
-TimeLimit = Reach the end in 65 seconds
-MafiaHunt = Defeat the 6 hidden Mafia
-Tip0 = Make sure you keep the birds away from those [name]explosive eggs[/name], I don't want to see anyone getting hurt!
+Title = Vogelschutzgebiet
+Objective = Schließe das Vogelhaus ab, ohne Vögel zu verletzen
+TimeLimit = Erreiche das Ende in weniger als 65 Sekunden
+MafiaHunt = Besiege 6 verstecke Mafiab
+Tip0 = Sei sicher, dass du die Vögel von diesen [name]explodierenden Eiern[/name] fernhälst, ich möchte keine Verletzungen sehen!
 
 [Hat_SnatcherContract_DeathWish_CameraTourist_1]
-Title = Camera Tourist
-Objective = Snap a picture of 8 different enemies
-GroupShot = Snap a single picture with 3 different enemies in it
-AllBosses = Snap a picture of every boss
-Tip0 = Make sure you get a picture of my good side! While I'm [name]killing you[/name], preferably.
+Title = Kamera-Tourist
+Objective = Schieße ein Foto mit 8 verschiedenen Gegnern
+GroupShot = Schieße ein einziges Foto mit 3 verschiedenen Gegnern
+AllBosses = Schieße ein Foto mit jedem Boss
+Tip0 = Knispe ein Foto mit meiner positiven Seite! Am besten während [name]ich dich töte[/name].
 
 [Hat_SnatcherContract_DeathWish_MovingVault]
-Title = Vault Codes in the Wind
-Objective = Open the Golden Vault
-NoSlow = Don't slow the flow of time
-Kill = Find time to defeat 10 Mafia
-Kill_Easy = Find time to defeat one Mafia
-Condition = You only have 30 seconds to collect each Vault Code
-Tip0 = Take your time with this one, kid. Just relax and watch the Vault Codes flutter in the wind. It's very calming!
+Title = Die Tresorcodes im Winde verweht
+Objective = Öffne den goldenen Tresor
+NoSlow = Verlangsamere die Zeit nicht
+Kill = Finde die Zeit 10 Mafia zu besiegen
+Kill_Easy = Finde die Zeit einen Mafia zu besiegen
+Condition = Du hast nur 30 Sekunden Zeit jeden einzelnen Teil des Tresorcodes zu sammeln
+Tip0 = Lass dir ruhig Zeit, Kleine. Entspann dich und beobachte wie die Teile des Tresorcodes im Winde flatterrn. Sehr beruhigend! 
 
 [Hat_SnatcherContract_DeathWish_MafiaBossEX]
-Title = Encore! Encore!
-Objective = Defeat the Mafia Boss
-NoMiss = Don't miss your cue to attack
-NoHit = With One-Hit Hero equipped
-Condition = He's all charged up!
-Tip0 = This old fool looks like he's being a bit more careful with this new body, but he still has that nasty habit of stomping and shouting until he [name]turns blue in the face[/name].
+Title = Zugabe! Zugabe!
+Objective = Besiege den Mafia-Boss
+NoMiss = Verpasse deine Angriffchance nicht
+NoHit = Mit 1-Treffer Held-Anstecker
+Condition = Er ist komplett aufgeladen!
+Tip0 = Dieser alte Narr scheint ein wenig vorsichtiger mit seinem neuen Körper zu sein, aber er hat immer noch diese Angewohnheit herumzustampfen und zu brüllen bis es ihm [name]blau im Gesicht wird[name/]. 
 
 [Hat_SnatcherContract_DeathWish_BirdBossEX]
 Title = Killing Two Birds

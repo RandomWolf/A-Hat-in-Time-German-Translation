@@ -100,55 +100,56 @@ Objective = Finde Snatcher-Münzen in Mafia-Stadt
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das kinderleicht sein!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Birds]
-Title = Snatcher Coins in Battle of the Birds
-Objective = Find a Snatcher Coin in Battle of the Birds
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be a piece of cake!
+Title = Snatcher-Münzen im Kampf der Vögel
+Objective = Finde eine Snatcher-Münze im Kampf der Vögel
+2Tokens = Finde 2 Snatcher-Münzen
+3Tokens = Finde alle 3 Snatcher-Münzen
+Tip0 = Falls du den [icon:compassbadge] hast, sollte das ein Klacks sein!
+
 
 [Hat_SnatcherContract_DeathWish_Tokens_Subcon]
-Title = Snatcher Coins in Subcon Forest
-Objective = Find a Snatcher Coin in Subcon Forest
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be as easy as falling off a log!
+Title = Snatcher-Münzen im Subcon-Wald
+Objective = Finde eine Snatcher-Münze im Subcon-Wald
+2Tokens = Finde 2 Snatcher-Münzen
+3Tokens = Finde alle 3 Snatcher-Münzen
+Tip0 = Falls du den [icon:compassbadge] hast, sollte das sehr einfach sein!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
-Title = Snatcher Coins in Alpine Skyline
-Objective = Find a Snatcher Coin in Alpine Skyline
-2Tokens = Find 2 Snatcher Coins
-3Tokens = Find all 3 Snatcher Coins
-Tip0 = If you have [icon:compassbadge], finding these should be a breeze!
+Title = Snatcher-Münzen in Alpin-Bergkette
+Objective = Finde eine Snatcher-Münze in Alpin-Bergkette
+2Tokens = Finde 2 Snatcher-Münzen
+3Tokens = Finde alle 3 Snatcher-Münzen
+Tip0 = Falls du den [icon:compassbadge] hast, sollte das ein Spaziergang sein!
 
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
-Title = She Speedran from Outer Space
-Objective = Clear 'She Came From Outer Space' in 1:50 or less
-Bonus1 = Clear in 1:35 or less
-Bonus2 = Clear in 1:20 or less
-Objective_Easy = Clear 'She Came From Outer Space' in 3:40 or less
-Bonus1_Easy = Clear in 3:10 or less
-Bonus2_Easy = Clear in 2:40 or less
-Tip0 = It sure would be nice if you could leave that weirdo with the goofy glasses behind, but [name]he has something you need[/name].
+Title = Sie Speedrannte aus dem All
+Objective = Schließe 'Sie kam auf dem All' in weniger als 1:50 ab
+Bonus1 = Schließe es in weniger als 1:35 ab
+Bonus2 = Schließe es in weniger als 1:20 ab
+Objective_Easy = Schließe 'Sie kam auf dem All' in weniger als 3:40 ab.
+Bonus1_Easy = Schließe es in weniger als 3:10 ab
+Bonus2_Easy = Schließe es in weniger als 2:40 ab
+Tip0 = Es wäre ja schön, falls du den Spinner mit der albernen Brille ignorieren könntest, aber [name]er hat etwas, dass du brauchst[/name].
 
 [Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
-Title = Speedrun Well
-Objective = Clear 'Subcon Well' in 2:00 or less
-Bonus1 = Clear in 1:40 or less
-Bonus2 = Clear in 1:25 or less
-Objective_Easy = Clear 'Subcon Well' in 4:00 or less
-Bonus1_Easy = Clear in 3:20 or less
-Bonus2_Easy = Clear in 2:50 or less
-Tip0 = Look at all these platforms laid out nice and neat. It would be a shame if somebody [name]skipped[/name] all of them...
+Title = Speedrun-Brunnen
+Objective = Schließe 'Der Subcon-Brunnen' in weniger als 2:00 ab
+Bonus1 = Schließe es in weniger als 1:40 ab
+Bonus2 = Schließe es in weniger als 1:25 ab
+Objective_Easy = Schließe 'Der Subcon-Brunnen' in weniger als 4:00 ab
+Bonus1_Easy = Schließe es in weniger als 3:20 ab
+Bonus2_Easy = Schließe es in weniger als 2:50 ab
+Tip0 = All diese Platformen wurden hübsch platziert. Wäre eine Schande, wenn man sie alle [name]überspringen[/name] würde...
 
 [Hat_SnatcherContract_DeathWish_Speedrun_Illness]
-Title = The Illness Has Speedrun
-Objective = Clear 'The Illness Has Spread' in 7:00 or less
-Bonus1 = Clear in 6:30 or less
-Bonus2 = Clear in 6:00 or less
-Objective_Easy = Clear 'The Illness Has Spread' in 14:00 or less
-Bonus1_Easy = Clear in 13:00 or less
-Bonus2_Easy = Clear in 12:00 or less
-Tip0 = If you need to [name]get back to the start[/name] in a hurry, why don't you try [name]jumping off a cliff[/name]? No really! [wave]Try it![/wave]
+Title = Die Krankheit hat sich verrannt
+Objective = Schließe 'Die Krankheit hat sich verbreitet' in weniger als 7:00 ab
+Bonus1 = Schließe es in weniger als 6:30 ab
+Bonus2 = Schließe es in weniger als 6:00 ab
+Objective_Easy = Schließe 'Die Krankheit hat sich verbreitet' in weniger als 14:00 ab
+Bonus1_Easy = Schließe es in weniger als 13:00 ab
+Bonus2_Easy = Schließe es in weniger als 12:00 ab
+Tip0 = Falls du schnell [name]zurück zum Anfang[/name] musst, solltest du mal versuchen [name]von einer Klippe zu springen[/name]. Nein, wirklich! [wave]Probier's aus![/wave]
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
 Title = Rift Collapse: Mafia of Cooks

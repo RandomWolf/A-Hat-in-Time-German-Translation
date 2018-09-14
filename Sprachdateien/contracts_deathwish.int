@@ -50,7 +50,7 @@ Title = Null Sprünge
 Objective = Sammle irgendein Zeitstück, ohne zu springen
 Condition = Du stirbst, wenn du springst!
 Collect4 = Sammle 4 Zeitstücke, ohne zu springen
-TrainRush = Schließe Zugrausch ohne Springen ab
+TrainRush = Schließe Zugrausch ab, ohne zu springen!
 Tip0 = Mit kurzen Antippen, kann dein [icon:icehat] dir ein wenig Höhe verleihen, ohne eigentlich springen zu müssen. Wie praktisch!
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]

@@ -54,8 +54,16 @@ TimeRift_Cave_Alps = Alpin-Bergkette
 Chapter5_Finale = Ende der Zeit
 acT_5_1 = Das Finale
 
+Chapter6_Cruise = The Arctic Cruise
+Cruise_Act1 = Bon Voyage!
+Cruise_Act2 = Ship Shape
+Cruise_Act3 = Rock the Boat
+TimeRift_Cave_Cruise = Deep Sea
+TimeRift_Water_Cruise_Slide = Balcony
+
 Spaceship_WaterRift_Gallery = Die Gallerie
 Spaceship_WaterRift_MailRoom = Das Labor
+TimeRift_Cave_Tour = Tour
 
 Location_DreamWorld_Water = Zeitriss - Blau
 Location_DreamWorld_Cave = Zeitriss - Lila
@@ -64,6 +72,13 @@ Location_Bookstore = Zeit abgelaufen
 
 FreeRoam = Freier Modus
 TimeRift = Zeitriss
+DeathWish = Death Wish
+NiceWish = Nice Wish
+Community = Community Map
+
+TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Studio
+TimeRift_Cave_TwilightTravels = Twilight Travels
+TimeRift_Cave_MountainRift = The Mountain Rift
 
 secretlevel_beta_space = Beta Hero's Challenge
 

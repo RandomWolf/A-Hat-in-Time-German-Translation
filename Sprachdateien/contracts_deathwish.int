@@ -152,54 +152,54 @@ Bonus2_Easy = Schließe es in weniger als 12:00 ab
 Tip0 = Falls du schnell [name]zurück zum Anfang[/name] musst, solltest du mal versuchen [name]von einer Klippe zu springen[/name]. Nein, wirklich! [wave]Probier's aus![/wave]
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
-Title = Rift Collapse: Mafia of Cooks
-Objective = Complete The Mafia of Cooks Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Complete with 30 seconds to spare
-Faster_Easy = Complete with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
+Title = Riss-Zusammenbruch: Koch-Mafia
+Objective = Schließe den Koch-Mafia Zeitriss ab
+AllPons = Sammle jeden Riss-Pon ein
+AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
+Faster = Noch mindestens 30 Sekunden übrig
+Faster_Easy = Noch mindestens 15 Sekunden übrig
+Condition = Der Zeitriss ist instabil geworden!
+Tip0 = Wow, du musst aber auch sehr viele [icon:treasure] [name]sammeln[/name]... Wär's nicht schön, wenn es einen [name]Anstecker[/name] dafür geben würde?
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Birds]
-Title = Rift Collapse: Dead Bird Studio
-Objective = Complete The Dead Bird Studio Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Complete with 30 seconds to spare
-Faster_Easy = Complete with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+Title = Riss-Zusammenbruch: Dead Bird Studio
+Objective = Schließe den The Dead Bird Studio Zeitriss ab
+AllPons = Sammle jeden Riss-Pon ein
+AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
+Faster = Noch mindestens 30 Sekunden übrig
+Faster_Easy = Noch mindestens 15 Sekunden übrig
+Condition = Der Zeitriss ist instabil geworden!
+Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, das die Zeit pausieren kann und dich umschauen lässt...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Subcon]
-Title = Rift Collapse: Sleepy Subcon
-Objective = Complete The Sleepy Subcon Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Complete with 30 seconds to spare
-Faster_Easy = Complete with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
+Title = Riss-Zusammenbruch: Schläfriger Subcon
+Objective = Schließe den Schläfriger Subcon Zeitriss ab
+AllPons = Sammle jeden Riss-Pon ein
+AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
+Faster = Noch mindestens 30 Sekunden übrig
+Faster_Easy = Noch mindestens 15 Sekunden übrig
+Condition = Der Zeitriss ist instabil geworden!
+Tip0 = Wow, du musst aber auch sehr viele [icon:treasure] [name]sammeln[/name]... Wär's nicht schön, wenn es einen [name]Anstecker[/name] dafür geben würde?
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Alps]
-Title = Rift Collapse: Alpine Skyline
-Objective = Complete The Alpine Skyline Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Complete with 30 seconds to spare
-Faster_Easy = Complete with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+Title = Riss-Zusammenbruch: Alpin-Bergkette
+Objective = Schließe den Alpin-Bergkette Zeitriss ab
+AllPons = Sammle jeden Riss-Pon ein
+AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
+Faster = Noch mindestens 30 Sekunden übrig
+Faster_Easy = Noch mindestens 15 Sekunden übrig
+Condition = Der Zeitriss ist instabil geworden!
+Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, das die Zeit pausieren kann und dich umschauen lässt...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Cruise]
-Title = Rift Collapse: Deep Sea
-Objective = Complete The Deep Sea Time Rift
-AllPons = Collect every Rift Pon
-AllPons_Easy = Collect all Rift Pons but 3
-Faster = Complete with 30 seconds to spare
-Faster_Easy = Complete with 15 seconds to spare
-Condition = The Time Rift has become unstable!
-Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something[/name] that lets you pause time and look around...
+Title = Riss-Zusammenbruch: Deep Sea
+Objective = Complete The Deep Sea Zeitriss
+AllPons = Sammle jeden Riss-Pon ein
+AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
+Faster = Noch mindestens 30 Sekunden übrig
+Faster_Easy = Noch mindestens 15 Sekunden übrig
+Condition = Der Zeitriss ist instabil geworden!
+Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, das die Zeit pausieren kann und dich umschauen lässt...
 
 [Hat_SnatcherContract_DeathWish_NoAPresses_MafiaAlien]
 Title = Mafia's Jumps
@@ -316,8 +316,8 @@ Tip0 = You won't get very far in this one unless you know how to [name]cancel yo
 Title = Community Rift: Rhythm Jump Studio
 ShortTitle = Rhythm Jump Studio
 Condition = Contributed by Lane 'FlameLFH' Haskins
-Objective = Complete the Time Rift
-AllPons = Collect every Rift Pon
+Objective = Complete the Zeitriss
+AllPons = Sammle jeden Riss-Pon ein
 AllPages = Collect all the Storybook Pages
 Tip0 = This one's all you, kiddo. I'm a terrible dancer.[br]I don't have the legs for it.
 
@@ -325,8 +325,8 @@ Tip0 = This one's all you, kiddo. I'm a terrible dancer.[br]I don't have the leg
 Title = Community Rift: Twilight Travels
 ShortTitle = Twilight Travels
 Condition = Contributed by Eric 'Jak' Ridge
-Objective = Complete the Time Rift
-AllPons = Collect every Rift Pon
+Objective = Complete the Zeitriss
+AllPons = Sammle jeden Riss-Pon ein
 AllPages = Collect all the Storybook Pages
 Tip0 = Stop ringing those bells, kid. You're giving me a headache.
 
@@ -334,7 +334,7 @@ Tip0 = Stop ringing those bells, kid. You're giving me a headache.
 Title = Community Rift: The Mountain Rift
 ShortTitle = The Mountain Rift
 Condition = Contributed by Devan 'Mr.Brawls' Miller
-Objective = Complete the Time Rift
-AllPons = Collect every Rift Pon
+Objective = Complete the Zeitriss
+AllPons = Sammle jeden Riss-Pon ein
 AllPages = Collect all the Storybook Pages
 Tip0 = I love mountains, don't you? All those scenic vertical drops!

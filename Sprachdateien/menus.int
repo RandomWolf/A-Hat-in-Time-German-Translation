@@ -66,6 +66,9 @@ Item_SplitScreenMethod_Item_Horizontal = Horizontal
 Item_SplitScreenMethod_Item_Vertical = Vertikal
 Item_SplitScreenMethod_Desc = Ändere die Art und Weise, wie der Bildschirm mit zwei Spielern geteilt wird.
 
+Item_VersusModeAlways_Title = Aktiviere Versus Modus
+Item_VersusModeAlways_Desc = Aktiviert Versus Modus wen Geteilter Bildschirm Ko-op aktiviert ist.
+
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
 
@@ -305,6 +308,9 @@ Item_Adv_AA_Title = Kantenglättung
 Item_Adv_AA_Desc = Wenn diese Option aktiviert ist, wird eine der ausgewählten Methoden zum Glätten von Modellkanten angewendet.[br]FXAA0 ist das billigste, während FXAA5 und MLAA am teuersten sind.[br]Diese Option sollte nur auf Keine und FXAA0 gesetzt werden, wenn du nicht mit den verschiedenen Methoden vertraut bist.
 Item_Adv_AA_Item_None = Keine
 
+Item_Adv_MaterialEffects_Title = Hochwertige Bildschirm-Effekte
+Item_Adv_MaterialEffects_Desc = Erlaubt es Bildschirm-Effekte, Effekte mit einer höheren Qualität zu verwenden.
+
 Item_Adv_LensFlares_Title = Blendenflecke
 Item_Adv_LensFlares_Desc = Blendenfleck werden auf die Umgebung gerendert, um starkes Licht anzuzeigen (wie z. B. die Sonne).
 
@@ -335,6 +341,11 @@ Item_Adv_PP_Downsample_Desc = Downsampling-Post-Verarbeitung, um die Leistung zu
 Header_Adv_Game = Spiel
 Item_Adv_PredictiveCamera_Title = Vorausschauende Verfolgungskamera
 Item_Adv_PredictiveCamera_Desc = Verbessert das Glätten der Kamera, indem Sie die Geometrie in der Nähe verfolgt.
+
+Header_Adv_Debug = Debug
+Item_Adv_ProfilingStats_Title = Schalte Profil Statiken ein / aus
+Item_Adv_ProfilingStats_Desc = Debugging
+Item_Toggle = Umschalten
 
 [systemsettings.input]
 Header_Input = Eingabe
@@ -413,10 +424,13 @@ Label_Weapon = WAFFE
 Label_Contract = VERTRAG
 
 Options_RestartLevel_Q = Akte neustarten?
+Options_RestartDeathWish_Q = Todeswunsch neustarten?
 
 Coop_NoControllerPluggedIn = Bitte schließe einen Kontroller an
-Coop_CantDisableRightNow = Kann gerade nicht Co-op Modus ausschalten
-Coop_CantEnableRightNow = Kann gerade nicht Co-op Modus einschalten
+Coop_CantDisableRightNow = Kann gerade nicht Ko-op Modus ausschalten
+Coop_CantEnableRightNow = Kann gerade nicht Ko-op Modus einschalten
+Coop_CantEnableDeathWish = Nicht verfügbar im Ko-op Modus
+Coop_CantEnableDWActive = Ko-op kann nicht Aktiviert werden wärend ein Todeswunsch aktive ist.
 
 [MainMenu]
 FileSelect_File = Datei
@@ -434,6 +448,7 @@ Action_SwitchUser = Benutzer wechseln
 YarnBall = Garn Ball
 YarnBall_multiple = Garn Bälle
 TimePiece = Zeit-Stück
+DeathWishes = Todeswunsch Stempel
 ModTimePiece = Mod Token
 ModTimePiece_multiple = Mod Tokens
 
@@ -497,11 +512,12 @@ MenuDecline = Nein!
 
 [LevelChange]
 RetryLevelQuestion = Diesen Akt wiederholen?
+RetryDeathWishQuestion = Diesen Todeswunsch wiederholen?
 RetryLevel_Yes = Wiederholen
 RetryLevel_HUB = Zurück zum Hub
 
 [DecorationMap]
-DecorationMap_NoMarkers = Keine Reliquien in der Nähe
+DecorationMap_NoMarkers = Keine Schätze in der Nähe
 
 [Murder]
 ClockRing0 = EINE EULEN STUNDE ÜBRIG
@@ -585,9 +601,13 @@ Action_Select = Auswählen
 ReturnToHUB = Zurück zum HUB
 Settings = Einstellungen
 QuitGame = Spiel beenden
-Coop = CO-OP
+Coop = KO-OP
 Mods = Mods
 RestartToLastCheckpoint = Neustarten
+DeathWish = Todeswunsch
+DLC1Title = Seal the Deal
+DLC2Title = DLC 2
+BingoMode = Bingo Modus
 
 [Cinematics]
 SkipCinematic = ÜBERSPRINGEN
@@ -610,6 +630,18 @@ coop = Lokaler Splitscreen Mehrspieler-Modus!
 rifts = Sechs neue Zeitrisse!
 unlocks0 = Einen Haufen freischaltbarer Outfits, Fähigkeiten,
 unlocks1 = Farben und sogar Kamera-Filter!
+
+[DeathWishEasyMode]
+EasyMode0 = Niemand ist hier um zu Helfen
+EasyMode1 = Das Leben ist hart und stressig
+EasyMode2 = Ich brauch Ruhe und Frieden
+EasyMode3 = Ich muss niemanden etwas beweisen
+EasyMode4 = Soll ich diesen Todeswunsch etwas einfacher für dich machen?
+EasyShort = Willkommen zurück in der Urteilsfreinen Zone
+EasyExit = Keine sorge, komm zurück wann immer du Hilfe brauchst
+EasyAccept0 = Eins... Zwei... presto!
+EasyAccept1 = Dieser Todeswunsch ist nun einfacher!
+EasyAccept2 = Habe noch einen coolen Tag!
 
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen

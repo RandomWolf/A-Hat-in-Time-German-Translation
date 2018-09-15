@@ -13,7 +13,7 @@ GameSettings_Title = Spiel Einstellungen
 GameSettings_Desc = Anpassen von Einstellungen im Zusammenhang mit Gameplay.
 
 GameSettings_Icon_Singleplayer = Einzelspieler
-GameSettings_Icon_SplitScreen = Geteilter Bildschirm
+GameSettings_Icon_SplitScreen = Splitscreen
 GameSettings_Icon_SystemSettings = System Einstellungen
 GameSettings_Icon_Camera = Kamera
 
@@ -49,7 +49,7 @@ Item_SpeedrunTimer_Desc = Verfolgt die Spielzeit pro Level.
 Item_SpeedrunTimer_Item_Off = Aus
 Item_SpeedrunTimer_Item_On = An
 Item_SpeedrunTimer_Item_GameOnly = Nur Spielzeit
-Item_SpeedrunTimer_Item_ActOnly = Nur Aktezeit
+Item_SpeedrunTimer_Item_ActOnly = Nur Aktzeit
 
 Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
 Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kannst du alle überspringbaren Zwischensequenzen überspringen, indem du diese Funktion aktivierst. Beachte, dass du unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen kannst.
@@ -57,17 +57,17 @@ Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kann
 Item_Language_Title = Sprache
 Item_Language_Desc = Die Sprache, in welcher der Text angezeigt wird. Ändert nicht die Synchronsprecher (du kannst diese in den Audio Einstellungen ändern).
 
-Header_SplitScreen = Geteilter Bildschirm
+Header_SplitScreen = Splitscreen
 Item_AllowSharedScreen_Title = Erlaube Bildschirmfreigabe
-Item_AllowSharedScreen_Desc = Der geteilte Bildschirm kann an bestimmten Stellen des Spiels vorübergehend ausgeschaltet werden.
+Item_AllowSharedScreen_Desc = Der Splitscreen kann an bestimmten Stellen des Spiels vorübergehend ausgeschaltet werden.
 
-Item_SplitScreenMethod_Title = Geteilter Bildschirm Bildschirmausrichtung
+Item_SplitScreenMethod_Title = Splitscreen-Bildschirmausrichtung
 Item_SplitScreenMethod_Item_Horizontal = Horizontal
 Item_SplitScreenMethod_Item_Vertical = Vertikal
 Item_SplitScreenMethod_Desc = Ändere die Art und Weise, wie der Bildschirm mit zwei Spielern geteilt wird.
 
-Item_VersusModeAlways_Title = Aktiviere Versus Modus
-Item_VersusModeAlways_Desc = Aktiviert Versus Modus wen Geteilter Bildschirm Ko-op aktiviert ist.
+Item_VersusModeAlways_Title = Aktiviere Versus-Modus
+Item_VersusModeAlways_Desc = Aktiviert Versus-Modus, wenn Splitscreen Ko-op aktiviert ist.
 
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
@@ -91,7 +91,7 @@ Item_ControllerTopDown_Item_Controller = Nur Controller
 Item_ControllerTopDown_Item_Mouse = Nur Maus
 Item_ControllerTopDown_Item_All = Beides
 
-Item_CameraSmoothRotation_Title = Kamera Glättung
+Item_CameraSmoothRotation_Title = Kamera-Glättung
 Item_CameraSmoothRotation_Desc = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervosität und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen). Der Effekt ist am meisten mit einer Maus bemerkbar. Ausgestellt für rohe Mauseingaben.
 Item_CameraSmoothRotation_Desc_Console = Bewegt die Kamerarotation sanft auf den gewünschten Winkel. Dies hilft, Nervosität und Bewegungskrankheit zu reduzieren (insbesondere für Dritte, die zusehen).
 Item_CameraSmoothRotation_Item_VerySlow = Sehr Langsam
@@ -309,7 +309,7 @@ Item_Adv_AA_Desc = Wenn diese Option aktiviert ist, wird eine der ausgewählten M
 Item_Adv_AA_Item_None = Keine
 
 Item_Adv_MaterialEffects_Title = Hochwertige Bildschirm-Effekte
-Item_Adv_MaterialEffects_Desc = Erlaubt es Bildschirm-Effekte, Effekte mit einer höheren Qualität zu verwenden.
+Item_Adv_MaterialEffects_Desc = Erlaubt höhere Qualität und mehrere Muster für die Bildschirm-Effekte.
 
 Item_Adv_LensFlares_Title = Blendenflecke
 Item_Adv_LensFlares_Desc = Blendenfleck werden auf die Umgebung gerendert, um starkes Licht anzuzeigen (wie z. B. die Sonne).
@@ -343,7 +343,7 @@ Item_Adv_PredictiveCamera_Title = Vorausschauende Verfolgungskamera
 Item_Adv_PredictiveCamera_Desc = Verbessert das Glätten der Kamera, indem Sie die Geometrie in der Nähe verfolgt.
 
 Header_Adv_Debug = Debug
-Item_Adv_ProfilingStats_Title = Schalte Profil Statiken ein / aus
+Item_Adv_ProfilingStats_Title = Profil-Statistiken umschalten
 Item_Adv_ProfilingStats_Desc = Debugging
 Item_Toggle = Umschalten
 
@@ -423,14 +423,14 @@ Label_Badges = ANSTECKER
 Label_Weapon = WAFFE
 Label_Contract = VERTRAG
 
-Options_RestartLevel_Q = Akte neustarten?
+Options_RestartLevel_Q = Akt neustarten?
 Options_RestartDeathWish_Q = Todeswunsch neustarten?
 
 Coop_NoControllerPluggedIn = Bitte schließe einen Kontroller an
 Coop_CantDisableRightNow = Kann gerade nicht Ko-op Modus ausschalten
 Coop_CantEnableRightNow = Kann gerade nicht Ko-op Modus einschalten
 Coop_CantEnableDeathWish = Nicht verfügbar im Ko-op Modus
-Coop_CantEnableDWActive = Ko-op kann nicht Aktiviert werden wärend ein Todeswunsch aktive ist.
+Coop_CantEnableDWActive = Ko-op kann nicht während einem aktiven Todeswunsch aktiviert werden
 
 [MainMenu]
 FileSelect_File = Datei
@@ -448,9 +448,9 @@ Action_SwitchUser = Benutzer wechseln
 YarnBall = Garn Ball
 YarnBall_multiple = Garn Bälle
 TimePiece = Zeit-Stück
-DeathWishes = Todeswunsch Stempel
-ModTimePiece = Mod Token
-ModTimePiece_multiple = Mod Tokens
+DeathWishes = Todeswunsch-Stempel
+ModTimePiece = Mod-Token
+ModTimePiece_multiple = Mod-Tokens
 
 Offer_AvailableNow = Jetzt erhältlich
 
@@ -476,8 +476,8 @@ Msg_DisabledDoF = Tiefenschärfe aus
 Filter_None = #KeinFilter
 
 [ActSelect]
-Help_GoToAct = Akte beginnen
-Help_UnlockAct = Akte freischalten
+Help_GoToAct = Akt beginnen
+Help_UnlockAct = Akt freischalten
 Help_GoToBonus = Zeitriss betreten
 Help_GoToFreeRoam = Starte Freies Erkunden
 Help_GoToBoss = Starte Boss
@@ -607,7 +607,7 @@ RestartToLastCheckpoint = Neustarten
 DeathWish = Todeswunsch
 DLC1Title = Seal the Deal
 DLC2Title = DLC 2
-BingoMode = Bingo Modus
+BingoMode = Bingo-Modus
 
 [Cinematics]
 SkipCinematic = ÜBERSPRINGEN
@@ -628,20 +628,20 @@ cruise = Komplett neues Kapitel: Die Arktische Kreuzfahrt
 deathwish = Der neue Herausforderungs Modus: Todeswunsch!
 coop = Lokaler Splitscreen Mehrspieler-Modus!
 rifts = Sechs neue Zeitrisse!
-unlocks0 = Einen Haufen freischaltbarer Outfits, Fähigkeiten,
+unlocks0 = Einen Haufen freischaltbarer Outfits, Flairs,
 unlocks1 = Farben und sogar Kamera-Filter!
 
 [DeathWishEasyMode]
-EasyMode0 = Niemand ist hier um zu Helfen
-EasyMode1 = Das Leben ist hart und stressig
-EasyMode2 = Ich brauch Ruhe und Frieden
+EasyMode0 = Niemand ist hier um zu helfen
+EasyMode1 = Das Leben ist schwer und stressig
+EasyMode2 = Ich brauche Ruhe und Frieden
 EasyMode3 = Ich muss niemanden etwas beweisen
 EasyMode4 = Soll ich diesen Todeswunsch etwas einfacher für dich machen?
-EasyShort = Willkommen zurück in der Urteilsfreinen Zone
-EasyExit = Keine sorge, komm zurück wann immer du Hilfe brauchst
-EasyAccept0 = Eins... Zwei... presto!
+EasyShort = Willkommen zurück in der urteilsfreien Zone
+EasyExit = Keine Sorge. Denk an mich, wenn Dinge hitzig werden
+EasyAccept0 = Eins... zwei... presto!
 EasyAccept1 = Dieser Todeswunsch ist nun einfacher!
-EasyAccept2 = Habe noch einen coolen Tag!
+EasyAccept2 = Coolen Tag noch!
 
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen

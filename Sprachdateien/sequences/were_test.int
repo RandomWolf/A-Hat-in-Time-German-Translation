@@ -1,11 +1,11 @@
 [internal]
-smash0 = [scream]AGH![/scream] This timepiece is all busted! 
-smash1 = Maybe you could stick it all back together if you find the [hint]missing pieces[/hint].
-smash2 = You have a gut feeling there's one in each room.
-smash3 = They seem to be panicking about not knowing where to sweep for glass.
-smash4 = They seem to have calmed down now you picked up that shard!
+smash0 = [scream]ARGH![/scream] Dieses Zeitstück ist komplett ruiniert!
+smash1 = Vielleicht könntest du es wieder zusammenkleben, wenn du die [hint]fehlenden Stücke[/hint] findest.
+smash2 = Dein Bauchgefühl sagt dir, dass es in jedem Raum ein Stück gibt.
+smash3 = Sie sehen so aus, als wüssten sie nicht, wie man Glas fegen sollte.
+smash4 = Sie haben sich beruhigt, da du die Scherbe aufgehoben hattest!
 
-speaker0 = All passengers, please check in at the lobby desk! 
+speaker0 = Alle Passagiere, bitte am Tisch im Empfangsraum anmelden!
 
-checkin0 = You're all checked in!
-checkin1 = Now to track down that timepiece...
+checkin0 = Du hast dich vollständig angemeldet!
+checkin1 = Okay, und jetzt das Zeitstück aufspüren...

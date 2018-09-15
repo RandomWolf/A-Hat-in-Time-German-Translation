@@ -192,8 +192,8 @@ Condition = Der Zeitriss ist instabil geworden!
 Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, das die Zeit pausieren kann und dich umschauen lässt...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Cruise]
-Title = Riss-Zusammenbruch: Deep Sea
-Objective = Schließe den Deep Sea Zeitriss ab
+Title = Riss-Zusammenbruch: Tiefsee
+Objective = Schließe den Tiefsee Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
 Faster = Noch mindestens 30 Sekunden übrig

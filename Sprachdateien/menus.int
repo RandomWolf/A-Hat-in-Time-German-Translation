@@ -461,8 +461,8 @@ Msg_DisabledDoF = Tiefenschärfe aus
 Filter_None = #KeinFilter
 
 [ActSelect]
-Help_GoToAct = Akt beginnen
-Help_UnlockAct = Akt freischalten
+Help_GoToAct = Akte beginnen
+Help_UnlockAct = Akte freischalten
 Help_GoToBonus = Zeitriss betreten
 Help_GoToFreeRoam = Starte Freies Erkunden
 Help_GoToBoss = Starte Boss

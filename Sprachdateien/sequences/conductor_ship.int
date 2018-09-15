@@ -1,0 +1,31 @@
+[internal]
+conductor0 = Heyy... get me a Sinking Ship, oan the rocks. And make the good part a double.
+conductor1 = Oh, I didn't notice yer there, lassy. Out roamin', are we?
+conductor2 = If yer after a drink, I think they might have some wee bottles of juice. 
+conductor3 = Yer a capable one, sure, but what I'm having isnae for young lasses.
+
+[act2]
+conductor0 = [wave].....hic....Ooh, hello, lassie![/wave]
+conductor1 = [wave]How, how's it going, eh? Are you havin' a good holiday, lass?[/wave]
+conductor2 = [wave]Ah, I am. No Grooves, no movies. Just me, an' me good friend right here. This is the life, eh?[/wave]
+conductor3 = [wave]... I wonder what the rest of the boat is like...[wave]
+
+[docks]
+conductor0 = Well, if it isn't the little lass. How's stardom treating ya?
+conductor1a = Tell you the truth, I'm taking some time off after that [br]peck-neck [icon:djgrooves] [name]DJ[/name] tried tae to, well, y'know.
+conductor1b = Oh, and sorry about the whole... knife incident. [br]What's a wee argument between colleagues though, lassy?
+conductor1c = I'm taking some time off tae relax. Get away from that noisy [br][icon:djgrooves][name]DJ Grooves[/name] fer a while.
+conductor2 = Anyway, I'd better go ask about the childcare on board. I love these little blighters, but I cannae bring them to the bar with me can I?
+
+[act3]
+finale0 = Wait, lass, where yer going? You wanna save HIM?
+finale1 = I'm not gonna hang around a sinking ship! If you don't make it back quick, we'll leave without yer!
+
+conductor0 = Where's the lass? This ship is sinking, we gotta get outta here!
+conductor1 = [scream]Get over here, lassie! We're leavin' NOW!![/scream]
+
+conductor2 = Aye, thank you lass. The little ones haven't learned to swim yet!
+
+carried0 = Ah! Be careful, lass! Mind me feathers!
+
+[fluff]

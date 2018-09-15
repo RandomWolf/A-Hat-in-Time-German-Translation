@@ -1,0 +1,26 @@
+[fluff]
+ticketcrow0 = Hello there, fellow passenger. It is nice to meet you. For the first time.
+ticketcrow1 = We crows all won our tickets in a sweepstakes. All of us. It was incredibly lucky.
+ticketcrow2 = You must have bought yours legitimately. For purely casual reasons, how many [icon:pon] did you pay?
+ticketcrow3 = Interesting. [TicketPrice] [icon:pon] seems like a normal price for cruise tickets.
+ticketcrow4 = Normal, and not incongruent with your bank statement at all.
+
+destinationcrow0 = Good evening, fellow passenger. I hope you are enjoying your journey.
+destinationcrow1 = Do you know where this cruise is going? It was written on all of our tickets, but the writing was smudged.
+destinationcrow2 = On all of them. It was a very unlikely accident. Can you remind us where we are headed?
+destinationcrow3 = Oh, of course, [Destination]. I remember now, having seen it written down earlier. On my ticket.
+
+familycrow0 = I have family in [Destination]. I am very glad that this is where we are going. 
+familycrow1 = It is why I got on this cruise, of course.
+
+reviewcrow0 = What do you mean we aren't on the list for dinner?
+reviewcrow1 = We paid exactly [TicketPrice] [icon:pon] for tickets, just like every other real passenger.
+reviewcrow2 = There will be a bad review left on this cruise trip. 
+
+[act2]
+missives0 = Please pass these plain, uncoded messages along for me. 
+missives1 = Ah. Thank you for these ordinary letters, fellow passenger.
+missives2 = Could you deliver these for a fellow passenger?
+missives3 = Unremarkable messages? For me? You shouldn't have!
+missives4 = These are, uh, birthday cards. For my friend. Please give him them.
+missives5 = Ah. Happy birthday to me. Thank you, fellow passenger. 

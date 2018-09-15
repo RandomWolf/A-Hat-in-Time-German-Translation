@@ -1,0 +1,37 @@
+[internal]
+yes = Heck yeah!
+no = Nooo!
+
+deckshard1 = Hey - that's not ice! There's a shard in this drink!
+
+smash0 = Hmm... this damage is serious. It's in more pieces than one, which is terrible.
+smash1 = Maybe you could stick it all back together if you find the [hint]missing shards[/hint].
+smash2 = It looks like there's one in every room...
+
+checkin0 = You're all checked in!
+checkin1 = Now to track down that timepiece...
+
+washingmachine0 = Someone started the wash cycle without any detergent! You'd better dunk some in there.
+washingmachine1 = There was a timepiece shard in with the clothes!
+
+restarauntshard1 = Underneath the lettuce - that's a shard from the timepiece!
+
+slotmachine0 = You're getting really good vibes from this machine! You need some chips to play, though...
+slotmachine1 = You're feeling lucky...
+slotmachine2 = There was a shard stuck in the machine!
+
+[act2]
+yes = Heck yeah!
+no = Nooo!
+
+[docks]
+binocs0 = Wow! The ship looks incredible! And safe! Incredibly safe, you might say.
+
+crates0 = The label on this crate reads 'PBR'. Whoever they are, they're good at making shiny things.
+
+seals0 = They look like they're having an nice time! [br]Though they probably shouldn't be left unattended.
+
+[fluff]
+leaflets0 = It's a bunch of leaflets for ritzy spa treatments! They're not covered in your ticket price, though.
+
+clipboard0 = You haven't the faintest clue what any of this means, but the handwriting's surprisingly good for a seal.

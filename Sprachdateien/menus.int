@@ -412,7 +412,7 @@ Label_Badges = ANSTECKER
 Label_Weapon = WAFFE
 Label_Contract = VERTRAG
 
-Options_RestartLevel_Q = Akt neustarten?
+Options_RestartLevel_Q = Akte neustarten?
 
 Coop_NoControllerPluggedIn = Bitte schlieﬂe einen Kontroller an
 Coop_CantDisableRightNow = Kann gerade nicht Co-op Modus ausschalten
@@ -593,7 +593,7 @@ RestartToLastCheckpoint = Neustarten
 SkipCinematic = ‹BERSPRINGEN
 
 [Contracts]
-SignContract = Vertag unterschreiben
+SignContract = Vertrag unterschreiben
 DeclineContract = Vertrag ablehnen
 ZoomOutContract = Herauszoomen
 ZoomInContract = Hereinzoomen
@@ -601,15 +601,15 @@ ZoomInContract = Hereinzoomen
 [TimeRiftRoulette]
 ClickToRoll = Das Rad stoppen
 ClickToReRoll = Erneut drehen
-ClickToClaimPrize = Den Gewinn nehmen
+ClickToClaimPrize = Gewinn erhalten
 
 [DLC1Splash]
-cruise = Kommplet nues Kapitel: Die Arktische Kreuzfahrt
+cruise = Komplett neues Kapitel: Die Arktische Kreuzfahrt
 deathwish = Der neue Herausforderungs Modus: Todeswunsch!
-coop = Lokaler Splitscreen-Koop!
+coop = Lokaler Splitscreen Mehrspieler-Modus!
 rifts = Sechs neue Zeitrisse!
-unlocks0 = Tonnen von freischaltbaren Outfits, f‰higkeiten,
-unlocks1 = Farben, und sogar Kamera filter!
+unlocks0 = Einen Haufen freischaltbarer Outfits, F‰higkeiten,
+unlocks1 = Farben und sogar Kamera-Filter!
 
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen

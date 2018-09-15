@@ -22,7 +22,7 @@ Tip0 = Diese dämlichen Eulen folgen dich überall hin. Vielleicht bleiben sie mit
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = 10 Sekunden, bevor Selbstzerstörung
-Objective = Schließe Zugrausch ab
+Objective = Schließe Zug Sause ab
 NoHat = Keine Hut-Fähigkeiten, mit 1-Treffer Held-Anstecker
 Tokens = Sammle alle Tokens des Schaffners
 Condition = Der Eulenexpress musss sich wegen Zeitplan beeilen
@@ -50,7 +50,7 @@ Title = Null Sprünge
 Objective = Sammle irgendein Zeitstück, ohne zu springen
 Condition = Du stirbst, wenn du springst!
 Collect4 = Sammle 4 Zeitstücke, ohne zu springen
-TrainRush = Schließe Zugrausch ab, ohne zu springen!
+TrainRush = Schließe Zug Sause ab, ohne zu springen!
 Tip0 = Mit kurzen Antippen, kann dein [icon:icehat] dir ein wenig Höhe verleihen, ohne eigentlich springen zu müssen. Wie praktisch!
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]

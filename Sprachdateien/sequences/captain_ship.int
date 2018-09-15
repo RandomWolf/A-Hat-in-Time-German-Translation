@@ -1,54 +1,54 @@
 [internal]
-captainAttention0 = Achtung... hier spricht der KapitÃ¤n.
-speaker0 = Ist das Ding an? Ã„hem...
-speaker1 = Alle Passagiere mÃ¶gen bitte einchecken an der Rezeption! Ich werd an Bord sein in wenigen Minuten...
+captainAttention0 = Achtung... hier spricht der Kapitän.
+speaker0 = Ist das Ding an? Ähem...
+speaker1 = Alle Passagiere mögen bitte einchecken an der Rezeption! Ich werd an Bord sein in wenigen Minuten...
 speaker2 = Achtung Passagiere. Und 'Crew'.
-speaker3 = Das Schiff verlÃ¤sst nun den Hafen. Bitte versuchen sie, nicht von Bord zu fallen.
+speaker3 = Das Schiff verlässt nun den Hafen. Bitte versuchen sie, nicht von Bord zu fallen.
 speaker4 = [wave]Bing! Bong! Bing! Bong![/wave]
 
-captain0 = Ich bin beschÃ¤ftigt, Welpe. Dieses Schifft steuert sich nicht von alleine.
-captain1 = Ich sagte, ich bin beschÃ¤ftigt, Welpe.
+captain0 = Ich bin beschäftigt, Welpe. Dieses Schifft steuert sich nicht von alleine.
+captain1 = Ich sagte, ich bin beschäftigt, Welpe.
 captain2 = Hast du nichts besseres zu tun? 
-captain3 = Die bezahlen mich zu wenig fÃ¼r das hier...
+captain3 = Die bezahlen mich zu wenig für das hier...
 
 leftshard1 = ...Was willst du, Welpe? Hat sich jemand aus der Crew verletzt?
-leftshard2 = Wie, sehe ich wie ein Doktor aus? [hint]KÃ¼ss[/hint] ihn besser selber.
+leftshard2 = Wie, sehe ich wie ein Doktor aus? [hint]Küss[/hint] ihn besser selber.
 
 [act2]
-captainAttention0 = Achtung... hier spricht der KapitÃ¤n.
-captain0 = Was ist los, Welpe? [br] Du mÃ¶chtest mithelfen?
-captain1 = Hmph. Na gut. Vielliecht tut sich ja was auf diesem Schlachtfeld des Bootes. Es wÃ¤re eine PrÃ¤merie.
-captain2 = Na denn. Du musst GetrÃ¤nke und Essen austragen, und noch eine paar andere Dinge. Und sei schnell dabei, Welpe.
-captain3 = Oh, und es gibt andere Jobs die Bearbeitung benÃ¶tigen. Also sei wachsam. Bist du soweit?
-captain4 = Nun, komm zurÃ¼ck wenn du es bist. Dieses Schiff sÃ¤ubert sich nicht von alleine.
+captainAttention0 = Achtung... hier spricht der Kapitän.
+captain0 = Was ist los, Welpe? [br] Du möchtest mithelfen?
+captain1 = Hmph. Na gut. Vielliecht tut sich ja was auf diesem Schlachtfeld des Bootes. Es wäre eine Prämerie.
+captain2 = Na denn. Du musst Getränke und Essen austragen, und noch eine paar andere Dinge. Und sei schnell dabei, Welpe.
+captain3 = Oh, und es gibt andere Jobs die Bearbeitung benötigen. Also sei wachsam. Bist du soweit?
+captain4 = Nun, komm zurück wenn du es bist. Dieses Schiff säubert sich nicht von alleine.
 captain5 = Gut. Du kannst starten beim Entsorgen dieser alten Boxen. Es wird hier langsam unordentlich...
 captainFail0 = Genau wie die Seehunde... das ist nicht gut. Du hast gerade mehr Chaos angerichtet, Welpe. Versuchs nochmal. Oder nicht, was auch immer. 
-captainDone0 = Du kannst jetzt aufhÃ¶ren, Welpe. Komm zurÃ¼ck zur Zentrale oder so...
-captainDone1 = Nun... scheint so, du hÃ¤ttest mehr Chaos aufgerÃ¤umt als angestellt, Welpe. Das ist mehr als die meisten unserer Crew handeln kann.
-captainDone2 = Nimm dir etwas von der Fundstube. Niemand kommt fÃ¼r seine Sachen da hin sowieso.
+captainDone0 = Du kannst jetzt aufhören, Welpe. Komm zurück zur Zentrale oder so...
+captainDone1 = Nun... scheint so, du hättest mehr Chaos aufgeräumt als angestellt, Welpe. Das ist mehr als die meisten unserer Crew handeln kann.
+captainDone2 = Nimm dir etwas von der Fundstube. Niemand kommt für seine Sachen da hin sowieso.
 
 yes = Aber hallo!
-no = NÃ¶!
+no = Nö!
 
 [docks]
-captain0 = Ã„h... Du siehst mir ein wenig zu jung aus um alleine zu segeln, Welpe.
+captain0 = Äh... Du siehst mir ein wenig zu jung aus um alleine zu segeln, Welpe.
 captain1 = Was auch immer. Steh einfach niemanden im Weg. Die 'Crew' tut das schon genug.
-captain2 = Siehst du den Laufsteg, pup? Was ein Chaos...
+captain2 = Siehst du den Laufsteg, Welpe? Was ein Chaos...
 captain3 = Wie soll da jemand hochkommen? 
-captain4 = Die kÃ¶nnen nicht mal einen richtigen Laufweg aufstellen. Echt Ã¼berraschend das bisher nichts zerfallen ist...
+captain4 = Die können nicht mal einen richtigen Laufweg aufstellen. Echt überraschend das bisher nichts zerfallen ist...
 
 [act3]
-captainbar0 = Sehe ich denn nicht beschÃ¤ftigt aus, Welpe? Spiel woanders.
-captainbar1 = Lass einen alten KaptiÃ¤n ruhen. Die Seerobben kÃ¶nnen sich um alles kÃ¼mmern fÃ¼r ne Minute.
+captainbar0 = Sehe ich denn nicht beschäftigt aus, Welpe? Spiel woanders.
+captainbar1 = Lass einen alten Kaptiän ruhen. Die Seerobben können sich um alles kümmern für ne Minute.
 captainbar2 = Hoffentlich wissen sie bis jetzt,[hint]das Steuerrad[/hint]in Ruhe zu lassen...
 
 loudspeaker0 = Hawwo! Der Kawptain hat ein-
 loudspeaker1 = Gib mir das Mikrofon! [scream]Wer ist am Steuerrad?![/scream]
-loudspeaker2 = [scream]Wir steuern direk auf einen Eisberg zu! [br]Alle HÃ¤nde an Deck![/scream]
+loudspeaker2 = [scream]Wir steuern direk auf einen Eisberg zu! [br]Alle Hände an Deck![/scream]
 
-start0 = Es geht alles hinuter, Welpe. Ich hÃ¤tte nie gedacht, dass ich solch einen Tag erleben wÃ¼rde.
+start0 = Es geht alles hinuter, Welpe. Ich hätte nie gedacht, dass ich solch einen Tag erleben würde.
 start1 = Ihre Jungfernfahrt, auch. Dauert nicht mehr als ein paar Minuten bevor alles am Meeresgrund liegt.
-start2 = Nun, du solltest ein Rettungsboot aufsuchen, Welpe. Das wÃ¤re schlau.
+start2 = Nun, du solltest ein Rettungsboot aufsuchen, Welpe. Das wäre schlau.
 
 loudspeaker3 = Warte nicht auf mich, Welpe. Geh in ein Boot und hau ab.
 loudspeaker4 = Das ist mein verdammtes Schiff, und ich werde damit untergehen.
@@ -61,8 +61,8 @@ carried4 = Lass mich untergehen mit den Schiff!
 carried5 = Lass mich doch ertrinken, Welpe!
 
 
-captain0 = *Seufz* Welpe, warum hast du mich nicht untergehen lassen mit dem Schiff? Ich kann nicht ertrinken, aber kÃ¶nnte so tuen fÃ¼r eine paar Minuten.
+captain0 = *Seufz* Welpe, warum hast du mich nicht untergehen lassen mit dem Schiff? Ich kann nicht ertrinken, aber könnte so tuen für eine paar Minuten.
 captain1 = Hmph, wenn auch ohne mich, diese Crew wird niemals in der Lage sein, die Boote ans Land zu bringen. Na gut. Crew, lass uns nach Hause.
 captain2 = Hoffentlich deckt unsere Versicherung dies ab...
-captain3 = Wie auch immer, ich kann keine Erstattungen anbieten, aber es sieht so aus, als ob etwas funkelnes auf dem Eisberg da drÃ¼ben ist? Ironisch, wie unser Schiff direkt daneben abgestÃ¼rzt ist.
-captain4 = Es gehÃ¶rt dir, Welpe..
+captain3 = Wie auch immer, ich kann keine Erstattungen anbieten, aber es sieht so aus, als ob etwas funkelnes auf dem Eisberg da drüben ist? Ironisch, wie unser Schiff direkt daneben abgestürzt ist.
+captain4 = Es gehört dir, Welpe.

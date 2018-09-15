@@ -81,7 +81,18 @@ AlpineSkyline_Windmill_0 = Ich glaube ich muss mich hinlegen. Warum musste das Z
 AlpineSkyline_Windmill_1 = Die war riesig! Warum würde jemand so etwas Großes bauen?
 
 AlpineSkyline_Finale_0 = Was zur Hölle war das alles? Diese fiesen Pflanzen blühten und infizierten diese großen Ziegen, oder sowas?
-AlpineSkyline_Finale_1 = Alles was ich weiß ist, dass sie richtig aggresiv wurden und es sehr stürmisch war, es war für alle keine wirklich schöne Zeit.
+AlpineSkyline_Finale_1 = Alles was ich weiß ist, dass sie richtig aggresiv wurden und es sehr stürmisch war. Keiner hatte wirklich eine schöne Zeit.
+
+//THE ARCTIC CRUISE
+Cruise_Boarding_0 = Wow! Sieh dir mal das Schiff an! Es ist riiieeesig! Ich hätte meines größer machen sollen...
+Cruise_Boarding_1 = Naja, sollte trotzdem spaßig werden! Ich brauch Urlaub nach all diesem Gerenne. Ich frag mich jedoch, ob es hier mehr [icon:timepiece][timepiece]Zeitstücke[/timepiece] gibt.
+
+Cruise_Working_0 = Jeeepp, das Schiff hat noch mehr [icon:timepiece][timepiece]Zeitstücke[/timepiece]! Und keiner möchte sie!!
+Cruise_Working_1 = Dieser schlecht gelaunter, alter Kaptiän möchte, dass ich sein Schiff aufräume (ughh!!!), aber er ist der Angeschmierte. Zumindest explodiert oder mordet hier keiner.
+
+Cruise_Sinking_0 = Öööhhhh... uups. Keiner hat das gesehen, oder? Vielleicht sollte ich sicherheitshalber eine Ausrede haben? 
+Cruise_Sinking_1 = Es war ein tragischer Unfall? Eisberge kommen einfach mal manchmal in die Quere? Ich wollte es unbedingt machen?
+Cruise_Sinking_2 = Vielleicht ist es nicht mal illegal Kreuzfahrtschiffe auf diesem Planeten zu senken?
 
 //FINALE
 Mu_Finale_0 = Das lief aus dem Ruder. Als hätte dieser Planet schon nicht genug Lava! 

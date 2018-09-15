@@ -599,9 +599,9 @@ ZoomOutContract = Herauszoomen
 ZoomInContract = Hereinzoomen
 
 [TimeRiftRoulette]
-ClickToRoll = Stope das Rad
-ClickToReRoll = Drehe Erneut
-ClickToClaimPrize = Nehme diesen Gewinn
+ClickToRoll = Das Rad stoppen
+ClickToReRoll = Erneut drehen
+ClickToClaimPrize = Den Gewinn nehmen
 
 [DLC1Splash]
 cruise = Kommplet nues Kapitel: Die Arktische Kreuzfahrt

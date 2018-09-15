@@ -1,0 +1,266 @@
+[internal]
+yes = Heck yeah!
+no = Nooo!
+
+desksealA10 = Hi! How can I hewp you?
+desksealA11 = Youw looking fow something that looks like [icon:timepiece]?
+desksealA12 = Hmmm... whewe have I seen that...
+desksealA13 = Thinking vewy hawd...
+desksealA14 = Oh! I wemember! We bwoke one of those and hid it fwom the Captain! He wouldn't be happy if he knew we made a mess.
+desksealA15 = We twied to cwean it up, but. Um. We didn't do a vewy good job... and we wost some of the pieces...
+desksealA16 = I'm vewy sowwy, miss! Pwease don't be upset!
+
+smash0 = Hmm... this damage is serious. It's in more pieces than one, which is terrible.
+smash1 = Maybe you could stick it all back together if you find the [hint]missing shards[/hint].
+smash2 = It looks like there's one in every room...
+
+captainAttention0 = Attention... this is your Captain speaking.
+speaker0 = Is this thing turned on? Ahem...
+speaker1 = All passengers, please check in at the lobby desk! I'll be on board shortly...
+speaker2 = Attention, passengers. And 'crew'.
+speaker3 = The ship is now leaving. Please try not to fall off.
+speaker4 = [wave]Bing! Bong! Bing! Bong![/wave]
+
+checkin0 = You're all checked in!
+checkin1 = Now to track down that timepiece...
+
+washingmachine0 = Someone started the wash cycle without any detergent! You'd better dunk some in there.
+washingmachine1 = There was a timepiece shard in with the clothes!
+
+restarauntshard0 = Mafia bit down on something hard in this food! Child should take it back to kitchen. Please.
+restarauntshard1 = Underneath the lettuce - that's a shard from the timepiece!
+
+deckshard0 = H-hewwo! I need to get all these empty gwasses, but I dwoppeded them. Can you hewlp me, miss?
+deckshard1 = Looks like one of the missing shards was in someone's drink!
+
+leftshard0 = I huwt mysewlf... will you take me to the captwain, pwease?
+leftshard1 = ...What do you want, pup? One of the crew hurt themselves again?
+leftshard2 = What do I look like, a doctor? [hint]Kiss[/hint] it better yourself.
+leftshard3 = Thank you miss! I fwound this shiny gwass, but it's all youws!
+
+fishdude2 = Oh, hey dudette. I was just chilling, you know, and I noticed all this broken glass around. Weird, right?
+fishdude3 = ... It belongs to you? Ah, cool, cool. Broken glass would like, totally violate code 1.3a of the maritime safety order, but if it's yours that's like, no big deal.
+fishdude4 = Now this corridor on the other hand, woah. Really sinking my calm vibe, you know?
+
+slotmachine0 = You're getting really good vibes from this machine! You need some chips to play, though...
+slotmachine1 = You're feeling lucky...
+slotmachine2 = There was a shard stuck in the machine!
+
+captain0 = I'm busy, pup. This ship doesn't steer itself.
+captain1 = I said I'm busy, pup.
+captain2 = Don't you have anything better to do? 
+captain3 = They don't pay me enough for this...
+
+mafia0 = Mafia used to shipping containers and fish, not luxury cabins. Tickets definitely worth entire life savings.
+mafia1 = Is nice to take vaction. See people that are not other Mafia. Too many of those at home.
+
+mafiaboss0 = [scream]Agh![/scream] These annoying little seals are driving me mad.  
+mafiaboss1 = At least you, rude child, have the good grace to keep quiet.
+
+seals0 = Hewwo, miss! We hope you like the ship! We wowk hawd to keep it cwean and tidy.
+seals1 = E-excwuse me! No wunning by the pool, pwease and thanks!
+seals2 = Hi! Would you like two bwuy a pool twoy?
+seals3 = We have awl kwinds of shapes and sizes! And they fwoat!
+seals4 = Wewcome, ma'am. I don't think we have any tables fow one wight now...
+seals5 = Uh-oh! That wifeboat's bwocking the door!
+seals6 = It's so heavwy...
+
+conductor0 = Hmm... get me a Sinking Ship, oan the rocks. And make the good part a double.
+conductor1 = Oh, I didn't notice yer there, lassy. Out roamin', are we?
+conductor2 = If yer after a drink, I think they might have some wee bottles of juice. 
+conductor3 = Yer a capable one, sure, but what I'm having isnae for young lasses.
+
+octopus0 = Watch your step there, spark! It'd be real [shake2]shocking[/shake2] if you slipped.
+octopus1 = I'm [shake2]positive[/shake2] they could make it a little safer down there, but I guess that'd really [shake2]amp[/shake2] up the costs.
+octopus2 = Anyway, it's nice to have a guest down here. Most folks don't appreciate the hard work I put in to keep the mood [shake2]electric[/shake2].
+
+bathroom0 = Sowwy! I cwashed a food cart and spiwled the drinks, so this bathwoom is cwosed wight now!
+
+signs0 = The weception is this way miss!
+signs1 = Wewcome abwoard!
+
+[act2]
+yes = Heck yeah!
+no = Nooo!
+
+thankyou0 = Thankwoo miss!
+thankyou1 = Thanks for tha hewp!
+thankyou2 = Hey, thanks kid.
+thankyou3 = Ah, Mafia needed more towels!
+
+
+seals0 = Hi, miss! How can I hewp you?
+seals1 = Oh? There's somethwing you want in the wost and fwound?
+seals2 = Hmm... the Captain lets us pick sometwhing from it if we wowk vewy hard! Maybe you couwd hewp!
+seals3 = Buuut... you'd have to go ask him nicewy. [hint]Just fowwow the mess to his woom![/hint]
+seals4 = The Captain is vewy messy. But he wowks vewy hawd steewing the ship!
+seals5 = We wove him wots and wots!
+
+captainAttention0 = Attention... this is your Captain speaking.
+captain0 = What's that, pup? [br]You want to help out?
+captain1 = Hmph. Sure. Maybe something will get done around this mess of a boat for once. It'd be a first.
+captain2 = Alright. You'll need to deliver drinks, some food, and a few other things. And do it quickly, pup.
+captain3 = Oh, and there are some other jobs that'll need doing. So pay attention. Are you ready to start?
+captain4 = Well, come back when you are. This ship isn't going to clean itself up.
+captain5 = Good. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
+captainFail0 = Just like the seals... that's no good. You just made more of a mess, pup. Try again. Or don't, whatever.
+captainDone0 = You can stop now, pup. Come back to Control, I guess.
+captainDone1 = Well... looks like you actually cleaned up more mess than you made, pup. That's more than most of the crew can manage.
+captainDone2 = Help yourself to something from the Lost and Found. Nobody ever comes back for that stuff anyway.
+
+seals4 = M-miss! Youw not suppwosed to opwen that unless the captwain says so!
+seals5 = Hewwo! The captwain said you could take somethwing. Thewe's somethwing vewy shiny in thewe today! 
+
+[docks]
+tourist0 = Hey kid! You wouldn't believe how hard it is to get to the Sun these days. That darn Steve, always one step ahead...
+tourist1 = Anyway, I thought I'd take some time off to relax! This should be smooth sailing, huh?
+
+binocs0 = Wow! The ship looks incredible! And safe! Incredibly safe, you might say.
+
+crates0 = The label on this crate reads 'PBR'. Whoever they are, they're good at making shiny things.
+
+captain0 = Uh... you look a little young to be sailing alone, pup.
+captain1 = Whatever. Just don't get in anyone's way. The 'crew' do enough of that already.
+captain2 = See the walkway, pup? What a mess...
+captain3 = How is anyone supposed to get up that thing? 
+captain4 = They can't even make a straight walkway. Surprised the whole thing doesn't fall apart.
+
+conductor0 = Well, if it isn't the little lass. How's stardom treating you?
+conductor1a = Tell you the truth, I'm taking some time off after that [br]peck-neck [icon:djgrooves] DJ tried tae to, y'know, kill you.
+conductor1b = Oh, and sorry about the whole... knife incident. [br]What's a wee argument between colleagues though, lassy?
+conductor1c = I'm taking some time off tae relax. Getting away from that noisy [br][icon:djgrooves][name]DJ Grooves[/name] fer a while.
+conductor2 = Anyway, I'd better go ask about the childcare on board. I love these little blighters, but I cannae bring them to the bar with me can I?
+
+fishdude0 = Hey there, dude. Dudette, I mean. I'm like, ready for a nice cruise, aren't you? [br]Hopefully there's nothing fishy about this ship, y'know.
+fishdude1 = Not that it being ship-shape is my concern, or anything. I'm just on vacation, like everyone else.
+
+mafiaboss0 = Ah! First you kill me, then you torment me by booking passage on [br]the only cruise liner here with facilities for people in jars!
+mafiaboss1 = Such a rude little child. Were I not in a pleasant holiday mood [br][small]and still without a body[/small] I would take my revenge right here and now!
+
+seals0 = They look like they're having an nice time! [br]Though they probably shouldn't be left unattended.
+seals1 = Wewcome to the cwuise, miss!
+seals2 = We howp you have a gweat twime!
+
+snatcher0 = [shake2]Ahem...[/shake2]
+snatcher1 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]FOOOOOOOOOOooo... wait a minute. It's you, again?[/shake2]
+snatcher2 = [shake2]Ugh. You show up in my forest, assault me, refuse to leave... and then turn up to ruin my vacation too?[/shake2]
+snatcher3 = [shake2]You really are just the worst, kiddo.[/shake2]
+snatcher4 = [shake2]...Yes, I'm hiding in a crate. Tickets are expensive.[/shake2]
+
+penguins0 = The tickets for this thing are pricey, but we helped ourselves to the old 1-flipper discount, if you know what I mean.
+penguins1 = The boss wanted to be here, but when he heard the [icon:conductor][name]Conductor[/name] is here he decided to focus on his next movie instead.
+penguins2 = I hope there's something other to do than take a dip. Keep it to yourself kid, but we ain't the swimmin' type, capisce?
+
+owls0 = You know, after travelling on the [name]Conductor's[/name] train all the time, I'm looking forward to something a little more... reliable.
+owls1 = I can't wait to get some time in the pool. Owls love water, you know.
+
+[act3]
+captainbar0 = Do I not look busy to you, pup? Go play somewhere.
+captainbar1 = Let an old captain relax. The seals can handle things for a minute.
+captainbar2 = Hopefully, they've learned not to mess with [hint]the steering wheel[/hint] by now...
+
+loudspeaker0 = Hewwo! The captwain has a messa-
+loudspeaker1 = Hand me that microphone! [scream]Who's at the wheel?![/scream]
+loudspeaker2 = [big][scream]We're headed straight for an iceberg! [br]All hands on deck![/scream][/big]
+
+start0 = It's all going down, pup. I never thought I'd see the day.
+start1 = Her maiden voyage, too. Won't take more than a few minutes for all of this to hit the sea floor, I think.
+start2 = Do me a favour, pup. Make sure everyone gets to the boats.
+
+loudspeaker3 = Make sure those lifeboats are full! And don't bother waiting...
+loudspeaker4 = A good captain goes down with their ship.
+
+conductor0 = Now hold yer horses! We can't be going anywhere without the little lass!
+conductor1 = [scream]Get over here, lassie! We're leavin'![/scream]
+
+captain0 = Well, pup. I guess I owe you a thanks. 
+captain1 = I'm not sure which of these little mischief-makers thought they could take a turn steering, but you got everyone to safety.
+captain2 = Hopefully our insurance covers this...
+captain3 = Anyway, I can't give out refunds, but I found this is some of the broken ice. 
+captain4 = You seem pretty interested in them, so it's all yours, pup.
+
+seals0 = Thank woo miss!
+fishdude0 = Like, thanks dudette. I totally didn't see this coming.
+conductor2 = Aye, thank you lass. The little ones haven't learned to swim yet!
+
+[fluff]
+fishdude0 = Hey, dudette. What's up? I'm just checking out this, like, totally busted railing. It's like, wicked unsafe, you know?
+fishdude1 = Someone should write this up. Not me though, obviously. 
+
+tourist0 = Kinda hoping we pass close by an island or something soon. I need something to take pictures of!
+
+mafia0 = They serve fish in kitchen. Also, fish are guests on boat. Mafia try not to think about this.
+
+deskseals0 = Hewwo! If you want a wefund, I'm suppwosed to say we don't give them! 
+deskseals1 = But that's mean! Wefunds for evewyone, hooway!
+
+restowl0 = I hope they don't burn the food. I'm not a chef, but I'm pretty sure that's not a normal amount of fire.
+restpenguin0 = The service here is terible, kid. I'd pick somewhere else to eat if I were you.
+
+tlpenguin0 = This is the only bathroom on this thing! There has to be another way in! I'm gettin' desperate over here, kid.
+
+kitchenseals0 = P-pwease be cawefuw miss! We have a tiny pwobwem with the ovens...
+kitchenseals1 = Ouchie! Fiwe's weally hot...
+kitchenseals2 = Hewwo! I'm on a bweak!
+kitchenseals3 = It's vewy hawd to weach up these counters! Maybe we should have got smawwew ones...
+kitchenseals4 = Uh-oh!! Thewes pudding evewywhewe! Pwease watch youw step!
+kitchenbubbleseal0 = We have an owder fow the deck! Take the ewevatow!
+kitchenbubbleseal1 = That ones fow poowside, ma'am!
+kitchenbubbleseal2 = This ones fow the dining woom!
+kitchenbubbleseal3 = Take that one to the dining woom, pwease!
+kitchenbubbleseal4 = Woom sewvice! Take it up the bawcony!
+kitchenbubbleseal5 = We have a woom sewvice owdew!
+kitchenbubbleseal6 = Stawboawd! Uh, that's the wight side miss!
+kitchenbubbleseal7 = Ship side! Stwaight out that door!
+ 
+
+owls0 = I'm thinking of quitting the movie business. The [name]Conductor's[/name] movies are always just action - where's the drama? Where's the artistry?
+owls1 = Maybe I could work in video games instead...
+owls2 = I followed some nice new people on Chirper today! I'm sure I won't regret it.
+owls3 = I thought the pool would be heated seeing as it's so cold out, but... it isn't!
+owls4 = I almost froze my feathers off trying to take a dip earlier.
+owls5 = The [name]Conductor's[/name] grandkids are a... bit of a handful, huh? I'm glad it isn't my job to keep an eye on them.
+
+penguins0 = I tried to get the boss to tell us about his next movie before we left, but he's tight-lipped about it.
+penguins1 = I forgot to download anything to listen to before I left, and there's no wi-fi signal out here! This holiday is the worst.
+penguins2 = I don't know what everyone's talking about, kid. The pool temperature's fine to me.
+penguins3 = You feelin' lucky, kid?
+
+alpinewanderer0 = It's good to be travelling again! Though the view here is not quite as nice as the one in the Alps.
+alpinewanderer1 = Take a look at that ocean! Isn't it beautiful?
+alpinewanderer2 = This way to the- ah, I mean, hello! That's a tough habit to shake.
+alpinewanderer3 = It's pretty cold back home, but I've never seen ice as big as that!
+
+cookingcat0 = Well hi there! How's it going?
+cookingcat1 = To tell you the truth, if feels good to have someone else cooking for a change! I get to relax.
+cookingcat2 = Though I wonder what their kitchen is like... maybe I could just take a peek.
+
+seals0 = These towels awe vewy comfy!
+seals1 = I'm suppwosed to be wowking, but it's so nice...
+seals2 = Pwease watch youw step miss! It's a big dwop past this railing!
+seals3 = Oops... we fowgot to secuwe the tables! They're swiding aww ovew the pwace.
+seals4 = Hmmm... you wook too young to gamble to me! Sowwy, miss!
+seals5 = Also, pwease stay off the desk!
+seals6 = Isn't the gawden pwetty, miss?
+
+ticketcrow0 = Hello there, fellow passenger. It is nice to meet you. For the first time.
+ticketcrow1 = We crows all won our tickets in a sweepstakes. All of us. It was incredibly lucky.
+ticketcrow2 = You must have bought yours legitimately. For purely casual reasons, how many [icon:pon] did you pay?
+ticketcrow3 = Interesting. [TicketPrice] [icon:pon] seems like a normal price for cruise tickets.
+ticketcrow4 = Normal, and not incongurent with your bank statement at all.
+
+destinationcrow0 = Good evening, fellow passenger. I hope you are enjoying your journey.
+destinationcrow1 = Do you know where this cruise is going? It was written on all of our tickets, but the writing was smudged.
+destinationcrow2 = On all of them. It was a very unlikely accident. Can you remind us where we are headed?
+destinationcrow3 = Oh, of course, [Destination]. I remember now, having seen it written down earlier. On my ticket.
+
+familycrow0 = I have family in [Destination]. I am very glad that is where we are going. 
+familycrow1 = It is why I got on this cruise, of course.
+
+reviewcrow0 = What do you mean we aren't on the list for dinner?
+reviewcrow1 = We paid exactly [TicketPrice] [icon:pon] for tickets, just like every other real passenger.
+reviewcrow2 = There will be a bad review left on this cruise trip. 
+
+leaflets0 = It's a bunch of leaflets for ritzy spa treatments! They're not covered in your ticket price, though.
+
+clipboard0 = You haven't the faintest clue what any of this means, but the handwriting's surprisingly good for a seal.

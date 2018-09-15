@@ -1,0 +1,84 @@
+[internal]
+desksealA10 = Hi! How can I hewp you?
+desksealA11 = Youw looking fow something that looks like [icon:timepiece]?
+desksealA12 = Hmmm... whewe have I seen that...
+desksealA13 = Thinking vewy hawd...
+desksealA14 = Oh! I wemember! We bwoke one of those and hid it fwom the Captain! [br]He wouldn't be vewy happy if he knew we made a mess.
+desksealA15 = We twied to cwean it up, but. Um. Hm. We didn't do a vewy good job... and we wost some of the pieces...
+desksealA16 = I'm vewy sowwy, miss! Pwease don't be upset!
+
+deckshard0 = H-hewwo! I need to get all these empty gwasses, but I dwoppeded them. Can you hewlp me, miss?
+
+leftshard0 = I huwt mysewlf... will you take me to the captwain, pwease?
+leftshard3 = Thank you fow kissing my ouchie, miss! I feew bettew aweady! [br]I fwound this shiny gwass, but it's all youws!
+
+seals0 = Hewwo, miss! We hope you like the ship! We wowk vewy hawd to keep it cwean and tidy.
+seals1 = E-excwuse me! No wunning by the pool, pwease and thanks!
+seals2 = Hi! Would you like two bwuy a pool twoy?
+seals3 = We have awl kwinds of shapes and sizes! And they fwoat!
+seals4 = Wewcome, ma'am. I don't think we have any tables fow one wight now...
+seals5 = Uh-oh! That wifeboat's bwocking the door!
+seals6 = It's so heavwy...
+
+bathroom0 = Sowwy! I cwashed a food cart and spiwled the drinks, so the bathwoom is cwosed wight now!
+
+signs0 = The weception is this way miss!
+signs1 = Wewcome abwoard!
+
+seal_egg0 = Egg.
+Egg0 =  [name]Mr. E:[/name] Egg.
+Egg1 =  [name]Mr. N:[/name] Woah man, why'd you do it?
+Egg2 = [name]Mr. E:[/name] Cheese is an old meme. Now it is Mr E's turn to shine...wanna join me Mr N?
+Egg3 = [name]Mr. N:[/name] k
+
+[act2]
+thankyou0 = Thankwoo miss!
+thankyou1 = Thanks for tha hewp!
+
+seals0 = Hi, miss! How can I hewp you?
+seals1 = Oh? There's somethwing you want in the wost and fwound?
+seals2 = Hmm... the Captain lets us pick sometwhing from it if we wowk vewy, vewy hard! Maybe you couwd hewp!
+seals3 = Buuut... you'd have to ask him nicewy. [hint]Just fowwow the mess to his woom![/hint]
+seals4 = The Captain is vewy messy. But he wowks vewy hawd steewing the ship!
+seals5 = We wove him wots and wots!
+
+seals4 = M-miss! Youw not suppwosed to opwen that unless the captwain says so!
+seals5 = Hewwo! The captwain said you could take somethwing. Thewe's somethwing vewy shiny in thewe today! 
+
+[docks]
+seals1 = Wewcome to the cwuise, miss!
+seals2 = We howp you have a gweat twime!
+
+[act3]
+loudspeaker0 = Hewwo! The captwain has a messa-
+
+carried0 = Thank woo miss!
+carried1 = Ooh! Whewe awe we going?
+
+seals0 = Thank woo miss!
+
+[fluff]
+deskseals0 = Hewwo! If you want a wefund, I'm suppwosed to say we don't give them! 
+deskseals1 = But that's mean! Wefunds for evewyone, hooway!
+
+kitchenseals0 = P-pwease be cawefuw miss! We have a tiny pwobwem with the ovens...
+kitchenseals1 = Ouchie! Fiwe's weally hot...
+kitchenseals2 = Hewwo! I'm on a bweak!
+kitchenseals3 = It's vewy hawd to weach up these counters! Maybe we should have gotten some smawwew ones...
+kitchenseals4 = Uh-oh!! Thewes pudding evewywhewe! Pwease watch youw step!
+kitchenbubbleseal0 = We have an owder fow the deck! Take the ewevatow!
+kitchenbubbleseal1 = That ones fow poowside, ma'am!
+kitchenbubbleseal2 = This ones fow the dining woom!
+kitchenbubbleseal3 = Take that one to the dining woom, pwease!
+kitchenbubbleseal4 = Woom sewvice! Take it up the bawcony!
+kitchenbubbleseal5 = We have a woom sewvice owdew!
+kitchenbubbleseal6 = Stawboawd! Uh, that's the wight side miss!
+kitchenbubbleseal7 = Ship side! Stwaight out that door!
+
+seals0 = These towels awe vewy comfy!
+seals1 = I'm suppwosed to be wowking, but it's so nice...
+seals2 = Pwease watch youw step miss! It's a big dwop past this railing!
+seals3 = Oops... we fowgot to secuwe the tables! They're swiding aww ovew the pwace.
+seals4 = Hmmm... you wook too young to gamble to me! Sowwy, miss!
+seals5 = Also, pwease stay off the desk!
+seals6 = Isn't the gawden pwetty, miss?

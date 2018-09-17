@@ -110,6 +110,12 @@ NoBonkBadgeDesc0 = Niemals wegen dem Hechtsprung an Wänden abprallen!
 HatCooldownBonusBadgeName = Hutmacher-Anstecker
 HatCooldownBonusBadgeDesc0 = Verringert die Abklingzeit für Hüte!
 
+MirrorBadgeName = Spiegel-Anstecker
+MirrorBadgeDesc0 = Therdegmu driw sella!
+
+NostalgiaBadgeName = Nostalgie-Anstecker
+NostalgiaBadgeDesc0 = Alles ist besser, wenn es schlechter ist!
+
 [loot]
 BirdPassportName = Ausweis der Bundesvereinigung der Vögel
 BirdPassportDesc0 = Laut Gesetz, bin ich jetzt ein Vogel, glaube ich...?
@@ -130,6 +136,8 @@ VaultCodeYellowName = Goldener Tresorcode
 
 [skins]
 SkinDesc0 = Ändere die Farbe deiner Kleidung!
+SkinDesc_Outfit0 = Wechsel deine Kleidung!
+MaterialSkin_Desc0 = Tunk dich in Farbe ein!
 WhiteRedSkinName = Der Big Boss
 RedWhiteSkinName = Der Blutmond
 GreenOrangeSkinName = Der Nussknacker
@@ -146,10 +154,20 @@ LiquoriceName = Lakritze
 MintyName = Minzfrisch
 CookieDoughSkinName = Plätzchenteig
 80sCandy = 80er Bonbon
+
 Cardboard = Pappe
 RaincoatName = Regenmantel
 ParadeName = Parade-Outfit
 DetectiveName = Detektiv-Outfit
+QueenDressGreenName = Das Kleid der Königin
+WitchDressName = Hexen-Outfit
+MaterialSkin_Gold_Name = 24 Karat Kind
+MaterialSkin_Metal_Name = Metallisch
+MaterialSkin_Shadow_Name = Schattenspielfigur
+MaterialSkin_Space_Name = Transzendent
+HK64_Name = Virtual Kid
+HikingSkin_Name = Wandershorts
+
 
 [remixes]
 RemixDesc_MafiaTown0 = Ein neuer Musik-Remix wurde für Mafia-Stadt freigeschaltet!
@@ -167,7 +185,9 @@ SubconVillageScifiName = Subcon-Dorf (Sci-fi Remix)
 SnatcherBossOrchestralName = Dein Vertrag Ist Abgelaufen (Orchestral Remix)
 
 [camerafilters]
-CameraFilterDescription = Kamera-Filter
+CameraFilter = Kamera-Filter
+CameraFilterDesc0 = Ein neuer Kamera-Filter wurde für deinen
+CameraFilterDesc1 = [icon:camerabadge][name]Kamera-Anstecker[/name] freigeschaltet!
 ActionBlueName = Action Blau
 DreamyName = Träumlich
 SunriseName = Die 80er
@@ -181,7 +201,7 @@ SunsetName = Sonnenuntergang
 SilhouetteName = Silhouette
 HazeName = Nebel
 ColdName = Kalt
-MangaName = Nani
+MangaName = Nani!?
 PosterName = Filmplakat
 
 [decorations]
@@ -191,48 +211,30 @@ DecorationMystery = Du spürst für eine kurze Zeit etwas,... aber du bildest dir 
 
 DecorationGenericName = Schatz
 
-TrainToyName = Spielzeugbahn
-TrainToyDesc = Tschu tschuu! Hier komm' ich!
-TrainTracksName = Spielzeugeisenbahn-Gleise
-TrainTracksDesc = Diese Gleise würden super mit einem Zug zusammenpassen!
 TrainSetName = Mini-Zug (und Vögel?)
 TrainSetDesc0 = Das sieht aus wie eine kleine Version von dem "Zug", den die "Vögel" nutzen um zur "Arbeit" zu kommen.
 TrainSetDesc1 = Sind da kleine Vögel drinne? Machen sie kleine "Filme"?
 TrainSetDesc2 = Ich hab keine Zeit, um mich mit der kleinen Vogel-Gesellschaft zu beschäftigen!
 
-UFOName = UFO
-UFODesc = Dieses Spielzeug benutzt Pflanzen als Zeichentablett!
-CowToyName = Plastikkuh
-CowToyDesc = Diese Kuh sieht so aus, als währe sie viel herumgekommen!
 UFOName = Alien-Verspottung
 UFODesc0 = Was zum?! Raumschiffe sehen aber so nicht aus!
 UFODesc1 = Wo ist das Holz? Warum saugt es Kühe ein?
 UFODesc2 = Das ist beleidigend! Ich werde jemanden deswegen verklagen!
-
-CrayonBoxName = Buntstiftbox
-CrayonBoxDesc = Gut um... gigantische Buntstifte zu lagern?
-
-RedCrayonName = Roter Stift
-GreenCrayonName = Grüner Stift
-BlueCrayonName = Blauer Stift
-
-RedCrayonDesc = Rot ist eine gute Farbe. Aber nur, weil man sie braucht um lila herzustellen!
-GreenCrayonDesc = Jetzt kann ich endlich ein Vandal sein! Zeit die Wände grün zu färben!
-BlueCrayonDesc = Blau ist eine anständige Farbe, aber es würde niemals einen Kampf gegen Lila gewinnen!
 
 CrayonCompleteName = Drei-Farben Graffiti-Kit
 CrayonCompleteDesc0 = Sie wurden für Vandalismus gemacht. Ich fühle mich beim Anblick gezwungen sie zu nehmen und ALLES anzumalen!
 CrayonCompleteDesc1 = Ich kann daraus nur schließen, dass dieses Kit illegal sein muss. Das macht diesen Schatz viel mehr wert.
 CrayonCompleteDesc2 = Wenn nur das Paket nicht schon offen wäre... Nur ein Monster würde sich trauen sowas zu tun!
 
-BurgerTopName = Burger-Kissen (obere Hälfte)
-BurgerTopDesc = Ein Kissen in der Form eines Burgers. Sein unterer Bruder fehlt! Oh nein!
-BurgerBottomName = Burger-Kissen (untere Hälfte)
-BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehlt! Oh nein!
 BurgerCushionName = Sitz-Gerät der Erdbewohner
 BurgerCushionDesc0 = Nachforschungen haben ergeben, dass dies sehr weich ist.
 BurgerCushionDesc1 = So weich, dass die einzige logische Schlussfolgerung ist, dass dies die Stühle dieses Planeten sein müssen.
 BurgerCushionDesc2 = Es ist kein Snack. Ich habe es probiert... Es schmeckt nach Stoff.
+
+CakeTowerName = Kuchen-Museum
+CakeTowerDesc0 = Eine schicke Metallplatte, um Kuchen zu zeigen.
+CakeTowerDesc1 = Was für eine Person würde es jedoch nur zeigen? Kuchen sind für's Essen gemacht!
+CakeTowerDesc2 = ... Ich kann die auf der obersten Platte nicht erreichen.
 
 [ItemQuality]
 SupporterPrefix = Unterstützer
@@ -349,3 +351,29 @@ RobotCatDesc = Ein Teil von mir kann es kaum erwarten eine alte Katzen-Oma zu we
 
 BallOfStringName = Bindfaden-Rolle
 BallOfStringDesc = Nur eine Katze würde das interessant finden.
+
+TrainToyName = Spielzeugbahn
+TrainToyDesc = Tschu tschuu! Hier komm' ich!
+TrainTracksName = Spielzeugeisenbahn-Gleise
+TrainTracksDesc = Diese Gleise würden super mit einem Zug zusammenpassen!
+
+UFOName = UFO
+UFODesc = Dieses Spielzeug benutzt Pflanzen als Zeichentablett!
+CowToyName = Plastikkuh
+CowToyDesc = Diese Kuh sieht so aus, als währe sie viel herumgekommen!
+
+CrayonBoxName = Buntstiftbox
+CrayonBoxDesc = Gut um... gigantische Buntstifte zu lagern?
+
+RedCrayonName = Roter Stift
+GreenCrayonName = Grüner Stift
+BlueCrayonName = Blauer Stift
+
+RedCrayonDesc = Rot ist eine gute Farbe. Aber nur, weil man sie braucht um lila herzustellen!
+GreenCrayonDesc = Jetzt kann ich endlich ein Vandal sein! Zeit die Wände grün zu färben!
+BlueCrayonDesc = Blau ist eine anständige Farbe, aber es würde niemals einen Kampf gegen Lila gewinnen!
+
+BurgerTopName = Burger-Kissen (obere Hälfte)
+BurgerTopDesc = Ein Kissen in der Form eines Burgers. Sein unterer Bruder fehlt! Oh nein!
+BurgerBottomName = Burger-Kissen (untere Hälfte)
+BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehlt! Oh nein!

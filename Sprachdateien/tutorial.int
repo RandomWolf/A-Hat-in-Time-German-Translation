@@ -12,6 +12,8 @@ umbrella_attack = Attackieren
 homingattack = In der Luft für einen Verfolgungsangriff
 helper_ability_no_target = Hier gibt es nichts Interessantes...
 smooch = Zum Knutschen
+timestophat = Benutze deinen [icon:timestophat], um alle nahen Objekte zu verlangsamen
+carry_too_much = Vorsicht! Je mehr du trägst, desto weniger Gleichgewicht!
 
 drop_carry = Fallen lassen
 throw_carry = Werfen

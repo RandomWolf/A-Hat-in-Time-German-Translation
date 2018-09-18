@@ -78,7 +78,7 @@ Condition = Nie zwischen Kämpfen heilen
 Tip0 = Falls du ein [icon:health] [name]Lebens-Pon[/name] findest, sammle es nur ein, wenn du es brauchst! Vielleicht ist es später nötig...
 
 [Hat_SnatcherContract_DeathWish_BossRushEX]
-Title = Den Handel Besiegeln
+Title = Seal the Deal
 Objective = Besiege deine stärksten Gegner
 Condition = Viel Glück!
 NoHats = Benutze keine Hut-Fähigkeiten

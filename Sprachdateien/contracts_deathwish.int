@@ -44,6 +44,7 @@ AvoidLava = Werde nicht zu heiß!
 MinWater = Kühle dich nicht mehr als 2-mal ab
 Condition = Es ist viel heißer als zuvor, kühle dich ab!
 Tip0 = Mache dir keine Sorgen jede einzelne Aufgabe auf einmal abzuschließen. Du kannst es sogar [name]später[/name] machen, macht mir nichts aus! Ehrlich![br][shake][scream]LASS DIR RUHIG ZEIT.[/scream][/shake]
+EasyTip = Kühle dich nach jedem Hahn ab!
 
 [Hat_SnatcherContract_DeathWish_NoAPresses]
 Title = Null Sprünge
@@ -233,7 +234,8 @@ Tip0 = Sei sicher [name]alle zu töten[/name], Kleine! Du möchtest nicht das Ende
 Title = Vogelschutzgebiet
 Objective = Schließe das Vogelhaus ab, ohne Vögel zu verletzen
 TimeLimit = Erreiche in weniger als 65 Sekunden das Ende
-MafiaHunt = Besiege 6 verstecke Mafiab
+TimeLimit_Easy = Erreiche in weniger als 3 Minuten das Ende
+MafiaHunt = Besiege 6 verstecke Mafia
 Tip0 = Sei sicher, dass du die Vögel von diesen [name]explodierenden Eiern[/name] fernhälst, ich möchte keine Verletzungen sehen!
 
 [Hat_SnatcherContract_DeathWish_CameraTourist_1]
@@ -311,6 +313,7 @@ Speed = Erreiche in 65 Sekunden das Ende
 Speed_Easy = Erreiche in 3 Minuten das Ende
 Condition = Bist du sicher, dass das ein Zeitstück ist?
 Tip0 = Du wirst ohne [name]zu wissen, wie man deinen Weitsprung abbricht[name/] nicht weit kommen. Was auch immer das heißen soll. Du wirst es schon herausfinden.
+EasyTip = Versuche es mal mit deinem Zeitlupen-Hut!
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
 Title = Community Riss: Rhythm Jump Studio

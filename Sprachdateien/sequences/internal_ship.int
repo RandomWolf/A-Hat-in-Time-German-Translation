@@ -1,37 +1,37 @@
 [internal]
-yes = Heck yeah!
-no = Nooo!
+yes = Aber hallo!
+no = Neeeiiin!
 
-deckshard1 = Hey - that's not ice! There's a shard in this drink!
+deckshard1 = Hey - das ist nicht Eis! Da ist eine Glasscherbe in diesem Getränk!
 
-smash0 = Hmm... this damage is serious. It's in more pieces than one, which is terrible.
-smash1 = Maybe you could stick it all back together if you find the [hint]missing shards[/hint].
-smash2 = It looks like there's one in every room...
+smash0 = Hmm... dieser Schaden ist schwer. Es ist in mehr Teilen als einen und das ist schrecklich.
+smash1 = Vielleicht könntest du es wieder zusammenkleben, wenn du die [hint]fehlenden Scherben[/hint] findest.
+smash2 = Es sieht so aus, als gäbe es ein Stück pro Raum...
 
-checkin0 = You're all checked in!
-checkin1 = Now to track down that timepiece...
+checkin0 = Du hast dich vollständig angemeldet!
+checkin1 = So, und jetzt das Zeitstück aufspüren...
 
-washingmachine0 = Someone started the wash cycle without any detergent! You'd better dunk some in there.
-washingmachine1 = There was a timepiece shard in with the clothes!
+washingmachine0 = Jemand hatte den Waschgang ohne Waschmittel gestartet! Du solltest besser etwas hineintun.
+washingmachine1 = Da war eine Zeitstück-Scherbe There was a timepiece shard in with the clothes!
 
-restarauntshard1 = Underneath the lettuce - that's a shard from the timepiece!
+restarauntshard1 = Unter dem Salat... Was?! Das ist doch eine Scherbe vom Zeitstück!
 
-slotmachine0 = You're getting really good vibes from this machine! You need some chips to play, though...
-slotmachine1 = You're feeling lucky...
-slotmachine2 = There was a shard stuck in the machine!
+slotmachine0 = Irgendwie zieht dich diese Maschine an. Oh, es verlangt ein Paar Chips...
+slotmachine1 = Du hoffst auf etwas Tolles...
+slotmachine2 = Da steckte eine Scherbe in der Maschine!
 
 [act2]
-yes = Heck yeah!
-no = Nooo!
+yes = Aber hallo!
+no = Neeeiiin!
 
 [docks]
-binocs0 = Wow! The ship looks incredible! And safe! Incredibly safe, you might say.
+binocs0 = Wow! Das Schiff sieht toll aus! Und sicher! Unglaublich sicher, könnte man sagen.
 
-crates0 = The label on this crate reads 'PBR'. Whoever they are, they're good at making shiny things.
+crates0 = Auf dem Etikett steht 'PBR'. Der Besitzer dieser Kiste macht anscheinend schöne glänzende Dinge.
 
-seals0 = They look like they're having an nice time! [br]Though they probably shouldn't be left unattended.
+seals0 = Anscheinend haben die viel Spaß! [br]Aber man sollte sie vielleicht nicht unbeaufstichtigt lassen. 
 
 [fluff]
-leaflets0 = It's a bunch of leaflets for ritzy spa treatments! They're not covered in your ticket price, though.
+leaflets0 = Es ist ein Haufen Flugblätter für Nobel-Badekuren! Sie sind jedoch nicht in deinen Ticket-Preisen verdeckt.
 
-clipboard0 = You haven't the faintest clue what any of this means, but the handwriting's surprisingly good for a seal.
+clipboard0 = Du hast absolut keine Ahnung, was das alles bedeuten könnte, aber die Handschrift ist für eine Robbe erstaunlich gut.

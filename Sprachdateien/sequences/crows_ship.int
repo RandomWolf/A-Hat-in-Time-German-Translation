@@ -1,26 +1,26 @@
 [fluff]
-ticketcrow0 = Hello there, fellow passenger. It is nice to meet you. For the first time.
-ticketcrow1 = We crows all won our tickets in a sweepstakes. All of us. It was incredibly lucky.
-ticketcrow2 = You must have bought yours legitimately. For purely casual reasons, how many [icon:pon] did you pay?
-ticketcrow3 = Interesting. [TicketPrice] [icon:pon] seems like a normal price for cruise tickets.
-ticketcrow4 = Normal, and not incongruent with your bank statement at all.
+ticketcrow0 = Hallo, verehrter Mitreisender. Es ist schön, Sie kennenzulernen. Zum ersten Mal.
+ticketcrow1 = Wir Krähen haben alle unsere Tickets in einem Gewinnspiel gewonnen. Wir alle. Es war ein unglaubliches Glück.
+ticketcrow2 = Sie haben Ihr Ticket wahrscheinlich rechtmäßig gekauft. Aus reinem Interesse, wie viele [icon:pon] haben sie ausgegeben?
+ticketcrow3 = Interessant. [TicketPrice] [icon:pon] scheint für eine Kreuzfahrt ein normaler Ticketpreis zu sein.
+ticketcrow4 = Normal, und überhaupt nicht inkongruent mit Ihrem Kontoauszug.
 
-destinationcrow0 = Good evening, fellow passenger. I hope you are enjoying your journey.
-destinationcrow1 = Do you know where this cruise is going? It was written on all of our tickets, but the writing was smudged.
-destinationcrow2 = On all of them. It was a very unlikely accident. Can you remind us where we are headed?
-destinationcrow3 = Oh, of course, [Destination]. I remember now, having seen it written down earlier. On my ticket.
+destinationcrow0 = Guten Abend, Mitreisender. Ich hoffe, Sie genießen Ihre Reise.
+destinationcrow1 = Wissen Sie, wohin die Kreuzfahrt hinführt? Es stand auf allen unseren Tickets, aber die Schrift war verschmiert.
+destinationcrow2 = Bei allen von ihnen. Es war ein sehr unwahrscheinlicher Unfall. Können Sie uns mitteilen, wohin wir unterwegs sind?
+destinationcrow3 = Oh, natürlich, [Destination]. Ich erinnere mich jetzt, nachdem ich es vorher gesehen habe. Auf meinem Ticket.
 
-familycrow0 = I have family in [Destination]. I am very glad that this is where we are going. 
-familycrow1 = It is why I got on this cruise, of course.
+familycrow0 = Ich habe eine Familie in [Destination]. Ich bin sehr froh, dass wir dort anreisen. 
+familycrow1 = Deshalb bin ich natürlich auf diese Kreuzfahrt gegangen.
 
-reviewcrow0 = What do you mean we aren't on the list for dinner?
-reviewcrow1 = We paid exactly [TicketPrice] [icon:pon] for tickets, just like every other real passenger.
-reviewcrow2 = There will be a bad review left on this cruise trip. 
+reviewcrow0 = Was meinen Sie damit, wir stehen beim Abendessen nicht auf der Liste?
+reviewcrow1 = Wir bezahlten exakt [TicketPrice] [icon:pon] für Tickets, wie sonst jeder Passagier auch.
+reviewcrow2 = Es wird eine schlechte Bewertung auf dieser Kreuzfahrt geben.
 
 [act2]
-missives0 = Please pass these plain, uncoded messages along for me. 
-missives1 = Ah. Thank you for these ordinary letters, fellow passenger.
-missives2 = Could you deliver these for a fellow passenger?
-missives3 = Unremarkable messages? For me? You shouldn't have!
-missives4 = These are, uh, birthday cards. For my friend. Please give him them.
-missives5 = Ah. Happy birthday to me. Thank you, fellow passenger. 
+missives0 = Bitte geben Sie diese einfachen, unverschlüsselten Nachrichten für mich weiter. 
+missives1 = Ah. Vielen Dank für diese gewöhnlichen Briefe, Mitreisender.
+missives2 = Könnten Sie diese für einen Mitreisenden liefern?
+missives3 = Unscheinbare Nachrichten? Für mich? Das hätten Sie nicht tun brauchen!
+missives4 = Das sind, äh, Geburtstagskarten. Für meinen Freund. Bitte geben Sie diese ihm.
+missives5 = Ah. Alles Gute zum Geburtstag für mich. Danke, Mitfahrer. 

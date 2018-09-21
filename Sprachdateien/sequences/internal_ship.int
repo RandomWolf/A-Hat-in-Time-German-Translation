@@ -2,19 +2,19 @@
 yes = Aber hallo!
 no = Neeeiiin!
 
-deckshard1 = Hey - das ist nicht Eis! Da ist eine Glasscherbe in diesem GetrÃ¤nk!
+deckshard1 = Hey - das ist nicht Eis! Da ist eine Glasscherbe in diesem Getränk!
 
 smash0 = Hmm... dieser Schaden ist schwer. Es ist in mehr Teilen als einen und das ist schrecklich.
-smash1 = Vielleicht kÃ¶nntest du es wieder zusammenkleben, wenn du die [hint]fehlenden Scherben[/hint] findest.
-smash2 = Es sieht so aus, als gÃ¤be es ein StÃ¼ck pro Raum...
+smash1 = Vielleicht könntest du es wieder zusammenkleben, wenn du die [hint]fehlenden Scherben[/hint] findest.
+smash2 = Es sieht so aus, als gäbe es ein Stück pro Raum...
 
-checkin0 = Du hast dich vollstÃ¤ndig angemeldet!
-checkin1 = So, und jetzt das ZeitstÃ¼ck aufspÃ¼ren...
+checkin0 = Du hast dich vollständig angemeldet!
+checkin1 = So, und jetzt das Zeitstück aufspüren...
 
 washingmachine0 = Jemand hatte den Waschgang ohne Waschmittel gestartet! Du solltest besser etwas hineintun.
-washingmachine1 = Da war eine ZeitstÃ¼ck-Scherbe There was a timepiece shard in with the clothes!
+washingmachine1 = Da war eine Zeitstück-Scherbe in der Wäsche!
 
-restarauntshard1 = Unter dem Salat... Was?! Das ist doch eine Scherbe vom ZeitstÃ¼ck!
+restarauntshard1 = Unter dem Salat... Was?! Das ist doch eine Scherbe vom Zeitstück!
 
 slotmachine0 = Irgendwie zieht dich diese Maschine an. Oh, es verlangt ein Paar Chips...
 slotmachine1 = Du hoffst auf etwas Tolles...
@@ -25,13 +25,13 @@ yes = Aber hallo!
 no = Neeeiiin!
 
 [docks]
-binocs0 = Wow! Das Schiff sieht toll aus! Und sicher! Unglaublich sicher, kÃ¶nnte man sagen.
+binocs0 = Wow! Das Schiff sieht toll aus! Und sicher! Unglaublich sicher, könnte man sagen.
 
-crates0 = Auf dem Etikett steht 'PBR'. Der Besitzer dieser Kiste macht anscheinend schÃ¶ne glÃ¤nzende Dinge.
+crates0 = Auf dem Etikett steht 'PBR'. Der Besitzer dieser Kiste macht anscheinend schöne glänzende Dinge.
 
-seals0 = Anscheinend haben die viel SpaÃŸ! [br]Aber man sollte sie vielleicht nicht unbeaufstichtigt lassen. 
+seals0 = Anscheinend haben die viel Spaß! [br]Aber man sollte sie vielleicht nicht unbeaufstichtigt lassen. 
 
 [fluff]
-leaflets0 = Es ist ein Haufen FlugblÃ¤tter fÃ¼r Nobel-Badekuren! Sie sind jedoch nicht in deinen Ticket-Preisen verdeckt.
+leaflets0 = Es ist ein Haufen Flugblätter für Nobel-Badekuren! Sie sind jedoch nicht in deinen Ticket-Preisen verdeckt.
 
-clipboard0 = Du hast absolut keine Ahnung, was das alles bedeuten kÃ¶nnte, aber die Handschrift ist fÃ¼r eine Robbe erstaunlich gut.
+clipboard0 = Du hast absolut keine Ahnung, was das alles bedeuten könnte, aber die Handschrift ist für eine Robbe erstaunlich gut.

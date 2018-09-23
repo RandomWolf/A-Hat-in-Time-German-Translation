@@ -17,6 +17,7 @@ first_intermission1 = Schätzchen, kannst du die Pyrotechnik einschalten?
 second_intermission0 = Dieser Film braucht mehr Action! Schätzchen, schalt' die Feuerwerks-Kanonen für die große Feuerwerksshow ein!
 
 third_intermission0 = Zeit die große [icon:timepiece][timepiece]Überraschung[/timepiece] zu enthüllen![br]Hol sie dir, Schätzchen!
+
 [deadbird]
 intro0 = Unsinn, Schätzchen, Unsinn!
 intro1 = Ihr [name]Eulen-Express-Vögel[/name] werdet sowieso wieder einen langweiligen Western mit einem Zug filmen! So, wie die letzten 10 Jahre schon, Schätzchen!
@@ -73,6 +74,7 @@ hth_intro9 = Kennst du diese Bombe noch, Schätzchen? Ich habe sie vom Filmset de
 
 Intro0 = Schau wen wir hier haben, Schätzchen! Scheint so als hättest du mein kleines Versteck gefunden...
 Intro1 = Dieses letzte [icon:timepiece][timepiece]Zeitstück[/timepiece] gehört mir allein, Schätzchen. [br]Wenn du es haben willst musst du wohl kommen und es dir holen.
+
 
 [PicturePerfect]
 Intro0 = Willkommen zu deinem ersten Drehtag, Schätzchen!

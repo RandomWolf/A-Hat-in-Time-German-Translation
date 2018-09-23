@@ -118,36 +118,6 @@ scream5 = Fühlst du Schmerzen? Gut!
 scream6 = Mafia hilft dir Rückgrat aufzubauen!
 
 [bazaar]
-balloon_intro0 = Dieser Shop? Nicht offen.
-balloon_intro1 = Shop kauft nur seltene Sachen, und keiner hat seltene Sachen.
-balloon_intro2 = Altes Rätsel sagt: "Wenn Luftballons erfunden werden, achten sie auf [clue]Ballon im Himmel[/clue]."
-balloon_intro3 = Aber Rätsel zu kompliziert für Mafia zum Verstehen.
-balloon_intro4 = Wenn kleines Kind mit Hut alten Ballon sieht? Komm her.
-
-balloon_gotone0 = Warte, Kind hat altes Tablet? Niemals!
-balloon_gotone1 = Alte Geschichte sagt: [clue]Sechs Tablets[/clue] werden gebraucht für Magie.
-balloon_gotone2 = Kind kommt zurück wenn es sechs hat, und Mafia kombiniert die Tablets für Kind.
-
-trade_ties_intro0 = Hey Kind.
-trade_ties_intro1 = Du siehst aus wie ein schlaues Mädchen. Sehr clever.
-trade_ties_intro2 = Bist du Schlau?
-trade_ties_intro_yes = Die schlauste!
-trade_ties_intro_no = Nicht ganz!
-trade_ties_intro_a0 = Natürlich bist du. Mafia kann es in deinen Augen sehen. Du bist schlauer als die meisten.
-trade_ties_intro_b0 = Vielleicht hat Mafia Kind falsch eingeschätzt. Du bist vielleicht nicht der schärfste Fisch im Gefrierfach. Aber kannst dich ändern.
-trade_ties_intro3 = Mafia verkauft Krawatten. Aber kaufe sie auch. Du verstehen?
-trade_ties_intro4 = Verkaufe einen Mann eine Krawatte und er sieht fein aus. Feine Männer kaufen keine Krawatten.
-trade_ties_intro5 = Mann muss Krawatten verlieren um Neue zu kaufen. Aber wie verschwindet Krawatte? Mafia nicht fragen. Du verstehen?
-trade_ties_intro6 = Mafia kauft Krawatte von dir. Du gibst Krawatte zu Mafia vom feinen Mann. Feiner Mann kommt zurück.
-trade_ties_intro7 = Du nun verstehen, ja? Du bist schlau. Bring mir [name]Mafia-Krawatte[/name] und [clue]als Belohnung bekommst du etwas[/clue].
-
-trade_ties_sale0 = Hallo Kind. Du hast eine Krawatte, ja?
-trade_ties_sale1 = Willkommen zurück. du bringst Mafia-Krawatte?
-trade_ties_sale_noitem0 = Item zu verkaufen: Kein Item. Ausverkauft.
-trade_ties_sale_noitem1 = Wirtschaft ist Schuld. Komm später wieder wenn Mafia etwas zu verkaufen hat.
-trade_ties_sale_badgepart0 = Item zum kaufen: Anstecker. Kombiniere sie um sie auf deinen Hut zu stecken. Ist süß.
-trade_ties_sale_badgepart1 = Mafia nicht sicher, was kombierter Anstecker macht. Mafia nicht neugierig, nicht Mafias Problem.
-
 generic_shop_notopen0 = Mafia baut Laden noch auf, nicht offen. Auch wenn offen, Kind nicht willkommen!
 
 tunnel_block0 = Mafia sagt, halt Auge auf für Tunnel. Vielleicht passiert etwas?
@@ -263,3 +233,34 @@ intro3 = Also bitte kaufen, oder Mafia wird vielleicht mit den kleinen Fischen b
 deny0 = Wieso, wieso nicht kaufen von Mafia!? Mafia braucht das Geld, bitte kaufen!!
 retry0 = Bitte Kaufen! Bitte Kaufen! Mafia braucht das Geld!!
 accept0 = Danke! Mafia wird das Geld vorsichtig ausgeben. In geheimen Spielzimmer.
+
+[Bazar]
+balloon_intro0 = Dieser Shop? Nicht offen.
+balloon_intro1 = Shop kauft nur seltene Sachen, und keiner hat seltene Sachen.
+balloon_intro2 = Altes Rätsel sagt: "Wenn Luftballons erfunden werden, achten sie auf [clue]Ballon im Himmel[/clue]."
+balloon_intro3 = Aber Rätsel zu kompliziert für Mafia zum Verstehen.
+balloon_intro4 = Wenn kleines Kind mit Hut alten Ballon sieht? Komm her.
+
+balloon_gotone0 = Warte, Kind hat altes Tablet? Niemals!
+balloon_gotone1 = Alte Geschichte sagt: [clue]Sechs Tablets[/clue] werden gebraucht für Magie.
+balloon_gotone2 = Kind kommt zurück wenn es sechs hat, und Mafia kombiniert die Tablets für Kind.
+
+trade_ties_intro0 = Hey Kind.
+trade_ties_intro1 = Du siehst aus wie ein schlaues Mädchen. Sehr clever.
+trade_ties_intro2 = Bist du Schlau?
+trade_ties_intro_yes = Die schlauste!
+trade_ties_intro_no = Nicht ganz!
+trade_ties_intro_a0 = Natürlich bist du. Mafia kann es in deinen Augen sehen. Du bist schlauer als die meisten.
+trade_ties_intro_b0 = Vielleicht hat Mafia Kind falsch eingeschätzt. Du bist vielleicht nicht der schärfste Fisch im Gefrierfach. Aber kannst dich ändern.
+trade_ties_intro3 = Mafia verkauft Krawatten. Aber kaufe sie auch. Du verstehen?
+trade_ties_intro4 = Verkaufe einen Mann eine Krawatte und er sieht fein aus. Feine Männer kaufen keine Krawatten.
+trade_ties_intro5 = Mann muss Krawatten verlieren um Neue zu kaufen. Aber wie verschwindet Krawatte? Mafia nicht fragen. Du verstehen?
+trade_ties_intro6 = Mafia kauft Krawatte von dir. Du gibst Krawatte zu Mafia vom feinen Mann. Feiner Mann kommt zurück.
+trade_ties_intro7 = Du nun verstehen, ja? Du bist schlau. Bring mir [name]Mafia-Krawatte[/name] und [clue]als Belohnung bekommst du etwas[/clue].
+
+trade_ties_sale0 = Hallo Kind. Du hast eine Krawatte, ja?
+trade_ties_sale1 = Willkommen zurück. du bringst Mafia-Krawatte?
+trade_ties_sale_noitem0 = Item zu verkaufen: Kein Item. Ausverkauft.
+trade_ties_sale_noitem1 = Wirtschaft ist Schuld. Komm später wieder wenn Mafia etwas zu verkaufen hat.
+trade_ties_sale_badgepart0 = Item zum kaufen: Anstecker. Kombiniere sie um sie auf deinen Hut zu stecken. Ist süß.
+trade_ties_sale_badgepart1 = Mafia nicht sicher, was kombierter Anstecker macht. Mafia nicht neugierig, nicht Mafias Problem.

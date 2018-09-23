@@ -70,17 +70,7 @@ pickpocket_no_va = [name]Mustache Girl[/name] hat die Häflte deiner [icon:money]
 intro0 = Alles klar, ich bin drin! Ich hab's geschafft![br]Ich bin erfolgreich in das Raumschiff vom Kind eingebrochen, ohne den Alarm auszulösen!
 intro1 = Ich bin mir sicher, dass sie schon mehr [timepiece][icon:timepiece]Zeitstücke[/timepiece] hat als ich... wo lagert sie die bloß ?
 vault0 = Jackpot! Das hier muss das Lager sein!
-vault1 = Ughn....!
 vault2 = Dann lasst uns mal ein wenig mit Zeit spielen!
-timepiece_break0 = Blam!
-timepiece_break1 = Bam!
-timepiece_break2 = Bumm!
-timepiece_break3 = Blammo!
-timepiece_break4 = Scheint so, als ob alles ein wenig anfängt verrückt zu werden!
-timepiece_break5 = Mehr! Mehr!
-timepiece_break6 = Na also!! Wechsel diesen Drecksplaneten in etwas, das ICH will!!!!
-doorblocked0 = Mist, hier kann ich nicht durch!
-doorblocked1 = Oh, die hier ist gesperrt. Vielleicht Gesichtserkennung?
 
 [finale]
 plead0 = Oh, was für eine berührende Geschichte. [waitlong]Ha, Scherz![br]Bösewicht! NÄCHSTER!
@@ -117,6 +107,19 @@ thrown0 = Ächz!
 thrown1 = Nein, wirf nicht miiiiiiiiiiiiich.....!
 
 hifive0 = Yeah!!
+
+[MuMission_Finale/Del]
+vault1 = Ughn....!
+
+timepiece_break0 = Blam!
+timepiece_break1 = Bam!
+timepiece_break2 = Bumm!
+timepiece_break3 = Blammo!
+timepiece_break4 = Scheint so, als ob alles ein wenig anfängt verrückt zu werden!
+timepiece_break5 = Mehr! Mehr!
+timepiece_break6 = Na also!! Wechsel diesen Drecksplaneten in etwas, das ICH will!!!!
+doorblocked0 = Mist, hier kann ich nicht durch!
+doorblocked1 = Oh, die hier ist gesperrt. Vielleicht Gesichtserkennung?
 
 [MuMission_UI]
 intro0 = Jetzt bin ich an der Reihe!

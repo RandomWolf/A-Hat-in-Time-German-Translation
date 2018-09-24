@@ -7,7 +7,7 @@ Location_MainHall = in der Haupthalle
 Location_MachineRoom = im Maschinenraum
 Location_Basement = im Keller
 Location_Attic = auf dem Dachboden
-Location_LandryRoom = Wäsche Raum
+Location_LandryRoom = Wäscheraum
 
 [Ending]
 ThrowMu0 = Ein [icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um dem [icon:mugirl][name]Mädchen mit der roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece]-Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann vielleicht nicht mehr nach Hause kommen können.)

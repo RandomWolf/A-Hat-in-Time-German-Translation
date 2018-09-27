@@ -34,7 +34,7 @@ Title = 10 Sekunden bis zur Selbstzerstörung
 Objective = Schließe Zug Sause ab
 NoHat = Keine Hut-Fähigkeiten, mit 1-Treffer Held-Anstecker
 Tokens = Sammle alle Tokens des Schaffners
-Condition = Der Eulenexpress musss sich wegen des Zeitplans beeilen
+Condition = Der Eulenexpress muss sich wegen des Zeitplans beeilen
 Tip0 = Wenn ich von 10 Sekunden rede, meine ich es auch! Du Beeilst dich besser, Kleine!
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]

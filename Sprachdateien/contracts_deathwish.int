@@ -286,7 +286,7 @@ Title = Den Vertrag verletzen
 Objective = Besiege den Snatcher
 Condition = Ich bin attraktiver als je zuvor!
 FewHits = Lasse deine Lebensanzeige nicht auf 1 HP fallen
-NoUmbrella = Attackiere mich nicht! Wirf nur blaue Chemikalien!
+NoUmbrella = Greife mich nicht an! Wirf nur blaue Chemikalien!
 Tip0 = Versuche nicht [name]zwischen Schockwellen zu landen[/name]. Mir wäre es [shake]viel lieber[/shake], wenn du einfach mit Gesicht nach unten am Boden liegen würdest.
 
 [Hat_SnatcherContract_DeathWish_MuGirlEX]

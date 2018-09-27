@@ -4,7 +4,7 @@ Conditions_3Checkpoints = Du kannst 3 mal vom letzten Checkpoint neustarten
 Conditions_NoHealth = Keine Lebens-Pons
 Conditions_NoCheckpoints = Keine Checkpoints
 Conditions_ClearLevel = Du musst ein Zeitstück sammeln
-Conditions_EasyMode = Einfach-Modus ist eingeschaltet
+Conditions_EasyMode = Ruhe und Frieden ist eingeschaltet
 
 Contract_Clear = Clear!
 Contract_Unlocked = Unlocked
@@ -58,24 +58,24 @@ EasyTip = Kühle dich nach jedem Hahn ab!
 [Hat_SnatcherContract_DeathWish_NoAPresses]
 Title = Keine Sprünge
 Objective = Sammle irgendein Zeitstück, ohne zu springen
-Condition = Du springst, du stirbst!
-Collect4 = Sammle 4 Zeitstücke, ohne zu springen!
-TrainRush = Schließe Zug Sause ab, ohne zu springen!
-Tip0 = Mit kurzen Antippen, kann dein [icon:icehat] dir ein wenig Höhe verleihen, ohne eigentlich springen zu müssen. Wie praktisch!
+Condition = Ein Sprung, ein Tod!
+Collect4 = Sammle 4 Zeitstücke. Ohne zu springen!
+TrainRush = Schließe Zug Sause ab. Ohne zu springen!
+Tip0 = Durch kurzes Antippen kann dein [icon:icehat] dir ein wenig Höhe verleihen, ohne wirklich springen zu müssen. Wie praktisch!
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]
 Title = Überdrehte Windmühle
 Objective = Schließe Die Alte Windmühle ab
 OneHit = Keine Hut-Fähigkeiten, mit 1-Treffer Held-Anstecker
-TimeLimit = Erreiche in 4 Minuten das Ende
-TimeLimit_Easy = Erreiche in 10 Minuten das Ende
-Condition = Die Windmühle arbeitet mit "Höchstleistung"
-Tip0 = Probleme mit schnellen Platformen? Versuche nicht so hoch zu springen, dann landet man schneller. Und dann benutze den [name]Schwung[/name] der Platform als Vorteil![br][name]Timing ist alles[/name]!
+TimeLimit = Erreiche das Ende in unter 4 Minuten
+TimeLimit_Easy = Erreiche das Ende in unter 10 Minuten
+Condition = Die Leistung der Windmühle hat ihren "Gipfel" erreicht.
+Tip0 = Probleme mit schnellen Platformen? Versuche nicht so hoch zu springen, dann landest du schneller. Und dann benutze den [name]Schwung[/name] der Platform als Vorteil![br][name]Timing ist alles[/name]!
 
 [Hat_SnatcherContract_DeathWish_SecretVault]
 Title = Geheimer Tresor
 Objective = Öffne den goldenen Tresor
-Condition = Die Teile des Tresorcodes haben sich verstreut
+Condition = Die Teile des Tresorcodes wurden verstreut
 Condition2 = Der Tresor zeigt nur in etwa zu den Teilen des Tresorcodes
 
 [Hat_SnatcherContract_DeathWish_BossRush]
@@ -84,7 +84,7 @@ Objective = Nieder mit den Mafia (und allen anderen auch!)
 NoMiss = Verpasse keine Chance zum Angriff
 OneHit = Gewinne mit 1-Treffer Held-Anstecker
 Condition = Keine Heilung zwischen Kämpfen
-Tip0 = Falls du ein [icon:health] [name]Lebens-Pon[/name] findest, sammle es nur ein, wenn du es brauchst! Vielleicht ist es später nötig...
+Tip0 = Falls du ein [icon:health] [name]Lebens-Pon[/name] findest, sammle es nur ein, wenn du es benötigst! Wer weiß, wann du es brauchen kannst...
 
 [Hat_SnatcherContract_DeathWish_BossRushEX]
 Title = Seal the Deal
@@ -92,19 +92,20 @@ Objective = Besiege deine stärksten Gegner
 Condition = Viel Glück!
 NoHats = Benutze keine Hut-Fähigkeiten
 FewHits = Lasse deine Lebensanzeige nicht auf 1 HP fallen
-Tip0 = Vergiss nicht, Pausen einzulegen! Es ist nicht gut sich für eine lange Zeit nicht zu bewegen!
+Tip0 = Vergiss nicht, Pausen einzulegen! Sich länger nicht zu bewegen ist schlecht für die Gesundheit!
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
 Title = Collect-a-thon
 Objective = Sammle 100 Pons
 NoBoxes = Zerbreche keine Kisten oder Fässer
 FewPons = Sammle insgesamt nicht mehr als 200 Pons ein
-Condition = Sammlung entleert sich nach einiger Zeit
+Condition = Die Sammlung entleert sich nach einiger Zeit
 Tip0 = Höre nie auf Pons zu sammeln, Kleine! Halte Ausschau nach Kisten, Fässern, Bullys und weitere Dinge, die man [name]aufknacken[/name] kann und dir viele Pons geben!
+EasyTip = Zerbrich Kisten und Fässer!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
 Title = Snatcher-Münzen in Mafia-Stadt
-Objective = Finde Snatcher-Münzen in Mafia-Stadt
+Objective = Finde eine Snatcher-Münze in Mafia-Stadt
 2Tokens = Finde 2 Snatcher-Münzen
 3Tokens = Finde alle 3 Snatcher-Münzen
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das kinderleicht sein!
@@ -115,7 +116,6 @@ Objective = Finde eine Snatcher-Münze im Kampf der Vögel
 2Tokens = Finde 2 Snatcher-Münzen
 3Tokens = Finde alle 3 Snatcher-Münzen
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das ein Klacks sein!
-
 
 [Hat_SnatcherContract_DeathWish_Tokens_Subcon]
 Title = Snatcher-Münzen im Subcon-Wald
@@ -139,7 +139,7 @@ Bonus2 = Schließe es in weniger als 1:20 ab
 Objective_Easy = Schließe 'Sie kam auf dem All' in weniger als 3:40 ab.
 Bonus1_Easy = Schließe es in weniger als 3:10 ab
 Bonus2_Easy = Schließe es in weniger als 2:40 ab
-Tip0 = Es wäre ja schön, falls du den Spinner mit der albernen Brille ignorieren könntest, aber [name]er hat etwas, dass du brauchst[/name].
+Tip0 = Es wäre ja schön, wenn du den Spinner mit der albernen Brille ignorieren könntest, aber [name]er hat etwas, dass du brauchst[/name].
 
 [Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
 Title = Speedrun-Brunnen
@@ -149,7 +149,7 @@ Bonus2 = Schließe es in weniger als 1:25 ab
 Objective_Easy = Schließe 'Der Subcon-Brunnen' in weniger als 4:00 ab
 Bonus1_Easy = Schließe es in weniger als 3:20 ab
 Bonus2_Easy = Schließe es in weniger als 2:50 ab
-Tip0 = All diese Platformen wurden hübsch platziert. Es wäre eine Schande, wenn man sie alle [name]überspringen[/name] würde...
+Tip0 = All diese Platformen wurden hübsch platziert. Es wäre eine Schande, wenn jemand sie alle [name]überspringen[/name] würde...
 
 [Hat_SnatcherContract_DeathWish_Speedrun_Illness]
 Title = Die Krankheit hat sich verrannt
@@ -166,8 +166,8 @@ Title = Riss-Zusammenbruch: Koch-Mafia
 Objective = Schließe den Koch-Mafia Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
-Faster = Noch mindestens 30 Sekunden übrig
-Faster_Easy = Noch mindestens 15 Sekunden übrig
+Faster = Fliehe mit mindestens 30 Sekunden verbleibend
+Faster_Easy = Fliehe mit mindestens 15 Sekunden verbleibend
 Condition = Der Zeitriss ist instabil geworden!
 Tip0 = Wow, du musst aber auch sehr viele [icon:treasure] [name]sammeln[/name]... Wär's nicht schön, wenn es einen [name]Anstecker[/name] dafür geben würde?
 
@@ -176,8 +176,8 @@ Title = Riss-Zusammenbruch: Dead Bird Studio
 Objective = Schließe den The Dead Bird Studio Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
-Faster = Noch mindestens 30 Sekunden übrig
-Faster_Easy = Noch mindestens 15 Sekunden übrig
+Faster = Fliehe mit mindestens 30 Sekunden verbleibend
+Faster_Easy = Fliehe mit mindestens 15 Sekunden verbleibend
 Condition = Der Zeitriss ist instabil geworden!
 Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, das die Zeit pausieren kann und dich umschauen lässt...
 
@@ -186,8 +186,8 @@ Title = Riss-Zusammenbruch: Schläfriger Subcon
 Objective = Schließe den Schläfriger Subcon Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
-Faster = Noch mindestens 30 Sekunden übrig
-Faster_Easy = Noch mindestens 15 Sekunden übrig
+Faster = Fliehe mit mindestens 30 Sekunden verbleibend
+Faster_Easy = Fliehe mit mindestens 15 Sekunden verbleibend
 Condition = Der Zeitriss ist instabil geworden!
 Tip0 = Wow, du musst aber auch sehr viele [icon:treasure] [name]sammeln[/name]... Wär's nicht schön, wenn es einen [name]Anstecker[/name] dafür geben würde?
 
@@ -196,8 +196,8 @@ Title = Riss-Zusammenbruch: Alpin-Bergkette
 Objective = Schließe den Alpin-Bergkette Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
-Faster = Noch mindestens 30 Sekunden übrig
-Faster_Easy = Noch mindestens 15 Sekunden übrig
+Faster = Fliehe mit mindestens 30 Sekunden verbleibend
+Faster_Easy = Fliehe mit mindestens 15 Sekunden verbleibend
 Condition = Der Zeitriss ist instabil geworden!
 Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, das die Zeit pausieren kann und dich umschauen lässt...
 
@@ -206,8 +206,8 @@ Title = Riss-Zusammenbruch: Tiefsee
 Objective = Schließe den Tiefsee Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
-Faster = Noch mindestens 30 Sekunden übrig
-Faster_Easy = Noch mindestens 15 Sekunden übrig
+Faster = Fliehe mit mindestens 30 Sekunden verbleibend
+Faster_Easy = Fliehe mit mindestens 15 Sekunden verbleibend
 Condition = Der Zeitriss ist instabil geworden!
 Tip0 = Verirrt? Wenn du doch nur [icon:camerabadge] [name]etwas[/name] hättest, das die Zeit pausieren kann und dich umschauen lässt...
 
@@ -216,10 +216,10 @@ Title = Mafias Sprünge
 Objective = Schließe 'Sie kam aus dem All' mit nur 15 Sprüngen ab
 Presses1 = Schließe es mit 11 Sprüngen ab
 Presses2 = Schließe es mit 7 Sprüngen ab
-Objective_Easy = Schließe 'Sie kam auf dem All' mit nur 15 Sprüngen ab
+Objective_Easy = Schließe 'Sie kam auf dem All' mit nur 24 Sprüngen ab
 EasyPresses1 = Schließe es mit 18 Sprüngen ab
 EasyPresses2 = Schließe es mit 14 Sprüngen ab
-Tip0 = Mit kurzen Antippen, kann man mit deinem [icon:icehat] Kanten hochklettern, ohne eigentlich springen zu müssen. Klingt hilfreich!
+Tip0 = Durch kurzes Antippen kannst du mit deinem [icon:icehat] Kanten hochklettern, ohne wirklich springen zu müssen. Klingt hilfreich!
 
 [Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
 Title = Gemeinsame Zeit mit Snatcher
@@ -227,8 +227,8 @@ Objective = Überlebe Snatcher für 2 Minuten
 Medium = Überlebe für 4 Minuten
 Long = Überlebe für 6 Minuten
 Objective_Easy = Überlebe Snatcher für 1 Minute
-Medium_Easy = Überlebe Snatcher für 2 Minuten
-Long_Easy = Überlebe Snatcher für 3 Minuten
+Medium_Easy = Überlebe für 2 Minuten
+Long_Easy = Überlebe für 3 Minuten
 Condition = Dieses Mal, keine blauen Chemikalien!
 Tip0 = Komm' schon, Kleine! Lass uns Freunde sein! Ich werfe keine blauen Chemikalien und du schlägst mich mit deinem Schirm. Kommen wir ins Geschäft?
 
@@ -245,15 +245,16 @@ Condition = Vögel verletzen ist verboten!
 Objective = Schließe das Vogelhaus ab, ohne Vögel zu verletzen
 TimeLimit = Erreiche in weniger als 65 Sekunden das Ende
 TimeLimit_Easy = Erreiche in weniger als 3 Minuten das Ende
-MafiaHunt = Besiege 6 verstecke Mafia
-Tip0 = Sei sicher, dass du die Vögel von diesen [name]explodierenden Eiern[/name] fernhälst, ich möchte keine Verletzungen sehen!
+NoKills = Mit Ein-Treffer Held-Anstecker
+MafiaHunt = Besiege die 6 verstecke Mafia
+Tip0 = Sei sicher, dass du die Vögel von diesen [name]explodierenden Eiern[/name] fernhälst. Ich möchte keine Verletzungen sehen!
 
 [Hat_SnatcherContract_DeathWish_CameraTourist_1]
 Title = Kamera-Tourist
-Objective = Schieße ein Foto mit 8 verschiedenen Gegnern
+Objective = Schieße ein Foto von 8 verschiedenen Gegnern
 GroupShot = Schieße ein einziges Foto mit 3 verschiedenen Gegnern
-AllBosses = Schieße ein Foto mit jedem Boss
-Tip0 = Knispe ein Foto mit meiner positiven Seite! Am besten während [name]ich dich töte[/name].
+AllBosses = Schieße ein Foto von jedem Boss
+Tip0 = Knipse ein Foto von meiner Schokoladenseite! Am besten während [name]ich dich töte[/name].
 
 [Hat_SnatcherContract_DeathWish_MovingVault]
 Title = Die Tresorcodes im Winde verweht
@@ -262,65 +263,63 @@ NoSlow = Verlangsamere die Zeit nicht
 Kill = Finde die Zeit, 10 Mafia zu besiegen
 Kill_Easy = Finde die Zeit, einen Mafia zu besiegen
 Condition = Du hast nur 30 Sekunden Zeit jeden einzelnen Teil des Tresorcodes zu sammeln
-Tip0 = Lass dir ruhig Zeit, Kleine. Entspann dich und beobachte wie die Teile des Tresorcodes im Winde flatterrn. Sehr beruhigend! 
+Tip0 = Lass dir ruhig Zeit, Kleine. Entspann dich und beobachte, wie die Teile des Tresorcodes im Winde flatterrn. Sehr beruhigend! 
 
 [Hat_SnatcherContract_DeathWish_MafiaBossEX]
 Title = Zugabe! Zugabe!
 Objective = Besiege den Mafia-Boss
-NoMiss = Verpasse deine Angriffchance nicht
+NoMiss = Verpasse keine Chance zum Angriff
 NoHit = Mit 1-Treffer Held-Anstecker
 Condition = Er ist komplett aufgeladen!
-Tip0 = Dieser alte Narr scheint ein wenig vorsichtiger mit seinem neuen Körper zu sein, aber er hat immer noch diese Angewohnheit herumzustampfen und zu brüllen bis es ihm [name]blau im Gesicht wird[name/]. 
+Tip0 = Dieser alte Narr scheint ein wenig vorsichtiger mit seinem neuen Körper zu sein, aber er hat immer noch diese Angewohnheit, herumzustampfen und zu brüllen bis es ihm [name]blau im Gesicht wird[name/]. 
 
 [Hat_SnatcherContract_DeathWish_BirdBossEX]
 Title = Zwei Fliegen mit einer Klappe schlagen
 Objective = Besiege beide Regisseure
-Fast = Gewinne mit mindestens 60 Sekunden übrig
+Fast = Gewinne mit mindestens 100 Sekunden verbleibend
 BestBird = Attackiere nur einen Regisseur bis zum Ende
 Condition = Das nächste Projekt ist eine Zusammenarbeit...
-Tip0 = Hier geht viel los, aber bleib am Ball! Vergiss nicht, Kleine: Ein Vogel 
+Tip0 = Hier passiert viel, aber bleib am Ball! Vergiss nicht, Kleine: Lieber den Schaffner in der Hand als einen DJ Grooves auf dem Dach. 
 
 [Hat_SnatcherContract_DeathWish_SnatcherEX]
-Title = Den Vertrag brechen
+Title = Den Vertrag verletzen
 Objective = Besiege den Snatcher
 Condition = Ich bin attraktiver als je zuvor!
-FewHits = Lasse deine Lebensanzeige nicht auf 1 HP sinken
-NoUmbrella = Triff mich nicht mit deinem Schirm! Es ist unhöflich!
-Tip0 = Versuche nicht [name]zwischen Schockwellen zu landen[/name]. Mir ist es [shake]viel lieber[/shake], wenn du einfach mit Gesicht nach unten am Boden liegen würdest.
+FewHits = Lasse deine Lebensanzeige nicht auf 1 HP fallen
+NoUmbrella = Attackiere mich nicht! Wirf nur blaue Chemikalien!
+Tip0 = Versuche nicht [name]zwischen Schockwellen zu landen[/name]. Mir wäre es [shake]viel lieber[/shake], wenn du einfach mit Gesicht nach unten am Boden liegen würdest.
 
 [Hat_SnatcherContract_DeathWish_MuGirlEX]
 Title = Keine Bösewichte mehr
 Objective = Besiege Mustache Girl
 NoHat = Benutze keine deiner dummen Hüte!
-Time = Verschwende in der Hyper-Zone nicht mehr als 3 Minuten!
+Time = Verschwende nicht mehr als 3 Minuten in der Hyper-Zone!
 Condition = Sie stahl einen Haufen dieser eigenartigen Zeitstücke!
 Tip0 = Sei in diesem Kampf nicht kampfeslustig. Versuche dieses Mal zu überleben und lerne erst mal, wie man [name]ihre Angriffe vermeidet[/name].
 
 [Hat_SnatcherContract_DeathWish_KillEverybody]
 Title = Snatchers Trefferliste
-Objective = Töte 10 Mafia, ohne geschlagen zu werden
+Objective = Töte 5 Mafia, ohne geschlagen zu werden
 NoBully = Töte 10 Abstoßende Krähen, ohne gemobbt zu werden
 KillEmAll = Töte jeden Gegnertyp
 Condition = Sie haben dich durchschaut!
-Tip0 = Sorge dafür, dass du [name] alle auf dieser Liste tötest[/name], okay? Manche sind schwer zu finden. Du musst vielleicht in [name]anderen Kapiteln[/name] nachsuchen.
+Tip0 = Sorge dafür, dass du [name] alle auf dieser Liste tötest[/name], okay? Manche sind schwer zu finden. Du musst vielleicht in [name]anderen Kapiteln[/name] nachschauen.
 
 [Hat_SnatcherContract_DeathWish_EndlessTasks]
 Title = Ein blauer Fleck für ein blaues Schiff
-Objective = Schließe 50 Aufgaben ab
+Objective = Schließe 40 Aufgaben ab
+NoMiss = Schließe 40 Aufgaben ab und verpasse keine
+More = Schließe 70 Aufgaben ab
 Objective_Easy = Schließe 30 Aufgaben ab
-More = Schließe 50 Aufgaben ab und verpasse keine
-Less = Schließe 30 Aufgaben ab und verpasse keine
-EvenMore = Schließe 70 Aufgaben ab
-EvenLess = Schließe 40 Aufgaben ab
-Condition = Es gibt kein Ende im Sicht
+Condition = Es ist kein Ende im Sicht
 Tip0 = Lerne zuerst mal [name]das Layout[/name] des Schiffs. Es könnte sein, dass es noch einige unbekannte Wege gibt!
 
 [Hat_SnatcherContract_DeathWish_BackFromSpace]
 Title = Du bist also aus dem All zurückgekehrt
 Objective = Erreiche das Zeitstück
 Kills = Zerschmetter alle UFOs
-Speed = Erreiche in 65 Sekunden das Ende
-Speed_Easy = Erreiche in 3 Minuten das Ende
+Speed = Erreiche in unter 65 Sekunden das Ende
+Speed_Easy = Erreiche in unter 3 Minuten das Ende
 Condition = Bist du sicher, dass das ein Zeitstück ist?
 Tip0 = Du wirst ohne [name]zu wissen, wie man deinen Weitsprung abbricht[name/] nicht weit kommen. Was auch immer das heißen soll. Du wirst es schon herausfinden.
 EasyTip = Versuche es mal mit deinem Zeitlupen-Hut!
@@ -332,7 +331,7 @@ Condition = Von Lane 'FlameLFH' Haskins beigetragen
 Objective = Schließe das Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPages = Sammle alle Seiten des Bilderbuches ein
-Tip0 = Das musst du machen, Kleine. Ich bin ein schrecklicher Tänzer.[br]Ich habe dafür die Beine nicht.
+Tip0 = Die Bühne gehört dir, Kleine. Ich bin ein schrecklicher Tänzer.[br]Mir fehlt dafür die nötige Beinarbeit.
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_TwilightTravels]
 Title = Community Riss: Twilight Travels
@@ -350,4 +349,4 @@ Condition = Von Devan 'Mr.Brawls' Miller beigetragen
 Objective = Schließe das Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPages = Sammle alle Seiten des Bilderbuches ein
-Tip0 = Ich liebe Berge, und du? All diese malerischen vertikalen Bergstürze!
+Tip0 = Ich liebe Berge, du nicht auch? All diese malerischen vertikalen Bergstürze!

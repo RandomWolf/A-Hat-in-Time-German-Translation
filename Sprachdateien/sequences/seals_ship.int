@@ -3,82 +3,82 @@ desksealA10 = Hi! Wie kann ich Ihnen welfen?
 desksealA11 = Sie suchen nach etwas, was sow [icon:timepiece] auwsieht?
 desksealA12 = Hmmm... Wo hab' ich das gesehwen...
 desksealA13 = Denkt wehr swer [shake]naaaach[/shake]...
-desksealA14 = Oh! Ich erwinner mich! Wir hatten eines davon zerbwochen und es vom Kapitän versteckt! [br]Er würde nicht wehr zufwieden sein, wenn er die Sauwerwei sehen würde.
-desksealA15 = Wir haben versucht es aufzuräumen, aber. Äh. Öh. Wir hatten das nicht so gut gemacht... und einige Teile verloren...
+desksealA14 = Oh! Ich erwinner mich! Wir hatten eines davon zerbwochen und es vom KapitÃ¤n versteckt! [br]Er wÃ¼rde nicht wehr zufwieden sein, wenn er die Sauwerwei sehen wÃ¼rde.
+desksealA15 = Wir haben versucht es aufzurÃ¤umen, aber. Ã„h. Ã–h. Wir hatten das nicht so gut gemacht... und einige Teile verloren...
 desksealA16 = Es tut mir so wurchtbar leid! Bitte seien Sie nicht twaurig!
 
-deckshard0 = H-hawwo! Ich muss alle leeren Gläser holen, aber ich hatte sie fallen gelassen. Können Sie mir helfen?
+deckshard0 = H-hawwo! Ich muss alle leeren GlÃ¤ser holen, aber ich hatte sie fallen gelassen. KÃ¶nnen Sie mir helfen?
 
-leftshard0 = Ich hatte mir weh getwan... Kannst dwu mich zwum Kapitän twagen, bitte?
-leftshard3 = Danke, dass Sie mein Wehwehswen küssen! Ich fühle mich swon ein wenig besser! [br]Ich hatte dieses glitzernde Glas gefunden, aber jetzt gehört es dir!
+leftshard0 = Ich hatte mir weh getwan... Kannst dwu mich zwum KapitÃ¤n twagen, bitte?
+leftshard3 = Danke, dass Sie mein Wehwehswen kÃ¼ssen! Ich fÃ¼hle mich swon ein wenig besser! [br]Ich hatte dieses glitzernde Glas gefunden, aber jetzt gehÃ¶rt es dir!
 
-seals0 = Hawwo! Ich hoffe, dass Sie dieses Schiff mögen! Wir arbeiten wehr swer es sauber und aufgeräumt zu lassen.
-seals1 = E-entswuldigung! Nicht am Pool rennen, bitte und danke [shake]swööön~[/shake]!
-seals2 = Hi! Möchtwen Sie ein Pool-Spielzeug kaufwen?
-seals3 = Wir haben sie in den verswiedesten Formen und Größen! Und sie swimmen!
-seals4 = Willkowwen, gnä' Frau. Ich glaube, dass wir werade keinen Tisch für eine Person habwen...
-seals5 = Hoppla! Das Rettungswoot blockiert die Tür!
+seals0 = Hawwo! Ich hoffe, dass Sie dieses Schiff mÃ¶gen! Wir arbeiten wehr swer es sauber und aufgerÃ¤umt zu lassen.
+seals1 = E-entswuldigung! Nicht am Pool rennen, bitte und danke [wave]swÃ¶Ã¶Ã¶n~[/wave]!
+seals2 = Hi! MÃ¶chtwen Sie ein Pool-Spielzeug kaufwen?
+seals3 = Wir haben sie in den verswiedesten Formen und GrÃ¶ÃŸen! Und sie swimmen!
+seals4 = Willkowwen, gnÃ¤' Frau. Ich glaube, dass wir werade keinen Tisch fÃ¼r eine Person habwen...
+seals5 = Hoppla! Das Rettungswoot blockiert die TÃ¼r!
 seals6 = Es ist [shake]so swer[/shake]...
 
-bathroom0 = Sowwy! Ich hatte einen Einkaufswagen umgestwürtzt, also müssen die Toiletten gespwerrt werden!
+bathroom0 = Sowwy! Ich hatte einen Einkaufswagen umgestwÃ¼rtzt, also mÃ¼ssen die Toiletten gespwerrt werden!
 
-signs0 = Zum Empfwang müssen Sie hier entwang gehen!
+signs0 = Zum Empfwang mÃ¼ssen Sie hier entwang gehen!
 signs1 = Willkowwen an Bword!
 
 seal_egg0 = Ei.
 Egg0 =  [name]Mr. E:[/name] Ei.
 Egg1 =  [name]Mr. N:[/name] Wow, Alter, wie hast'n das geschafft?
-Egg2 = [name]Mr. E:[/name] Käse ist eine alte Meme. Jetzt ist Mr E dran...Möchtest du mitmachen Mr N?
+Egg2 = [name]Mr. E:[/name] KÃ¤se ist eine alte Meme. Jetzt ist Mr E dran...MÃ¶chtest du mitmachen Mr N?
 Egg3 = [name]Mr. N:[/name] k
 
 [act2]
-thankyou0 = Dankeswön!
-thankyou1 = Danke für die Hilfwe!
+thankyou0 = DankeswÃ¶n!
+thankyou1 = Danke fÃ¼r die Hilfwe!
 
-seals0 = Hallöchen! Wie kann ich Ihnen welfen?
-seals1 = Oh? Da ist etwas, dass Sie im Fwundbüro haben wöchten?
-seals2 = Hmm... der Kapitän lässt uns etwas davon wehmen, falls wir wehr, wehr swer arbeiten! Vielleicht können Sie helfen!
-seals3 = Aaaaber... Sie müssen ihn wehr höflich fwagen. [hint]Folge einfach die Unordnung zu seinem Raum![/hint]
-seals4 = Der Kapitän ist wehr unordentlich. Aber er arbeitet wehr swer das Schiff zu steuern!
+seals0 = HallÃ¶chen! Wie kann ich Ihnen welfen?
+seals1 = Oh? Da ist etwas, dass Sie im FwundbÃ¼ro haben wÃ¶chten?
+seals2 = Hmm... der KapitÃ¤n lÃ¤sst uns etwas davon wehmen, falls wir wehr, wehr swer arbeiten! Vielleicht kÃ¶nnen Sie helfen!
+seals3 = Aaaaber... Sie mÃ¼ssen ihn wehr hÃ¶flich fwagen. [hint]Folge einfach die Unordnung zu seinem Raum![/hint]
+seals4 = Der KapitÃ¤n ist wehr unordentlich. Aber er arbeitet wehr swer das Schiff zu steuern!
 seals5 = Wir haben ihn ganz dwoll lieb! 
 
-seals4 = [small]Ähm...[/small] Sie dürfen das nicht ohne Erwaubnis des Kapitäns öffnen.
-seals5 = Hawwo! Der Kapitän sagte, dass Sie etwas nehmen könnwen. Da ist weute etwas wehr glänzendes!
+seals4 = [small]Ã„hm...[/small] Sie dÃ¼rfen das nicht ohne Erwaubnis des KapitÃ¤ns Ã¶ffnen.
+seals5 = Hawwo! Der KapitÃ¤n sagte, dass Sie etwas nehmen kÃ¶nnwen. Da ist weute etwas wehr glÃ¤nzendes!
 
 [docks]
 seals1 = Willkowwen auf der Kweuzfahrt!
 seals2 = Wir hoffen, dass es Ihnen wehr gefallen wird!
 
 [act3]
-loudspeaker0 = Hawwo! Der Kapitän hat eine Nachr-
+loudspeaker0 = Hawwo! Der KapitÃ¤n hat eine Nachr-
 
-carried0 = Dankeswön!
+carried0 = DankeswÃ¶n!
 carried1 = Ooh! Wohin gwehen wir?
 
 seals0 = Danke wehr!
 
 [fluff]
-deskseals0 = Hawwo! Falls Sie eine Rückerstattung haben möchten, sollte ich wormalerweise sagen, dass wir diese nicht gebwen! 
-deskseals1 = Aber das wist gemein! Wückerstwattungen für alle, Hurrah!
+deskseals0 = Hawwo! Falls Sie eine RÃ¼ckerstattung haben mÃ¶chten, sollte ich wormalerweise sagen, dass wir diese nicht gebwen! 
+deskseals1 = Aber das wist gemein! WÃ¼ckerstwattungen fÃ¼r alle, Hurrah!
 
-kitchenseals0 = B-bitte sei vorsichtwig! Wir haben ein kweines Pwobwem mit den Öfen...
-kitchenseals1 = Aua! Feuwer ist wirklich heiß...
+kitchenseals0 = B-bitte sei vorsichtwig! Wir haben ein kweines Pwobwem mit den Ã–fen...
+kitchenseals1 = Aua! Feuwer ist wirklich heiÃŸ...
 kitchenseals2 = Hawwo! Ich habe gewade eine Pause!
-kitchenseals3 = Es ist wehr swer die Theken zu erreichen! Vielleicht hätten wir kweinere nehmen sollen...
-kitchenseals4 = Oh-oh!! Überwall ist Pudding! Bitte pass wauf!
+kitchenseals3 = Es ist wehr swer die Theken zu erreichen! Vielleicht hÃ¤tten wir kweinere nehmen sollen...
+kitchenseals4 = Oh-oh!! Ãœberwall ist Pudding! Bitte pass wauf!
 kitchenbubbleseal0 = Wir haben eine Bestwellung am Schiffsdeck! Nimm den Aufzwug!
-kitchenbubbleseal1 = Das ist für jemanden am Swimmbad!
-kitchenbubbleseal2 = Das hier ist für dwen Speisesaal!
+kitchenbubbleseal1 = Das ist fÃ¼r jemanden am Swimmbad!
+kitchenbubbleseal2 = Das hier ist fÃ¼r dwen Speisesaal!
 kitchenbubbleseal3 = Nimm dies hier zwum Speisesaal, bitte!
 kitchenbubbleseal4 = Zwimmerdienst! Nimm das zwum Balkon!
 kitchenbubbleseal5 = Wir habwen eine Zwimmerdienst-Bestellung!
-kitchenbubbleseal6 = Steuerbord! Äh, das ist dwie rechte Seite!
-kitchenbubbleseal7 = Bordwand! Gerade aus dwurch die Tür!
+kitchenbubbleseal6 = Steuerbord! Ã„h, das ist dwie rechte Seite!
+kitchenbubbleseal7 = Bordwand! Gerade aus dwurch die TÃ¼r!
 
-seals0 = Diese Bawetücher sind wehr gemütlich!
-seals1 = Ich sollte arbeiten, aber das ist hier [shake2]so swön[/shake2]...
+seals0 = Diese BawetÃ¼cher sind wehr gemÃ¼tlich!
+seals1 = Ich sollte arbeiten, aber das ist hier [wave]so swÃ¶n[/wave]...
 seals2 = Bitte pwass auf! Es geht von hier aus stweil herunter!
-seals3 = Uups... wir hätten die Twische befwestigen sollen! Jetzt schlwittern sie überwall.
-seals4 = Hmmm... Sie sehen zwu jung für Glückspiele aus! Wut mir leid!
-seals5 = Übrigwens, bitte steige vom Twisch!
-seals6 = Ist dwer Garten nicht wunderswön?
+seals3 = Uups... wir hÃ¤tten die Twische befwestigen sollen! Jetzt schlwittern sie Ã¼berwall.
+seals4 = Hmmm... Sie sehen zwu jung fÃ¼r GlÃ¼ckspiele aus! Wut mir leid!
+seals5 = Ãœbrigwens, bitte steige vom Twisch!
+seals6 = Ist dwer Garten nicht wunderswÃ¶n?

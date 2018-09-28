@@ -279,7 +279,7 @@ Objective = Besiege beide Regisseure
 Fast = Gewinne mit mindestens 100 Sekunden verbleibend
 BestBird = Attackiere nur einen Regisseur bis zum Ende
 Condition = Das nächste Projekt ist eine Zusammenarbeit...
-Tip0 = Hier passiert viel, aber bleib am Ball! Vergiss nicht, Kleine: Lieber den Schaffner in der Hand als einen DJ Grooves auf dem Dach. 
+Tip0 = Hier passiert viel, aber bleib am Ball! Vergiss nicht, Kleine: Lieber den [icon:conductor] [name]Schaffner[/name] in der Hand als einen [icon:djgrooves] [name]Grooves[/name] auf dem Dach. 
 
 [Hat_SnatcherContract_DeathWish_SnatcherEX]
 Title = Den Vertrag verletzen

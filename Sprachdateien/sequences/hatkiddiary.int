@@ -5,97 +5,97 @@ NoEntry1 = Ich werde diesen Tagebucheintrag einfach leer lassen, sorry, Zukunfts
 
 [Acts]
 // MAFIA TOWN
-chapter1_tutorial_0 = So... Ich sitze fest. Ein großer Mann in Kochschürze und Anzug, klopfte an meiner Tür und entschied alles zu vermasseln.
-chapter1_tutorial_1 = Anscheinend sind sie die "Mafia der Köche". Warum konnte ich nicht einfach an einem normalen Planeten stranden? 
+chapter1_tutorial_0 = So... Ich sitze fest. Ein großer Mann in Kochschürze und Anzug klopfte an meiner Tür und entschied, alles zu vermasseln.
+chapter1_tutorial_1 = Anscheinend sind sie die "Mafia der Köche". Warum konnte ich nicht einfach in der Nähe eines normalen Planeten stranden? 
 
 chapter1_barrelboss_0 = Ich bin mir nicht super sicher, was das zu bedeuten hatte? Irgendein Loser stand da und hat Fässer auf mich geworfen!
 chatper1_barrelboss_1 = Manche hatten sogar Stacheln! Wer hat bitte stachelige Fässer????
 
-mafiatown_goldenvault_0 = Weißt du. Ich habe alle diese komischen Tickets hier in Mafia Stadt gesehen. Blau, Rot, Grün, Gelb - sie sind ziemlich hübsch! Ich habe mich dennoch gefragt, wo sie alle hingehen.
+mafiatown_goldenvault_0 = Weißt du, ich habe alle diese komischen Tickets hier in Mafia Stadt gesehen. Blau, Rot, Grün, Gelb - sie sind ziemlich hübsch! Ich habe mich dennoch gefragt, wo sie alle hingehen.
 mafiatown_goldenvault_1 = Und auch, was die Mafia wohl in diesen Tresoren verstecken könnte! Nun, heute ist der Tag, wo ich es herausfinden werde!
 
 harbor_impossible_race_0 = Ha! Das wird diesen doofen Mafia Leuten zeigen, wie veraltet einstufiger, auf Puderbasis laufender, Brandantrieb ist.
-harbor_impossible_race_1 = Gewinnen ist sowieso ziemlich überbewertet.
+harbor_impossible_race_1 = Fair zu gewinnen ist sowieso überbewertet.
 
-chapter1_boss_0 = Kein Wunder, die Typen sind so dumm, wenn sie den als ihren Boss ausgewählt haben! 
+chapter1_boss_0 = Kein Wunder, dass die Typen so dumm sind, wenn sie den als ihren Boss ausgewählt haben! 
 chapter1_boss_1 = Jetzt ist niemand mehr der Boss, glaube ich... Ups.
 
-chapter1_cannon_repair_0 = Wow. Und ich dachte die normale Mafia bestehe nur aus Idioten.
-chapter1_cannon_repair_1 = Zumindestens hatte er ein [icon:timepiece][timepiece]Zeitstück[/timepiece], das ich nehmen konnte! Wie finden die Typen, weiterhin diese Dinger...
+chapter1_cannon_repair_0 = Wow. Und ich dachte die normale Mafia bestehe nur aus Spinnern.
+chapter1_cannon_repair_1 = Zumindestens hatte er ein [icon:timepiece][timepiece]Zeitstück[/timepiece], das ich nehmen konnte! Wie finden die Typen weiterhin diese Dinger...
 
-mafiatown_lava_0 = Es ist... so... HEISS! Irgendwas ernsthaft Falsches ist der Insel widerfahren; es scheint so, als erlosch der große Vulkan!
-mafiatown_lava_1 = Die Mafia-Typen sind zu groß und hartnäckig, um es zu zugeben, aber die Hitze geht ihnen wirklich nah. Mafia-Leute stinken auch viel mehr, wenn sie schwitzen... viel, viel mehr.
+mafiatown_lava_0 = Es ist... so... HEISS! Irgendwas ernsthaft Falsches ist der Insel widerfahren; es wirkt so, als wäre ein großer Vulkan ausgebrochen!
+mafiatown_lava_1 = Die Mafia-Typen sind zu groß und hartnäckig, um es zu zugeben, aber die Hitze setzt ihnen wirklich zu. Mafia-Leute stinken auch viel mehr, wenn sie schwitzen... viel, viel mehr.
 
 // SUBCON FOREST
-subcon_cave_0 = Ich dachte erst, ich sah einen Turm aus den Bäumen hervoragen, als ich in diesem widerlichen Sumpf stand, aber anscheinend ist es einfach nur ein großer, alter Brunnen. So sagte es mir der Snatcher!
-subcon_cave_1 = Zuerst dachte ich er sei einfach nett, mir zu sagen, ich soll nach coolem Zeug suchen ... aber dann sagte er mir, ich soll da runter klettern, wo es dunkel und stinkend ist! Sollten Erwachsene normalerweiser nicht Kinder von Brunnen fernhalten?
+subcon_cave_0 = Ich dachte erst, ich sah einen Turm aus den Bäumen hervoragen, als ich in diesem widerlichen Sumpf stand. Aber anscheinend ist es einfach nur ein großer, alter Brunnen. So sagte es mir der Snatcher!
+subcon_cave_1 = Zuerst dachte ich er sei einfach nett, weil er mir gesagt hat, welches coole Zeug ich suchen kann ... aber dann sagte er mir, ich soll da runter klettern, wo es dunkel und stinkend ist! Sollten Erwachsene normalerweiser nicht Kinder von Brunnen fernhalten?
 
-subcon_village_icewall_0 = Ähhhh, was ist das für ein Ort?? Hier sind Spinnen, Geister und irgendein großes Grinsen.. Person? Ding, oder so??
-subcon_village_icewall_1 = Es sagte erst es würde mich töten, aber dann zwang es mich ein Vertrag zu unterschreiben? Und ich glaube es nahm meine Seele, oder sowas? Bitte waaaaaaaaas?
+subcon_village_icewall_0 = Ähhhh, was ist das für ein Ort?? Hier sind Spinnen, Geister und irgendein großes, grinsendes.. Person? Ding, oder so??
+subcon_village_icewall_1 = Es sagte erst es würde mich töten, aber dann zwang es mich, einen Vertrag zu unterschreiben? Und ich glaube es nahm meine Seele, oder sowas? Bitte waaaaaaaaas?
 
 subcon_maildelivery_0 = Ich versteh's nicht? Er ist super gruselig und bedrohlich, aber wollte, dass ich Briefe austrage?
 subcon_maildelivery_1 = Ich hab ein sehr mulmiges Gefühl bei der Sache, aber er wird mir sein [icon:timepiece][timepiece]Zeitstück[/timepiece] nicht geben, wenn ich nicht seine dummen Verträge abarbeite.
 
-chapter2_toiletboss_0 = Eine Toilette. Eine... Toilette. EINE TOILETTE! Warum ist da eine dumme, stinkende, widerliche Toilette im Wald und warum muss ich mit so etwas doofen, stinkendem und widerlichen zu tun haben!?!
+chapter2_toiletboss_0 = Eine Toilette. Eine... Toilette. EINE TOILETTE! Warum ist da eine dumme, stinkende, widerliche Toilette im Wald und warum muss ich um so etwas doofes und stinkendes und widerliches kümmern!?!
 chapter2_toiletboss_1 = Dieser Snatcher ist so ein Idiot! Warum muss ich das machen? ICH WILL KEINE TOILETTE ANFASSEN!
 
-vanessa_manor_attic_0 = Dieser Snatcher ist so ein Idiot! Ugh! Das ätzt - jetzt muss ich irgendwas von ihm, aus dem Dachboden einer alten Dame STEHLEN?
-vanessa_manor_attic_1 = Überhaupt warum lebt so eine alte Dame, in so einem gruseligen Wald? Warte... Sie wird selbst gruselig sein, oder? Alte Menschen gruseln mich eh schon...
+vanessa_manor_attic_0 = Dieser Snatcher ist so ein Idiot! Ugh! Das ätzt - jetzt muss ich irgendwas, das "ihm gehört", aus dem Dachboden einer alten Dame STEHLEN?
+vanessa_manor_attic_1 = Warum lebt so eine alte Dame überhaupt in so einem gruseligen Wald? Warte... Sie wird selbst gruselig sein, oder? Alte Menschen gruseln mich eh schon...
 
 snatcher_boss_0 = DIESER KERL!!!! Ich mache seine dummen Jobs und dann versucht er mich auf's Kreuz zu legen???
-snatcher_boss_1 = Ich machte ihn fertig und jetzt will er einfach, dass ich geh? Aber anderseits, kann er mich sowieso nicht dazu zwingen.
+snatcher_boss_1 = Ich habe ihn fertig gemacht und jetzt will er einfach, dass ich geh? Aber anderseits, kann er mich sowieso nicht dazu zwingen.
 
 // BATTLE OF THE BIRDS
-DeadBirdStudio_0 = Ich lernte grade die schrägste Gruppe aus Vögeln kennen, die ich je gesehen habe. Einer ist ein[icon:djgrooves][name]Disco-Pinguin[/name], und der andere ein... [icon:conductor][name]vogelähnliches Ding[/name]? Ist er ein Vogel?? Ich hab keine Ahnung. Vögel haben normalerweise keine Zähne, aber der Typ hat welche. Irgendwie gruselig...
-DeadBirdStudio_1 = Sie "kämpfen" darum, wer den besten Film produziert. Das ist in [br]Anführungzeichen, denn niemand scheint wirklich zu kämpfen,[br]bis auf diesen[icon:conductor][name]Schaffner[/name].
+DeadBirdStudio_0 = Ich habe grade die schrägsten Vögel kennengelernt, die ich je gesehen habe. Einer ist ein [icon:djgrooves][name]Disco-Pinguin[/name], und der andere ein... [icon:conductor][name]vogelähnliches Ding[/name]? Ist er ein Vogel?? Ich hab keine Ahnung. Vögel haben normalerweise keine Zähne, aber der Typ hat welche. Irgendwie gruselig...
+DeadBirdStudio_1 = Sie "kämpfen" darum, wer den besten Film produzieren kann. Das ist in Anführungzeichen, denn niemand, bis auf diesen[icon:conductor][name]Schaffner[/name], [br] scheint wirklich zu kämpfen.
 
-chapter3_murder_0 = Weißt du, da gehen ein paar komische... Krähen... Sachen... auf dem Zug vorsich. Eigentlich, schauspielern alle auf ziemlich lustige Weise, sogar die Eulen. Und sie sind nur harmlose Nerds!
-chapter3_murder_1 = Ich habe das Gefühl, irgendwas Schlimmes könnte passieren in diesem ganzen Chaos, aber der [icon:conductor][name]Schaffner[/name] ist sehr, äh, wie pack ich das in Worte? "Laut"? "Penetrant"? Wie wäre es mit... "Überzeugend". Wie auch immer, ich muss den Zug erwischen!
+chapter3_murder_0 = Weißt du, da steigen auch ein paar komische... Krähen... Typen... in den Zug ein. Eigentlich benehmen sich alle auf ziemlich lustige Weise, sogar die Eulen. Und die sind nur harmlose Nerds!
+chapter3_murder_1 = Ich habe das Gefühl, in diesem ganzen Chaos könnte etwas schlechtes passieren, aber der [icon:conductor][name]Schaffner[/name] ist sehr, äh, wie pack ich das in Worte? "Laut"? "Penetrant"? Wie wäre es mit... "Überzeugend". Wie auch immer, ich muss den Zug erwischen!
 
-moon_camerasnap_0 = Oh mein Gott!!! Dieser große [icon:djgrooves][name]Pinguin DJ[/name] sagte, ich könnte ein STAR werden!!! Ich frage mich, ob er wohl Popstar meint... Warte. Muss ich jetzt lernen etwas zu singen? Vielleicht doch eher ein Internetstar-- Nein, nein, ein FILMSTAR!
-moon_camerasnap_1 = [icon:djgrooves][name]DJ Grooves[/name] sagte, er wird sich um all das kümmern. Ich muss einfach nur am Set sein und schon werde ich berühmt! Ich kann gar nicht warten... Ich hoffe nur, ich muss nicht singen.
+moon_camerasnap_0 = Oh mein Gott!!! Dieser große [icon:djgrooves][name]Pinguin DJ[/name] sagte, ich könnte ein STAR werden!!! Ich frage mich, ob er wohl Popstar meint... Warte. Muss ich jetzt Singen lernen? Vielleicht doch eher ein Internetstar-- Nein, nein, ein FILMSTAR!
+moon_camerasnap_1 = [icon:djgrooves][name]DJ Grooves[/name] sagt, er wird sich um all das kümmern. Ich muss einfach nur am Set sein und schon werde ich berühmt! Ich kann gar nicht warten... Ich hoffe nur, ich muss nicht singen.
 
-trainwreck_selfdestruct_0 = Jedes Mal, wenn ich in der Nähe vom [icon:conductor][name]Schaffner[/name] bin, kann ich ihn über sein Film murmeln hören. Ich glaube, er versucht irgendetwas, riesiges, eindrucksvolles, spannendes, GROßARTIGES mit seinem Zug zu machen.
-trainwreck_selfdestruct_1 = Ich meine, ok [wave]vielleicht[/wave] könnte sein Film etwas mehr Action oder so gebrauchen. Wie zum Beispiel, öhm... äh... Ich habe eigentlich keine Ahnung, was er machen könnte. Ein Filmdirektor zu sein, muss ziemlich schwer sein.
+trainwreck_selfdestruct_0 = Jedes Mal, wenn ich in der Nähe vom [icon:conductor][name]Schaffner[/name] bin, kann ich ihn über sein Film murmeln hören. Ich glaube, er versucht irgendetwas riesiges, eindrucksvolles, spannendes, GROßARTIGES mit seinem Zug zu machen.
+trainwreck_selfdestruct_1 = Naja, ok, [wave]vielleicht[/wave] könnte sein Film etwas mehr Action oder so gebrauchen. Wie zum Beispiel, öhm... äh... Ich habe eigentlich keine Ahnung, was er machen könnte. Ein Filmdirektor zu sein muss ziemlich schwer sein.
 
-moon_parade_0 = Dieses Film-Set ist wirklich belebt! So viele Pinguine sind gekommen! Und manche brachten sogar Ballons! Und dann sind da diese SUPER GROßEN Festzugswagen! Alles sieht so hübsch aus!
-moon_parade_1 = [icon:djgrooves][name]DJ Grooves[/name] sagte, sie sind alle meinetwegen gekommen! Ich kann sie nicht enttäuschen! Ich weiß nicht, was wir als nächstes tun werden, aber ich werde mein Bestes für meine Fans geben!
+moon_parade_0 = Dieses Film-Set wird wirklich belebt! So viele Pinguine sind gekommen! Und manche brachten sogar Ballons! Und dann sind da diese SUPER GROßEN Festzugswagen! Alles sieht so hübsch aus!
+moon_parade_1 = [icon:djgrooves][name]DJ Grooves[/name] sagte, sie sind alle meinetwegen gekommen! Ich kann sie nicht enttäuschen! Ich weiß nicht, was wir als nächstes tun werden, aber ich werde das Beste für meine Fans geben!
 
-award_ceremony_0 = Ich bin so aufgeregt! Heute ist eine große Preisverleihung und ich gehe hin! Ich mein', ich denke ich bin aufgeregt! Ich mein'... Ich frage mich ob es richtig war, diesem Vogel zu helfen?
-award_ceremony_1 = Alle Vögel waren so nett und die Filme sind sooooo cool geworden! Also... Ich frage... mich einfach... EGAL, Ich bin super aufgeregt die Preisverleihung zu sehen! Oh, und natürlich auch das [icon:timepiece][timepiece]Zeitstück[/timepiece], hehe.
+award_ceremony_0 = Ich bin so aufgeregt! Heute ist eine große Preisverleihung und ich gehe hin! Naja, zumindest denke ich, ich bin aufgeregt! Ich mein'... Ich frage mich ob es richtig war, diesem Vogel zu helfen?
+award_ceremony_1 = Alle Vögel waren so nett und die Filme sind sooooo cool geworden! Also... Ich frage... mich einfach... EGAL, Ich bin super aufgeregt, die Preisverleihung zu sehen! Oh, und natürlich auch das [icon:timepiece][timepiece]Zeitstück[/timepiece], hehe.
 
 chapter3_secret_finale_0 = Warum wollen alle auf diesem Planeten mich auf's Kreuz legen? Ich bin nicht dumm!
 chapter3_secret_finale_1 = Das ist das letzte Mal, dass ich mich im Show-Business involviere!
 
 //ALPINE SKYLINE
 Alps_Birdhouse_0 = Das... war ein wirklich großer Vogelkäfig. Und ein wirklich großer Vogel!
-Alps_Birdhouse_1 = Er schaute ein bisschen zu groß aus, um zu fliegen. Oder um sich zu bewegen. Aber er war niedlich!
+Alps_Birdhouse_1 = Er sah ein bisschen zu groß aus, um zu fliegen. Oder um sich zu bewegen. Aber er war niedlich!
 
 AlpineSkyline_WeddingCake_0 = so heiß. ich schwitze zu sehr um richtig zu schreiben. warum ist hier ein kuchen aus lava?????
 AlpineSkyline_WeddingCake_1 = ich hoffe das nächste [icon:timepiece][timepiece]zeitstück[/timepiece] ist an einen kühlen ort gefallen. 
 
 Alpine_Twilight_0 = Ich glaube, ich sah heute irgendwelche Geister? Ziegengeister? 
-Alpine_Twilight_1 = Ich weiß nicht, wohin mich diese Glocke brachte, aber sicherlich an einen Ort, an dem ich nicht hätte sein sollen.
+Alpine_Twilight_1 = Ich weiß nicht, wohin mich diese Glocke gebracht hat, aber sicherlich an einen Ort, an dem ich nicht hätte sein sollen.
 
 AlpineSkyline_Windmill_0 = Ich glaube ich muss mich hinlegen. Warum musste das Zeitstück nur auf einer Windmühle landen?
 AlpineSkyline_Windmill_1 = Die war riesig! Warum würde jemand so etwas Großes bauen?
 
 AlpineSkyline_Finale_0 = Was zur Hölle war das alles? Diese fiesen Pflanzen blühten und infizierten diese großen Ziegen, oder sowas?
-AlpineSkyline_Finale_1 = Alles was ich weiß ist, dass sie richtig aggresiv wurden und es sehr stürmisch war. Keiner hatte wirklich eine schöne Zeit.
+AlpineSkyline_Finale_1 = Alles was ich weiß ist, dass sie richtig aggresiv wurden und es sehr stürmisch war. Es war für keinen eine schöne Zeit.
 
 //THE ARCTIC CRUISE
-Cruise_Boarding_0 = Wow! Sieh dir mal das Schiff an! Es ist riiieeesig! Ich hätte meines größer machen sollen...
+Cruise_Boarding_0 = Wow! Sieh dir mal das Schiff an! Es ist riiieeesig! Ich hätte meins größer machen sollen...
 Cruise_Boarding_1 = Naja, sollte trotzdem spaßig werden! Ich brauch Urlaub nach all diesem Gerenne. Ich frag mich jedoch, ob es hier mehr [icon:timepiece][timepiece]Zeitstücke[/timepiece] gibt.
 
 Cruise_Working_0 = Jeeepp, das Schiff hat noch mehr [icon:timepiece][timepiece]Zeitstücke[/timepiece]! Und keiner möchte sie!!
-Cruise_Working_1 = Dieser schlecht gelaunter, alter Kaptiän möchte, dass ich sein Schiff aufräume (ughh!!!), aber er ist der Angeschmierte. Zumindest explodiert oder mordet hier keiner.
+Cruise_Working_1 = Dieser schlecht gelaunte, alte Kaptiän hat mich tatsächlich das Schiff aufräumen lassen (ughh!!!), aber er ist der Angeschmierte. [br]Zumindest explodiert oder mordet hier keiner.
 
-Cruise_Sinking_0 = Öööhhhh... uups. Keiner hat das gesehen, oder? Vielleicht sollte ich sicherheitshalber eine Ausrede haben? 
-Cruise_Sinking_1 = Es war ein tragischer Unfall? Eisberge kommen einfach mal manchmal in die Quere? Ich wollte es unbedingt machen?
-Cruise_Sinking_2 = Vielleicht ist es nicht mal illegal Kreuzfahrtschiffe auf diesem Planeten zu senken?
+Cruise_Sinking_0 = Öööhhhh... uups. Das hat keiner gesehen, oder? Vielleicht sollte ich sicherheitshalber eine Ausrede suchen? 
+Cruise_Sinking_1 = Es war ein tragischer Unfall? Eisberge kommen einfach manchmal in die Quere? Ich wollte es unbedingt machen?
+Cruise_Sinking_2 = Vielleicht ist es nicht mal illegal, auf diesem Planeten Kreuzfahrtschiffe zu versenken?
 
 //FINALE
-Mu_Finale_0 = Das lief aus dem Ruder. Als hätte dieser Planet schon nicht genug Lava! 
+Mu_Finale_0 = Das lief aus dem Ruder. Als hätte dieser Planet nicht schon genug Lava! 
 Mu_Finale_1 = Leute schleichen dauernd in mein Haus. Wie unhöflich! Mir reicht's!! Zeit nach Hause zu gehen.
 
 [unused/deleted]

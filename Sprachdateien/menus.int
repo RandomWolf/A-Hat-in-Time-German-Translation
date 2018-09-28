@@ -610,7 +610,7 @@ DLC2Title = DLC 2
 BingoMode = Bingo-Modus
 
 [Cinematics]
-SkipCinematic = ÜBERSPRINGEN
+SkipCinematic = WEITER
 
 [Contracts]
 SignContract = Vertrag unterschreiben

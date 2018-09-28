@@ -1,21 +1,20 @@
 [docks]
-fishdude0 = Hey there, dude. Dudette, I mean. I'm like, ready for a nice cruise, aren't you? [br]Hopefully there's nothing fishy about this ship, y'know.
-fishdude1 = I got ripped off on a dodgy vacation last year. It was like, not rad at all.
-
+fishdude0 = Hey, Dude. Dudette, meine ich. Ich bin so, bereit für eine super Kreuzfahrt. [br]Hoffentlich gibt es nichts faules an diesem Schiff, weist du?
+fishdude1 = Letztes Jahr wurde ich bei einem zwielichtigen Urlaub abgezockt. Es war mal so, garnicht krass
 [internal]
-fishdude2 = Oh, hey dudette. I was just chilling, you know, and I noticed this broken glass around. Weird, right?
-fishdude3 = ... It belongs to you? Ah, cool, I guess. No judgement, you know. 
-fishdude4 = Pretty gnarly picking that stuff up with your bare hands, but like, whatever floats your boat, y'know?
+fishdude2 = Oh, hey Dudette. I war gerade am chillen und Ich hab dieses zerbrochene Glass rumliegen sehen. Komisch, oder?
+fishdude3 = ... Es gehöhrt dir? Ah, cool, denke ich. Keine Uteil von mir, weißt du. 
+fishdude4 = Ziemlich krass dieses Zeug mit deinen Händen aufzuheben, aber, was auch immer du willst.
 
 [act3]
-fishdude0 = Like, thanks dudette. I totally didn't see this coming.
+fishdude0 = Echt, danke Dudette. Ich hab das total nicht kommen sehem.
 
-fishdude1 = How's it going, dudette? The view up here is like, wild, huh.
-fishdude2 = Those icebergs are pretty big, but don't worry. I read a pamphlet that says this boat, like, can't sink. At all.
-fishdude3 = Like the one in that movie, y'know? About the boat that like, couldn't sink. Never did see the end of that one.
-
-carried0 = Oh! You're like, pretty strong, huh?
-
+fishdude1 = Was geht ab, Dudette? Der Ausblick von hier oben ist echt fett, nicht?
+fishdude2 = Diese Eisberge sind ziemlich groß, aber Ich hab in einer Broschüre gelesen ,dass dieses Boot nicht sinken kann. So garnicht.
+fishdude3 = Wie in diesem einem Film, weißt du? Über dieses Schiff das nicht sinken konnte. Hab den nie zuende geguckt.
+ 
+carried0 = Oh! Du bist, ziemlich stark, nicht wahr?
 [fluff]
-fishdude0 = Hey, dudette. What's up? I'm just checking out this, like, totally chill garden. There's like, flowers and junk.
-fishdude1 = It's like, a pretty nice view from your balcony, y'know?
+fishdude0 = Hey, Dudette. Wie geht`s ? Ich guck mir grade diesen, total chilligen Garten an. Hier gibt es so Blumen und Zeug.
+fishdude1 = Es gibt so, eine ziemlich schöne Sicht von deinem Balkon, weißt du?
+

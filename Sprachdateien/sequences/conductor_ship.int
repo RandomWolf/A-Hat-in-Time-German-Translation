@@ -1,21 +1,21 @@
 [internal]
 conductor0 = Heyy... gib mir nen sinkenes Schiff, auf Eiswürfel. Und verdoppelt den guten Teil.
-conductor1 = Oh, ich hab dich garnet gesehen, Lassie. Biste draußen unterwegs, net wahr?
-conductor2 = Wenn du nach nem Drink suchst, ich glaub die haben kleine Flaschen von Saft. 
+conductor1 = Oh, ich hab dich garnet gesehen, Lassie. Bist draußen unterwegs, net wahr?
+conductor2 = Wenn du nach nem Drink suchst, ich glaub die haben hier kleine Säftschen. 
 conductor3 = Du bist'ne Tüchtige, sicher, aber was ich hab ist net für junge Lassies.
 
 [act2]
 conductor0 = [wave].....Hick....Ooh, hallo, lassie![/wave]
-conductor1 = [wave]Wie, wie gehts, eh? Hast nen schönen Urlaub, lass?[/wave]
-conductor2 = [wave]Ah, ich habs. Kein Grooves, keine Filme. Nur ich, und mein guter Freund hier. Das ist das Leben, eh?[/wave]
+conductor1 = [wave]Wie, wie gehts, eh? Hast 'nen schönen Urlaub, lass?[/wave]
+conductor2 = [wave]Ah, ich habs. Kein Grooves, keine Filme. Nur ich und mein guter Freund hier. So lässt sich's leben, eh?[/wave]
 conductor3 = [wave]... Ich wunder mich wie der Rest des Bootes aussieht...[wave]
 
 [docks]
 conductor0 = Nun, wenn's net die kleine Lassie ist. Wie gehts dir mit dem Ruhm?
-conductor1a = Um ehrlich zu sein, nehme ich etwas Auszeit nachdem dieser [br]Grünschnabel [icon:djgrooves] [name]DJ[/name] versucht hat zu, du weißt schon.
+conductor1a = Um ehrlich zu sein, nehme ich etwas Auszeit nachdem dieser [br]Grünschnabel [icon:djgrooves] [name]DJ[/name] versucht hat zu, nun, du weißt schon.
 conductor1b = Oh, und entschuldige wegen dem... Messerunfall. [br]Aber was ist schon ein kleiner Streit zwischen Kollegen, Lassie?
-conductor1c = Ich nehme mir Auszeit zum entspannen. Um wegzukommen vom lärmigen [br][icon:djgrooves][name]DJ Grooves[/name] für ne Weile.
-conductor2 = Wie auch immer, ich frage besser der Kinderbetreuung an Bord nach. Ich liebe diese kleinen Burschen, aber ich kann sie net mit an die Bar nehmen, oder?
+conductor1c = Ich nehme mir Auszeit zum entspannen. Um für ne Weile vom lärmigen [br][icon:djgrooves][name]DJ Grooves[/name] wegzukommen.
+conductor2 = Wie dem auch sei, ich frage besser nach der Kinderbetreuung an Bord. Ich liebe diese kleinen Burschen, aber ich kann sie net mit an die Bar nehmen, oder?
 
 [act3]
 finale0 = Warte, Lassie, wo gehst du hin? Du willst IHN retten?

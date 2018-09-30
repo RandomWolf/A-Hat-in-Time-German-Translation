@@ -6,13 +6,14 @@ Conditions_NoCheckpoints = Keine Checkpoints
 Conditions_ClearLevel = Du musst ein Zeitstück sammeln
 Conditions_EasyMode = Ruhe und Frieden ist eingeschaltet
 
-Contract_Clear = Clear!
-Contract_Unlocked = Unlocked
+Contract_Clear = Geschafft!
+Contract_Unlocked = Freigeschaltet
 Obj_Bonus = Bonus
-Obj_Complete = Complete
-Obj_Failed = Failed
+Obj_Complete = Vervollständigt
+Obj_Failed = Gescheitert
 Best_Time = Beste Zeit
 Best_Score = Bester Score
+Lives_Remaining = Leben Übrig
 
 [Hat_SnatcherContract_DeathWish_Intro_100Pons]
 Title = Pon-Fanatiker
@@ -99,13 +100,10 @@ Title = Collect-a-thon
 Objective = Sammle 100 Pons
 NoBoxes = Zerbreche keine Kisten oder Fässer
 FewPons = Sammle insgesamt nicht mehr als 200 Pons ein
-<<<<<<< HEAD
-Condition = Die Sammlung entleert sich nach einiger Zeit und du stirbst falls du in 10 Sekunden keinen Pon findest. Ganze Tresorcodes aktivieren den Timer auch.
+Condition = Die Sammlung entleert sich nach und nach. Sammle keine Codes ohne Pons.
 Tip0 = Höre nie auf Pons zu sammeln, Kleine! Halte Ausschau nach Kisten, Fässern, Bullys und weitere Dinge, die man [name]aufknacken[/name] kann und dir viele Pons geben!
-=======
 Condition = Pons entleeren sich nach einiger Zeit. Sammle keine Tresorcodes ohne Pons ein.
 Tip0 = Höre nie auf Pons zu sammeln, Kleine! Halte beim Sammeln Ausschau nach Kisten, Fässern, Bullys und weitere Dinge, die man [name]aufknacken[/name] kann und dir viele Pons geben!
->>>>>>> 520aca61be338cca8b4409edc8c937a53e447f4a
 EasyTip = Zerbrich Kisten und Fässer!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]

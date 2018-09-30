@@ -100,7 +100,7 @@ Objective = Sammle 100 Pons
 NoBoxes = Zerbreche keine Kisten oder Fässer
 FewPons = Sammle insgesamt nicht mehr als 200 Pons ein
 <<<<<<< HEAD
-Condition = Die Sammlung entleert sich nach einiger Zeit und du stirbst in 7 Sekunden falls du keine Pons hast
+Condition = Die Sammlung entleert sich nach einiger Zeit und du stirbst falls du in 10 Sekunden keinen Pon findest. Ganze Tresorcodes aktivieren den Timer auch.
 Tip0 = Höre nie auf Pons zu sammeln, Kleine! Halte Ausschau nach Kisten, Fässern, Bullys und weitere Dinge, die man [name]aufknacken[/name] kann und dir viele Pons geben!
 =======
 Condition = Pons entleeren sich nach einiger Zeit. Sammle keine Tresorcodes ohne Pons ein.

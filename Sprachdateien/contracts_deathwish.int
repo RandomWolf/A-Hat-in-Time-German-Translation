@@ -99,8 +99,13 @@ Title = Collect-a-thon
 Objective = Sammle 100 Pons
 NoBoxes = Zerbreche keine Kisten oder Fässer
 FewPons = Sammle insgesamt nicht mehr als 200 Pons ein
+<<<<<<< HEAD
 Condition = Die Sammlung entleert sich nach einiger Zeit und du stirbst in 7 Sekunden falls du keine Pons hast
 Tip0 = Höre nie auf Pons zu sammeln, Kleine! Halte Ausschau nach Kisten, Fässern, Bullys und weitere Dinge, die man [name]aufknacken[/name] kann und dir viele Pons geben!
+=======
+Condition = Pons entleeren sich nach einiger Zeit. Sammle keine Tresorcodes ohne Pons ein.
+Tip0 = Höre nie auf Pons zu sammeln, Kleine! Halte beim Sammeln Ausschau nach Kisten, Fässern, Bullys und weitere Dinge, die man [name]aufknacken[/name] kann und dir viele Pons geben!
+>>>>>>> 520aca61be338cca8b4409edc8c937a53e447f4a
 EasyTip = Zerbrich Kisten und Fässer!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]

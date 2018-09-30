@@ -386,7 +386,7 @@ alpha1 = So if you'd like your first impression of [name]A Hat in Time[/name] to
 alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name]. Good luck!![br]- [name]Gears for Breakfast[/name]
 
 [System_Warnings]
-SteamVerifyIntegrityGameCache = [name]WARNUNG![/name][br]Es scheint das [hint]Steam[/hint]nicht alle nötigen Spieldateien heruntergeladen hat.[br]Bitte [hint]überprüfe die Integrität des Spielcaches[/hint] für dieses Spiel, wenn das Problem weiterhin bestehen bleibt.
+SteamVerifyIntegrityGameCache = [name]WARNUNG![/name][br]Es scheint so, als hätte [hint]Steam[/hint] nicht alle nötigen Spieldateien heruntergeladen.[br]Bitte [hint]überprüfe die Integrität des Spielcaches[/hint] für dieses Spiel, wenn das Problem weiterhin zu bestehen bleibt.
 UsingIntegratedGPU0 = [name]WARNUNG![/name][br]Dein Laptop benutzt gerade den [hint]integrierten GPU[/hint] anstelle des[br][hint]dedizierten GPU[/hint].
 UsingIntegratedGPU1 = Bitte öffne die [hint]NVidia-Systemsteuerung[/hint] oder das [hint]AMD Kontrollzentrum[/hint] und setze[br]A Hat in Time für den dedizierten GPU.
 BrokenControllerSoftware0 = [name]WARNUNG![/name][br]Du benutzt ebengerade Drittanbieter für den Controller, wie [hint]Joy2Key[/hint]. Das wird nicht benötigt![br]A Hat in Time unterstützt die meisten Controller...[br]sehr wahrscheinlich auch deinen!

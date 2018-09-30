@@ -99,7 +99,7 @@ Title = Collect-a-thon
 Objective = Sammle 100 Pons
 NoBoxes = Zerbreche keine Kisten oder Fässer
 FewPons = Sammle insgesamt nicht mehr als 200 Pons ein
-Condition = Pons entleeren sich nach einiger Zeit. Sammle nicht Tresorcodes ohne Pons ein.
+Condition = Pons entleeren sich nach einiger Zeit. Sammle keine Tresorcodes ohne Pons ein.
 Tip0 = Höre nie auf Pons zu sammeln, Kleine! Halte beim Sammeln Ausschau nach Kisten, Fässern, Bullys und weitere Dinge, die man [name]aufknacken[/name] kann und dir viele Pons geben!
 EasyTip = Zerbrich Kisten und Fässer!
 

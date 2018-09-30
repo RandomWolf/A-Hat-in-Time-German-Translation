@@ -6,16 +6,16 @@ ticketcrow3 = Interessant. [TicketPrice] [icon:pon] scheint für eine Kreuzfahrt 
 ticketcrow4 = Normal, und überhaupt nicht inkongruent mit Ihrem Kontoauszug.
 
 destinationcrow0 = Guten Abend, Mitreisender. Ich hoffe, Sie genießen Ihre Reise.
-destinationcrow1 = Wissen Sie, wohin die Kreuzfahrt hinführt? Es stand auf allen unseren Tickets, aber die Schrift war verschmiert.
+destinationcrow1 = Wissen Sie, wo diese Kreuzfahrt hinführt? Es stand auf allen unseren Tickets, aber die Schrift war verschmiert.
 destinationcrow2 = Bei allen von ihnen. Es war ein sehr unwahrscheinlicher Unfall. Können Sie uns mitteilen, wohin wir unterwegs sind?
-destinationcrow3 = Oh, natürlich, [Destination]. Ich erinnere mich jetzt, nachdem ich es vorher gesehen habe. Auf meinem Ticket.
+destinationcrow3 = Oh, natürlich, [Destination]. Jetzt erinnere ich mich, es vorher gesehen zu haben. Auf meinem Ticket.
 
 familycrow0 = Ich habe eine Familie in [Destination]. Ich bin sehr froh, dass wir dort anreisen. 
 familycrow1 = Deshalb bin ich natürlich auf diese Kreuzfahrt gegangen.
 
-reviewcrow0 = Was meinen Sie damit, wir stehen beim Abendessen nicht auf der Liste?
+reviewcrow0 = Was meinen Sie damit, das wir nicht auf der Liste für das Abendessen stehen?
 reviewcrow1 = Wir bezahlten exakt [TicketPrice] [icon:pon] für Tickets, wie sonst jeder Passagier auch.
-reviewcrow2 = Es wird eine schlechte Bewertung auf dieser Kreuzfahrt geben.
+reviewcrow2 = Es wird eine schlechte Bewertung für diese Kreuzfahrt geben.
 
 [act2]
 missives0 = Bitte geben Sie diese einfachen, unverschlüsselten Nachrichten für mich weiter. 
@@ -23,4 +23,4 @@ missives1 = Ah. Vielen Dank für diese gewöhnlichen Briefe, Mitreisender.
 missives2 = Könnten Sie diese für einen Mitreisenden liefern?
 missives3 = Unscheinbare Nachrichten? Für mich? Das hätten Sie nicht tun brauchen!
 missives4 = Das sind, äh, Geburtstagskarten. Für meinen Freund. Bitte geben Sie diese ihm.
-missives5 = Ah. Alles Gute zum Geburtstag für mich. Danke, Mitfahrer. 
+missives5 = Ah. Alles Gute zum Geburtstag für mich. Danke, Mitreisender. 

@@ -250,7 +250,7 @@ TimeLimit = Erreiche in weniger als 65 Sekunden das Ende
 TimeLimit_Easy = Erreiche in weniger als 3 Minuten das Ende
 NoKills = Mit Ein-Treffer Held-Anstecker
 MafiaHunt = Besiege die 6 verstecke Mafia
-Tip0 = Sei sicher, dass du die Vögel von diesen [name]explodierenden Eiern[/name] fernhälst. Ich möchte keine Verletzungen sehen!
+Tip0 = Stelle sicher, die Vögel von diesen [name]explodierenden Eiern[/name] fernzuhalten. Ich möchte keine Verletzungen sehen!
 
 [Hat_SnatcherContract_DeathWish_CameraTourist_1]
 Title = Kamera-Tourist

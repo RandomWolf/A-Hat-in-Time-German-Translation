@@ -4,9 +4,9 @@ no = Neeeiiin!
 
 deckshard1 = Hey - das ist nicht Eis! Da ist eine Glasscherbe in diesem Getränk!
 
-smash0 = Hmm... dieser Schaden ist schwer. Es ist in mehr Teilen als einen und das ist schrecklich.
+smash0 = Hmm... dieser Schaden ist schwer. Jetzt sind es ganz viele Teile statt ein ganzes Stück, wie schrecklich!
 smash1 = Vielleicht könntest du es wieder zusammenkleben, wenn du die [hint]fehlenden Scherben[/hint] findest.
-smash2 = Es sieht so aus, als gäbe es ein Stück pro Raum...
+smash2 = Es sieht so aus, als gäbe es eine pro Raum...
 
 checkin0 = Du hast dich vollständig angemeldet!
 checkin1 = So, und jetzt das Zeitstück aufspüren...
@@ -16,7 +16,7 @@ washingmachine1 = Da war eine Zeitstück-Scherbe in der Wäsche!
 
 restarauntshard1 = Unter dem Salat... Was?! Das ist doch eine Scherbe vom Zeitstück!
 
-slotmachine0 = Irgendwie zieht dich diese Maschine an. Oh, es verlangt ein Paar Chips...
+slotmachine0 = Irgendwie zieht dich diese Maschine an. Oh, man braucht Chips zum spielen...
 slotmachine1 = Du hoffst auf etwas Tolles...
 slotmachine2 = Da steckte eine Scherbe in der Maschine!
 
@@ -25,13 +25,13 @@ yes = Aber hallo!
 no = Neeeiiin!
 
 [docks]
-binocs0 = Wow! Das Schiff sieht toll aus! Und sicher! Unglaublich sicher, könnte man sagen.
+binocs0 = Wow! Das Schiff sieht unglaublich aus! Und sicher! Unglaublich sicher, könnte man sagen.
 
-crates0 = Auf dem Etikett steht 'PBR'. Der Besitzer dieser Kiste macht anscheinend schöne glänzende Dinge.
+crates0 = Auf dem Etikett steht 'PBR'. Wer auch immer das sein mag, macht schöne, glänzende Dinge.
 
 seals0 = Anscheinend haben die viel Spaß! [br]Aber man sollte sie vielleicht nicht unbeaufstichtigt lassen. 
 
 [fluff]
-leaflets0 = Es ist ein Haufen Flugblätter für Nobel-Badekuren! Sie sind jedoch nicht in deinen Ticket-Preisen verdeckt.
+leaflets0 = Es ist ein Haufen Flugblätter für Nobel-Badekuren! Sie sind jedoch nicht bei deinem Ticket enthalten.
 
 clipboard0 = Du hast absolut keine Ahnung, was das alles bedeuten könnte, aber die Handschrift ist für eine Robbe erstaunlich gut.

@@ -14,9 +14,9 @@ GenericYarnSuffix = Garn
 GenericHatSuffix = Hut
 
 [trigger_abilities]
-BadgeCollect0 = Es benötigt [yarn][badgepoints_required] [icon:yarn]Garn[/yarn] zum Nähen; du brauchst noch [yarn][badgepoints_left][/yarn]!
-BadgeCollect1 = Es benötigt [yarn][badgepoints_required] [icon:yarn]Garn[/yarn] zum Nähen, und du hast [yarn][badgepoints_player][/yarn]![br]Drücke [button:start], um in das Pausemenü zu gelangen, wo du es nähen kannst!
-BadgeCollect2 = Es benötigt [yarn][badgepoints_required] [icon:yarn]Garn[/yarn] zum Nähen!
+BadgeCollect0 = Zum Nähen benötigst du [yarn][badgepoints_required] [icon:yarn]Garn[/yarn]; du brauchst noch [yarn][badgepoints_left][/yarn]!
+BadgeCollect1 = Zum Nähen benötigst du [yarn][badgepoints_required] [icon:yarn]Garn[/yarn] und du hast [yarn][badgepoints_player][/yarn]![br]Drücke [button:start], um in das Pausemenü zu gelangen, wo du es nähen kannst!
+BadgeCollect2 = Zum Nähen benötigst du [yarn][badgepoints_required] [icon:yarn]Garn[/yarn]!
 BadgeCollect3 = Du hast genügend [yarn][icon:yarn]Garn[/yarn], um es zu nähen!
 BadgeCollect4 = Du hast diesen Hut schon, aber bekommst trotzdem [yarn]+1 [icon:yarn]Garn[/yarn]!
 
@@ -31,7 +31,7 @@ SprintDesc0 = Drücke und halte [button:badge], um zu sprinten!
 
 StatueFallName = Eis-Hut
 StatueFallFun0 = Er ist so kalt!
-StatueFallTech0 = Drücke [button:badge], um den Boden zu zerschmettern!
+StatueFallTech0 = Drücke [button:badge], um eine Stampfattacke auszuführen!
 
 HoverName = Fliegender Hut
 HoverDescFun0 = Fliege vor brenzligen Situationen weg!
@@ -43,16 +43,16 @@ HelpUsage = Nutze [icon:activehat], um dein Ziel zu finden!
 
 ChemicalName = Hexen-Hut
 ChemicalDescFun0 = Koche verrückten Mischmasch!
-ChemicalDescTech0 = Halte [button:badge] und werfe einen explosiven Zaubertrank!
+ChemicalDescTech0 = Halte [button:badge], um einen explosiven Zaubertrank zu werfen!
 
 TimeStopName = Zeitlupen-Hut
-TimeStopDescFun0 = Der Tod ist zwangsläufig, aber deine Zeit nicht.
+TimeStopDescFun0 = Der Tod ist unausweichlich, deine Zeit ist wertvoll.
 TimeStopDescTech0 = Drücke [button:badge], um die Zeit zu verlangsamen!
 
 FoxMaskName = Einwohner-Maske
 FoxMaskDescFun0 = Das ist echt gruseliges Garn!
 FoxMaskDescHat0 = Das ist eine echt gruselige Maske!
-FoxMaskDescTech0 = Drücke [button:badge] und sehe wie ein Einwohner!
+FoxMaskDescTech0 = Drücke [button:badge], um wie ein Einwohner zu sehen!
 
 DetectiveHatName = Detektiv-Outfit
 DetectiveHatDesc0 = Zeit Verbrechen aufzuklären! Achte auf Hinweise!
@@ -105,7 +105,7 @@ NoFallDamageBadgeName = Schwebe-Anstecker
 NoFallDamageBadgeDesc0 = Dein Regenschirm wird kurz vor einen großem Sturz automatisch geöffnet!
 
 NoBonkBadgeName = Anti-Abprall-Anstecker
-NoBonkBadgeDesc0 = Niemals wegen dem Hechtsprung an Wänden abprallen!
+NoBonkBadgeDesc0 = Niemals wegen des Hechtsprungs an Wänden abprallen!
 
 HatCooldownBonusBadgeName = Hutmacher-Anstecker
 HatCooldownBonusBadgeDesc0 = Verringert die Abklingzeit für Hüte!
@@ -118,7 +118,7 @@ NostalgiaBadgeDesc0 = Alles ist besser, wenn es schlechter ist!
 
 [loot]
 BirdPassportName = Ausweis der Bundesvereinigung der Vögel
-BirdPassportDesc0 = Laut Gesetz, bin ich jetzt ein Vogel, glaube ich...?
+BirdPassportDesc0 = Laut Gesetz bin ich jetzt ein Vogel, glaube ich...?
 
 BadgeSlotName = Anstecknadel
 BadgeSlotDesc0 = Erlaubt dir, einen weiteren [icon:badge][name]Anstecker[/name] auszurüsten!
@@ -189,7 +189,7 @@ CameraFilter = Kamera-Filter
 CameraFilterDesc0 = Ein neuer Kamera-Filter wurde für deinen
 CameraFilterDesc1 = [icon:camerabadge][name]Kamera-Anstecker[/name] freigeschaltet!
 ActionBlueName = Action Blau
-DreamyName = Träumlich
+DreamyName = Verträumt
 SunriseName = Die 80er
 VibrantName = Vibrant
 GirlyThingsName = Just Girly Things
@@ -205,35 +205,35 @@ MangaName = Nani!?
 PosterName = Filmplakat
 
 [decorations]
-DecorationMatch = Du hast einen Schatz von dem komischen Planeten identifiziert!
+DecorationMatch = Du hast einen Schatz vom komischen Planeten identifiziert!
 DecorationSaved = Dieser Schatz könnte zu anderen Schätzen passen!
-DecorationMystery = Du spürst für eine kurze Zeit etwas,... aber du bildest dir das bestimmt nur ein.
+DecorationMystery = Du spürst in diesem Raum eine Zeit-Verzerrung,... aber du bildest dir das bestimmt nur ein.
 
 DecorationGenericName = Schatz
 
 TrainSetName = Mini-Zug (und Vögel?)
-TrainSetDesc0 = Das sieht aus wie eine kleine Version von dem "Zug", den die "Vögel" nutzen um zur "Arbeit" zu kommen.
+TrainSetDesc0 = Das sieht aus wie eine kleine Version vom "Zug", den die "Vögel" nutzen, um zur "Arbeit" zu kommen.
 TrainSetDesc1 = Sind da kleine Vögel drinne? Machen sie kleine "Filme"?
 TrainSetDesc2 = Ich hab keine Zeit, um mich mit der kleinen Vogel-Gesellschaft zu beschäftigen!
 
 UFOName = Alien-Verspottung
-UFODesc0 = Was zum?! Raumschiffe sehen aber so nicht aus!
+UFODesc0 = Was zum Geier?! Raumschiffe sehen aber so nicht aus!
 UFODesc1 = Wo ist das Holz? Warum saugt es Kühe ein?
 UFODesc2 = Das ist beleidigend! Ich werde jemanden deswegen verklagen!
 
 CrayonCompleteName = Drei-Farben Graffiti-Kit
-CrayonCompleteDesc0 = Sie wurden für Vandalismus gemacht. Ich fühle mich beim Anblick gezwungen sie zu nehmen und ALLES anzumalen!
-CrayonCompleteDesc1 = Ich kann daraus nur schließen, dass dieses Kit illegal sein muss. Das macht diesen Schatz viel mehr wert.
+CrayonCompleteDesc0 = Die wurden definitiv für Vandalismus gemacht. Ich fühle mich beim Anblick gezwungen, sie zu nehmen und ALLES anzumalen!
+CrayonCompleteDesc1 = Ich kann daraus nur schließen, dass dieses Kit illegal sein muss. Das macht diesen Schatz viel wertvoller.
 CrayonCompleteDesc2 = Wenn nur das Paket nicht schon offen wäre... Nur ein Monster würde sich trauen sowas zu tun!
 
 BurgerCushionName = Sitz-Gerät der Erdbewohner
-BurgerCushionDesc0 = Nachforschungen haben ergeben, dass dies sehr weich ist.
+BurgerCushionDesc0 = Nachforschungen haben ergeben, dass dieses Ding sehr weich ist.
 BurgerCushionDesc1 = So weich, dass die einzige logische Schlussfolgerung ist, dass dies die Stühle dieses Planeten sein müssen.
 BurgerCushionDesc2 = Es ist kein Snack. Ich habe es probiert... Es schmeckt nach Stoff.
 
 CakeTowerName = Kuchen-Museum
 CakeTowerDesc0 = Eine schicke Metallplatte, um Kuchen zu zeigen.
-CakeTowerDesc1 = Was für eine Person würde es jedoch nur zeigen? Kuchen sind für's Essen gemacht!
+CakeTowerDesc1 = Was für eine Person würde sie jedoch nur vorzeigen? Kuchen sind für's Essen gemacht!
 CakeTowerDesc2 = ... Ich kann die auf der obersten Platte nicht erreichen.
 
 [ItemQuality]

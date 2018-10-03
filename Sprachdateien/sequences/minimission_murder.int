@@ -1,0 +1,7 @@
+[murder]
+MurderPlaceholder0 = You have just found out that someone on this train was murdered... and the murderer is in this room!
+MurderPlaceholder1 = Time to scoop him out! Use your magnifying glass to color suspects.
+
+MurdererSelect = Are you sure this is the murderer?
+MurdererSelect_yes = Yes! Lock him up!
+MurdererSelect_no = No...

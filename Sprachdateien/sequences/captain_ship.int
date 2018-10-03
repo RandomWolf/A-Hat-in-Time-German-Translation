@@ -44,10 +44,10 @@ captainbar2 = Hoffentlich haben sie mitlerweile gelernt,[hint]das Steuerrad[/hin
 
 loudspeaker0 = Hawwo! Der Kawptain hat ein-
 loudspeaker1 = Gib mir das Mikrofon! [scream]Wer ist am Steuerrad?![/scream]
-loudspeaker2 = [scream]Wir steuern direk auf einen Eisberg zu! [br]Alle Mann an Deck![/scream]
+loudspeaker2 = [scream]Wir steuern direkt auf einen Eisberg zu! [br]Alle Mann an Deck![/scream]
 
 start0 = Es geht alles unter, Welpe. Ich hätte nie gedacht, dass ich diesen Tag erleben würde.
-start1 = auch noch auf ihrer Jungfernfahrt. Dauert nicht mehr als ein paar Minuten bis alles am Meeresgrund liegt.
+start1 = Auch noch auf ihrer Jungfernfahrt. Dauert nicht mehr als ein paar Minuten bis alles am Meeresgrund liegt.
 start2 = Nun, du solltest ein Rettungsboot aufsuchen, Welpe. Das wäre schlau.
 
 loudspeaker3 = Warte nicht auf mich, Welpe. Geh in ein Boot und hau ab.
@@ -64,5 +64,5 @@ carried5 = Lass mich einfach ertrinken, Welpe!
 captain0 = *Seufz* Welpe, warum hast du mich nicht mit dem Schiff untergehen lassen? Ich kann nicht ertrinken, aber wenigstens könnte ich für eine paar Minuten so tun.
 captain1 = Hmph, ohne mich wird die Crew wohl nie die Boote an Land bringen. Na gut. Crew, lasst uns nach Hause gehen.
 captain2 = Hoffentlich deckt unsere Versicherung das ab...
-captain3 = Wie auch immer, ich kann zwar keine Erstattungen anbieten, aber es sieht so aus, als ob etwas funkelnes auf dem Eisberg da drüben ist? Ironisch, dass unser Schiff direkt daneben verunglückt ist.
+captain3 = Wie auch immer, ich kann zwar keine Erstattungen anbieten, aber es sieht so aus, als gebe es etwas funkelndes dort auf dem Eisberg. Ironisch, dass unser Schiff direkt daneben verunglückt ist.
 captain4 = Es gehört ganz dir, Welpe.

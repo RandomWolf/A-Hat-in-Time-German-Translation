@@ -1,6 +1,6 @@
 [internal]
 yes = Aber hallo!
-no = Neeeiiin!
+no = Nö!
 
 deckshard1 = Hey - das ist nicht Eis! Da ist eine Glasscherbe in diesem Getränk!
 
@@ -22,7 +22,7 @@ slotmachine2 = Da steckte eine Scherbe in der Maschine!
 
 [act2]
 yes = Aber hallo!
-no = Neeeiiin!
+no = Nö!
 
 [docks]
 binocs0 = Wow! Das Schiff sieht unglaublich aus! Und sicher! Unglaublich sicher, könnte man sagen.

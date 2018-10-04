@@ -1,0 +1,7 @@
+[murder]
+MurderPlaceholder0 = Du hast gerade herausgefunden, dass jemand in diesem Zug ermordet wurde... Und der Mörder ist in diesem Raum!
+MurderPlaceholder1 = Zeit ihn ausfindig zu machen! Benutze deine Lupe um Verdächtige zu markieren.
+
+MurdererSelect = Bist du sicher, das das der Mörder ist?
+MurdererSelect_yes = Ja! Sperr ihn ein!
+MurdererSelect_no = Nein...

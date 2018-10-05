@@ -10,9 +10,9 @@ desksealA14 = Oh! Ich erwinner mich! Wir hatten eines davon zerbwochen und es vo
 desksealA15 = Wir haben versucht es aufzuräumen, aber. Äh. Öh. Wir hatten das nicht so gut gemacht... und einige Teile verworen...
 desksealA16 = Es tut mir so wurchtbar leid! Bitte seien Sie nicht twaurig!
 
-smash0 = Hmm... Der schaden sieht wirklich schlimm aus. Es sind mehr als nur 2 Scherben, es ist schrecklich.
-smash1 = Vielleicht kannst du es wieder zusammen kriegen wen du alle [hint]verlorenen Scherben[/hint] findest.
-smash2 = Es sieht so aus als wäre in jedem Raum eins...
+smash0 = Hmm... dieser Schaden ist schwer. Jetzt sind es ganz viele Teile statt ein ganzes Stück, wie schrecklich!
+smash1 = Vielleicht könntest du es wieder zusammenkleben, wenn du die [hint]fehlenden Scherben[/hint] findest.
+smash2 = Es sieht so aus, als gäbe es eine pro Raum...
 
 captainAttention0 = Achtung... hier spricht der Kapitän.
 speaker0 = Ist das Ding an? Ähem...
@@ -22,16 +22,16 @@ speaker3 = Das Schiff verlässt nun den Hafen. Bitte versuchen sie, nicht von Bor
 speaker4 = [wave]Bing! Bong! Bing! Bong![/wave]
 
 checkin0 = Du hast dich vollständig angemeldet!
-checkin1 = So, und jetzt das Zeitstück aufspüren...
+checkin1 = Okay, und jetzt das Zeitstück aufspüren...
 
-washingmachine0 = Jemand hat die Waschmaschine ohne Waschmittel angeworfen! Schmeiße besser welches rein.
-washingmachine1 = Da war eine Zeitstück Scherbe zwischen den Klamotten!
+washingmachine0 = Jemand hatte den Waschgang ohne Waschmittel gestartet! Du solltest besser etwas hineintun.
+washingmachine1 = Da war eine Zeitstück-Scherbe in der Wäsche!
 
 restarauntshard0 = Mafia biss auf etwas festes in diesem Essen! Kind sollte es zurück in die Küche bringen. Bitte.
-restarauntshard1 = Unter dem Salat - das ist ein Teil von einem Zeitstück!
+restarauntshard1 = Unter dem Salat... Was?! Das ist doch eine Scherbe vom Zeitstück!
 
-deckshard0 = H-hawwo! Ich muss alle leeren Gwäser holen, aber ich hatte sie fwallen gelassen. Können Sie mir welfen?
-deckshard1 = Sieht so auws als wäre die Scherwbe in dem Dwink gewessen!
+deckshard0 = H-hawwo! Ich müsstwe alle leeren Gwäser wegtragen, abwer ich hattwe sie fallen gelasswen. Könntwen Sie mir helfwen?
+deckshard1 = Hey - das ist nicht Eis! Da ist eine Glasscherbe in diesem Getränk!
 
 leftshard0 = Ich hatte mir weh getwan... Kannst dwu mich zwum Kapitän twagen, bitte?
 leftshard1 = ...Was willst du, Welpe? Hat sich jemand aus der Crew verletzt?
@@ -42,14 +42,14 @@ fishdude2 = Oh, hey Kumpeline. Ich war gerade am chillen und hab dieses zerbroch
 fishdude3 = ... Es gehöhrt dir? Ah, cool, glaub' ich. Ich beurteile dich nicht, weißt du. 
 fishdude4 = Ziemlich krass, dieses Zeug einfach mit deinen Händen aufzuheben, aber so, was auch immer du willst.
 
-slotmachine0 = Du bekommst wirklich gute Schwingungen von dieser Maschine! Du brauchst aber ein paar Chips zum spielen...
-slotmachine1 = Heute ist das Glückstag...
-slotmachine2 = Eine Scherbe hat in der Maschine Gesteckt!
+slotmachine0 = Irgendwie zieht dich diese Maschine an. Oh, man braucht Chips zum spielen...
+slotmachine1 = Du hoffst auf etwas Tolles...
+slotmachine2 = Da steckte eine Scherbe in der Maschine!
 
-captain0 = Ich bin beschäftigt, Welpe. Dieses Schifft steuert sich nicht von alleine.
-captain1 = Ich sagte, ich bin beschäftigt, Welpe.
-captain2 = Hast du nichts besseres zu tun? 
-captain3 = Die bezahlen mich für das hier zu wenig...
+captain0 = Ich bin beschäftigt, Welpe. Das Schiff fährt nicht von alleine.
+captain1 = Ich sagte, dass ich beschäftigt bin, Welpe.
+captain2 = Hast du nichts besseres zu tun?
+captain3 = Die bezahlen mich für solche Dinge zu wenig...
 
 mafia0 = Mafia gewöhnt an Container und Fisch, nicht Luxuskabinen. Tickets definitiv lebenslange Sparguthaben wert.
 mafia1 = Gut Urlaub zu haben. Sieht Leute, die nicht Mafia sind. Zu viele davon zu Hause.
@@ -115,9 +115,9 @@ seals5 = Hawwo! Der Kapitän sagte, dass Sie etwas nehmen könnwen. Da ist weute e
 tourist0 = Hey, Kind! Du wirst nich' glauben, wie schwer es heutzutage ist zur Sonne zu reisen. Verdammter Steve, immer ein Schritt voraus...
 tourist1 = Jedenfalls dachte ich, dass ich mich mal entspannen muss! Das sollte doch glatt laufen, oder?
 
-binocs0 = Wow! Das Schiff sieht Ungelaubelich aus! Und sicher! Unglaublich sicher, könnte man sagen.
+binocs0 = Wow! Das Schiff sieht unglaublich aus! Und sicher! Unglaublich sicher, könnte man sagen.
 
-crates0 = Auf dem Etikett steht 'PBR'. Wer auch immer die sind, Sie sind wirklich gut Glitzerende sachen herzustellen.
+crates0 = Auf dem Etikett steht 'PBR'. Wer auch immer das sein mag, macht schöne, glänzende Dinge.
 
 captain0 = Äh... Du siehst mir ein wenig zu jung aus um alleine zu segeln, Welpe.
 captain1 = Was auch immer. Steh einfach niemandem im Weg. Die 'Crew' tut das schon genug.
@@ -137,7 +137,7 @@ fishdude1 = Letztes Jahr wurde ich bei einem zwielichtigen Urlaub abgezockt. Das
 mafiaboss0 = Ah! Erst bringst du mich um, dann quälst du mich noch, indem du[br]dir ein Ticket für die einzige Kreuzfahrt mit Räumen für Gläserleute buchst!
 mafiaboss1 = So ein unverschämtes Mädchen.[br]Hätte ich nicht eine angenehme Urlaubsstimmung[br][small]und einen Körper[/small], würde ich mich auf der Stelle an dich rächen!
 
-seals0 = Sie sehwen aus als hätten sie eine gute Zeit! [br]Man sollte sie torwzdem nicht unbeauwsichtigt lawsen.
+seals0 = Anscheinend haben die viel Spaß! [br]Aber man sollte sie vielleicht nicht unbeaufsichtigt lassen. 
 seals1 = Willkowwen auf der Kweuzfahrt!
 seals2 = Wir hoffen, dass es Ihnen wehr gefallen wird!
 
@@ -146,7 +146,6 @@ snatcher1 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/bi
 snatcher2 = [shake2]Ugh. Du tauchst in meinem Wald auf, greifst mich an, weigerst abzuhauen... und jetzt bist du hier um meinen Urlaub zu ruinieren?![/shake2] 
 snatcher3 = [shake2]Du bist schrecklich, Kleine.[/shake2]
 snatcher4 = [shake2]...Ja, Ich verstecke mich in einer Kiste. Tickets sind teuer.[/shake2]
-snatcher5 = [shake2]Das sieht so aus, als ob es an Bord geladen wird, oder? Oder nicht, Kleine?[/shake2]
 
 penguins0 = Die Tickets für dieses Ding sind sehr teuer, aber der alte 1-Flipper Rabatt hatte uns geholfen, falls du verstehst, was ich meine.
 penguins1 = [icon:djgrooves][name]Der Boss[/name] wollte hier sein, aber als er gehört hatte, dass der [icon:conductor][name]Schaffner[/name] hier ist, wollte er lieber an seinem nächsten Film arbeiten.
@@ -154,7 +153,6 @@ penguins2 = Ich hoffe mal, dass es hier mehr als ein Planschbecken gibt. Sag's k
 
 owls0 = Weißt du, nach all diesem Reisen mit dem [icon:conductor][name]Schaffner[/name] freue ich mich endlich mal auf etwas... zuverlässigeres.
 owls1 = Ich kann nicht darauf warten für eine Weile im Pool zu sein. Eulen lieben das Wasser, weißt du.
-
 
 [act3]
 captainbar0 = Sehe ich etwa nicht beschäftigt aus, Welpe? Spiel woanders.
@@ -172,8 +170,8 @@ start2 = Nun, du solltest ein Rettungsboot aufsuchen, Welpe. Das wäre schlau.
 loudspeaker3 = Warte nicht auf mich, Welpe. Geh in ein Boot und hau ab.
 loudspeaker4 = Das ist mein verdammtes Schiff und ich werde damit untergehen!
 
-conductor0 = Immer mit der Ruhe! Wir können nicht los ohne die kleine Lass!
-conductor1 = [scream]Komm rüber, Lassie! Wir verschwinden'![/scream]
+conductor0 = Wo ist der Lass? Dieses Schiff sinkt, wir müssen hier raus!
+conductor1 = [scream]Komm her, Lassie! Wir segeln JETZT!![/scream]
 
 captain0 = *Seufz* Welpe, warum hast du mich nicht mit dem Schiff untergehen lassen? Ich kann nicht ertrinken, aber wenigstens könnte ich für eine paar Minuten so tun.
 captain1 = Hmph, ohne mich wird die Crew wohl nie die Boote an Land bringen. Na gut. Crew, lasst uns nach Hause gehen.
@@ -186,8 +184,8 @@ fishdude0 = So, echt danke Kumpeline. Ich hab das total nicht kommen sehen.
 conductor2 = Ay, dankeschön Lass. Die Kleinen haben noch net Schimmen gelernt!
 
 [fluff]
-fishdude0 = Hey, Kumpeline. Was geht ab? Ich Checke gerade dieses, du weißt, total zerstörte Geländer aus. Es ist voll so unsicher, weißt du?
-fishdude1 = Jemand sollte sich das Vermerken. Nur ich nicht, offensichtlicher weise. 
+fishdude0 = Hey, Kumpeline. Ich checke mir nur dieses total zerstörte Geländer aus. Es ist stark unsicher, weißt du?
+fishdude1 = Jemand sollte das ausarbeiten. Aber ich werd's nicht machen.
 
 tourist0 = Hoffe ein wenig, dass wir bald an einer Insel oder so vorbeikommen. Muss mal ein wenig was fotografieren!
 
@@ -263,6 +261,6 @@ reviewcrow0 = Was meinen Sie damit, das wir nicht auf der Liste für das Abendess
 reviewcrow1 = Wir bezahlten exakt [TicketPrice] [icon:pon] für Tickets, wie sonst jeder Passagier auch.
 reviewcrow2 = Es wird eine schlechte Bewertung für diese Kreuzfahrt geben.
 
-leaflets0 = Es sind ein haufen Broschüren über den Spa auf der Kreuzfahrt! Sie sind aber leider nicht im Ticket Preis Inklusive.
+leaflets0 = Es ist ein Haufen Flugblätter für Nobel-Badekuren! Sie sind jedoch nicht bei deinem Ticket enthalten.
 
-clipboard0 = Du hast nicht mal die leiseste Ahnung was hier stehen könnte, aber die Handschrift ist überraschenderweise sehr gut für eine Robbe.
+clipboard0 = Du hast absolut keine Ahnung, was das alles bedeuten könnte, aber die Handschrift ist für eine Robbe erstaunlich gut.

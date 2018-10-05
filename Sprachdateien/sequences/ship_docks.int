@@ -1,266 +1,268 @@
 [internal]
-yes = Heck yeah!
-no = Nooo!
+yes = Aber hallo!
+no = Nö!
 
-desksealA10 = Hi! How can I hewp you?
-desksealA11 = Youw looking fow something that looks like [icon:timepiece]?
-desksealA12 = Hmmm... whewe have I seen that...
-desksealA13 = Thinking vewy hawd...
-desksealA14 = Oh! I wemember! We bwoke one of those and hid it fwom the Captain! He wouldn't be happy if he knew we made a mess.
-desksealA15 = We twied to cwean it up, but. Um. We didn't do a vewy good job... and we wost some of the pieces...
-desksealA16 = I'm vewy sowwy, miss! Pwease don't be upset!
+desksealA10 = Hi! Wie kann ich Ihnen welfen?
+desksealA11 = Sie suchen nach etwas, was sow [icon:timepiece] auwsieht?
+desksealA12 = Hmmm... Wo hab' ich das gesehwen...
+desksealA13 = Denkt wehr swer [shake]naaaach[/shake]...
+desksealA14 = Oh! Ich erwinner mich! Wir hatten eines davon zerbwochen und es vom Kapitän versteckt! [br]Er würde nicht wehr zufwieden sein, wenn er die Sauwerwei sehen würde.
+desksealA15 = Wir haben versucht es aufzuräumen, aber. Äh. Öh. Wir hatten das nicht so gut gemacht... und einige Teile verworen...
+desksealA16 = Es tut mir so wurchtbar leid! Bitte seien Sie nicht twaurig!
 
-smash0 = Hmm... this damage is serious. It's in more pieces than one, which is terrible.
-smash1 = Maybe you could stick it all back together if you find the [hint]missing shards[/hint].
-smash2 = It looks like there's one in every room...
+smash0 = Hmm... Der schaden sieht wirklich schlimm aus. Es sind mehr als nur 2 Scherben, es ist schrecklich.
+smash1 = Vielleicht kannst du es wieder zusammen kriegen wen du alle [hint]verlorenen Scherben[/hint] findest.
+smash2 = Es sieht so aus als wäre in jedem Raum eins...
 
-captainAttention0 = Attention... this is your Captain speaking.
-speaker0 = Is this thing turned on? Ahem...
-speaker1 = All passengers, please check in at the lobby desk! I'll be on board shortly...
-speaker2 = Attention, passengers. And 'crew'.
-speaker3 = The ship is now leaving. Please try not to fall off.
+captainAttention0 = Achtung... hier spricht der Kapitän.
+speaker0 = Ist das Ding an? Ähem...
+speaker1 = Alle Passagiere mögen bitte an der Rezeption einchecken! Ich werd in wenigen Minuten an Bord sein...
+speaker2 = Achtung Passagiere. Und 'Crew'.
+speaker3 = Das Schiff verlässt nun den Hafen. Bitte versuchen sie, nicht von Bord zu fallen.
 speaker4 = [wave]Bing! Bong! Bing! Bong![/wave]
 
-checkin0 = You're all checked in!
-checkin1 = Now to track down that timepiece...
+checkin0 = Du hast dich vollständig angemeldet!
+checkin1 = So, und jetzt das Zeitstück aufspüren...
 
-washingmachine0 = Someone started the wash cycle without any detergent! You'd better dunk some in there.
-washingmachine1 = There was a timepiece shard in with the clothes!
+washingmachine0 = Jemand hat die Waschmaschine ohne Waschmittel angeworfen! Schmeiße besser welches rein.
+washingmachine1 = Da war eine Zeitstück Scherbe zwischen den Klamotten!
 
-restarauntshard0 = Mafia bit down on something hard in this food! Child should take it back to kitchen. Please.
-restarauntshard1 = Underneath the lettuce - that's a shard from the timepiece!
+restarauntshard0 = Mafia biss auf etwas festes in diesem Essen! Kind sollte es zurück in die Küche bringen. Bitte.
+restarauntshard1 = Unter dem Salat - das ist ein Teil von einem Zeitstück!
 
-deckshard0 = H-hewwo! I need to get all these empty gwasses, but I dwoppeded them. Can you hewlp me, miss?
-deckshard1 = Looks like one of the missing shards was in someone's drink!
+deckshard0 = H-hawwo! Ich muss alle leeren Gwäser holen, aber ich hatte sie fwallen gelassen. Können Sie mir welfen?
+deckshard1 = Sieht so auws als wäre die Scherwbe in dem Dwink gewessen!
 
-leftshard0 = I huwt mysewlf... will you take me to the captwain, pwease?
-leftshard1 = ...What do you want, pup? One of the crew hurt themselves again?
-leftshard2 = What do I look like, a doctor? [hint]Kiss[/hint] it better yourself.
-leftshard3 = Thank you miss! I fwound this shiny gwass, but it's all youws!
+leftshard0 = Ich hatte mir weh getwan... Kannst dwu mich zwum Kapitän twagen, bitte?
+leftshard1 = ...Was willst du, Welpe? Hat sich jemand aus der Crew verletzt?
+leftshard2 = Sehe ich etwa wie ein Doktor aus? Gib ihm selbst ein gute Besserung [hint]Küsschen[/hint].
+leftshard3 = Danke, dass Sie mein Wehwehswen küssen! Ich fühle mich swon ein wenig besser! [br]Ich hatte dieses glitzernde Glas gefwunden, aber jetzt gehwört es dir!
 
-fishdude2 = Oh, hey dudette. I was just chilling, you know, and I noticed all this broken glass around. Weird, right?
-fishdude3 = ... It belongs to you? Ah, cool, cool. Broken glass would like, totally violate code 1.3a of the maritime safety order, but if it's yours that's like, no big deal.
-fishdude4 = Now this corridor on the other hand, woah. Really sinking my calm vibe, you know?
+fishdude2 = Oh, hey Kumpeline. Ich war gerade am chillen und hab dieses zerbrochene Glass rumliegen sehen. Komisch, oder?
+fishdude3 = ... Es gehöhrt dir? Ah, cool, glaub' ich. Ich beurteile dich nicht, weißt du. 
+fishdude4 = Ziemlich krass, dieses Zeug einfach mit deinen Händen aufzuheben, aber so, was auch immer du willst.
 
-slotmachine0 = You're getting really good vibes from this machine! You need some chips to play, though...
-slotmachine1 = You're feeling lucky...
-slotmachine2 = There was a shard stuck in the machine!
+slotmachine0 = Du bekommst wirklich gute Schwingungen von dieser Maschine! Du brauchst aber ein paar Chips zum spielen...
+slotmachine1 = Heute ist das Glückstag...
+slotmachine2 = Eine Scherbe hat in der Maschine Gesteckt!
 
-captain0 = I'm busy, pup. This ship doesn't steer itself.
-captain1 = I said I'm busy, pup.
-captain2 = Don't you have anything better to do? 
-captain3 = They don't pay me enough for this...
+captain0 = Ich bin beschäftigt, Welpe. Dieses Schifft steuert sich nicht von alleine.
+captain1 = Ich sagte, ich bin beschäftigt, Welpe.
+captain2 = Hast du nichts besseres zu tun? 
+captain3 = Die bezahlen mich für das hier zu wenig...
 
-mafia0 = Mafia used to shipping containers and fish, not luxury cabins. Tickets definitely worth entire life savings.
-mafia1 = Is nice to take vaction. See people that are not other Mafia. Too many of those at home.
+mafia0 = Mafia gewöhnt an Container und Fisch, nicht Luxuskabinen. Tickets definitiv lebenslange Sparguthaben wert.
+mafia1 = Gut Urlaub zu haben. Sieht Leute, die nicht Mafia sind. Zu viele davon zu Hause.
 
-mafiaboss0 = [scream]Agh![/scream] These annoying little seals are driving me mad.  
-mafiaboss1 = At least you, rude child, have the good grace to keep quiet.
+mafiaboss0 = [scream]Argh![/scream] Diese nervigen, kleinen Robben machen mich verrückt.
+mafiaboss1 = Zumindest du, unverschämtes Kind, bist anständig und bleibst leise.
 
-seals0 = Hewwo, miss! We hope you like the ship! We wowk hawd to keep it cwean and tidy.
-seals1 = E-excwuse me! No wunning by the pool, pwease and thanks!
-seals2 = Hi! Would you like two bwuy a pool twoy?
-seals3 = We have awl kwinds of shapes and sizes! And they fwoat!
-seals4 = Wewcome, ma'am. I don't think we have any tables fow one wight now...
-seals5 = Uh-oh! That wifeboat's bwocking the door!
-seals6 = It's so heavwy...
+seals0 = Hawwo! Ich hoffe, dass Sie dieses Schiff mögen! Wir arbeiten wehr swer es sauber und aufgeräumt zu lassen.
+seals1 = E-entswuldigung! Nicht am Pool rennen, bitte und danke [wave]swööön~[/wave]!
+seals2 = Hi! Möchtwen Sie ein Pool-Spielzeug kaufwen?
+seals3 = Wir haben sie in den verswiedesten Formen und Größen! Und sie swimmen!
+seals4 = Willkowwen, gnä' Frau. Ich glaube, dass wir werade keinen Tisch für eine Person habwen...
+seals5 = Hoppla! Das Rettungswoot blockiert die Tür!
+seals6 = Es ist [shake]so swer[/shake]...
 
-conductor0 = Hmm... get me a Sinking Ship, oan the rocks. And make the good part a double.
-conductor1 = Oh, I didn't notice yer there, lassy. Out roamin', are we?
-conductor2 = If yer after a drink, I think they might have some wee bottles of juice. 
-conductor3 = Yer a capable one, sure, but what I'm having isnae for young lasses.
+conductor0 = Heyy... gib mir nen sinkenes Schiff, auf Eiswürfel. Und verdoppelt den guten Teil.
+conductor1 = Oh, ich hab dich garnet gesehen, Lassie. Bist draußen unterwegs, net wahr?
+conductor2 = Wenn du nach nem Drink suchst, ich glaub die haben hier kleine Säftschen. 
+conductor3 = Du bist'ne Tüchtige, sicher, aber was ich hab ist net für junge Lassies.
 
-octopus0 = Watch your step there, spark! It'd be real [shake2]shocking[/shake2] if you slipped.
-octopus1 = I'm [shake2]positive[/shake2] they could make it a little safer down there, but I guess that'd really [shake2]amp[/shake2] up the costs.
-octopus2 = Anyway, it's nice to have a guest down here. Most folks don't appreciate the hard work I put in to keep the mood [shake2]electric[/shake2].
+octopus0 = Pass auf wo du hintrittst, Funke! Es wäre echt [shake2]schockierend[/shake2] wenn du ausrutschst.
+octopus1 = "Ich bin [shake2]positiv[/shake2] eingestellt, dass sie es hier unten ein wenig sicherer machen könnten, aber das würde die Kosten [shake2]erhöhen[/shake2]."
+octopus2 = Wie dem auch sei, es ist schön einen Besucher hier unten zu haben. Die meisten Leute wissen die harte Arbeit nicht zu schätzen, die ich leiste, um die Stimmung [shake2]elektrisch[/shake2] zu halten.
 
-bathroom0 = Sowwy! I cwashed a food cart and spiwled the drinks, so this bathwoom is cwosed wight now!
+bathroom0 = Sowwy! Ich hatte einen Einkaufswagen umgestwürtzt, also müssen die Toiletten gespwerrt werden!
 
-signs0 = The weception is this way miss!
-signs1 = Wewcome abwoard!
+signs0 = Zum Empfwang müssen Sie hier entwang gehen!
+signs1 = Willkowwen an Bword!
 
 [act2]
-yes = Heck yeah!
-no = Nooo!
+yes = Aber hallo!
+no = Nö!
 
-thankyou0 = Thankwoo miss!
-thankyou1 = Thanks for tha hewp!
-thankyou2 = Hey, thanks kid.
-thankyou3 = Ah, Mafia needed more towels!
+thankyou0 = Dankeswön!
+thankyou1 = Danke für die Hilfwe!
+thankyou2 = Hey, danke, Kleine.
+thankyou3 = Ah, Mafia brauchte mehr Handtücher!
 
 
-seals0 = Hi, miss! How can I hewp you?
-seals1 = Oh? There's somethwing you want in the wost and fwound?
-seals2 = Hmm... the Captain lets us pick sometwhing from it if we wowk vewy hard! Maybe you couwd hewp!
-seals3 = Buuut... you'd have to go ask him nicewy. [hint]Just fowwow the mess to his woom![/hint]
-seals4 = The Captain is vewy messy. But he wowks vewy hawd steewing the ship!
-seals5 = We wove him wots and wots!
+seals0 = Hallöchen! Wie kann ich Ihnen welfen?
+seals1 = Oh? Da ist etwas, dass Sie im Fwundbüro haben wöchten?
+seals2 = Hmm... der Kapitän lässt uns etwas davon wehmen, falls wir wehr, wehr swer arbeiten! Vielleicht können Sie helfen!
+seals3 = Aaaaber... Sie müssen ihn wehr höflich fwagen. [hint]Folge einfach die Unordnung zu seinem Raum![/hint]
+seals4 = Der Kapitän ist wehr unordentlich. Aber er arbeitet wehr swer das Schiff zu steuern!
+seals5 = Wir haben ihn ganz dwoll lieb! 
 
-captainAttention0 = Attention... this is your Captain speaking.
-captain0 = What's that, pup? [br]You want to help out?
-captain1 = Hmph. Sure. Maybe something will get done around this mess of a boat for once. It'd be a first.
-captain2 = Alright. You'll need to deliver drinks, some food, and a few other things. And do it quickly, pup.
-captain3 = Oh, and there are some other jobs that'll need doing. So pay attention. Are you ready to start?
-captain4 = Well, come back when you are. This ship isn't going to clean itself up.
-captain5 = Good. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
-captainFail0 = Just like the seals... that's no good. You just made more of a mess, pup. Try again. Or don't, whatever.
-captainDone0 = You can stop now, pup. Come back to Control, I guess.
-captainDone1 = Well... looks like you actually cleaned up more mess than you made, pup. That's more than most of the crew can manage.
-captainDone2 = Help yourself to something from the Lost and Found. Nobody ever comes back for that stuff anyway.
+captainAttention0 = Achtung... hier spricht der Kapitän.
+captain0 = Was ist los, Welpe? [br] Du möchtest aushelfen?
+captain1 = Hmph. Na gut. Vielliecht tut sich ja endlich was auf diesem Schlachtfeld eines Bootes. Es wäre eine Prämerie.
+captain2 = Na denn. Du musst Getränke und Essen austragen und noch eine paar andere Dinge. Und mach es schnell, Welpe.
+captain3 = Oh, und es gibt andere Jobs die gemacht werden müssen. Also sei wachsam. Bist du soweit?
+captain4 = Nun, komm zurück wenn du es bist. Dieses Schiff säubert sich nicht von alleine.
+captain5 = Gut. Du kannst beim Entsorgen dieser alten Boxen anfangen. Es wird hier langsam unordentlich...
+captainFail0 = Genau wie die Seehunde... das ist nicht hilfreich. Du hast das Chaos nur schlimmer gemacht, Welpe. Versuchs nochmal. Oder nicht, was auch immer. 
+captainDone0 = Du kannst jetzt aufhören, Welpe. Komm zurück zur Zentrale, oder so...
+captainDone1 = Nun... scheint so, du hättest mehr Chaos aufgeräumt als angestellt, Welpe. Das ist mehr als der Großteil der Crew hinbekommt.
+captainDone2 = Nimm dir etwas aus der Fundstube. Es kommt eh Niemand für seine Sachen zurück.
 
-seals4 = M-miss! Youw not suppwosed to opwen that unless the captwain says so!
-seals5 = Hewwo! The captwain said you could take somethwing. Thewe's somethwing vewy shiny in thewe today! 
+seals4 = [small]Ähm...[/small] Sie dürfen das nicht ohne Erwaubnis des Kapitäns öffnen.
+seals5 = Hawwo! Der Kapitän sagte, dass Sie etwas nehmen könnwen. Da ist weute etwas wehr glänzendes!
 
 [docks]
-tourist0 = Hey kid! You wouldn't believe how hard it is to get to the Sun these days. That darn Steve, always one step ahead...
-tourist1 = Anyway, I thought I'd take some time off to relax! This should be smooth sailing, huh?
+tourist0 = Hey, Kind! Du wirst nich' glauben, wie schwer es heutzutage ist zur Sonne zu reisen. Verdammter Steve, immer ein Schritt voraus...
+tourist1 = Jedenfalls dachte ich, dass ich mich mal entspannen muss! Das sollte doch glatt laufen, oder?
 
-binocs0 = Wow! The ship looks incredible! And safe! Incredibly safe, you might say.
+binocs0 = Wow! Das Schiff sieht Ungelaubelich aus! Und sicher! Unglaublich sicher, könnte man sagen.
 
-crates0 = The label on this crate reads 'PBR'. Whoever they are, they're good at making shiny things.
+crates0 = Auf dem Etikett steht 'PBR'. Wer auch immer die sind, Sie sind wirklich gut Glitzerende sachen herzustellen.
 
-captain0 = Uh... you look a little young to be sailing alone, pup.
-captain1 = Whatever. Just don't get in anyone's way. The 'crew' do enough of that already.
-captain2 = See the walkway, pup? What a mess...
-captain3 = How is anyone supposed to get up that thing? 
-captain4 = They can't even make a straight walkway. Surprised the whole thing doesn't fall apart.
+captain0 = Äh... Du siehst mir ein wenig zu jung aus um alleine zu segeln, Welpe.
+captain1 = Was auch immer. Steh einfach niemandem im Weg. Die 'Crew' tut das schon genug.
+captain2 = Siehst du den Laufsteg, Welpe? Was ein Chaos...
+captain3 = Wie soll da jemand hochkommen? 
+captain4 = Die können nicht mal einen richtigen Laufweg aufstellen. Echt überraschend, dass es bisher nicht zerfallen ist...
 
-conductor0 = Well, if it isn't the little lass. How's stardom treating you?
-conductor1a = Tell you the truth, I'm taking some time off after that [br]peck-neck [icon:djgrooves] DJ tried tae to, y'know, kill you.
-conductor1b = Oh, and sorry about the whole... knife incident. [br]What's a wee argument between colleagues though, lassy?
-conductor1c = I'm taking some time off tae relax. Getting away from that noisy [br][icon:djgrooves][name]DJ Grooves[/name] fer a while.
-conductor2 = Anyway, I'd better go ask about the childcare on board. I love these little blighters, but I cannae bring them to the bar with me can I?
+conductor0 = Nun, wenn's net die kleine Lassie ist. Wie gehts dir mit dem Ruhm?
+conductor1a = Um ehrlich zu sein, nehme ich etwas Auszeit nachdem dieser [br]Grünschnabel [icon:djgrooves] [name]DJ[/name] versucht hat zu, nun, du weißt schon.
+conductor1b = Oh, und entschuldige wegen dem... Messerunfall. [br]Aber was ist schon ein kleiner Streit zwischen Kollegen, Lassie?
+conductor1c = Ich nehme mir Auszeit zum entspannen. Um für ne Weile vom lärmigen [br][icon:djgrooves][name]DJ Grooves[/name] wegzukommen.
+conductor2 = Wie dem auch sei, ich frage besser nach der Kinderbetreuung an Bord. Ich liebe diese kleinen Burschen, aber ich kann sie net mit an die Bar nehmen, oder?
 
-fishdude0 = Hey there, dude. Dudette, I mean. I'm like, ready for a nice cruise, aren't you? [br]Hopefully there's nothing fishy about this ship, y'know.
-fishdude1 = Not that it being ship-shape is my concern, or anything. I'm just on vacation, like everyone else.
+fishdude0 = Hey, Kumpel. Kumpeline, meine ich. Ich bin so, richtig bereit für eine super Kreuzfahrt. [br]Hoffentlich ist an diesem Schiff nichts fischig, weißt du?
+fishdude1 = Letztes Jahr wurde ich bei einem zwielichtigen Urlaub abgezockt. Das war mal so garnicht krass.
 
-mafiaboss0 = Ah! First you kill me, then you torment me by booking passage on [br]the only cruise liner here with facilities for people in jars!
-mafiaboss1 = Such a rude little child. Were I not in a pleasant holiday mood [br][small]and still without a body[/small] I would take my revenge right here and now!
+mafiaboss0 = Ah! Erst bringst du mich um, dann quälst du mich noch, indem du[br]dir ein Ticket für die einzige Kreuzfahrt mit Räumen für Gläserleute buchst!
+mafiaboss1 = So ein unverschämtes Mädchen.[br]Hätte ich nicht eine angenehme Urlaubsstimmung[br][small]und einen Körper[/small], würde ich mich auf der Stelle an dich rächen!
 
-seals0 = They look like they're having an nice time! [br]Though they probably shouldn't be left unattended.
-seals1 = Wewcome to the cwuise, miss!
-seals2 = We howp you have a gweat twime!
+seals0 = Sie sehwen aus als hätten sie eine gute Zeit! [br]Man sollte sie torwzdem nicht unbeauwsichtigt lawsen.
+seals1 = Willkowwen auf der Kweuzfahrt!
+seals2 = Wir hoffen, dass es Ihnen wehr gefallen wird!
 
-snatcher0 = [shake2]Ahem...[/shake2]
-snatcher1 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]FOOOOOOOOOOooo... wait a minute. It's you, again?[/shake2]
-snatcher2 = [shake2]Ugh. You show up in my forest, assault me, refuse to leave... and then turn up to ruin my vacation too?[/shake2]
-snatcher3 = [shake2]You really are just the worst, kiddo.[/shake2]
-snatcher4 = [shake2]...Yes, I'm hiding in a crate. Tickets are expensive.[/shake2]
+snatcher0 = [shake2]Ähmm...[/shake2]
+snatcher1 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]NAAAAAArrr... oh, du bist's..[/shake2]
+snatcher2 = [shake2]Ugh. Du tauchst in meinem Wald auf, greifst mich an, weigerst abzuhauen... und jetzt bist du hier um meinen Urlaub zu ruinieren?![/shake2] 
+snatcher3 = [shake2]Du bist schrecklich, Kleine.[/shake2]
+snatcher4 = [shake2]...Ja, Ich verstecke mich in einer Kiste. Tickets sind teuer.[/shake2]
+snatcher5 = [shake2]Das sieht so aus, als ob es an Bord geladen wird, oder? Oder nicht, Kleine?[/shake2]
 
-penguins0 = The tickets for this thing are pricey, but we helped ourselves to the old 1-flipper discount, if you know what I mean.
-penguins1 = The boss wanted to be here, but when he heard the [icon:conductor][name]Conductor[/name] is here he decided to focus on his next movie instead.
-penguins2 = I hope there's something other to do than take a dip. Keep it to yourself kid, but we ain't the swimmin' type, capisce?
+penguins0 = Die Tickets für dieses Ding sind sehr teuer, aber der alte 1-Flipper Rabatt hatte uns geholfen, falls du verstehst, was ich meine.
+penguins1 = [icon:djgrooves][name]Der Boss[/name] wollte hier sein, aber als er gehört hatte, dass der [icon:conductor][name]Schaffner[/name] hier ist, wollte er lieber an seinem nächsten Film arbeiten.
+penguins2 = Ich hoffe mal, dass es hier mehr als ein Planschbecken gibt. Sag's keinem weiter, aber wir sind nicht die Leute, die schwimmen, kapiert?
 
-owls0 = You know, after travelling on the [name]Conductor's[/name] train all the time, I'm looking forward to something a little more... reliable.
-owls1 = I can't wait to get some time in the pool. Owls love water, you know.
+owls0 = Weißt du, nach all diesem Reisen mit dem [icon:conductor][name]Schaffner[/name] freue ich mich endlich mal auf etwas... zuverlässigeres.
+owls1 = Ich kann nicht darauf warten für eine Weile im Pool zu sein. Eulen lieben das Wasser, weißt du.
+
 
 [act3]
-captainbar0 = Do I not look busy to you, pup? Go play somewhere.
-captainbar1 = Let an old captain relax. The seals can handle things for a minute.
-captainbar2 = Hopefully, they've learned not to mess with [hint]the steering wheel[/hint] by now...
+captainbar0 = Sehe ich etwa nicht beschäftigt aus, Welpe? Spiel woanders.
+captainbar1 = Lass einen alten Kaptiän ruhen. Die Seerobben können sich für ne Minute um alles kümmern.
+captainbar2 = Hoffentlich haben sie mitlerweile gelernt,[hint]das Steuerrad[/hint]in Ruhe zu lassen...
 
-loudspeaker0 = Hewwo! The captwain has a messa-
-loudspeaker1 = Hand me that microphone! [scream]Who's at the wheel?![/scream]
-loudspeaker2 = [big][scream]We're headed straight for an iceberg! [br]All hands on deck![/scream][/big]
+loudspeaker0 = Hawwo! Der Kawptain hat ein-
+loudspeaker1 = Gib mir das Mikrofon! [scream]Wer ist am Steuerrad?![/scream]
+loudspeaker2 = [scream]Wir steuern direkt auf einen Eisberg zu! [br]Alle Mann an Deck![/scream]
 
-start0 = It's all going down, pup. I never thought I'd see the day.
-start1 = Her maiden voyage, too. Won't take more than a few minutes for all of this to hit the sea floor, I think.
-start2 = Do me a favour, pup. Make sure everyone gets to the boats.
+start0 = Es geht alles unter, Welpe. Ich hätte nie gedacht, dass ich diesen Tag erleben würde.
+start1 = Auch noch auf ihrer Jungfernfahrt. Dauert nicht mehr als ein paar Minuten bis alles am Meeresgrund liegt.
+start2 = Nun, du solltest ein Rettungsboot aufsuchen, Welpe. Das wäre schlau.
 
-loudspeaker3 = Make sure those lifeboats are full! And don't bother waiting...
-loudspeaker4 = A good captain goes down with their ship.
+loudspeaker3 = Warte nicht auf mich, Welpe. Geh in ein Boot und hau ab.
+loudspeaker4 = Das ist mein verdammtes Schiff und ich werde damit untergehen!
 
-conductor0 = Now hold yer horses! We can't be going anywhere without the little lass!
-conductor1 = [scream]Get over here, lassie! We're leavin'![/scream]
+conductor0 = Immer mit der Ruhe! Wir können nicht los ohne die kleine Lass!
+conductor1 = [scream]Komm rüber, Lassie! Wir verschwinden'![/scream]
 
-captain0 = Well, pup. I guess I owe you a thanks. 
-captain1 = I'm not sure which of these little mischief-makers thought they could take a turn steering, but you got everyone to safety.
-captain2 = Hopefully our insurance covers this...
-captain3 = Anyway, I can't give out refunds, but I found this is some of the broken ice. 
-captain4 = You seem pretty interested in them, so it's all yours, pup.
+captain0 = *Seufz* Welpe, warum hast du mich nicht mit dem Schiff untergehen lassen? Ich kann nicht ertrinken, aber wenigstens könnte ich für eine paar Minuten so tun.
+captain1 = Hmph, ohne mich wird die Crew wohl nie die Boote an Land bringen. Na gut. Crew, lasst uns nach Hause gehen.
+captain2 = Hoffentlich deckt unsere Versicherung das ab...
+captain3 = Wie auch immer, ich kann zwar keine Erstattungen anbieten, aber es sieht so aus, als würde auf dem Eisberg dort etwas funkeln. Ironisch, dass unser Schiff direkt daneben verunglückt ist.
+captain4 = Es gehört ganz dir, Welpe.
 
-seals0 = Thank woo miss!
-fishdude0 = Like, thanks dudette. I totally didn't see this coming.
-conductor2 = Aye, thank you lass. The little ones haven't learned to swim yet!
+seals0 = Danke wehr!
+fishdude0 = So, echt danke Kumpeline. Ich hab das total nicht kommen sehen.
+conductor2 = Ay, dankeschön Lass. Die Kleinen haben noch net Schimmen gelernt!
 
 [fluff]
-fishdude0 = Hey, dudette. What's up? I'm just checking out this, like, totally busted railing. It's like, wicked unsafe, you know?
-fishdude1 = Someone should write this up. Not me though, obviously. 
+fishdude0 = Hey, Kumpeline. Was geht ab? Ich Checke gerade dieses, du weißt, total zerstörte Geländer aus. Es ist voll so unsicher, weißt du?
+fishdude1 = Jemand sollte sich das Vermerken. Nur ich nicht, offensichtlicher weise. 
 
-tourist0 = Kinda hoping we pass close by an island or something soon. I need something to take pictures of!
+tourist0 = Hoffe ein wenig, dass wir bald an einer Insel oder so vorbeikommen. Muss mal ein wenig was fotografieren!
 
-mafia0 = They serve fish in kitchen. Also, fish are guests on boat. Mafia try not to think about this.
+mafia0 = Die servieren Fisch in Küche. Außerdem, Fisch sind Gäste auf Boot. Mafia versucht nicht darüber zu denken.
 
-deskseals0 = Hewwo! If you want a wefund, I'm suppwosed to say we don't give them! 
-deskseals1 = But that's mean! Wefunds for evewyone, hooway!
+deskseals0 = Hawwo! Falls Sie eine Rückerstattung haben möchten, sollte ich wormalerweise sagen, dass wir diese nicht gebwen! 
+deskseals1 = Aber das wist gemein! Wückerstwattungen für alle, Hurrah!
 
-restowl0 = I hope they don't burn the food. I'm not a chef, but I'm pretty sure that's not a normal amount of fire.
-restpenguin0 = The service here is terible, kid. I'd pick somewhere else to eat if I were you.
+restowl0 = Ich hoffe sie verbrennen das Essen nicht. Ich bin zwar kein Koch, aber ich bin mir sicher, dass man normalerweise nicht so viel Feuer braucht.
+restpenguin0 = Der Service ist schrecklich, Kleine. An deiner Stelle würde ich lieber irgendwo anders essen.
 
-tlpenguin0 = This is the only bathroom on this thing! There has to be another way in! I'm gettin' desperate over here, kid.
+tlpenguin0 = Das hier ist die einzigste Toilette! Es muss doch einen Weg geben, dort hinein zu kommen! Ich krieg' die Krise!
 
-kitchenseals0 = P-pwease be cawefuw miss! We have a tiny pwobwem with the ovens...
-kitchenseals1 = Ouchie! Fiwe's weally hot...
-kitchenseals2 = Hewwo! I'm on a bweak!
-kitchenseals3 = It's vewy hawd to weach up these counters! Maybe we should have got smawwew ones...
-kitchenseals4 = Uh-oh!! Thewes pudding evewywhewe! Pwease watch youw step!
-kitchenbubbleseal0 = We have an owder fow the deck! Take the ewevatow!
-kitchenbubbleseal1 = That ones fow poowside, ma'am!
-kitchenbubbleseal2 = This ones fow the dining woom!
-kitchenbubbleseal3 = Take that one to the dining woom, pwease!
-kitchenbubbleseal4 = Woom sewvice! Take it up the bawcony!
-kitchenbubbleseal5 = We have a woom sewvice owdew!
-kitchenbubbleseal6 = Stawboawd! Uh, that's the wight side miss!
-kitchenbubbleseal7 = Ship side! Stwaight out that door!
+kitchenseals0 = B-bitte sei vorsichtwig! Wir haben ein kweines Pwobwem mit den Öfen...
+kitchenseals1 = Aua! Feuwer ist wirklich heiß...
+kitchenseals2 = Hawwo! Ich habe gewade eine Pause!
+kitchenseals3 = Es ist wehr swer die Theken zu erreichen! Vielleicht hätten wir kweinere nehmen sollen...
+kitchenseals4 = Oh-oh!! Überwall ist Pudding! Bitte pass wauf!
+kitchenbubbleseal0 = Wir haben eine Bestwellung am Schiffsdeck! Nimm den Aufzwug!
+kitchenbubbleseal1 = Das ist für jemanden am Swimmbad!
+kitchenbubbleseal2 = Das hier ist für dwen Speisesaal!
+kitchenbubbleseal3 = Nimm dies hier zwum Speisesaal, bitte!
+kitchenbubbleseal4 = Zwimmerdienst! Nimm das zwum Balkon!
+kitchenbubbleseal5 = Wir habwen eine Zwimmerdienst-Bestellung!
+kitchenbubbleseal6 = Steuerbord! Äh, das ist dwie rechte Seite!
+kitchenbubbleseal7 = Bordwand! Gerade aus dwurch die Tür!
  
 
-owls0 = I'm thinking of quitting the movie business. The [name]Conductor's[/name] movies are always just action - where's the drama? Where's the artistry?
-owls1 = Maybe I could work in video games instead...
-owls2 = I followed some nice new people on Chirper today! I'm sure I won't regret it.
-owls3 = I thought the pool would be heated seeing as it's so cold out, but... it isn't!
-owls4 = I almost froze my feathers off trying to take a dip earlier.
-owls5 = The [name]Conductor's[/name] grandkids are a... bit of a handful, huh? I'm glad it isn't my job to keep an eye on them.
+owls0 = Ich denke darüber nach, die Filmwirtschaft aufzugeben. Der [icon:conductor][name]Schaffner[/name] macht immer nur Actionfilme - wo bleibt das Drama? Wo ist die Kunst?
+owls1 = Vielleicht könnte ich stattdessen an Videospielen arbeiten...
+owls2 = Ich habe ein Paar nette Leute auf Chirper gefollowed! Ich bin mir sicher, dass ich das nicht bereuen werde.
+owls3 = Ich dachte, dass der Pool aufgewärmt wird, da es draußen so kalt ist. Aber... nein, ist er nicht!
+owls4 = Ich wollte ein kurzes Bad nehmen und habe mir stattdessen fast die Federn abgefroren.
+owls5 = Die Enkel des [icon:conductor][name]Schaffners[/name] sind... ein wenig anstrengend, nicht? Ich bin froh, dass ich nicht der Babysitter für sie sein muss.
 
-penguins0 = I tried to get the boss to tell us about his next movie before we left, but he's tight-lipped about it.
-penguins1 = I forgot to download anything to listen to before I left, and there's no wi-fi signal out here! This holiday is the worst.
-penguins2 = I don't know what everyone's talking about, kid. The pool temperature's fine to me.
-penguins3 = You feelin' lucky, kid?
+penguins0 = Ich fragte [icon:djgrooves][name]dem Boss[/name] nach seinen nächstem Film nach, aber er blieb smallschnabelig.
+penguins1 = Ich hätte vor der Reise einige Songs downloaden sollen. Und jetzt ist hier kein Wi-Fi-Signal! Dieser Urlaub ist fürchterlich.
+penguins2 = Ich hab' keine Ahnung über welchen Pool die reden. Die Temperatur für diesen Pool ist doch okay.
+penguins3 = Glaubst du, dass du Glück hast, Kleine?
 
-alpinewanderer0 = It's good to be travelling again! Though the view here is not quite as nice as the one in the Alps.
-alpinewanderer1 = Take a look at that ocean! Isn't it beautiful?
-alpinewanderer2 = This way to the- ah, I mean, hello! That's a tough habit to shake.
-alpinewanderer3 = It's pretty cold back home, but I've never seen ice as big as that!
+alpinewanderer0 = Es ist schön mal wieder zu reisen! Obwohl die Aussicht hier nicht ganz so schön ist wie in den Alpen.
+alpinewanderer1 = Schau dir diesen Ozean an! Ist er nicht schön?
+alpinewanderer2 = Auf diese Weise zum-ah, ich meine, Hallo! Es ist schwer diese Gewohnheit abzulegen.
+alpinewanderer3 = Zu Hause ist es ziemlich kalt, aber ich habe noch nie so großes Eis gesehen!
 
-cookingcat0 = Well hi there! How's it going?
-cookingcat1 = To tell you the truth, if feels good to have someone else cooking for a change! I get to relax.
-cookingcat2 = Though I wonder what their kitchen is like... maybe I could just take a peek.
+cookingcat0 = Na, hallo du! Wie geht's?
+cookingcat1 = Um ehrlich zu sein, es fühlt sich gut an, wenn jemand anders zur Abwechslung kocht! Dann darf ich mich entspannen.
+cookingcat2 = Obwohl ich mich frage, wie ihre Küche aussieht ... Vielleicht könnte ich einen kurzen Blick hineinwerfen.
 
-seals0 = These towels awe vewy comfy!
-seals1 = I'm suppwosed to be wowking, but it's so nice...
-seals2 = Pwease watch youw step miss! It's a big dwop past this railing!
-seals3 = Oops... we fowgot to secuwe the tables! They're swiding aww ovew the pwace.
-seals4 = Hmmm... you wook too young to gamble to me! Sowwy, miss!
-seals5 = Also, pwease stay off the desk!
-seals6 = Isn't the gawden pwetty, miss?
+seals0 = Diese Bawetücher sind wehr gemütlich!
+seals1 = Ich sollte arbeiten, aber das ist hier [wave]so swön[/wave]...
+seals2 = Bitte pwass auf! Es geht von hier aus stweil herunter!
+seals3 = Uups... wir hätten die Twische befwestigen sollen! Jetzt schwittern sie überwall.
+seals4 = Hmmm... Sie sehen zwu jung für Glückspiele aus! Wut mir leid!
+seals5 = Übrigwens, bitte steige vom Twisch!
+seals6 = Ist dwer Garten nicht wunderswön?
 
-ticketcrow0 = Hello there, fellow passenger. It is nice to meet you. For the first time.
-ticketcrow1 = We crows all won our tickets in a sweepstakes. All of us. It was incredibly lucky.
-ticketcrow2 = You must have bought yours legitimately. For purely casual reasons, how many [icon:pon] did you pay?
-ticketcrow3 = Interesting. [TicketPrice] [icon:pon] seems like a normal price for cruise tickets.
-ticketcrow4 = Normal, and not incongurent with your bank statement at all.
+ticketcrow0 = Hallo, verehrter Mitreisender. Es ist schön, Sie kennenzulernen. Zum ersten Mal.
+ticketcrow1 = Wir Krähen haben alle unsere Tickets in einem Gewinnspiel gewonnen. Wir alle. Es war ein unglaubliches Glück.
+ticketcrow2 = Sie haben Ihr Ticket wahrscheinlich rechtmäßig gekauft. Aus reinem Interesse, wie viele [icon:pon] haben sie ausgegeben?
+ticketcrow3 = Interessant. [TicketPrice] [icon:pon] scheint für eine Kreuzfahrt ein normaler Ticketpreis zu sein.
+ticketcrow4 = Normal, und überhaupt nicht inkongruent mit Ihrem Kontoauszug.
 
-destinationcrow0 = Good evening, fellow passenger. I hope you are enjoying your journey.
-destinationcrow1 = Do you know where this cruise is going? It was written on all of our tickets, but the writing was smudged.
-destinationcrow2 = On all of them. It was a very unlikely accident. Can you remind us where we are headed?
-destinationcrow3 = Oh, of course, [Destination]. I remember now, having seen it written down earlier. On my ticket.
+destinationcrow0 = Guten Abend, Mitreisender. Ich hoffe, Sie genießen Ihre Reise.
+destinationcrow1 = Wissen Sie, wo diese Kreuzfahrt hinführt? Es stand auf allen unseren Tickets, aber die Schrift war verschmiert.
+destinationcrow2 = Bei allen von ihnen. Es war ein sehr unwahrscheinlicher Unfall. Können Sie uns mitteilen, wohin wir unterwegs sind?
+destinationcrow3 = Oh, natürlich, [Destination]. Jetzt erinnere ich mich, es vorher gesehen zu haben. Auf meinem Ticket.
 
-familycrow0 = I have family in [Destination]. I am very glad that is where we are going. 
-familycrow1 = It is why I got on this cruise, of course.
+familycrow0 = Ich habe eine Familie in [Destination]. Ich bin sehr froh, dass wir dort anreisen. 
+familycrow1 = Deshalb bin ich natürlich auf diese Kreuzfahrt gegangen.
 
-reviewcrow0 = What do you mean we aren't on the list for dinner?
-reviewcrow1 = We paid exactly [TicketPrice] [icon:pon] for tickets, just like every other real passenger.
-reviewcrow2 = There will be a bad review left on this cruise trip. 
+reviewcrow0 = Was meinen Sie damit, das wir nicht auf der Liste für das Abendessen stehen?
+reviewcrow1 = Wir bezahlten exakt [TicketPrice] [icon:pon] für Tickets, wie sonst jeder Passagier auch.
+reviewcrow2 = Es wird eine schlechte Bewertung für diese Kreuzfahrt geben.
 
-leaflets0 = It's a bunch of leaflets for ritzy spa treatments! They're not covered in your ticket price, though.
+leaflets0 = Es sind ein haufen Broschüren über den Spa auf der Kreuzfahrt! Sie sind aber leider nicht im Ticket Preis Inklusive.
 
-clipboard0 = You haven't the faintest clue what any of this means, but the handwriting's surprisingly good for a seal.
+clipboard0 = Du hast nicht mal die leiseste Ahnung was hier stehen könnte, aber die Handschrift ist überraschenderweise sehr gut für eine Robbe.

@@ -308,6 +308,9 @@ Item_Adv_AA_Title = Kantenglättung
 Item_Adv_AA_Desc = Wenn diese Option aktiviert ist, wird eine der ausgewählten Methoden zum Glätten von Modellkanten angewendet.[br]FXAA0 ist das billigste, während FXAA5 und MLAA am teuersten sind.[br]Diese Option sollte nur auf Keine und FXAA0 gesetzt werden, wenn du nicht mit den verschiedenen Methoden vertraut bist.
 Item_Adv_AA_Item_None = Keine
 
+Item_Adv_AO_Title = Umgebungsverdeckung
+Item_Adv_AO_Desc = Objekte werden Schatten an Wände werfen.
+
 Item_Adv_MaterialEffects_Title = Hochwertige Bildschirm-Effekte
 Item_Adv_MaterialEffects_Desc = Erlaubt höhere Qualität und mehrere Muster für die Bildschirm-Effekte.
 
@@ -330,7 +333,7 @@ Item_Adv_Vignette_Title = Kamera-Vignette
 Item_Adv_Vignette_Desc = Fügt einen subtilen schwarzen Rand um den Bildschirm hinzu.
 
 Item_Adv_RigidBody_Title = Simulierte Weltphysik
-Item_Adv_RigidBody_Desc = Wenn aktiviert, werden Trümmer und starre Körper über PhysX simuliert.[br]Mach keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte du hast.
+Item_Adv_RigidBody_Desc = Wenn aktiviert, werden Trümmer und starre Körper über PhysX simuliert.[br]Mach dir keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte du hast.
 
 Item_Adv_SuperSampling_Title = Supersampling
 Item_Adv_SuperSampling_Desc = Erhöht die Grafikleistung
@@ -431,6 +434,9 @@ Coop_CantDisableRightNow = Kann gerade nicht Ko-op Modus ausschalten
 Coop_CantEnableRightNow = Kann gerade nicht Ko-op Modus einschalten
 Coop_CantEnableDeathWish = Nicht verfügbar im Ko-op Modus
 Coop_CantEnableDWActive = Ko-op kann nicht während einem aktiven Todeswunsch aktiviert werden
+Coop_Disable_Question = Ko-Op ausschalten?
+Coop_Disable_Confirm = Ausschalten
+Coop_Disable_Deny = Abbrechen
 
 [MainMenu]
 FileSelect_File = Datei
@@ -564,6 +570,12 @@ Highscore = DIE BEWERTUNGEN SIND DA ...
 [Modding]
 PleaseRate_0 = Hilf mit dem Mod eine Bewertung zu geben
 PleaseRate_1 = indem du dein Feedback gibst!
+PleaseRate_2 = Bitte bewerte das Level!
+PleaseRate_3 = Sehr gut!
+PleaseRate_4 = Ganz nett.
+PleaseRate_5 = Na ja...
+PleaseRate_6 = Nicht allzu gut!
+
 HowToComment = Um zu kommentieren, musst du den Mod im Steam Workshop ansehen.
 BackToHub = Zum Raumschiff
 NextMap = Nächste Karte
@@ -631,17 +643,47 @@ rifts = Sechs neue Zeitrisse!
 unlocks0 = Einen Haufen freischaltbarer Outfits, Flairs,
 unlocks1 = Farben und sogar Kamera-Filter!
 
+[DeathWishMap]
+Locked = Akte Gesperrt
+Reward = Belohnung Verlangen!
+Unlock = Freischalten
+Disable = Ausschalten
+Enable = Anschalten
+Play = Spielen
+HardMode = Schweren Modus Anschalten
+Reset = Vertrag Zurücksetzen
+Tip = Snatchers Tipp
+Debug = DEBUG Komplett/Löschen
+
+ResetDeathwishQuestion = Fortschritt für Vertrag KOMPLETT löschen?
+ResetDeathwishConfirm = Reiße und zerfetze!
+ResetDeathwishDeny = Stopp!!!
+
 [DeathWishEasyMode]
-EasyMode0 = Niemand ist hier um zu helfen
-EasyMode1 = Das Leben ist schwer und stressig
+EasyMode0 = Niemand ist hier, um zu helfen
+EasyMode1 = Leben ist schwer, Leben ist stressig
 EasyMode2 = Ich brauche Ruhe und Frieden
 EasyMode3 = Ich muss niemanden etwas beweisen
-EasyMode4 = Soll ich diesen Todeswunsch etwas einfacher für dich machen?
+EasyMode4 = Soll ich diesen Todeswunsch etwas leichter machen?
 EasyShort = Willkommen zurück in der urteilsfreien Zone
 EasyExit = Keine Sorge. Denk an mich, wenn Dinge hitzig werden
-EasyAccept0 = Eins... zwei... presto!
-EasyAccept1 = Dieser Todeswunsch ist nun einfacher!
-EasyAccept2 = Coolen Tag noch!
+EasyAccept0 = Presto! Dieser Todeswunsch ist nun einfacher!
+EasyAccept1 = Coolen Tag noch!
+ButtonYes = Ja, bitte!
+ButtonNo = Nö!
+
+EasyNamePre = Möchtest du
+EasyNamePost = jetzt verfügbar für diesen Todeswunsch
+EasyName0 = Ruhe und Frieden
+EasyName1 = Mühe und Schieben
+EasyName2 = Kühe und Lieben
+EasyName3 = RUH3 und FR13D3N
+EasyName4 = Truhe and Siegen
+EasyName5 = Brühe und Biegen
+EasyName6 = Ruhe von Frieden
+EasyName7 = Hat Kid tanzen sehen
+EasyName8 = EZ Modu anschalten???
+EasyName9 = Netten Wunsch anschalten
 
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen
@@ -655,3 +697,5 @@ Item_VAType_Item_None = Keines
 Item_WindowType_Item_MultiMonitor = Multi-Monitor
 
 NoMods = Du hast keine Mods installiert! Platziere die Mods in den Mod-Ordner, um sie zu installieren.
+
+EasyAccept = Eins... zwei... presto!

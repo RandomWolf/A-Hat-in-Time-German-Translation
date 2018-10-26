@@ -1,7 +1,7 @@
 [systemsettings.global]
 SystemSetting_DefaultValue = Standard:
-SystemSetting_Value_Checked = Abgehakt
-SystemSetting_Value_Unchecked = Unabgehakt
+SystemSetting_Value_Checked = An
+SystemSetting_Value_Unchecked = Aus
 SystemSetting_Requires_Restart = Diese Einstellung erfordert einen Neustart, um wirksam zu werden.
 SystemSetting_ArtStyle_Warning = Warnung: Der Kunststil des Spiels wurde mit dieser Funktion entworfen. Das Ausschalten bietet nur einen geringen Leistungsgewinn. Wir empfehlen, dass diese Option auf deinem Standardwert belassen wird; Schalte es nur aus, wenn du dir absolut sicher bist.
 SystemSetting_Gameplay_Warning = Warnung: Es wird dringend empfohlen, diese Einstellung auf der Standardeinstellung zu belassen!
@@ -72,7 +72,7 @@ Item_VersusModeAlways_Desc = Aktiviert Versus-Modus, wenn Splitscreen Ko-op akti
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
 
-Item_FieldOfView_Title = Field of View
+Item_FieldOfView_Title = Sichtweite
 Item_FieldOfView_Item_TV = TV (80)
 Item_FieldOfView_Item_PC = PC Monitor (90)
 Item_FieldOfView_Item_Custom = Angepasst...
@@ -103,7 +103,7 @@ Item_CameraSmoothRotation_Item_Off = Aus
 Item_CameraSmoothRotation_Item_Instant = Sofort
 
 Item_CameraFocusDuration_Title = Kamera-Snap-Geschwindigkeit
-Item_CameraFocusDuration_Desc = Wenn du die Kamera-Druckknopf drückst, bewegt sich die Kamera hinter dir. Diese Einstellung steuert, wie schnell diese Bewegung ist.
+Item_CameraFocusDuration_Desc = Wenn du die Kamera-Snap-Taste drückst, bewegt sich die Kamera hinter dich. Diese Einstellung steuert, wie schnell diese Bewegung ist.
 
 Item_CameraDistance_Title = Kameradistanz
 Item_CameraDistance_Desc = Steuert, wie weit die Kamera vom Spieler entfernt ist.
@@ -114,7 +114,7 @@ Item_CameraDistance_Item_Far = Weit
 Item_CameraDistance_Item_VeryFar = Sehr Weit
 
 Item_CameraZoomRestore_Title = Automatische Wiederherstellung der Kamerageschwindigkeit
-Item_CameraZoomRestore_Desc = Wenn du dich ein wenig bewegt hast, [br]kehrt die Kamera zu ihrer Standardkamera zurück. [br]Diese Einstellung steuert, wie schnell das passiert.
+Item_CameraZoomRestore_Desc = Wenn du dich ein wenig bewegt hast, [br]kehrt die Kamera zu ihrer Standarddistanz zurück. [br]Diese Einstellung steuert, wie schnell das passiert.
 
 Header_Game_Misc = Misc
 Item_CameraUpscaling_Title = Sofortbildkamera
@@ -123,13 +123,13 @@ Item_CameraUpscaling_Item_0 = Wie im Spiel
 
 Header_System = System-Einstellungen
 Item_NoSaving_Title = Kein Speichern
-Item_NoSaving_Desc = Das Spiel wird deinen Fortschritt nicht speichern.[br]Dies wird nur empfohlen, wenn du einen Speedrun ausführst und[br]es dir egal ist, ob die Speicherdaten nicht erhalten werden.
+Item_NoSaving_Desc = Das Spiel wird deinen Fortschritt nicht speichern.[br]Dies wird nur empfohlen, wenn du einen Speedrun ausführst und[br]es dir egal ist, dass dein Fortschritt nicht erhalten bleiben.
 
 Item_DevConsole_Title = Entwicklerkonsole
 Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole.[br]Das Spiel muss neu gestartet werden, damit diese Option wirksam wird.[br]Drücke zum Öffnen TAB/Zirkumflex.
 
 Item_DisableMods_Title = Mods deaktivieren
-Item_DisableMods_Desc = Mod Support und den Steam Workshop deaktivieren für die wahre, unverfälschte Erfahrung.
+Item_DisableMods_Desc = Mod Support und den Steam Workshop deaktivieren für die wahre, unverfälschte Erfahrung. Neustart notwendig.
 
 [systemsettings.audio]
 Header_Audio = Audio
@@ -148,7 +148,7 @@ Item_MasterVolume_Title = Gesamtlautstärke
 Item_MasterVolume_Desc = Stellt die Lautstärke des gesamten Spiels an.[br]100% ist der empfohlene Wert, aber du kannst die Lautstärke darüber hinaus erhöhen.
 
 Item_VolumeOnFocusLost_Title = "Out of Focus"-Lautstärke
-Item_VolumeOnFocusLost_Desc = Passt die Lautstärke des Spiels an, wenn das Spielfenster nicht im Fokus ist.
+Item_VolumeOnFocusLost_Desc = Passt die Lautstärke des Spiels an, wenn das Spielfenster nicht im Vordergrund ist.
 
 Item_Audio3DPositioning_Title = 3D Positions-Audio
 Item_Audio3DPositioning_Desc = Audio wird in deinen linken oder rechten Lautsprechern wiedergegeben, abhängig von ihrer Position im 3D-Raum.
@@ -165,7 +165,7 @@ Item_DisplayResolution_Title = Bildschirmauflösung
 Item_DisplayResolution_Desc = Bestimmt, wie viele Pixel horizontal und vertikal gerendert werden. Eine höhere Auflösung führt zu höherer Qualität, reduziert jedoch die Leistung
 
 Item_WindowType_Title = Fenstertyp
-Item_WindowType_Desc = [Vollbild]: Das Spiel nimmt die gesamte Monitoranzeige auf.[newline][Fenster]: Das Spiel wird in einem regulären Fenster angezeigt.[newline][Randloses Fenster]: Wie Fenster, aber ohne Rahmen und die Titelleiste.[newline][Multi-Monitor]: Zeigt das Spiel über mehrere Monitore an.
+Item_WindowType_Desc = [Vollbild]: Das Spiel nimmt die gesamte Monitoranzeige ein.[newline][Fenster]: Das Spiel wird in einem regulären Fenster angezeigt.[newline][Randloses Fenster]: Wie Fenster, aber ohne Rahmen und die Titelleiste.[newline][Multi-Monitor]: Zeigt das Spiel über mehrere Monitore an.
 Item_WindowType_Item_Fullscreen = Vollbild
 Item_WindowType_Item_Windowed = Fenster
 Item_WindowType_Item_Borderless_Window = Randloses Fenster
@@ -189,18 +189,18 @@ Item_VSync_Title = V-Sync
 Item_VSync_Desc = Erzwingt, dass das Spiel auf der Aktualisierungsrate des Monitors angezeigt wird. Hierdurch wird der Bildschirmabbruch beseitigt, jedoch auf Kosten einer verzögerten Eingabe. Diese Option wird nur selten empfohlen.
 
 Item_Gamme_Title = Gamma-Helligkeit
-Item_Gamme_Desc = Konfiguriert die Helligkeit des Spiels. Wenn das Gefühl besteht, dass einige Abschnitte des Spiels zu dunkel sind,[br]solltest du darüber nachdenken, den Wert zu verändern.
+Item_Gamme_Desc = Konfiguriert die Helligkeit des Spiels. Wenn das Gefühl besteht, dass einige Abschnitte des Spiels zu dunkel sind,[br]solltest du darüber nachdenken, diesen Wert zu erhöhen.
 
-Item_ColorBlindness_Title = Farbblindheitskorrektur
+Item_ColorBlindness_Title = Farbenblindheitskorrektur
 Item_ColorBlindness_Desc = Für Menschen, die unter Farbenblindheit leiden. Diese Einstellung versucht, die Spielfarben anzupassen.
 Item_ColorBlindness_Off = Aus
-Item_ColorBlindness_Protanopia = Protanopia
-Item_ColorBlindness_Deuteranopia = Deuteranopia
-Item_ColorBlindness_Tritanopia = Tritanopia
+Item_ColorBlindness_Protanopia = Protanopie
+Item_ColorBlindness_Deuteranopia = Deuteranopie
+Item_ColorBlindness_Tritanopia = Tritanopie
 
 Header_Graphics = Grafik
 Item_GraphicalQuality_Title = Globale visuelle Qualität
-Item_GraphicalQuality_Desc = Bestimmt die visuelle Qualität des Spiels. Höhere Werte bieten eine visuell bessere Erfahrung, können jedoch einige Systeme verlangsamen.[br]Wenn du abgehacktes Gameplay hast, versuche, diese Option am Regler anzupassen.[br]Wenn das Spiel bei einer niedrigeren Einstellung sehr reibungslos verläuft, sollte die visuelle Qualität erhöht werden.
+Item_GraphicalQuality_Desc = Bestimmt die visuelle Qualität des Spiels. Höhere Werte bieten eine visuell bessere Erfahrung, können jedoch einige Systeme verlangsamen.[br]Wenn dein Gameplay abgehackt ist, versuche, die visuelle Qualität zu verringern.[br]Wenn das Spiel bei einer niedrigeren Einstellung sehr reibungslos verläuft, sollte die visuelle Qualität erhöht werden.
 
 Item_GraphicalQuality_Item_VeryLow = Hohe Leistung
 Item_GraphicalQuality_Item_Low = Leistung
@@ -210,16 +210,16 @@ Item_GraphicalQuality_Item_VeryHigh = Sehr Hohe Qualität
 Item_GraphicalQuality_Item_Ultra = Ultra Qualität
 
 Item_CharacterQuality_Title = Charakter-Qualität
-Item_CharacterQuality_Desc = Bestimmt die visuelle Qualität von Feinden und nicht spielbaren Charakteren.[br]Dies zu senken, bietet nur einen kleinen Leistungsschub, da nicht viele Bereiche viele Charaktere auf einmal zeigen.
+Item_CharacterQuality_Desc = Bestimmt die visuelle Qualität von Feinden und nicht spielbaren Charakteren.[br]Dies zu senken bietet nur einen kleinen Leistungsschub, da wenige Bereiche viele Charaktere auf einmal zeigen.
 
 Item_EnvironmentQuality_Title = Spielwelt-Qualität
-Item_EnvironmentQuality_Desc = Bestimmt die visuelle Qualität von 3D-Umgebungswerten und Partikeleffekten.[br]Dies zu verringern, bietet einen signifikanten Leistungsschub.
+Item_EnvironmentQuality_Desc = Bestimmt die visuelle Qualität von 3D-Umgebungswerten und Partikeleffekten.[br]Dies zu verringern, bietet einen deutlichen Leistungsschub.
 
 Item_EffectsQuality_Title = Effekt-Qualität
 Item_EffectsQuality_Desc = Bestimmt die Anzahl und Qualität von Nachbearbeitungseffekten wie Antialiasing, Bloom und Schärfentiefe.[br]Höhere Qualität bietet bessere und genauere Effekte.
 
 Item_LightingQuality_Title = Schatten-Qualität
-Item_LightingQuality_Desc = Bestimmt die visuelle Qualität von Schatten und welche Objekte Schatten werfen dürfen.[br]Höhere Qualität bietet schärfere Schatten und mehr Schattenfänger.[br]Dies zu verringern, bietet einen signifikanten Leistungsschub.
+Item_LightingQuality_Desc = Bestimmt die visuelle Qualität von Schatten und welche Objekte Schatten werfen dürfen.[br]Höhere Qualität bietet schärfere Schatten und mehr Schattenfänger.[br]Geringere Qualität bietet einen deutlichen Leistungsschub.
 
 ; Advanced
 Item_AdvancedGraphicsSettings_Title = Erweiterte Grafikeinstellungen
@@ -234,17 +234,17 @@ Item_Adv_SkelMeshLODBias_Title = Charakter Modell LOD Bias
 Item_Adv_SkelMeshLODBias_Desc = Je weiter du dich von den Charaktermodellen entfernst, desto geringer wird die Qualität.[br]Wenn du diese Einstellung erhöhst, entscheidest du, ab wann dies eintrifft.
 
 Item_Adv_Jigglebones_Title = Dynamische Charakterphysik
-Item_Adv_Jigglebones_Desc = Wenn aktiviert, werden Stoff, Haare und andere Komponenten auf bestimmten Charakteren basierend auf ihrer Bewegung simuliert.[br]Für den Spielercharakter umfasst das Dinge wie den Umhang, Haare und[br]Reißverschlüsse.
+Item_Adv_Jigglebones_Desc = Wenn aktiviert, werden Stoff, Haare und andere Komponenten an bestimmten Charakteren auf ihrer Bewegung basierend simuliert.[br]Für den Spielercharakter umfasst das Dinge wie den Umhang, Haare und[br]Reißverschluss.
 
-Item_Adv_CharacterTextureQuality_Title = Texturen-Qualität für Zeichen
-Item_Adv_CharacterTextureQuality_Desc = Bestimmt die Auflösung von Texturen für Zeichen. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
+Item_Adv_CharacterTextureQuality_Title = Textur-Qualität für Zeichen
+Item_Adv_CharacterTextureQuality_Desc = Bestimmt die Auflösung der Texturen für Zeichen. Die niedrigste Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 ermöglicht.
 
 Header_Adv_Environment = Spielwelt
 Item_Adv_DetailMode_Title = Spielweltdetails
 Item_Adv_DetailMode_Desc = [Hohe Qualität]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Standard]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Leistung]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
 
 Item_Adv_DrawDistance_Title = Sichtweite
-Item_Adv_DrawDistance_Desc = Wenn du dich von einigen Umgebungsmodellen weiter entfernst, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden.[br]Wenn du diese Einstellung erhöhen, erhöhen Sie, wie weit sie reichen können, bevor dies geschieht.[br]Ein höherer Wert bedeutet höhere Qualitätshintergründe, jedoch zu erheblichen Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.
+Item_Adv_DrawDistance_Desc = Wenn du dich von einigen Umgebungsmodellen weiter entfernst, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden.[br]Je höher diese Einstellung ist, desto weiter können Objekte entfernt sein, bevor dies eintritt.[br]Ein höherer Wert sorgt für schönere Hintergründe, hat jedoch erhebliche Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.
 
 Item_Adv_AnisotropicFiltering_Title = Anisotrope Filterung
 Item_Adv_AnisotropicFiltering_Desc = Wenn einige Texturen in einem Winkel betrachtet werden (wie Etagen), werden sie verschwommen, je weiter sie von der Kamera entfernt sind.[br]Die anisotrope Filterung verbessert dies für jeden Grad der Anisotropie; Die Anisotropie 16 ist doppelt so scharf wie die Anisotropie von 8.

@@ -1,5 +1,5 @@
 [Input]
-NewAutoController = Neue Eingabemethode:
+NewAutoController = Neuer Input:
 ControllerDisconnect = Der Controller wurde getrennt. Bitte schlieﬂe ihn erneut an, um fortzufahren.
 
 [levels]

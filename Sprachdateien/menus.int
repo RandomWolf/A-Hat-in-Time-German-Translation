@@ -32,7 +32,7 @@ AudioSettings_Icon_Volume = Lautstärke
 AudioSettings_Icon_Music = Musik
 
 InputSettings_Title = Eingabeeinstellungen
-InputSettings_Desc = Ändere die Eingabemethode, füge neue Gamepads hinzu oder ändere die[br]Tastenbelegung.
+InputSettings_Desc = Ändere den Input, füge neue Gamepads hinzu oder ändere die[br]Tastenbelegung.
 InputSettings_Desc_Console = Passe die Einstellungen in Bezug auf Steuerelemente an.
 
 InputSettings_Icon_KeyBinds = Eingabehilfe
@@ -270,7 +270,7 @@ Item_Adv_DominantDirectionalLight_Title = Spielwelt-Beleuchtung/Schattenqualität
 Item_Adv_DominantDirectionalLight_Desc = Der Renderer für Umgebungsbeleuchtung und Schatten.
 
 Item_Adv_ParticleShadows_Title = Partikelschatten
-Item_Adv_ParticleShadows_Desc = Entscheidet, ob Partikelschatten werfen sollten.
+Item_Adv_ParticleShadows_Desc = Bestimmt, ob Partikel einen Schatten werfen.
 Item_Adv_ParticleShadows_Item_None = Keine
 Item_Adv_ParticleShadows_Item_Player = Nur Spieler
 Item_Adv_ParticleShadows_Item_Full = Alle
@@ -280,14 +280,14 @@ Item_Adv_AllowDetailShadows_Desc = Erlaubt kleinere Objekte (wie Sammelstücke), 
 
 Header_Adv_Effects = Post-Processing-Effekte
 Item_Adv_DoF_Title = Tiefenschärfe
-Item_Adv_DoF_Desc = Die Schärfentiefe wendet eine Hintergrundunschärfe an. Du kannst dich auf das konzentrieren, was vor dir liegt, und entfernen visuelle Geräusche von weit entfernten Objekten.[br]Die komplexe Schärfentiefe ist präziser, jedoch mit viel höheren[br]Leistungskosten.
+Item_Adv_DoF_Desc = Die Tiefenschärfe lässt den Hintergrund verschwimmen. Somit kannst du dich auf Dinge vor dir Konzentrieren und visual noise wird von fernen objekten entfernt.[br]Die komplexe Tiefenschärfe ist präziser, erfordert aber eine deutlich höhere [br]Leistung.
 Item_Adv_DoF_Item_None = Keine
 Item_Adv_DoF_Item_Simple = Einfach
 Item_Adv_DoF_Item_Standard = Standard
 Item_Adv_DoF_Item_Complex = Komplex
 
 Item_Adv_Bloom_Title = Bloom
-Item_Adv_Bloom_Desc = Wenn aktiviert, erzeugen helle Bereiche einen Glüheffekt.
+Item_Adv_Bloom_Desc = Wenn aktiviert erzeugen helle Bereiche einen Glüheffekt.
 
 Item_Adv_LightShafts_Title = Lichtstrahlen
 Item_Adv_LightShafts_Desc = Die Sonne und andere helle Lichtquellen erzeugen Strahlen, die von Objekten vor der Kamera blockiert werden können.
@@ -296,7 +296,7 @@ Item_Adv_ObjectMotionBlur_Title = Bewegungsunschärfe
 Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charaktere angewendet.[br]Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
 
 Item_Adv_RadialBlur_Title = Kreisförmige Unschärfe
-Item_Adv_RadialBlur_Desc = Wenn aktiviert, werden Explosionen und Angriffe eine Unschärfe um den Effektbereich erzeugen.
+Item_Adv_RadialBlur_Desc = Wenn aktiviert werden Explosionen und Angriffe eine Unschärfe um den Effektbereich erzeugen.
 
 Item_Adv_ScreenBlur_Title = Bildschirmunschärfe
 Item_Adv_ScreenBlur_Desc = Wenn sich die Kamera schnell bewegt, verschwimmt der Hintergrund basierend auf Bewegungsrichtung und Tiefe.[br]Objekte in der Ferne verwischen mehr als die direkt vor der Kamera.
@@ -324,7 +324,7 @@ Item_Adv_DynamicLights_Title = Dynamische Lichter
 Item_Adv_DynamicLights_Desc = Echtzeit-Lichteffekte, wie z. B. bewegende Lichter oder Explosionen.
 
 Item_Adv_ConservativeShadowBounds_Title = Präzise Schattengrenzen
-Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert, versucht das Spiel genauer zu verfolgen, wo Schatten landen.
+Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert versucht das Spiel genauer zu verfolgen, wo Schatten landen.
 
 Item_Adv_SeparateTranslucency_Title = Zweilagige Transluzenz
 Item_Adv_SeparateTranslucency_Desc = Die Transluzenz wird durchgeführt, bevor das Schärfentiefe-Rendering bestanden wird.[br]Infolgedessen werden viele lichtdurchlässige Objekte verschwommen, selbst wenn sie direkt vor dir liegen.[br]Durch die zweilagige Transluzenz können diese Objekte gerendert werden, nachdem das Schärfentiefe-Rendering bestanden wurde.
@@ -333,7 +333,7 @@ Item_Adv_Vignette_Title = Kamera-Vignette
 Item_Adv_Vignette_Desc = Fügt einen subtilen schwarzen Rand um den Bildschirm hinzu.
 
 Item_Adv_RigidBody_Title = Simulierte Weltphysik
-Item_Adv_RigidBody_Desc = Wenn aktiviert, werden Trümmer und starre Körper über PhysX simuliert.[br]Mach dir keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte du hast.
+Item_Adv_RigidBody_Desc = Wenn aktiviert werden Trümmer und starre Körper über PhysX simuliert.[br]Mach dir keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte du hast.
 
 Item_Adv_SuperSampling_Title = Supersampling
 Item_Adv_SuperSampling_Desc = Erhöht die Grafikleistung
@@ -430,8 +430,8 @@ Options_RestartLevel_Q = Akt neustarten?
 Options_RestartDeathWish_Q = Todeswunsch neustarten?
 
 Coop_NoControllerPluggedIn = Bitte schließe einen Kontroller an
-Coop_CantDisableRightNow = Kann gerade nicht Ko-op Modus ausschalten
-Coop_CantEnableRightNow = Kann gerade nicht Ko-op Modus einschalten
+Coop_CantDisableRightNow = Ko-op Modus momentan nicht ausschaltbar
+Coop_CantEnableRightNow = Ko-op Modus momentan nicht einschaltbar
 Coop_CantEnableDeathWish = Nicht verfügbar im Ko-op Modus
 Coop_CantEnableDWActive = Ko-op kann nicht während einem aktiven Todeswunsch aktiviert werden
 Coop_Disable_Question = Ko-Op ausschalten?

@@ -15,14 +15,19 @@ GameSettings_Desc = Anpassen von Einstellungen im Zusammenhang mit Gameplay.
 GameSettings_Icon_Singleplayer = Einzelspieler
 GameSettings_Icon_SplitScreen = Splitscreen
 GameSettings_Icon_SystemSettings = System Einstellungen
+GameSettings_Icon_SystemSettings_Console = Präferenzen
 GameSettings_Icon_Camera = Kamera
 
 GraphicsSettings_Title = Grafik Einstellungen
+GraphicsSettings_Title_Console = Optische Einstellungen
 GraphicsSettings_Desc = Passe die grafische Einstellungen an, die sich auf die Grafik und die Leistung des Spiels auswirken.
+GraphicsSettings_Desc_Console = Passe die visuelle Präsentation des Spiels an.
 
 GraphicsSettings_Icon_Performance = Leistung
 GraphicsSettings_Icon_Rendering = Rendering
 GraphicsSettings_Icon_Effects = Effekte
+GraphicsSettings_Icon_Brightness = Helligkeit
+GraphicsSettings_Icon_ColorBlindness = Farbenblindheit
 
 AudioSettings_Title = Audio Einstellungen
 AudioSettings_Desc = Passe die Lautstärke jedes Audiotyps an.
@@ -51,15 +56,13 @@ Item_SpeedrunTimer_Item_On = An
 Item_SpeedrunTimer_Item_GameOnly = Nur Spielzeit
 Item_SpeedrunTimer_Item_ActOnly = Nur Aktzeit
 
-Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
-Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kannst du alle überspringbaren Zwischensequenzen überspringen, indem du diese Funktion aktivierst. Beachte, dass du unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen kannst.
-
 Item_Language_Title = Sprache
 Item_Language_Desc = Die Sprache, in welcher der Text angezeigt wird. Ändert nicht die Synchronsprecher (du kannst diese in den Audio Einstellungen ändern).
 
+Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
+Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kannst du alle überspringbaren Zwischensequenzen überspringen, indem du diese Funktion aktivierst. Beachte, dass du unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen kannst.
+
 Header_SplitScreen = Splitscreen
-Item_AllowSharedScreen_Title = Erlaube Bildschirmfreigabe
-Item_AllowSharedScreen_Desc = Der Splitscreen kann an bestimmten Stellen des Spiels vorübergehend ausgeschaltet werden.
 
 Item_SplitScreenMethod_Title = Splitscreen-Bildschirmausrichtung
 Item_SplitScreenMethod_Item_Horizontal = Horizontal
@@ -68,6 +71,9 @@ Item_SplitScreenMethod_Desc = Ändere die Art und Weise, wie der Bildschirm mit z
 
 Item_VersusModeAlways_Title = Aktiviere Versus-Modus
 Item_VersusModeAlways_Desc = Aktiviert Versus-Modus, wenn Splitscreen Ko-op aktiviert ist.
+
+Item_CoopIsSplitScreen_Title = Vollbild Ko-op
+Item_CoopIsSplitScreen_Desc = Statt Splitscreen bleiben beide Spieler auf einem Bildschirm.
 
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
@@ -131,6 +137,8 @@ Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole.[br]Das 
 Item_DisableMods_Title = Mods deaktivieren
 Item_DisableMods_Desc = Mod Support und den Steam Workshop deaktivieren für die wahre, unverfälschte Erfahrung. Neustart notwendig.
 
+Header_Debug = Debug
+
 [systemsettings.audio]
 Header_Audio = Audio
 Header_Volume = Lautstärke
@@ -160,6 +168,7 @@ Tab_Detailed = Detailliert
 Tab_Advanced = Fortgeschritten
 
 Header_Window = Fenster
+Header_Visuals = Optik
 
 Item_DisplayResolution_Title = Bildschirmauflösung
 Item_DisplayResolution_Desc = Bestimmt, wie viele Pixel horizontal und vertikal gerendert werden. Eine höhere Auflösung führt zu höherer Qualität, reduziert jedoch die Leistung
@@ -345,13 +354,9 @@ Header_Adv_Game = Spiel
 Item_Adv_PredictiveCamera_Title = Vorausschauende Verfolgungskamera
 Item_Adv_PredictiveCamera_Desc = Verbessert das Glätten der Kamera, indem Sie die Geometrie in der Nähe verfolgt.
 
-Header_Adv_Debug = Debug
-Item_Adv_ProfilingStats_Title = Profil-Statistiken umschalten
-Item_Adv_ProfilingStats_Desc = Debugging
-Item_Toggle = Umschalten
-
 [systemsettings.input]
 Header_Input = Eingabe
+Header_Input_Adv = Eingabe (Erweitert)
 
 Item_OnTheFlyController_Title = Auto-Select Kontroller
 Item_OnTheFlyController_Desc = Wenn diese Option aktiviert ist und der Einzelspieler gespielt wird, ändert sich der[br]aktive Controller automatisch, wenn du eine Taste an einem neuen Controller drückst.
@@ -364,9 +369,11 @@ Item_MouseSensitivity_Title = Maus-Empfindlichkeit
 Item_MouseSensitivity_Desc = Je höher die Empfindlichkeit, desto mehr Auswirkungen hat eine Mausbewegung auf das Spiel.
 
 Item_InvertCameraX_Controller_Title = Horizontale Kamera invertieren (Controller)
+Item_InvertCameraX_Controller_Title_Console = Horizontale Kamera invertieren
 Item_InvertCameraX_Controller_Desc = Kehrt die horizontale Bewegung bei Verwendung eines Controllers um
 Item_InvertCameraX_Controller_Desc_Console = Kehrt die horizontale Kamerabewegung um
 Item_InvertCameraY_Controller_Title = Vertikale Kamera invertieren (Controller)
+Item_InvertCameraY_Controller_Title_Console = Vertikale Kamera invertieren
 Item_InvertCameraY_Controller_Desc = Kehrt die vertikale Bewegung bei Verwendung eines Controllers um
 Item_InvertCameraY_Controller_Desc_Console = Kehrt die vertikale Kamerabewegung um
 Item_Rumble_Controller_Title = Vibration
@@ -374,6 +381,9 @@ Item_Rumble_Controller_Desc = Ob Vibrationen während bestimmter Aktionen zugelas
 
 Item_InputAssist_Title = Eingabehilfe
 Item_InputAssist_Desc = Das Spiel wird versuchen, die Eingabeerfahrung zu verbessern, indem Eingaben,[br]die zu früh auf ein kleines Stück gedrückt wurden, gespeichert werden,[br]sowie versehentliche doppelte Tastendrücke zu vermeiden.
+
+Item_HoldBackToCancelDive_Title = Halte zurück zum Hechtsprung-Abbrechen
+Item_HoldBackToCancelDive_Desc = Halte in die entgegengesetze Richtung, um einen Hechtsprung abzubrechen.
 
 [systemsettings.controller]
 Header_Controller = Hinzugefügte Controller
@@ -467,20 +477,6 @@ ItemUnlock_VeryRare = Dieses Flair ist sehr selten!
 ItemUnlock_Flair = Du kannst jetzt das Aussehen dieses Items austauschen!
 ItemUnlock_Equip = AUSRÜSTEN
 
-[InventoryCamera]
-Help_TakePicture = Ein Bild machen
-Help_ChangeFilter = Filter ändern
-Help_ChangeDoF = Tiefenschärfe ändern
-Help_EnableDoF = Tiefenschärfe aktivieren
-Help_DisableDoF = Tiefenschärfe deaktivieren
-Help_Exit = Verlassen
-
-Msg_Filter = Filter
-Msg_DoF = Tiefenschärfe
-Msg_EnabledDoF = Tiefenschärfe an
-Msg_DisabledDoF = Tiefenschärfe aus
-Filter_None = #KeinFilter
-
 [ActSelect]
 Help_GoToAct = Akt beginnen
 Help_UnlockAct = Akt freischalten
@@ -547,6 +543,9 @@ Suspect_Select3 = Ich hoffe, dass die[br]Stimmen jetzt [br] aufhören!
 Suspect_Select4 = ...
 Suspect_Select5 = Tote können nicht [br] schuldig sein! [br] Ups, ähm... zzzz... 
 
+[MailDelivery]
+FirePrompt = Briefe feuern
+
 [Decoration]
 PayCost = Kosten:
 
@@ -567,14 +566,16 @@ Author_DJ = REGIE: DJ GROOVES
 Starring = MIT
 Highscore = DIE BEWERTUNGEN SIND DA ...
 
+[PlayTesting]
+PlayTestRate_0 = Bitte bewerte das, was du gespielt hattest!
+PlayTestRate_1 = Sehr gut!
+PlayTestRate_2 = Ganz nett.
+PlayTestRate_3 = Na ja...
+PlayTestRate_4 = Nicht allzu gut!
+
 [Modding]
 PleaseRate_0 = Hilf mit dem Mod eine Bewertung zu geben
 PleaseRate_1 = indem du dein Feedback gibst!
-PleaseRate_2 = Bitte bewerte das Level!
-PleaseRate_3 = Sehr gut!
-PleaseRate_4 = Ganz nett.
-PleaseRate_5 = Na ja...
-PleaseRate_6 = Nicht allzu gut!
 
 HowToComment = Um zu kommentieren, musst du den Mod im Steam Workshop ansehen.
 BackToHub = Zum Raumschiff
@@ -619,7 +620,6 @@ RestartToLastCheckpoint = Neustarten
 DeathWish = Todeswunsch
 DLC1Title = Seal the Deal
 DLC2Title = DLC 2
-BingoMode = Bingo-Modus
 
 [Cinematics]
 SkipCinematic = WEITER
@@ -634,6 +634,12 @@ ZoomInContract = Hereinzoomen
 ClickToRoll = Das Rad stoppen
 ClickToReRoll = Erneut drehen
 ClickToClaimPrize = Gewinn erhalten
+PrizeHat = Neuer Hut
+PrizeFlair = Hut-Flair
+PrizeDye = Neue Farbe
+PrizeRemix = Neuer Remix
+PrizeBadge = Neuer Anstecker
+PrizeBadgeFlair = Anstecker-Flair
 
 [DLC1Splash]
 cruise = Komplett neues Kapitel: Die Arktische Kreuzfahrt
@@ -642,6 +648,11 @@ coop = Lokaler Splitscreen Mehrspieler-Modus!
 rifts = Sechs neue Zeitrisse!
 unlocks0 = Einen Haufen freischaltbarer Outfits, Flairs,
 unlocks1 = Farben und sogar Kamera-Filter!
+
+coop_title = Neues Feature: Ko-op
+coop_bullet0 = Überlebt das ganze Abenteuer
+coop_bullet1 = zu zweit und hilft euch gegenseitig
+coop_bullet2 = mit Splitscreen-Umfug!
 
 [DeathWishMap]
 Locked = Akte Gesperrt
@@ -685,6 +696,20 @@ EasyName7 = Hat Kid tanzen sehen
 EasyName8 = EZ Modo anschalten???
 EasyName9 = Netten Wunsch anschalten
 
+[InventoryCamera]
+Help_TakePicture = Ein Bild machen
+Help_ChangeFilter = Filter ändern
+Help_ChangeDoF = Tiefenschärfe ändern
+Help_EnableDoF = Tiefenschärfe aktivieren
+Help_DisableDoF = Tiefenschärfe deaktivieren
+Help_Exit = Verlassen
+
+Msg_Filter = Filter
+Msg_DoF = Tiefenschärfe
+Msg_EnabledDoF = Tiefenschärfe an
+Msg_DisabledDoF = Tiefenschärfe aus
+Filter_None = #KeinFilter
+
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen
 
@@ -699,3 +724,19 @@ Item_WindowType_Item_MultiMonitor = Multi-Monitor
 NoMods = Du hast keine Mods installiert! Platziere die Mods in den Mod-Ordner, um sie zu installieren.
 
 EasyAccept = Eins... zwei... presto!
+
+Item_AllowSharedScreen_Title = Erlaube Bildschirmfreigabe
+Item_AllowSharedScreen_Desc = Der Splitscreen kann an bestimmten Stellen des Spiels vorübergehend ausgeschaltet werden.
+
+Header_Adv_Debug = Debug
+Item_Adv_ProfilingStats_Title = Profil-Statistiken umschalten
+Item_Adv_ProfilingStats_Desc = Debugging
+Item_Toggle = Umschalten
+
+PleaseRate_2 = Bitte bewerte das Level!
+PleaseRate_3 = Sehr gut!
+PleaseRate_4 = Ganz nett.
+PleaseRate_5 = Na ja...
+PleaseRate_6 = Nicht allzu gut!
+
+BingoMode = Bingo-Modus

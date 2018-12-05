@@ -8,6 +8,10 @@ Act = Akt
 MountainPeak = Gipfel
 FreeRoamDesc = Tu was auch immer du willst
 
+[coop]
+SyncBusyWait0 = Wartet auf Spieler 1!
+SyncBusyWait1 = Wartet auf Spieler 2!
+
 [cheats]
 disallowed_outside_editor = Nicht im Editor
 

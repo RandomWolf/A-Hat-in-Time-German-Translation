@@ -14,6 +14,7 @@ helper_ability_no_target = Hier gibt es nichts Interessantes...
 smooch = Zum Knutschen
 timestophat = Benutze deinen [icon:timestophat], um alles in der Nähe zu verlangsamen
 carry_too_much = Vorsicht! Je mehr du trägst, desto wackeliger wird es!
+vacuumside = Versuche in die Seitenwand zu springen! 
 
 drop_carry = Fallen lassen
 throw_carry = Werfen

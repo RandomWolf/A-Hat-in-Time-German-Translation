@@ -1,6 +1,7 @@
 [docks]
 fishdude0 = Hey, Kumpel. Kumpeline, meine ich. Ich bin so, richtig bereit für eine super Kreuzfahrt. [br]Hoffentlich ist an diesem Schiff nichts fischig, weißt du?
 fishdude1 = Letztes Jahr wurde ich bei einem zwielichtigen Urlaub abgezockt. Das war mal so garnicht krass.
+
 [internal]
 fishdude2 = Oh, hey Kumpeline. Ich war gerade am chillen und hab dieses zerbrochene Glass rumliegen sehen. Komisch, oder?
 fishdude3 = ... Es gehöhrt dir? Ah, cool, glaub' ich. Ich beurteile dich nicht, weißt du. 
@@ -12,9 +13,9 @@ fishdude0 = So, echt danke Kumpeline. Ich hab das total nicht kommen sehen.
 fishdude1 = Was geht ab, Kumpeline? Der Ausblick von hier oben ist echt fett, oder?
 fishdude2 = Diese Eisberge sind ziemlich groß, aber Ich hab in einer Broschüre gelesen, dass dieses Boot nicht sinken kann. So garnicht.
 fishdude3 = Wie in diesem einen Film, weißt du? Über dieses Schiff das nicht sinken konnte. Hab den nie zuende geguckt.
- 
+
 carried0 = Oh! Du bist so, ziemlich stark, oder?
+
 [fluff]
 fishdude0 = Hey, Kumpeline. Was geht ab? Ich guck mir grade diesen so total chilligen Garten an. Hier gibt es so Blumen und Zeug.
 fishdude1 = Von deinem Balkon hat man schon so eine ziemlich schöne Aussicht, weißt du?
-

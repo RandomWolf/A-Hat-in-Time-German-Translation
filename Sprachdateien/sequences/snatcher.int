@@ -150,7 +150,9 @@ suicide0 = [shake2]Wir BRAUCHEN keinen Helden! HAU AB![/shake2]
 
 [ending]
 hang0 = [shake2]Hey, Kleine, wie wär's mit einem neuen Vertrag?[/shake2]
-hang1 = Wir werden dich vermisseeeeeeeeeen...!!!
+
+[spaceship]
+no_contracts0 = [shake2]Keine Verträge mehr? Blödsinn! Erforsche meinen Wald und du wirst mehr finden.[/shake2]
 
 [unused/deleted]
 [manor]
@@ -174,3 +176,5 @@ Cherry0 = [shake2]Oh nein![/shake2]
 Cherry1 = [shake2]Ich wollte diese[br]Kirschbombe fallenlassen![/shake2]
 Cherry2 = [shake2]... NICHT.[/shake2]
 Cherry3 = [shake2]Glaubst du wirklich, ich sei dumm genug[br]dir Bomben geben zu lassen?[/shake2]
+
+hang1 = Wir werden dich vermisseeeeeeeeeen...!!!

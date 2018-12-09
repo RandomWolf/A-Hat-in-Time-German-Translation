@@ -183,9 +183,17 @@ PackageContext_SetPrivate=Mark as Secret DLC
 PackageContext_SetPublic=Unmark as Secret DLC
 
 MainMenu_GameInfo_Editors = Editors
+MainMenu_GameInfo_Editor_DeathWish = Death Wish UI
+DeathWishSave = Save Changes
 
 ConnectToPBR_Metallic=Connect to "Metallic"
 ConnectToPBR_Roughness=Connect to "Roughness"
 
 TouchAll=Touch All
 ConnectToPBR_EnvironmentDesaturation=Connect to "Environment Desaturation"
+
+SelectRelevantLightActors = Select Relevant Light Actors
+SelectRelevantCubeMaps = Select Relevant CubeMap Actors
+SkeletalSectionGroup = Section Group
+LevelBrowser_ChangeStreamingMethod = Change Streaming Method
+MergeMeshMenu = Generate...

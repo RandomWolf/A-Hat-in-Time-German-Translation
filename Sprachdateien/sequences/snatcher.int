@@ -94,11 +94,11 @@ intro3 = [shake2]Nun, da das besessene Plumpsklo mich nicht mehr belästigt, und 
 intro4 = [shake2]Achja, du hast nicht wirklich gedacht das du die [icon:timepiece][timepiece]Zeitstücke[/timepiece] behalten kannst, oder? Die sind in MEINEM Wald gelanded, Kleine! Sie gehören [scream]MIR[/scream].[/shake2]
 intro6 = [shake2]Zeit dir zu zeigen was ich wirklich drauf habe, Kleine. Sag auf Wiedersehen zu deinem kleinen Kopf![/shake2]
 
-Derp0 = So siehst du aus![br]Du bist ein Trottel!
+Derp0 = Schau dich mal an![br]Siehst aus wie ein Trottel!
 Derp1 = Und du stinkst!
 
 blue0 = [shake2]Du wartest bestimmt darauf, dass ich mich blau färbe, oder?[/shake2]
-blue1 = [shake2]Sorry, Kleine. Blau steht mir nicht.[br]Das macht mich dann unbesiegbar, oder?[br]Ach, wie schade! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
+blue1 = [shake2]Sorry, Kleine. Blau steht mir nicht.[br]Das macht mich wohl unbesiegbar, oder?[br]Ach, wie schade! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
 Chemicals0 = [shake2]Mal schauen, wie dir [br]diese hier passen![/shake2]
 Chemicals1 = [shake2]Nicht genug?[br]Wie wär's mit 1,000![/shake2]
@@ -131,7 +131,7 @@ sign2 = [shake2]Was wenn ich dir deine Seele zurück gebe? Haust du dann ab?[/sha
 sign3 = [shake2]Ja? Nein? Hallo? Ist da jemand? Warum sagst du nichts?[/shake2]
 sign4 = [shake2].......[/shake2]
 sign5 = [shake2]...Du bist nicht gerade sehr gesprächig, oder...? [br] Und dazu noch ein harter Verhandlungspartner![/shake2]
-sign6 = [shake2]Okay, ich werde den Deal für dich verbessern.[/shake2]
+sign6 = [shake2]Okay, ich werde das Angebot für dich versüßen.[/shake2]
 sign7 = [shake2]Hier, nimm mein letztes [icon:timepiece][timepiece]Zeitstück[/timepiece]. Sollte ich dich hiernach noch in meinem Wald sehen, werde ich sehr enttäuscht sein![/shake2]
 
 contract_soul_return = Du hast deine Seele zurück! Du fühlst dich erleichtert, fröhlich, und nur die übliche Menge an leer!

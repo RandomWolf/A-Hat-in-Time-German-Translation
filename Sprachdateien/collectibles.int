@@ -87,10 +87,10 @@ ScooterSubconBadgeName = Postzustellung-Anstecker
 ScooterSubconBadgeDesc0 = Upgraded deinen [icon:sprinthat] zu einen Postzustellungsroller!
 
 AirAttackBadgeName = Luft Angriff-Anstecker
-AirAttackBadgeDesc0 = Erlaubt es dir in der Luft anzugreifen!
+AirAttackBadgeDesc0 = Erlaubt es dir, in der Luft anzugreifen!
 
 MumbleBadgeName = Nuschel-Anstecker
-MumbleBadgeDesc0 = Verstopft deine Ohren, sodass du nur noch leichtes Nuscheln hören kannst!
+MumbleBadgeDesc0 = Mit verstopften Ohrne nuscheln plötzlich alle...
 
 HookshotBadgeName = Enterhaken
 HookshotBadgeDesc0 = Drücke und halte [button:attack], um von Haken zu Haken zu schwingen!
@@ -99,10 +99,10 @@ FindRelicsBadgeName = Entdecker-Anstecker
 FindRelicsBadgeDesc0 = Zeigt dir eine Karte, um [icon:relic] zu finden!
 
 CompassBadgeName = Kompass-Anstecker
-CompassBadgeDesc0 = Stehe Still um dir [icon:relic] [icon:token] anzeigen zu lassen!
+CompassBadgeDesc0 = Stehe Still, um dir [icon:relic] [icon:token] anzeigen zu lassen!
 
 NoFallDamageBadgeName = Schwebe-Anstecker
-NoFallDamageBadgeDesc0 = Dein Regenschirm wird kurz vor einen großem Sturz automatisch geöffnet!
+NoFallDamageBadgeDesc0 = Dein Regenschirm rettet dich vor großen Stürzen!
 
 NoBonkBadgeName = Anti-Abprall-Anstecker
 NoBonkBadgeDesc0 = Niemals wegen des Hechtsprungs an Wänden abprallen!

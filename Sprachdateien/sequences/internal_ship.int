@@ -4,7 +4,7 @@ no = Nö!
 
 deckshard1 = Hey - das ist nicht Eis! Da ist eine Glasscherbe in diesem Getränk!
 
-smash0 = Hmm... das ist ernsthafter Schaden. Es ist in mehr als einem Stück. Schrecklich!
+smash0 = Hmm... das ist ziemlich schwerer Schaden. Es ist in mehr als einem Stück! Schrecklich!!
 smash1 = Vielleicht könntest du es wieder zusammenkleben, wenn du die [hint]fehlenden Scherben[/hint] findest.
 smash2 = Sieht aus, als gebe es eine pro Raum...
 
@@ -27,7 +27,7 @@ no = Nö!
 [docks]
 binocs0 = Wow! Das Schiff sieht unglaublich aus! Und sicher! Unglaublich sicher, könnte man sagen.
 
-crates0 = Auf dem Etikett steht 'PBR'. Wer auch immer das sein mag, macht schöne, glänzende Dinge.
+crates0 = Auf dem Etikett steht 'PBR'. Diese 'PBR' Person macht wirklich schöne, glänzende Dinge.
 
 seals0 = Anscheinend haben die viel Spaß! [br]Aber man sollte sie vielleicht nicht unbeaufsichtigt lassen. 
 

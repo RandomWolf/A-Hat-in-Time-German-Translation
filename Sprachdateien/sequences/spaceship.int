@@ -1,5 +1,5 @@
 [ActSelects]
-ChapterUnlocked = Energie [name][location][/name] wurde wieder hergestellt![br]Das Kapitel [name][chaptername][/name] ist jetzt verfügbar!
+ChapterUnlocked = Energie für [name][location][/name] wurde wieder hergestellt![br]Das Kapitel [name][chaptername][/name] ist jetzt verfügbar!
 
 [locations]
 Location_Bedroom = im Schlafzimmer

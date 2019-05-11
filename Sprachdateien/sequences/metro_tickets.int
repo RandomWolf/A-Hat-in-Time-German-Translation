@@ -3,11 +3,11 @@ ticket_booth0 = Willst du ein Ticket kaufen?
 sold_out0 = Danke fürs einkaufen!
 
 [helpdesk]
-help_desk0 = Hallo! Brauchst du ein Metro Plan? Wenn du dich so GAR NICHT zurecht findest zeigt er dir, wo's lang geht!
-help_desk1 = [name]Accessibility Option[/name][br]Die Metro ist ein komplexer, weiter Ort in dem man sich schwer zurecht finden kann! Wenn du dich nicht fürs Erkunden interessierst und etwas Hilfe auf dem Weg zum Ziel willst, zeigt dieser Plan dir einen klaren Weg, dem du folgen kannst. Wenn du wieder erkunden willst kannst du ihn auch wieder ausschalten.
+help_desk0 = Hallo! Brauchst du einen Metro Plan? Wenn du dich so GAR NICHT zurecht findest zeigt er dir, wo's lang geht!
+help_desk1 = [name]Accessibility Option[/name][br]Die Metro ist ein komplexer, weiter Ort in dem man sich nicht immer leicht zurecht finden kann! Wenn du dich nicht fürs Erkunden interessierst und etwas Hilfe auf dem Weg zum Ziel willst, zeigt dieser Plan dir einen klaren Weg, dem du folgen kannst. Wenn du wieder erkunden willst, kannst du ihn auch wieder ausschalten.
 help_desk2 = Brauchst du Hilfe?
 help_desk3 = Was meinst du, brauchst du einen Plan?
-guide_bought = Möchtest du den Plan ein oder aus schalten?
+guide_bought = Möchtest du den Plan ein oder ausschalten?
 guide_enable = Zeig mir den Weg!
 guide_disable = Eigentlich will ich lieber erkunden!
 guide_empty = Wir sind uh, ausverkauft. Sorry!

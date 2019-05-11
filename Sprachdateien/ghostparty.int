@@ -1,22 +1,22 @@
 [ghostparty]
-PlayerJoin = [name][playername][/name] ist der Online Party beigetreten!
-PlayerLeave = [name][playername][/name] hat die Online Party verlassen...
+PlayerJoin = [name][playername][/name] ist der Online-Party beigetreten!
+PlayerLeave = [name][playername][/name] hat die Online-Party verlassen...
 EnterChapter = [name][playername][/name] hat [hint][actname][/hint] betreten
-TimePieceGet = [name][playername][/name] hat das [icon:TimePiece] in [hint][actname][/hint] gesammelt, Glückwunsch!
-PlayerConnectionFailed = Verbindung zu [name][playername][/name] kann nicht hergestellt werden. Überprüfe die NAT Einstellungen deines Routers.
+TimePieceGet = [name][playername][/name] hat das [icon:TimePiece] in [hint][actname][/hint] gesammelt! Glückwunsch!
+PlayerConnectionFailed = Verbindung zum Spieler [name][playername][/name] kann nicht hergestellt werden. Überprüfe die NAT Einstellungen deines Routers.
 PlayerPaused = Pausiert
 
 [lobby]
-OnlinePrompt = Online Funktionalität
-LobbyPrompt = Party Name
+OnlinePrompt = Online-Funktionalität
+LobbyPrompt = Party-Name
 OnlineInfo = Hiermit kannst du andere Spieler sehen und mit ihnen interagieren, darunter Freunde und gelegentlich auch Besucher.
-PublicInfo = Wenn eingegeben wirst du nur Spieler in dieser Party sehen. Wenn leer wirst du gelegentlich Besucher sehen.
+PublicInfo = Wenn eingegeben, wirst du nur Spieler in dieser Party sehen. Wenn leer, wirst du gelegentlich Besucher sehen.
 
-Tutorial0 = Wilkommen zur [wave][hint]Online Party[/hint][/wave]! Zerschlag Dimensionen mit anderen und triff deine Freunde!
+Tutorial0 = Wilkommen zur [wave][hint]Online Party[/hint][/wave]! Zerschlage Dimensionen mit anderen und triff deine Freunde!
 Tutorial1 = Mache es zu einer Reise mit Spielern aus anderen Welten!
-Tutorial2 = Oder gib einen Party Namen ein und spiel mit deinen Freunden!
+Tutorial2 = Oder gib einen Party-Namen ein und spiel mit deinen Freunden!
 
-OpenConv0 = Willst du deine Einstellungen zur [wave][hint]Online Party[/hint][/wave] ändern?
+OpenConv0 = Willst du deine Einstellungen zur [wave][hint]Online-Party[/hint][/wave] ändern?
 
 [joinact]
 RequestPlay = [name][playername][/name] möchte [hint][actname][/hint] spielen

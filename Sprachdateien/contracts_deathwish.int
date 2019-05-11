@@ -132,6 +132,13 @@ Objective = Finde eine Snatcher-Münze in Alpin-Bergkette
 3Tokens = Finde alle 3 Snatcher-Münzen
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das ein Spaziergang sein!
 
+[Hat_SnatcherContract_DeathWish_Tokens_Metro]
+Title = Snatcher-Münzen in der Nyakuza Metro
+Objective = Finde eine Snatcher-Münze in der Nyakuza Metro
+2Tokens = Finde 2 Snatcher-Münzen
+3Tokens = Finde alle 3 Snatcher-Münzen
+Tip0 = Falls du den [icon:compassbadge] hast, sollte das so einfach sein, wie einem Baby die Katzenminze wegzunehmen.
+
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
 Title = Sie Speedrannte aus dem All
 Objective = Schließe 'Sie kam auf dem All' in weniger als 1:50 ab

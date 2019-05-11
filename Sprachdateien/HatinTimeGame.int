@@ -82,6 +82,19 @@ TimeRift_Cave_MountainRift = The Mountain Rift
 
 secretlevel_beta_space = Beta Hero's Challenge
 
+Chapter7_Metro = Nyakuza Metro
+Location_Metro_HUB = Hauptstation
+Location_Metro_RouteA = Die gelbe Überführung
+Location_Metro_RouteB = Green Clean Station
+Location_Metro_RouteC = Bluefin Tunnel
+Location_Metro_RouteD = Pink Paw Station
+Metro_Escape = Rush Hour
+Metro_Escape_Location = Die Fluchttunnel
+Metro_ManholeA = Wartungsschacht an der gelben Überführung
+Metro_ManholeB = Green Clean Station Wartungsschacht
+Metro_ManholeC = Pink Paw Wartungsschacht
+Metro_CaveRift_RumbiFactory = Rumbi Fabrik
+
 [ActInfoBoxDetails]
 Population_MafiaTown = Einwohner: 379
 Population_MafiaTown_Less = Einwohner: Weniger als zuvor, da ich sie alle weggesprengt hab'
@@ -117,6 +130,7 @@ MovieStars_Penguins = MOND PINGUINE als HUNGRIGE FANBASE
 HighScore = High Score
 CharacterName_Conductor = SCHAFFNER
 CharacterName_DJGrooves = DJ GROOVES
+NumSecondsLeft = noch [value]s
 
 Mission_Mail = Verpflichtung: Liefer diese wirklich alte Post aus!
 Mission_Manor = Verpflichtung: Sieh' dir das alte Haus vom Snatcher an!

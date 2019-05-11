@@ -1,0 +1,299 @@
+[ambient]
+metrocat_2p_missing_0 = Did you hear someone went missing last week? [br]They say it was the-
+metrocat_2p_missing_1 = Sssh! Watch your mouth around here.
+
+metrocat_1p_helpdesk_0 = Are you lost, kid? You should ask the [hint]help desk[/hint] [br]if you're looking for something.
+
+metrocat_1p_waiting_0 = Can you leave me alone, please? I'm waiting for a train.
+
+metrocat_2p_stuck_0 = Did I tell you about my friend? [br]He lost his [hint]metro pass[/hint] and got stuck at Pink Paw Station.
+metrocat_2p_stuck_1 = Huh, I hope he could buy a new one. These [hint]ticket booths[/hint] are so restrictive!
+
+metrocat_2p_sushi_0 = Have you ever been to the sushi restaurant up top, hm?
+metrocat_2p_sushi_1 = Not yet. I see it from the Green Line every time I go to work, and it makes me hungry.
+metrocat_2p_sushi_2 = Sometimes, I wish I could leap straight across to it.
+
+metrocat_2p_stolen_0 = Did I tell you I had to buy a new [hint]metro pass[/hint]? I think it got stolen.
+metrocat_2p_stolen_1 = You should be more wary. I heard there's been more crime here recently.
+
+metrocat_2p_burgers_0 = Do you want to eat before we leave?
+metrocat_2p_burgers_1 = Where from? There's so many different fast food spots here. 
+metrocat_2p_burgers_2 = Hmm... I'm in the mood for burgers.
+metrocat_2p_burgers_3 = You're ALWAYS in the mood for burgers.
+
+metrocat_2p_right_0 = Make sure you buy the right ticket.
+metrocat_2p_right_1 = I know, I know. They're [hint]color-coded[/hint].
+
+metrocat_2p_knocking_0 = You ever hear knocking above, while you're on a train? [br]Like someone's walking up there?
+metrocat_2p_knocking_1 = Uh, I think you might just be hearing things. [br]Nobody would climb on a train.
+
+metrocat_2p_shortcuts_0 = You didn't hear this from me, uh, but some of the manhole covers? They're not real.
+metrocat_2p_shortcuts_1 = What? Like, they're just painted on?
+metrocat_2p_shortcuts_2 = No, not like that. They don't go into the sewer. My buddy told me they're shortcuts into other parts of the metro.
+
+metrocat_2p_badcrowd_0 = Have you seen that little kid running around?
+metrocat_2p_badcrowd_1 = Children shouldn't be left unattended! I hope she doesn't fall in with a bad crowd.
+
+metrocat_2p_chase_0 = The cleaning robots look so friendly and bouncy.
+metrocat_2p_chase_1 = Friendly? If you get muddy they chase right after you! It's frightening.
+
+metrocat_2p_jewellery_0 = Do you ever think it's weird there's, uh, a big fancy jewelry store here?
+metrocat_2p_jewellery_1 = What do you mean?
+metrocat_2p_jewellery_2 = I mean, who comes to the metro to buy a necklace? There's something fishy about that place.
+metrocat_2p_jewellery_3 = Hm, I don't think you know what you're talking about.
+metrocat_2p_jewellery_4 = What? Don't you think there's something kind of strange about it?
+metrocat_2p_jewellery_5 = Sssh, already! Don't go snooping around that place, ok?
+
+metrocat_1p_watchstep_0 = Watch where you walk, kid. Some of the manholes around here feel like they'd move if you stepped too hard.
+
+metrocat_1p_weirdgates_0 = The gates here are set up pretty weird.
+metrocat_1p_weirdgates_1 = You need the [hint]Blue[/hint] AND [hint]Yellow[/hint] tickets to get through here!
+
+metrocat_2p_delayed_0 = Bad news, buddy. The three o'clock got delayed again...
+metrocat_2p_delayed_1 = Again!? Aaaah, this is bad. I'm going to be late.
+metrocat_2p_delayed_2 = Maybe you can get a different train?
+metrocat_2p_delayed_3 = I-I've never caught a different one! What if I get lost?
+
+metrocat_2p_rightmeow_0 = Ugh... if my train doesn't show up right meow, I'm gonna be late!
+metrocat_2p_rightmeow_1 = I didn't hear about any- wait, did you just say...?
+metrocat_2p_rightmeow_2 = Say what?
+metrocat_2p_rightmeow_3 = Nevermind. I must have misheard.
+
+metrocat_2p_outoftown_0 = I hear 'the jeweler' plans to move a 'really big necklace' out of town soon. 
+metrocat_2p_outoftown_1 = You hear anything about that?
+metrocat_2p_outoftown_2 = I haven't heard anything. I don't know what you're talking about, buddy.
+metrocat_2p_outoftown_3 = Are you sure? I'm not like, a reporter or anything.
+metrocat_2p_outoftown_4 = I'm... pretty sure, yeah.
+
+metrocat_2p_missingvan_0 = There used to be a burger van that stopped here all the time... I miss it so much.
+metrocat_2p_missingvan_1 = Hmmm... doesn't that spot just down the street do burgers?
+metrocat_2p_missingvan_2 = Sure, but... the van used to be RIGHT here, you know?
+metrocat_2p_missingvan_3 = Tch. You're so lazy.
+
+metrocat_3p_needmoney_0 = I hope I can get some more hours at work.
+metrocat_3p_needmoney_1 = You need some extra money, eh?
+metrocat_3p_needmoney_2 = If you're looking for some work on the side, I know who you can talk to.
+
+metrocat_3p_bigidea_0 = I have this big idea for a restaurant.
+metrocat_3p_bigidea_1 = Really? A restaurant in this part of town? There's already so many!
+metrocat_3p_bigidea_2 = Yeah. What'd make yours so special?
+metrocat_3p_bigidea_3 = So... imagine a drive-through.
+metrocat_3p_bigidea_4 = There's no space for cars down here!
+metrocat_3p_bigidea_5 = Right, right, but just imagine one... for trains!
+metrocat_3p_bigidea_6 = Please tell me this isn't a set up for a 'fast' food pun.
+metrocat_3p_bigidea_7 = You'd have to grab your food so qui- oh.
+
+metrocat_3p_foodchoice_0 = So how about ramen?
+metrocat_3p_foodchoice_1 = We ate that yesterday... what about fish and chips?
+metrocat_3p_foodchoice_2 = I'm having that tomorrow. I could go for a burger, though.
+metrocat_3p_foodchoice_3 = Uhhh... I had burgers twice this week already.
+metrocat_3p_foodchoice_4 = ... maybe we should just eat separately.
+
+metrocat_2p_beckoning_0 = So what's with the big waving cat?
+metrocat_2p_beckoning_1 = It's beckoning, not waving! It's a good luck symbol, like clovers or horsehoes.
+metrocat_2p_beckoning_2 = What do cats need good luck for? We land on our feet, we have nine lives...
+metrocat_2p_beckoning_3 = I mean, you can't be TOO lucky, right?
+
+metrocat_2p_purehate_0 = I hate this station.
+metrocat_2p_purehate_1 = Oh, here we go again...
+metrocat_2p_purehate_2 = You get off one line, walk over to another, scan two different passes...
+metrocat_2p_purehate_3 = Mmm-hmm.
+metrocat_2p_purehate_4 = And I have to switch four more times just to get to where I wanna be.
+metrocat_2p_purehate_5 = Uhuh.
+metrocat_2p_purehate_6 = I'm pretty sure some of these trains aren't even going anywhere!
+metrocat_2p_purehate_7 = You wanna get something to eat after this?
+metrocat_2p_purehate_8 = ... Sure, I guess.
+
+metrocat_2p_sphynx_0 = Have you seen this weird looking cat running around?
+metrocat_2p_sphynx_1 = Huh?
+metrocat_2p_sphynx_2 = You know? That weird cat without any fur?
+metrocat_2p_sphynx_3 = Her? I think she's one of those sphynx cats.
+
+metrocat_2p_stash_0 = So what did you do with your cut?
+metrocat_2p_stash_1 = The usual. I stashed it.
+metrocat_2p_stash_2 = What, you just hid it away? You didn't spend any?
+metrocat_2p_stash_3 = Mhm, that's right. I'm saving up for a new place.
+metrocat_2p_stash_4 = You're gonna pay for a house in cash? Isn't that suspicious?
+metrocat_2p_stash_5 = I, uh.... didn't think of that. Do you think she'd write me a cheque?
+
+metrocat_2p_mud_0 = I'm having a terrible day. I need a drink.
+metrocat_2p_mud_1 = What happened?
+metrocat_2p_mud_2 = I stepped in some mud...
+metrocat_2p_mud_3 = That's not so bad?
+metrocat_2p_mud_4 = Not so bad, eh? A cleaning robot chased me around the station for ten minutes!
+
+metrocat_2p_cops_0 = You know, I haven't seen a police cat down here in a while.
+metrocat_2p_cops_1 = Nah, you won't. I hear you-know-who has a deal with them.
+metrocat_2p_cops_2 = Really?
+metrocat_2p_cops_3 = Yeah. They don't come down here, she doesn't go up there.
+
+metrocat_2p_cclives_0 = Have you seen the latest episode of Cooking Cat?
+metrocat_2p_cclives_1 = Uh, I missed it. Was it another Mafia Town episode?
+metrocat_2p_cclives_2 = Better! She went on a cruise to sample the food, right?
+metrocat_2p_cclives_3 = Was it good?
+metrocat_2p_cclives_4 = It was alright, but the ship sank!
+metrocat_2p_cclives_5 = What!? Spoilers!
+metrocat_2p_cclives_6 = Sorry...
+metrocat_2p_cclives_7 = Is Cooking Cat alright? Did she make it out?
+metrocat_2p_cclives_8 = Yeah. You don't see her in the life rafts, but she's in the outro vignettes.
+metrocat_2p_cclives_9 = Oh thank goodness. I wouldn't be able to stand a loose end like that.
+
+metrocat_2p_metrosmell_0 = Do you smell that?
+metrocat_2p_metrosmell_1 = What?
+metrocat_2p_metrosmell_2 = It's kind of like wet fur, mixed with petrol, and smoke.
+metrocat_2p_metrosmell_3 = Ugh, now that you mention it...
+metrocat_2p_metrosmell_4 = Isn't it awful?
+metrocat_2p_metrosmell_5 = It's terrible! It's all I can smell now. It's all over the place!
+metrocat_2p_metrosmell_6 = I can't believe I didn't notice it before now.
+
+metrocat_3p_ignored_0 = Hey, can I borrow your mask? Mine snapped.
+metrocat_3p_ignored_1 = Shhh, be quiet! You don't know who might be listening!
+metrocat_3p_ignored_2 = What are you two talking about?
+metrocat_3p_ignored_3 = Nothing. Leave us alone.
+metrocat_3p_ignored_4 = You better get a new one. You never know when you're going to need it.
+metrocat_3p_ignored_5 = I saw a kid with a mask earlier!
+metrocat_3p_ignored_6 = She's gonna bite my head off if I walk in there and ask for a new one!
+metrocat_3p_ignored_7 = Just hold your hands in front of your face and pretend you have it on.
+metrocat_3p_ignored_8 = Uh? Hello?
+metrocat_3p_ignored_9 = Will that really work?
+metrocat_3p_ignored_10 = Yeah, I do it all the time. Nobody notices.
+
+metrocat_3p_confusion_0 = I'm going to miss my train again.
+metrocat_3p_confusion_1 = What line do you need to take? Yellow or Green?
+metrocat_3p_confusion_2 = I thought you were catching one from Blue today?
+metrocat_3p_confusion_3 = I am. Blue, then Yellow, then Pink.
+metrocat_3p_confusion_4 = Yellow doesn't transfer to Pink, does it?
+metrocat_3p_confusion_5 = It does, but you have to take Green first, right?
+metrocat_3p_confusion_6 = Does Blue transfer to Yellow?
+metrocat_3p_confusion_7 = No, no. You have to take Green first.
+metrocat_3p_confusion_8 = Green then Yellow.
+metrocat_3p_confusion_9 = I thought it was Yellow, then Green, then Pink?
+metrocat_3p_confusion_10 = It's Blue, then Green, then Yellow...
+metrocat_3p_confusion_11 = Then Green, then Pink.
+metrocat_3p_confusion_12 = What?
+metrocat_3p_confusion_13 = There's two Greens.
+metrocat_3p_confusion_14 = And three Yellows.
+metrocat_3p_confusion_15 = I'm going to miss my train again.
+
+metrocat_3p_stickers_0 = Who keeps putting these stickers everywhere?
+metrocat_3p_stickers_1 = Kittens these days. No respect for public spaces.
+metrocat_3p_stickers_2 = It's litter, that's what it is!
+metrocat_3p_stickers_3 = I do sort of want one, though.
+metrocat_3p_stickers_4 = Me too...
+metrocat_3p_stickers_5 = I tried to peel one off earlier, but I couldn't reach it.
+
+metrocat_3p_watched_0 = Do you ever get the feeling that you're being watched?
+metrocat_3p_watched_1 = Never. Everyone knows not to mess with us.
+metrocat_3p_watched_2 = Yeah. The boss wouldn't like that at all.
+
+metrocat_2p_feedtrain_0 = I tried feeding one of the train cats earlier.
+metrocat_2p_feedtrain_1 = What? They tell you not to do that!
+metrocat_2p_feedtrain_2 = I know... I thought maybe they'd slow down and eat, but I just got trampled.
+metrocat_2p_feedtrain_3 = Ouch.
+metrocat_2p_feedtrain_4 = Yeah, they definitely have a one-track mind.
+
+metrocat_2p_shinything_0 = I keep seeing these shiny things around the metro.
+metrocat_2p_shinything_1 = Shiny 'things'? Where? I have a, uh... friend who's looking for them.
+metrocat_2p_shinything_2 = Oh, you know. Up on buildings and stuff.
+metrocat_2p_shinything_3 = Can you bring me to them? They're valuable!
+metrocat_2p_shinything_4 = No way, I'm afraid of heights!
+metrocat_2p_shinything_5 = I'll split the payout with you...
+metrocat_2p_shinything_6 = Hmmm... let's talk later. I think someone's listening.
+
+metrocat_2p_vacuumears_0 = These vacuums creep me out.
+metrocat_2p_vacuumears_1 = I think they're cute!
+metrocat_2p_vacuumears_2 = Are you kidding? They put weird little ears on them. Like, realistic ears.
+metrocat_2p_vacuumears_3 = Now that you mention it, that is kind of weird.
+
+metrocat_2p_vacuumbump_0 = I bumped into one of those vacuums the other day.
+metrocat_2p_vacuumbump_1 = Yikes. What happened?
+metrocat_2p_vacuumbump_2 = It bounced me way up into the air! 
+metrocat_2p_vacuumbump_3 = They do that. At least we always land on our feet?
+metrocat_2p_vacuumbump_4 = I hit the ceiling of the restaurant! My head still hurts...
+
+metrocat_2p_whattime_0 = Hey buddy, do you have the time?
+metrocat_2p_whattime_1 = Sure, it's, uh... Hey! Somebody stole my watch!
+
+metrocat_3p_foodchoices_0 = There's too many places to eat around here...
+metrocat_3p_foodchoices_1 = How could there be TOO MANY places to eat? Variety is great.
+metrocat_3p_foodchoices_2 = The smell is unbearable! All the flavors mix together.
+metrocat_3p_foodchoices_3 = How are you supposed to decide on anything?
+metrocat_3p_foodchoices_4 = By the time I make my mind up, I'm usually twice as hungry...
+metrocat_3p_foodchoices_5 = I miss my train every morning because it takes so long!
+
+metrocat_2p_toomuchfood_0 = I think I ate too much...
+metrocat_2p_toomuchfood_1 = You know, you don't have to order something from EVERY food truck we walk past.
+metrocat_2p_toomuchfood_2 = I mean, I don't NEED to.
+metrocat_2p_toomuchfood_3 = Do you... want to stand here for a while, then?
+metrocat_2p_toomuchfood_4 = I'd appreciate it.
+
+metrocat_2p_manholemusic_0 = Do you ever hear music coming from some of the manholes around here?
+metrocat_2p_manholemusic_1 = The manholes? You know, there's kind of a different vibe near them.
+metrocat_2p_manholemusic_2 = Yeah. You want to check it out?
+metrocat_2p_manholemusic_3 = I'll pass. I've seen you-know-who's cats going down them.
+
+[reviews]
+metro_coffee_0 = great for a quick coffee + a snack[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_coffee_1 = drinks 2 hot[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_coffee_2 = don't sell tea here?[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+
+metro_dimsum_0 = very good but I spilled my tea[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_dimsum_1 = best in the metro!!!![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_dimsum_2 = great for cold days[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+metro_icecream_0 = they'll make you a float if you ask![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_icecream_1 = my uncle got robbed here. good icecream[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_icecream_2 = melted before I could get on my train[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+
+metro_yellow_0 = good authentic 'english' 'chips'[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_yellow_1 = so good! I come here every weekend[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_yellow_2 = friendly staff, spot-on prices[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+metro_red&yellow_0 = they have a fancy soda machine[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_red&yellow_1 = THEY FORGOT MY KETCHUP[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_red&yellow_2 = best burgers in the metro[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+
+metro_ramen_0 = had to pay extra for rice???[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_ramen_1 = perfect comfort food[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_ramen_2 = Quick service and great food.[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+[finale]
+finale_cop0 = Hey, kid. Don't worry, I'm on the, uh... jewelry store payroll.
+finale_cop1 = Did something happen while I was upstairs? The boss looked mad.
+finale_cop2 = Anyway, I had something to give her, but I couldn't make the trade with my partner here.
+finale_cop3 = I know she's had you tracking them down, so take care of it for me.
+
+[solo]
+hiding_bushes0 = Ssssh! Get outta here!
+hiding_bushes1 = You're ruining my hiding spot, kid.
+olddays0 = Hey, kid! Did you know it used to be really empty around here?
+olddays1 = Back when there was just one train line, there was barely any, like. Stores and stuff.
+olddays2 = But once a lot more people started using the trains, this place got way busier!
+secret_teller0 = Want to know a secret?
+secret_teller1 = Are you sure? It's a big one...
+secret_teller2 = Ok, ok, I'll tell you. You'd never guess this.
+secret_teller3 = The owner of the jewelry store...
+secret_teller4 = Doesn't have any qualifications as a jeweler!
+secret_teller5 = I told you it was a good secret! 
+gacha0 = I bought a hundred pulls from the event box... and got everything I wanted!
+gacha1 = Dang. I've been working at the jewelry store for extra cash, and I still don't have that Super-Limited-Rare Knight Robocat...
+gacha2 = You... you know you can trade points for them, right?
+gacha3 = Wha.... [scream]WHAT?[/scream]
+agilesuitfreegun0 = You! You look like you have taste!
+agilesuitfreegun1 = What's the best series of Agile Suit Freegun?
+agilesuittt0 = Double Theta!
+agilesuitfreegun2 = Ah, good. You're a smart kid.
+signal0 = Can't talk right now, kid, I'm busy.
+signal1 = I'm trying to send some work emails, but the signal down here is terrible...
+
+[egg]
+metro_easteregg_pre0 = Huh, there's something written on this manhole
+metro_easteregg_pre1 = "Kiwami means extreme."
+metro_easteregg_0 = [big][shake]HAT KID-CHAAAAAAN![/shake][/big]
+metro_easteregg_1 = You've grown soft, time to bring out your fighting spirit!
+metro_easteregg_extra = Yeehaw :)
+
+[cutscenes]
+Intro0 = That belongs to the boss!
+Midpoint0 = No I'm not, I swear!
+Midpoint1 = I'd never lay a paw on your jewelry!

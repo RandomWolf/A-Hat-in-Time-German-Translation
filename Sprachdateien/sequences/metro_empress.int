@@ -1,0 +1,117 @@
+[finale]
+empress_finale0 = Eine Millionen Dollar für die Katze, die mir unsere kleine Diebin hier schnappt!
+empress_finale1 = Renn, wenn du willst. Du wirst nicht weit kommen.
+empress_finale2 = Ergreift sie. Und zwar schnell.
+empress_finale3 = Muss ich euch alle ersetzen? Könnt ihr etwa kein Kind fangen?
+empress_finale4 = Das Kopfgeld ist ZWEI Millionen. Bringt mir diese Göre.
+empress_finale5 = Renn weiter, Kind. Du bist noch lang nicht zuhause.
+
+empress_finale6 = So, so, so. Sieh, was die Katze mit reingeschleppt hat.
+empress_finale7 = Komm schon, tritt ein?
+empress_finale8 = Hast du gedacht, du könntest enkommen? Hast dich wohl ganz schlau gefühlt, kleines Mädchen.
+empress_finale9 = Ich dachte, ich könnte dir vertrauen. Dabei mach' ich so selten schlechte Investitionen.
+empress_finale10 = Dass du do so gierig wärst mich zu bestehlen - so dreist, für jemanden so klein.
+empress_finale11 = Alles meine Schuld, wirklich. Ich sollte mir besser überlegen, wenn ich befördere.
+empress_finale12 = Du hättest eines Tages jemand wichtiges sein könne. Aber du hast mich enttäuscht - 
+empress_finale13 = - und es ist an der Zeit, dass ich auszahle.
+empress_finale14 = Oh! Officers! 
+empress_finale15 = Wie... passen. Ich wollte eh gerade aussteigen.
+empress_finale16 = [small]Die wird man deutlich schwerer los, als dich.[/small]
+empress_finale17 = Wir sehen uns wieder, Göre.
+
+
+[timepiece1]
+empress_tp1_0 = Hier gibt es mehr daven, da bin ich mir sicher. Du wirkst... talentiert wenns darum geht sie zu finden.
+empress_tp1_1 = Ich bezahle dich und du bringst mir mehr. Ganz simple Angelegenheit.
+empress_tp1_2 = Fang mit dem suchen bei der gelben Überführung an. Du wirst dich schon zu recht finden.
+empress_tp1_3 = Jetzt mach dich auf den Weg... und komm mir nicht mit leeren Händen zurück.
+
+[timepiece2]
+empress_tp2_0 = Schon wieder da? Und du hast ein weiteres [timepiece][icon:timepiece]Zeitstück[/timepiece] für mich - wunderbar.
+empress_tp2_1 = Unsere kleine Vereinbarung läuft gut. Guck, dass das so weiter geht.
+empress_tp2_2 = Und wo es schon so gut läuft solltest du keine Probleme haben, dir ein paar [hint]Metro Pässe[/hint] zu kaufen.
+empress_tp2_3 = Ohne sie wirst du nicht gerade gut rumkommen.
+
+[timepiece3]
+empress_tp3_0 = Interessant, du bist nützlicher, als ich dachte.
+empress_tp3_1 = Mach weiter so, Kind und ich werd' dich reich machen. Ich leg großen Wert auf Loyalität.
+empress_tp3_2 = Jetzt mach dich bezahlt und finde mir ein Weiteres. Selbst, wenn du in den [hint]Wartungsunneln[/hint] suchen musst.
+empress_tp3_3 = Ich und meine Katzen nutzen die für... unsere Arbeit. Sei vorsichtig.
+
+[timepiece4]
+empress_tp4_0 = Gut gemacht. Meine Organisation kann immer mehr Leute, wie dich gebrauchen.
+empress_tp4_1 = There's a place for you here, provided you don't... disappoint me.
+empress_tp4_2 = Still, I hear my little collection isn't quite complete. So, get back to it.
+empress_tp4_3 = Und sei gründlich. Ich will, dass du alles durchsuchst, verstanden?
+
+[timepiece5]
+empress_tp5_0 = Ein Fünftes? Du überraschst mich immer weiter.
+empress_tp5_1 = Gefällt es dir hier in der Metro? Hier sind Leute von überall.
+empress_tp5_2 = Der perfekte Ort für ein paar Lügen. Ein wenig schummeln... ein bisschen Diebstahl.
+empress_tp5_3 = Du hast dir hier ja schon fast einen richtigen Anteil an dem Ganzen verdient. Aber auch nur fast.
+
+[timepiece6]
+empress_tp6_0 = Ein Weiteres? Bald sind wohl keine mehr übrig.
+empress_tp6_1 = Es gibt bald eine Operation bei der ich ein Vermögen einstreichen werde. Ein Warentransport.
+empress_tp6_2 = Bring mir eins mehr und bald gibt es in dieser Stadt keine reichere Katze mehr als mich.
+
+[timepiece7]
+empress_tp7_0 = Siben. Für manche ist es eine Glückszahl, weisst du.
+empress_tp7_1 = Hast du irgendwelche Ziele, Kind? Irgendwas, was du tun möchtest, wenn du älter wirst?
+empress_tp7_2 = Wenn du dich weiterhin nützlich machst wird nichts ausser Reichweite sein.
+
+[timepiece8]
+empress_tp8_0 = Ein Achtes? Hm... wie passend.
+empress_tp8_1 = Für dich bedeutet das mehr Geld. Ich sagte doch, ich würde dich reich machen. Und ich würde niemals meine eigenen Leute anlügen.
+empress_tp8_2 = Nun, für mich... naja, das ist meine Angelegenheit. Ich werd dich rufen, wenn ich deine Fähigkeiten Gebrauchen kann, Kind.
+empress_tp8_3 = Jetzt has Spass mit deinem Verdienst. Ich habe meine eigenen Vorbereitungen zu treffen.
+
+[timepiece9]
+empress_tp9_0 = Neun. Gut gemacht.
+empress_tp9_1 = Jedes einzelne hiervon ist mehr Wert, als die meisten von euch in ihrem gesamten Leben verdienen werden.
+empress_tp9_2 = Und du... Du verdienst mehr, als die meisten. Hier ist dein Anteil.
+empress_tp9_3 = Nun gut, zurück and die Arbeit. 
+
+[directions]
+empress_dir_yellowR = Fang an der gelben Linie an zu suchen, Kleine.
+
+empress_dir_greenR = Es gibt Gerüchte, dass oben auf Green Clean Station etwas funkelt. Jetzt geh.
+
+empress_dir_blueR = Bluefin. Der Untergrund. Komm mir nicht mit leeren Händen zurück.
+
+empress_dir_pinkR = Ich hoffe, deine Tickets sind gültig, Kleine. Einer meiner Schätze wurde drüben in Pink Paw gesichtet.
+
+empress_dir_yellowM = Zeit deinen Blick nach unten zu richten, Mädchen. Such nach den Gullideckeln. Gelbe Überführung.
+
+empress_dir_greenM = Begieb dich nochmal zur grünen Linie. In den Tunneln.
+
+empress_dir_pinkM = Noch einen Beutezug im Untergrund. Dieses Mal bei der pinken Linie.
+
+empress_dir_nothing = Hm? Hast du dich verlaufen, kleines Mädchen? Nur leider hab' ich nichts für dich.
+
+empress_dir_blueM = Ich hoffe du hast keine Platzangst. Wieder Bluefin, aber such diesmal nach dem Gullideckel.
+
+empress_dir_pinkM2 = Es gibt einen zweiten Tunnel in Pink Paw. Durchsuch ihn.
+
+[postfinale]
+empress_post_finale_0 = Läufst direkt wieder in meine Klauen. Dreist.
+empress_post_finale_1 = Mach keine Fehler, Kind. Wenn die Polizisten hier jetzt noch keine Investition starten, würdest du kein zweites Mal davon kommen.
+empress_post_finale_2 = Dank deinem kleinen Kunststück will der Chief unsere Verhandlungen nochmal besprechen. Er meint, ein paar seiner Kätzchen hier unten würden mich unter Druck setzen.
+empress_post_finale_3 = Die werden natürlich nichts finden. So dumm sind die nicht. Aber das heisst auch, dass hier unten für eine Weile alles ordentlich bleiben muss. Also werden hier keinem irgendwelche Unfälle passieren.
+empress_post_finale_4 = Das wird alles schnell vorbei sein. Wenn du schlau bist, rennst du.
+
+[cutscenes]
+Intro0 = Das nehm ich mir mal...
+Intro1 = Für wen arbeitest du, niemanden?
+Intro2 = Naja...
+Intro3 = Du kannst hier nicht einfach rumrennen
+Intro4 = und meinem Juweliergeschäft in die Quere kommen.
+Intro5 = Also arbeitest du jetzt für mich.
+Intro6 = Komm in meinen Laden. Wir haben Sachen zu besprechen.
+
+Midpoint0 = Versuchst du, mich auszutricksen?!
+Midpoint1 = Warum hab ich dann dein Katzenhaar dran gefunden?
+Midpoint2 = Das willst du... nicht sein.
+
+Finale0 = Schnappt sie. Aber schnell.
+Finale1 = Belohnung... Ist eine Millionen.

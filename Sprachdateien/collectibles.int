@@ -234,8 +234,8 @@ BurgerCushionDesc2 = Es ist kein Snack. Ich habe es probiert... Es schmeckt nach
 
 CakeTowerName = Kuchen-Museum
 CakeTowerDesc0 = Eine schicke Metallplatte, um Kuchen zu zeigen.
-CakeTowerDesc1 = Was für eine Person würde sie jedoch nur vorzeigen? Kuchen sind für's Essen gemacht!
-CakeTowerDesc2 = ... Ich kann die auf der obersten Platte nicht erreichen.
+CakeTowerDesc1 = Was für ein Mensch würde einen Kuchen nur ausstellen? Kuchen sind für's Essen gemacht!
+CakeTowerDesc2 = ... Ich komme nicht an den Kuchen auf der obersten Platte.
 
 [ItemQuality]
 SupporterPrefix = Unterstützer

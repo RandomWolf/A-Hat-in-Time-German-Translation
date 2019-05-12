@@ -94,6 +94,34 @@ Cruise_Sinking_0 = Öööhhhh... uups. Das hat keiner gesehen, oder? Vielleicht sol
 Cruise_Sinking_1 = Es war ein tragischer Unfall? Eisberge kommen einfach manchmal in die Quere? Ich wollte es unbedingt machen?
 Cruise_Sinking_2 = Vielleicht ist es nicht mal illegal, auf diesem Planeten Kreuzfahrtschiffe zu versenken?
 
+//THE METRO
+Metro_Intro_0 = This place is busy, huh? There's cats travelling from all over the place! And... the trains are pulled by cats too? Weird.
+Metro_Intro_1 = There was a timepiece here... but some big SCARY lady made me hand it over to her. What's her deal?? Why is she so mean???
+
+Metro_RouteA_0 = The 'Empress' has me running around finding timepieces, but then she keeps taking them back off me! Rude!!!
+Metro_RouteA_1 = She gave me some 'cash' for it. It's green and smells of cat fur. What is it for?
+
+Metro_RouteB_0 = The smell of food is so distracting when I'm running around this place...
+Metro_RouteB_1 = I wonder if that rude lady will notice if I stop looking and go eat instead.
+
+Metro_RouteC_0 = These tunnels are kinda spooky! They're all dark, and then a big cat comes whooshing along it...
+Metro_RouteC_1 = There was a smashed up timepiece down here too, but I had to give it over like the rest. Grr....
+
+Metro_RouteD_0 = Woah! That was tense. I nearly got squished! All that for more of this 'cash' stuff.
+Metro_RouteD_1 = I'm making lots of 'money' apparently. But I want my timepieces, not this junk!!!
+
+Metro_ManholeA_0 = I fell through a sewer grate and there was more metro down there?? Whaaaat?
+Metro_ManholeA_1 = AND there was a timepiece down here! But I didn't get to keep it...
+
+Metro_ManholeB_0 = So...the Metro is underground. But there's an underground train line?
+Metro_ManholeB_1 = And these manhole covers lead under-underground? Cats are weird!
+
+Metro_ManholeC_0 = How many are there in this place? Not that I'm getting to keep any!!!
+Metro_ManholeC_1 = I'm going to sneak in there and get them back somehow...
+
+Metro_Escape_0 = Woah... that was close. That nasty cat lady almost got me!
+Metro_Escape_1 = But I bravely escaped completely on my own, and ALL the timepieces are mine. Bye-bye, Metro!
+
 //FINALE
 Mu_Finale_0 = Das lief aus dem Ruder. Als hätte dieser Planet nicht schon genug Lava! 
 Mu_Finale_1 = Leute schleichen dauernd in mein Haus. Wie unhöflich! Mir reicht's!! Zeit nach Hause zu gehen.

@@ -150,7 +150,7 @@ Bonus2_Easy = Schließe es in weniger als 2:40 ab
 Tip0 = Es wäre ja schön, wenn du den Spinner mit der albernen Brille ignorieren könntest, aber [name]er hat etwas, dass du brauchst[/name].
 
 [Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
-Title = Brunnensoße
+Title = Brunnensause
 Objective = Schließe 'Der Subcon-Brunnen' in weniger als 2:00 ab
 Bonus1 = Schließe es in weniger als 1:40 ab
 Bonus2 = Schließe es in weniger als 1:25 ab
@@ -323,13 +323,13 @@ Condition = Es ist kein Ende im Sicht
 Tip0 = Lerne zuerst mal [name]das Layout[/name] des Schiffs. Es könnte sein, dass es noch einige unbekannte Wege gibt!
 
 [Hat_SnatcherContract_DeathWish_BackFromSpace]
-Title = Du bist also aus dem All zurückgekehrt
+Title = Na, zurück aus dem All?
 Objective = Erreiche das Zeitstück
 Kills = Zerschmetter alle UFOs
 Speed = Erreiche in unter 65 Sekunden das Ende
 Speed_Easy = Erreiche in unter 3 Minuten das Ende
 Condition = Bist du sicher, dass das ein Zeitstück ist?
-Tip0 = Du wirst ohne [name]zu wissen, wie man deinen Hechtsprung abbricht[/name] nicht weit kommen. Was auch immer das heißen soll. Du wirst es schon herausfinden.
+Tip0 = "Du wirst, ohne [name]zu wissen, wie man deinen Hechtsprung abbricht,[/name] nicht weit kommen. Was auch immer das heißen soll.[br] Du wirst es schon herausfinden.
 EasyTip = Versuche es mal mit deinem Zeitlupen-Hut!
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]

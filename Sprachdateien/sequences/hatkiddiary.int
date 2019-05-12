@@ -95,32 +95,32 @@ Cruise_Sinking_1 = Es war ein tragischer Unfall? Eisberge kommen einfach manchma
 Cruise_Sinking_2 = Vielleicht ist es nicht mal illegal, auf diesem Planeten Kreuzfahrtschiffe zu versenken?
 
 //THE METRO
-Metro_Intro_0 = This place is busy, huh? There's cats travelling from all over the place! And... the trains are pulled by cats too? Weird.
-Metro_Intro_1 = There was a timepiece here... but some big SCARY lady made me hand it over to her. What's her deal?? Why is she so mean???
+Metro_Intro_0 = Mensch, hier ist viel los. Hier reisen Katzen von überall hin und her! Und... Züge werden auch von Katzen gezogen? Eigenartig.
+Metro_Intro_1 = Hier war ein Zeitstück... aber irgendeine GRUßLIGE Dame entwendete sie von mir. Was ist ihr Problem?? Warum ist sie so fies???
 
-Metro_RouteA_0 = The 'Empress' has me running around finding timepieces, but then she keeps taking them back off me! Rude!!!
-Metro_RouteA_1 = She gave me some 'cash' for it. It's green and smells of cat fur. What is it for?
+Metro_RouteA_0 = Die 'Kumicho' lässt mich herumlaufen um Zeitstücke zu finden, nimmt sie aber ständig von mir ab! Wie unverschämt!!!
+Metro_RouteA_1 = Sie gab mir etwas "Geld" dafür. Es ist grün und stinkt nach Katzenfell. Was für ein Nutzen hat es?
 
-Metro_RouteB_0 = The smell of food is so distracting when I'm running around this place...
-Metro_RouteB_1 = I wonder if that rude lady will notice if I stop looking and go eat instead.
+Metro_RouteB_0 = Der Geruch von dem leckeren Essen lenkt mich völlig ab wenn ich hier unterwegs bin...
+Metro_RouteB_1 = Ich wunder mich ob diese gemeine Dame merkt wenn ich aufhöre zu suchen und stattdessen etwas essen gehe. 
 
-Metro_RouteC_0 = These tunnels are kinda spooky! They're all dark, and then a big cat comes whooshing along it...
-Metro_RouteC_1 = There was a smashed up timepiece down here too, but I had to give it over like the rest. Grr....
+Metro_RouteC_0 = Diese Kanäle sind recht unheimlich! Sie sind alle so dunkel, und dann kommt eine große Katze nachgerauscht...
+Metro_RouteC_1 = Es gab auch hier unten ein zertrümmertes Zeitstück, aber ich musste ihn wie den Rest abgeben. Grr...
 
-Metro_RouteD_0 = Woah! That was tense. I nearly got squished! All that for more of this 'cash' stuff.
-Metro_RouteD_1 = I'm making lots of 'money' apparently. But I want my timepieces, not this junk!!!
+Metro_RouteD_0 = Wow! Das war irre. Ich wurde fast erdrückt! All das nur für diesen "Geld"-Kram.
+Metro_RouteD_1 = Ich verdiene anscheinend viel "Geld". Aber ich will meine Zeitstücke, nicht diesen Schrott!!!
 
-Metro_ManholeA_0 = I fell through a sewer grate and there was more metro down there?? Whaaaat?
-Metro_ManholeA_1 = AND there was a timepiece down here! But I didn't get to keep it...
+Metro_ManholeA_0 = Ich fiel durch ein Kanalnetz und dort verkehrt die Bahn auch?? Waaaas?
+Metro_ManholeA_1 = UND es war ein Zeitstück hier unten! Ich durfte es aber nicht behalten...
 
-Metro_ManholeB_0 = So...the Metro is underground. But there's an underground train line?
-Metro_ManholeB_1 = And these manhole covers lead under-underground? Cats are weird!
+Metro_ManholeB_0 = Also... die Metro ist im Untergrund. Aber es gibt eine U-Bahn-Linie?
+Metro_ManholeB_1 = Undd diese Kanaldeckel führen nach unten-unterirdisch? Katzen sind ulkig!
 
-Metro_ManholeC_0 = How many are there in this place? Not that I'm getting to keep any!!!
-Metro_ManholeC_1 = I'm going to sneak in there and get them back somehow...
+Metro_ManholeC_0 = Wie viele gibt es hier? Nicht, dass ich etwas davon behalten würde!!!
+Metro_ManholeC_1 = Ich werde mich da reinschleichen und sie irgendwie zurückholen...
 
-Metro_Escape_0 = Woah... that was close. That nasty cat lady almost got me!
-Metro_Escape_1 = But I bravely escaped completely on my own, and ALL the timepieces are mine. Bye-bye, Metro!
+Metro_Escape_0 = Wow... das war kanpp. Diese blöde Katzenfrau hätte mich fast erwischt!
+Metro_Escape_1 = Aber ich bin ganz allein tapfer entkommen, und ALLE Zeitstücke gehören nun mir. Auf Nimmerwiedersehen, Metro!
 
 //FINALE
 Mu_Finale_0 = Das lief aus dem Ruder. Als hätte dieser Planet nicht schon genug Lava! 

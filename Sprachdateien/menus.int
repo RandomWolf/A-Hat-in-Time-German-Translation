@@ -428,10 +428,10 @@ BrokenControllerSoftware1 = Überlege bitte die Software auszuschalten und überpr
 TimePieces_Main = Zeitstücke
 TimePieces_Bonus = Zeitriss
 Loadout_Swap_Hat = Wähle einen Hut aus!
-Loadout_Swap_Mask = Wähle eine Maske aus!
 Loadout_Swap_Skin = Wähle eine Farbe aus!
-Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
 Loadout_Swap_Badge = Wähle einen Anstecker aus!
+Loadout_Swap_Weapon = Wähle eine Waffe aus!
+Loadout_Swap_Sticker = Wähle einen Sticker aus!
 Loadout_BadgeLocked = Du brauchst [yarn][num] [icon:yarn]Garn[/yarn] um das zu nähen!
 Loadout_BadgeLocked_Affordable = [button:menuconfirm] um aus [yarn][num] [icon:yarn]Garn[/yarn] den Hut zu nähen!
 
@@ -837,3 +837,6 @@ PleaseRate_5 = Na ja...
 PleaseRate_6 = Nicht allzu gut!
 
 BingoMode = Bingo-Modus
+
+Loadout_Swap_Mask = Wähle eine Maske aus!
+Loadout_Swap_Ability = Wähle eine Fähigkeit aus!

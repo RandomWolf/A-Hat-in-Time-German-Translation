@@ -73,7 +73,7 @@ suspect_victim1 = Warte, macht es das zu einem Selbstmord?
 suspect_generic0 = Aber... warum? Warum ermordet man eine, der Express-Eulen?
 suspect_generic1 = Bitte, was? GUMMImesser?!
 
-suspect_ending0 = Nun, danke für's Lösen von diesem Mord, Lassie.
+suspect_ending0 = Nun, danke für's lösen von diesem Mord, Lassie.
 suspect_ending1 = Nicht nur enthülltest du den Mörder, du enthülltest auch, dass das Opfer nie verletzt wurde.
 suspect_ending2 = ... und du gabst uns spannendes Bildmaterial für den Film!
 suspect_ending3 = Was? Du dachtest ernsthaft, ich lasse einfach so ein Mord in meinem Eulen-Express stattfinden?[br]Denk nochmal scharf nach![br]Es war alles nur der Aufbau für meinen neuen Film:[br][name]Mord im Eulen-Express![/name]
@@ -105,7 +105,7 @@ suspect_hatkid6 = So ist es geschehen, oder?!
 suspect_hatkid7 = Du ermordetest diese Eule in kaltem Blut!
 
 suspect_hatkid8 = Oh.
-suspect_hatkid9 = Dennoch, damit bist du zu weit gegangen, Detektiv! Dafür kommst du ab in die Hundehütte!
+suspect_hatkid9 = Dennoch, damit bist du zu weit gegangen, Detektiv! Dafür kommst du in die Hundehütte!
 
 [BossBattle]
 SupportNotice0 = Lassie, hier drüben!

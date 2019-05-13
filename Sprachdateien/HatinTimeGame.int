@@ -84,15 +84,15 @@ secretlevel_beta_space = Beta Hero's Challenge
 
 Chapter7_Metro = Nyakuza Metro
 Location_Metro_HUB = Hauptstation
-Location_Metro_RouteA = Die gelbe Überführung
-Location_Metro_RouteB = Green Clean Station
-Location_Metro_RouteC = Bluefin Tunnel
-Location_Metro_RouteD = Pink Paw Station
+Location_Metro_RouteA = Der gelbe Metroübergang
+Location_Metro_RouteB = Gründliche Grüne Station
+Location_Metro_RouteC = Blauflossen Tunnel
+Location_Metro_RouteD = Pinke Pfoten Station
 Metro_Escape = Rush Hour
 Metro_Escape_Location = Die Fluchttunnel
-Metro_ManholeA = Wartungsschacht an der gelben Überführung
-Metro_ManholeB = Green Clean Station Wartungsschacht
-Metro_ManholeC = Pink Paw Wartungsschacht
+Metro_ManholeA = Wartungsschacht am gelben Metroübergang
+Metro_ManholeB = Wartungsschacht an der gründlichen grünen Station
+Metro_ManholeC = Pinke Pfoten Wartungsschacht
 Metro_CaveRift_RumbiFactory = Rumbi Fabrik
 
 [ActInfoBoxDetails]

@@ -524,7 +524,7 @@ StandOff_Confirm_Draw0 = Es ist ein Unentschieden! Willst du es dem Zufall überl
 StandOff_Confirm_Draw1 = Bist du sicher? Es wird völlig zufällig sein!
 
 [Shops]
-Total_Cost = Gesamt:
+Total_Cost = Total:
 Item_Cost = Kosten
 My_Currency = Ich habe
 Action_SelectItem = Item auswählen

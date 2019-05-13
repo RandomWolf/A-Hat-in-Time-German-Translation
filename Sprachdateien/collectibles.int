@@ -12,6 +12,7 @@ TwoItemsAnd = und
 
 GenericYarnSuffix = Garn
 GenericHatSuffix = Hut
+GenericFlairSuffix = Flair
 
 [trigger_abilities]
 BadgeCollect0 = Zum Nähen benötigst du [yarn][badgepoints_required] [icon:yarn]Garn[/yarn]; du brauchst noch [yarn][badgepoints_left][/yarn]!
@@ -116,6 +117,18 @@ MirrorBadgeDesc0 = Therdegmu driw sella!
 NostalgiaBadgeName = Nostalgie-Anstecker
 NostalgiaBadgeDesc0 = Alles ist besser, wenn es schlechter ist!
 
+ExtraHealthName = 1-Up Anstecker
+ExtraHealthDesc0 = Lässt dich einen Extra-Treffer kassieren.
+
+PeaceFulBadgeName = Friendlicher Anstecker
+PeacefulBadgeDesc0 = Erlebe [hint][wave]Ruhe und Frieden[/wave][/hint] wann auch immer du tanzt!
+
+RetroHandheldBadgeName = Retro-Anstecker
+RetroHandheldBadgeDesc0 = Glorreiche 2-Bit Action!
+
+RedtroVRBadgeName = REDtro VR-Anstecker
+RedtroVRBadgeDesc0 = Meine Augen tun weh.
+
 [loot]
 BirdPassportName = Ausweis der Bundesvereinigung der Vögel
 BirdPassportDesc0 = Laut Gesetz bin ich jetzt ein Vogel, glaube ich...?
@@ -125,6 +138,16 @@ BadgeSlotDesc0 = Erlaubt dir, einen weiteren [icon:badge][name]Anstecker[/name] 
 
 RouletteTokenName = Riss-Token
 RouletteTokenDesc0 = Benutze die Tokens an der Orb-Maschine,[br]um niedliche Belohnungen zu bekommen!
+
+MetroTicketName = Metro-Ticket
+MetroTicketNameA = Gelbes Ticket
+MetroTicketNameB = Grünes Ticket
+MetroTicketNameC = Blauflosse-Ticket
+MetroTicketNameD = Pinkes Ticket
+MetroTicketDesc0 = Erlaubt Eintritt zu Stationen in der Metro
+
+MetroGuideName = Metro-Guide
+MetroGuideDesc0 = Gibt dir hilfreiche Richtigungen in der Metro
 
 [levelspecific]
 VaultCodeName = Tresor-Code
@@ -154,7 +177,6 @@ LiquoriceName = Lakritze
 MintyName = Minzfrisch
 CookieDoughSkinName = Plätzchenteig
 80sCandy = 80er Bonbon
-BeeSkinName = Kleine, freche Biene
 
 Cardboard = Pappe
 RaincoatName = Regenmantel
@@ -169,6 +191,32 @@ MaterialSkin_Space_Name = Transzendent
 HK64_Name = Virtual Kid
 HikingSkin_Name = Wandershorts
 
+NyakuzaOutfitName = Nyakuza Varsity-Jacke
+NyakuzaOutfitShop = Nur für coole Katzen. Das ist die größte Größe, die sie haben.
+BigSweaterName = Gemütlicher Pullover
+BigSweaterShop = Es ist wie ein Kissen, in dem du hineinsteigen kannst.
+WireframeName = Wireframe
+WireframeShop = Sieht nicht fertig aus, aber das ist heutzutage cool!
+
+BeeSkinName = Kleine, freche Biene
+FlamesSkinName = Zu heiß zum Anfassen
+PizzaSkinName = Pizza-Zeit
+AnarchySkinName = Chaos
+BattlementsSkinName = Mauerzinne
+FortressSkinName = Festung
+CherrySkinName = Kirsch-Soda
+CitrusSkinName = Zitrus
+CoffeeCreamSkinName = Café with Cream
+DignifiedSkinName = Würdevoll
+EdgySkinName = BLUTENDE SÜNDEN
+GreenBeanSkinName = Grüne Bohne
+HamburgerSkinName = Hamburger
+MilkyWaySkinName = Milchstraße
+MixedBerriesSkinName = Gemischte Beeren
+PlumSkinName = Pflaume
+RibbitSkinName = Quak
+ObnoxiousSkinName = Unausstehlich
+JusticeSkinName = Die Gerechtigkeit
 
 [remixes]
 RemixDesc_MafiaTown0 = Ein neuer Musik-Remix wurde für Mafia-Stadt freigeschaltet!
@@ -189,6 +237,7 @@ SnatcherBossOrchestralName = Dein Vertrag Ist Abgelaufen (Orchestral Remix)
 CameraFilter = Kamera-Filter
 CameraFilterDesc0 = Ein neuer Kamera-Filter wurde für deinen
 CameraFilterDesc1 = [icon:camerabadge][name]Kamera-Anstecker[/name] freigeschaltet!
+CameraFilterShop = Ein neuer Filter für deinen [icon:camerabadge][name]Kamera-Anstecker[/name]!
 ActionBlueName = Action Blau
 DreamyName = Verträumt
 SunriseName = Die 80er
@@ -202,8 +251,12 @@ SunsetName = Sonnenuntergang
 SilhouetteName = Silhouette
 HazeName = Nebel
 ColdName = Kalt
+
 MangaName = Nani!?
 PosterName = Filmplakat
+
+PopArtName = Pop Art
+KaleidoscopeName = Kaleidoskop
 
 [decorations]
 DecorationMatch = Du hast einen Schatz vom komischen Planeten identifiziert!
@@ -237,10 +290,98 @@ CakeTowerDesc0 = Eine schicke Metallplatte, um Kuchen zu zeigen.
 CakeTowerDesc1 = Was für ein Mensch würde einen Kuchen nur ausstellen? Kuchen sind für's Essen gemacht!
 CakeTowerDesc2 = ... Ich komme nicht an den Kuchen auf der obersten Platte.
 
+JewelryDisplayName = Jewellery Display
+JewelryDisplayDesc0 = My research tells me this stuff is 'expensive' and costs lots of 'dollars'.
+JewelryDisplayDesc1 = All this money takes up lots of space, so I think this is a way of storing it easier.
+JewelryDisplayDesc2 = Plus, it's shiny!
+
 [ItemQuality]
 SupporterPrefix = Unterstützer
 GoldPrefix = Gold
 CompletionistPrefix = Komplettist
+
+[Weapons]
+Weapon_Umbrella = Schirm
+Weapon_Umbrella_Desc = Diplomatie hat nicht funktioniert, Zeit zum Handeln.
+Weapon_Nyakuza_BaseballBat = Baseballschläger
+Weapon_Nyakuza_BaseballBat_Shop = Perfekt für Sachschäden, Einschüchterung und manchmal Baseball.
+
+[Stickers]
+StickerName = Sticker
+StickerDesc0 = Ein neuer Sticker wurde freigeschaltet,
+StickerDesc1 = benutzte ihn mit [button:emote] and [icon:camerabadge]!
+
+[MetroFood]
+TeaName = Tee
+TeaDescription = Ein heißes Getränk aus kochendem Wasser und den Blättern von Pflanzen. Hervorragend geeignet, um sich an einem kalten Tag aufzuwärmen, wenn du etwas trinkst oder wenn jemand gegen dich stößt.
+
+HotChocolateName = Heiße Schokolade
+HotChocolateDesc = Ein süßes Heißgetränk aus fein geriebenem oder geschmolzenem Schokoladenpulver. Genieße sie mit einer Prise Mini Marshmallows und einem Strudel Sahne, wenn du deinen Zahnarzt bald besuchen möchtest.
+
+CoffeeName = Kaffe
+CoffeeDesc = Ein warmes, gebrautes Getränk, zubereitet aus Kaffeebohnen. Regelmäßiges Trinken verwandelt ein Kätzchen in eine Katze und eine Katze in ein nervöses Wrack.
+
+SoupDumplingsName = Teigtaschen
+SoupDumplingsDesc = Gedämpfte Teigtaschen, gefüllt mit Fleisch und Suppe. Du wirst nicht genau wissen, welcher Geschmack sich unter dem Teig verbirgt, bis du den Mut hast, ins Unbekannte zu beißen.
+
+SpringRollName = Frühlingsrolle
+SpringRollDesc = Eine große Auswahl an gerollten Vorspeisen, oft gefüllt mit Fleisch oder Gemüse. Ein leckerer Snack zu jeder Jahreszeit.
+
+TripleScoopName = 3-Kugeln Eis
+TripleScoopDesc = Vanillecreme bei der richtigen Temperatur eingefroren und zu einer Kugel geformt, in einer Waffel. Mit vielen Kugeln in einer Waffel wirst du deine Freunde und Mitarbeiter beeindrucken und dir sicher eine Beförderung holen.
+
+IceCreamSandwichName = Eiscreme-Sandwich
+IceCreamSandwichDesc = Eis zwischen zwei Keksen oder Waffeln. Sandwich jedoch nur mit Namen, dieses Dessert hat die Künste der Tarnung gemeistert.
+
+FishName = Fisch
+FishDesc = Zerhackter und gebratener Fisch, normalerweise Kabeljau oder Pollock. Die meisten Katzen lieben ihn frittiert, da es in der U-Bahn keine Aquarien gibt, aus denen man stehlen kann.
+
+TheMetroSpecialName = Das Metro Spezial
+TheMetroSpecialDesc = Eine große Schüssel Reis mit gebratenem Fisch, Ei und Pommes. Eine Mahlzeit von allem, die beweist, dass auch wenig Aufwand köstliche Ergebnisse bringen kann.
+
+MeatballsName = Fleischbällchen
+MeatballsDesc = Hackfleisch gerollt in eine kleine Kugel. Um zu wahrer Erleuchtung zu gelangen, muss man verstehen, dass Fleischbällchen runterkommen und Haarbälle hochkommen.
+
+HamburgerName = Hamburger
+HamburgerDesc = Fleisch, Salat und Brötchen gegrillt und mit Gewürzen serviert. Während einige Fleischalternativen bevorzugen und einige den Salat auslassen, bevorzugen alle die Anwesenheit der Brötchen.
+
+ShoyuRamenName = Shoyu-Ramen
+ShoyuRamenDesc = Eine warme Hühner- und Gemüsebrühe, serviert mit Belägen deiner Wahl. Das perfekte Komfortessen für die kalte Nacht, nachdem du den letzten Zug des Tages verpasst hast.
+
+KatsuCurryName = Katsu-Kare
+KatsuCurryDesc = Ein leckeres, in Streifen geschnittenes Schnitzel, das mit kräftigen Curry und normalerweise Reis serviert wird. Das Wortspiel ist unwiderstehlich, da du dich in einer Katzen-Metro befindest, es wird aber nicht gewürdigt.
+
+RiceName = Reis
+RiceDesc = Reis ist eines der am häufigsten konsumierten Lebensmittel der Welt. Es ist einfach zuzubereiten, billig und der Retter von nassen Handys.
+
+CookiesName = Cookies
+CookiesDesc = Kleine gebackene Kekse, normalerweise voll mit Schokoladenstückchen, Rosinen oder etwas anderem. Toll für einen schnellen Snack und um überall Krümel zu hinterlassen.
+
+JuiceBoxName = Saftpackung
+JuiceBoxDesc = Aus Obst gepresst und in eine Schachtel gelegt. Premium-Saft enthält oft klobiges Fruchtfleisch, was die Heuchelei in der Unwilligkeit der Menschheit zeigt, verdorbene Milch zu trinken.
+
+PizzaSliceName = Pizza-Stück
+PizzaSliceDesc = Ein runder Teigboden mit Tomaten, Käse und anderen Belägen. Die meisten Köche werden durch den Anblick, einer solchen dreieckigen Schönheit, zu Tränen gerührt.
+
+LargeSodaName = Erfrischungsgetränk
+LargeSodaDesc = Ein kohlensäurehaltiges Getränk in einem großen Behälter. Die große Limo bleibt der unbesungene Held der Mäßigung; eine akzeptable Wahl in den Augen deiner Kollegen, nur eine Größe von Völlerei.
+
+CakeName = Kuchen
+CakeDesc = Ein süßes, gebackenes Dessert. Normalerweise reserviert für besondere Anlässe wie Geburtstage, Hochzeiten oder 2 Uhr morgens.
+
+FriesName = Pommes
+FriesDesc = In Scheiben geschnittene und frittierte Kartoffeln. Eine wichtige Erinnerung daran, dass wir allein alle klein sind, aber zusammen sind wir köstlich.
+
+ComboFound = Du hast eine Combo:
+ComboCoffeeCookies = Kaffee & Kekse
+ComboYumCha = Mjam Cha
+ComboIceCreamFloat = Eiscreme-Soda
+ComboFishChips = Fish & Chips
+ComboBurgerMenu = Burger-Menü
+ComboCurryRice = Curry & Reis
+ComboPizzaMenu = Pizza-Menü
+ComboDessert = Dessert
+
 
 [unused/deleted]
 BadgeCollect0 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren; nur [name][badgepoints_left][/name] übrig!
@@ -378,85 +519,3 @@ BurgerTopName = Burger-Kissen (obere Hälfte)
 BurgerTopDesc = Ein Kissen in der Form eines Burgers. Sein unterer Bruder fehlt! Oh nein!
 BurgerBottomName = Burger-Kissen (untere Hälfte)
 BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehlt! Oh nein!
-
-[Weapons]
-Weapon_Umbrella = Schirm
-Weapon_Umbrella_Desc = Diplomatie hat nicht funktioniert, Zeit zum Handeln.
-Weapon_Nyakuza_BaseballBat = Baseballschläger
-Weapon_Nyakuza_BaseballBat_Shop = Perfekt für Sachschäden, Einschüchterung und manchmal Baseball.
-
-[Stickers]
-StickerName = Sticker
-StickerDesc0 = Ein neuer Sticker wurde freigeschaltet,
-StickerDesc1 = benutzte ihn mir [button:emote] and [icon:camerabadge]!
-
-[MetroFood]
-TeaName = Tee
-TeaDescription = Ein heißes Getränk aus kochendem Wasser und den Blättern von Pflanzen. Hervorragend geeignet, um sich an einem kalten Tag aufzuwärmen, wenn du etwas trinkst oder wenn jemand gegen dich stößt.
-
-HotChocolateName = Heiße Schokolade
-HotChocolateDesc = Ein süßes Heißgetränk aus fein geriebenem oder geschmolzenem Schokoladenpulver. Genieße sie mit einer Prise Mini Marshmallows und einem Strudel Sahne, wenn du deinen Zahnarzt bald besuchen möchtest.
-
-CoffeeName = Kaffe
-CoffeeDesc = Ein warmes, gebrautes Getränk, zubereitet aus Kaffeebohnen. Regelmäßiges trinken verwandelt ein Kätzchen in eine Katze und eine Katze in ein nervöses Wrack.
-
-SoupDumplingsName = Teigtaschen
-SoupDumplingsDesc = Gedämpfte Teigtaschen gefüllt mit Fleisch und Suppe. Du wirst nicht genau wissen, welcher Geschmack sich unter dem Teig verbirgt, bis du den Mut hast, ins Unbekannte zu beißen.
-
-SpringRollName = Frühlingsrolle
-SpringRollDesc = Eine große Auswahl an gerollten Vorspeisen, oft gefüllt mit Fleisch oder Gemüse. Ein leckerer Snack zu jeder Jahreszeit.
-
-TripleScoopName = 3 Kugeln Eis
-TripleScoopDesc = Vanillecreme bei der richtigen Temperatur eingefroren und zu einer Kugel geformt, in einer Waffel. Mit vielen Kugeln in einer Waffel wirst du deine Freunde und Mitarbeiter beeindrucken und dir sicher eine Beförderung holen.
-
-IceCreamSandwichName = Eiscreme-Sandwich
-IceCreamSandwichDesc = Eis zwischen zwei Keksen oder Waffeln. Sandwich jedoch nur mit Namen, dieses Dessert hat die Künste der Tarnung gemeistert.
-
-FishName = Fisch
-FishDesc = Zerhackter und gebratener Fisch, normalerweise Kabeljau oder Pollock. Die meisten Katzen lieben ihn frittiert, da es in der U-Bahn keine Aquarien gibt, aus denen man stehlen kann.
-
-TheMetroSpecialName = Das Metro Spezial
-TheMetroSpecialDesc = Eine große Schüssel Reis mit gebratenem Fisch, Ei und Pommes. Eine Mahlzeit von allem, die beweist, dass auch wenig Aufwand köstliche Ergebnisse bringen kann.
-
-MeatballsName = Fleischbällchen
-MeatballsDesc = Hackfleisch gerollt in eine kleine Kugel. Um zu wahrer Erleuchtung zu gelangen, muss man verstehen, dass Fleischbällchen runterkommen und Haarballen hochkommen.
-
-HamburgerName = Hamburger
-HamburgerDesc = Fleisch, Salat und Brötchen gegrillt und mit Gewürzen serviert. Während einige Fleischalternativen bevorzugen und einige den Salat auslassen, bevorzugen alle die Anwesenheit der Brötchen.
-
-ShoyuRamenName = Shoyu Ramen
-ShoyuRamenDesc = Eine warme Hühner- und Gemüsebrühe, serviert mit Belägen deiner Wahl. Das perfekte Komfortessen für die kalte Nacht, nachdem du den letzten Zug des Tages verpasst haben.
-
-KatsuCurryName = Katsu Curry
-KatsuCurryDesc = Ein leckeres, in Streifen geschnittenes Schweineschnitzel, das mit einem kräftigen Curry und normalerweise Reis serviert wird. Das Wortspiel ist unwiderstehlich, da du dich in einer Katzen-Metro befindest, es wird aber nicht gewürdigt.
-
-RiceName = Reis
-RiceDesc = Reis ist eines der am häufigsten konsumierten Lebensmittel der Welt. Es ist einfach zuzubereiten, billig und der Retter von nassen Handys.
-
-CookiesName = Cookies
-CookiesDesc = Kleine gebackene Kekse, normalerweise voll mit Schokoladenstückchen, Rosinen oder etwas anderem. Toll für einen schnellen Snack und um überall Krümel zu hinterlassen.
-
-JuiceBoxName = Saftpackung
-JuiceBoxDesc = Aus Obst gepresst und in eine Schachtel gelegt. Premium-Saft enthält oft klobiges Fruchtfleisch, was die Heuchelei in der Unwilligkeit der Menschheit zeigt, verdorbene Milch zu trinken.
-
-PizzaSliceName = Pizza Stück
-PizzaSliceDesc = Ein runder Teigboden mit Tomaten, Käse und anderen Belägen. Die meisten Köche werden durch den Anblick, einer solchen dreieckigen Schönheit, zu Tränen gerührt.
-
-LargeSodaName = Erfrischungsgetränk
-LargeSodaDesc = Ein kohlensäurehaltiges Getränk in einem großen Behälter. Die große Limo bleibt der unbesungene Held der Mäßigung; eine akzeptable Wahl in den Augen deienr Kollegen, nur eine Größe von Völlerei.
-
-CakeName = Kuchen
-CakeDesc = Ein süßes, gebackenes Dessert. Normalerweise reserviert für besondere Anlässe wie Geburtstage, Hochzeiten oder 2 Uhr morgens.
-
-FriesName = Pommes
-FriesDesc = In Scheiben geschnittene und frittierte Kartoffeln. Eine wichtige Erinnerung daran, dass wir allein alle klein sind, aber zusammen sind wir köstlich.
-
-ComboFound = Du hast eine Combo:
-ComboCoffeeCookies = Kaffee & Kekse
-ComboYumCha = Yum Cha
-ComboIceCreamFloat = Ice Cream Float
-ComboFishChips = Fish & Chips
-ComboBurgerMenu = Burger Menu
-ComboCurryRice = Curry & Reis
-ComboPizzaMenu = Pizza Menu
-ComboDessert = Dessert

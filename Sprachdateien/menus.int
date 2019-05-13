@@ -84,10 +84,10 @@ Item_CoopIsSplitScreen_Desc = Statt Splitscreen bleiben beide Spieler auf einem 
 Header_GhostParty = Online-Party
 
 Item_GhostPartyDisplay_Title = Zeige Spielernamen & Avatare
-Item_GhostPartyDisplay_Desc = Versteckt die Namen und Avatare von anderen Online-Spielern, um Obszönität oder verletzende Materialien zu vermeiden. Für Livestreams empfohlen.
+Item_GhostPartyDisplay_Desc = Versteckt die Namen und Avatare von anderen Online-Spielern, um Obszönität oder verletzendes Material zu vermeiden. Für Livestreams empfohlen.
 
 Item_PlayRemotePlayerEmoteSounds_Title = Emote-Geräusche von anderen Spielern
-Item_PlayRemotePlayerEmoteSounds_Desc = Wird keine Emote-Geräusche von anderen Spielern spielen, wenn dies ausgeschaltet ist.
+Item_PlayRemotePlayerEmoteSounds_Desc = Emote-Geräusche von anderen Spielern werden nicht abgespielt, wenn dies ausgeschaltet ist.
 
 Item_GhostPartyDisplay_None = Zeige beides nicht
 Item_GhostPartyDisplay_Name = Nur Namen
@@ -524,7 +524,7 @@ StandOff_Confirm_Draw0 = Es ist ein Unentschieden! Willst du es dem Zufall überl
 StandOff_Confirm_Draw1 = Bist du sicher? Es wird völlig zufällig sein!
 
 [Shops]
-Total_Cost = Total:
+Total_Cost = Gesamt:
 Item_Cost = Kosten
 My_Currency = Ich habe
 Action_SelectItem = Item auswählen
@@ -687,10 +687,10 @@ coop_bullet2 = mit Splitscreen-Umfug!
 dlc2_title = Neu: Nyakuza Metro
 dlc2_bullet0 = Sammle 10 brandneue Zeitstücke
 dlc2_bullet1 = in gefährlichen Metro-Tunneln,
-dlc2_bullet2 = wo die Kumicho über alles herrscht!
+dlc2_bullet2 = wo die Kumicho die Kontrolle hat!
 
 ghostparty_title = Neues Feature: Online-Party
-ghostparty_bullet0 = Spiele mit bis zu 50 Freunde
+ghostparty_bullet0 = Spiele mit bis zu 50 Freunden
 ghostparty_bullet1 = oder mit Fremden in diesem
 ghostparty_bullet2 = neuen Online-Modus!
 
@@ -765,7 +765,7 @@ Category_Filters = Style
 Category_Poses = Posen
 Category_Lens = Linse
 Category_Camera = Kamera
-Category_Stickers = Stickers
+Category_Stickers = Sticker
 DoF_FocusDistance = Fokus
 
 Item_HatKidPose = Pose

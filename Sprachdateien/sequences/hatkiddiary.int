@@ -96,25 +96,25 @@ Cruise_Sinking_2 = Vielleicht ist es nicht mal illegal, auf diesem Planeten Kreu
 
 //THE METRO
 Metro_Intro_0 = Mensch, hier ist viel los. Hier reisen Katzen von überall hin und her! Und... Züge werden auch von Katzen gezogen? Eigenartig.
-Metro_Intro_1 = Hier war ein Zeitstück... aber irgendeine GRUßLIGE Dame entwendete sie von mir. Was ist ihr Problem?? Warum ist sie so fies???
+Metro_Intro_1 = Hier war ein Zeitstück... aber irgendeine GRUSELIGE Dame hat es mir abgenommen. Was ist ihr Problem?? Warum ist sie so fies???
 
-Metro_RouteA_0 = Die 'Kumicho' lässt mich herumlaufen um Zeitstücke zu finden, nimmt sie aber ständig von mir ab! Wie unverschämt!!!
-Metro_RouteA_1 = Sie gab mir etwas "Geld" dafür. Es ist grün und stinkt nach Katzenfell. Was für ein Nutzen hat es?
+Metro_RouteA_0 = Die 'Kumicho' lässt mich herumlaufen um Zeitstücke zu finden, nimmt sie mir aber ständig weg! Wie unverschämt!!!
+Metro_RouteA_1 = Sie gab mir etwas "Geld" dafür. Es ist grün und stinkt nach Katzenfell. Was macht man damit?
 
 Metro_RouteB_0 = Der Geruch von dem leckeren Essen lenkt mich völlig ab wenn ich hier unterwegs bin...
-Metro_RouteB_1 = Ich wunder mich ob diese gemeine Dame merkt wenn ich aufhöre zu suchen und stattdessen etwas essen gehe. 
+Metro_RouteB_1 = Ich wundere mich ob diese gemeine Dame merkt wenn ich aufhöre zu suchen und stattdessen etwas essen gehe. 
 
 Metro_RouteC_0 = Diese Kanäle sind recht unheimlich! Sie sind alle so dunkel, und dann kommt eine große Katze nachgerauscht...
-Metro_RouteC_1 = Es gab auch hier unten ein zertrümmertes Zeitstück, aber ich musste ihn wie den Rest abgeben. Grr...
+Metro_RouteC_1 = Hier unten war auch ein zertrümmertes Zeitstück, aber ich musste es wie den Rest abgeben. Grr...
 
 Metro_RouteD_0 = Wow! Das war irre. Ich wurde fast erdrückt! All das nur für diesen "Geld"-Kram.
-Metro_RouteD_1 = Ich verdiene anscheinend viel "Geld". Aber ich will meine Zeitstücke, nicht diesen Schrott!!!
+Metro_RouteD_1 = Ich verdiene anscheinend 'ne Menge "Geld". Aber ich will meine Zeitstücke, nicht diesen Schrott!!!
 
-Metro_ManholeA_0 = Ich fiel durch ein Kanalnetz und dort verkehrt die Bahn auch?? Waaaas?
+Metro_ManholeA_0 = Ich bin durch einen Gulli gefallen und da unten ging die Metro weiter?? Waaaas?
 Metro_ManholeA_1 = UND es war ein Zeitstück hier unten! Ich durfte es aber nicht behalten...
 
-Metro_ManholeB_0 = Also... die Metro ist im Untergrund. Aber es gibt eine U-Bahn-Linie?
-Metro_ManholeB_1 = Undd diese Kanaldeckel führen nach unten-unterirdisch? Katzen sind ulkig!
+Metro_ManholeB_0 = Also... die Metro ist unterirdisch. Aber es gibt eine U-Bahn?
+Metro_ManholeB_1 = Und diese Kanaldeckel führen nach unter-unterirdisch? Katzen sind ulkig!
 
 Metro_ManholeC_0 = Wie viele gibt es hier? Nicht, dass ich etwas davon behalten würde!!!
 Metro_ManholeC_1 = Ich werde mich da reinschleichen und sie irgendwie zurückholen...

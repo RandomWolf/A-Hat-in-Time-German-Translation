@@ -4,7 +4,7 @@ SystemSetting_Value_Checked = An
 SystemSetting_Value_Unchecked = Aus
 SystemSetting_Requires_Restart = Diese Einstellung erfordert einen Neustart, um wirksam zu werden.
 SystemSetting_ArtStyle_Warning = Warnung: Der Kunststil des Spiels wurde mit dieser Funktion entworfen. Das Ausschalten bietet nur einen geringen Leistungsgewinn. Wir empfehlen, dass diese Option auf deinem Standardwert belassen wird; Schalte es nur aus, wenn du dir absolut sicher bist.
-SystemSetting_Gameplay_Warning = Warnung: Es wird dringend empfohlen, diese Einstellung auf der Standardeinstellung zu belassen!
+SystemSetting_Gameplay_Warning = Warnung: Es wird dringend empfohlen, diese Einstellung auf der[br]Standardeinstellung zu belassen!
 SystemSetting_Confirm = BESTÄTIGEN
 SystemSetting_Back = ZURÜCK
 
@@ -62,7 +62,13 @@ Item_Language_Desc = Die Sprache, in welcher der Text angezeigt wird. Ändert nic
 Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
 Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kannst du alle überspringbaren Zwischensequenzen überspringen, indem du diese Funktion aktivierst. Beachte, dass du unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen kannst.
 
-Header_SplitScreen = Splitscreen
+
+Header_Accessibility = Zugänglichkeit
+
+Item_AssistMode_Title = Hilfe-Modus
+Item_AssistMode_Desc = Im Hilfe-Modus werden einige Elemente im Spiel leichter gemacht. Du wirst auch Leben nach einer Weile regenerieren. Dieser Modus hat keine Nachteile.
+
+Header_SplitScreen = Co-op
 
 Item_SplitScreenMethod_Title = Splitscreen-Bildschirmausrichtung
 Item_SplitScreenMethod_Item_Horizontal = Horizontal
@@ -74,6 +80,19 @@ Item_VersusModeAlways_Desc = Aktiviert Versus-Modus, wenn Splitscreen Ko-op akti
 
 Item_CoopIsSplitScreen_Title = Vollbild Ko-op
 Item_CoopIsSplitScreen_Desc = Statt Splitscreen bleiben beide Spieler auf einem Bildschirm.
+
+Header_GhostParty = Online-Party
+
+Item_GhostPartyDisplay_Title = Zeige Spielernamen & Avatare
+Item_GhostPartyDisplay_Desc = Versteckt die Namen und Avatare von anderen Online-Spielern, um Obszönität oder verletzendes Material zu vermeiden. Für Livestreams empfohlen.
+
+Item_PlayRemotePlayerEmoteSounds_Title = Emote-Geräusche von anderen Spielern
+Item_PlayRemotePlayerEmoteSounds_Desc = Emote-Geräusche von anderen Spielern werden nicht abgespielt, wenn dies ausgeschaltet ist.
+
+Item_GhostPartyDisplay_None = Zeige beides nicht
+Item_GhostPartyDisplay_Name = Nur Namen
+Item_GhostPartyDisplay_Avatar = Nur Avatare
+Item_GhostPartyDisplay_Both = Zeige beides
 
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
@@ -305,7 +324,7 @@ Item_Adv_ObjectMotionBlur_Title = Bewegungsunschärfe
 Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charaktere angewendet.[br]Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
 
 Item_Adv_RadialBlur_Title = Kreisförmige Unschärfe
-Item_Adv_RadialBlur_Desc = Wenn aktiviert werden Explosionen und Angriffe eine Unschärfe um den Effektbereich erzeugen.
+Item_Adv_RadialBlur_Desc = Wenn aktiviert werden Explosionen und Angriffe eine Unschärfe um den[br]Effektbereich erzeugen.
 
 Item_Adv_ScreenBlur_Title = Bildschirmunschärfe
 Item_Adv_ScreenBlur_Desc = Wenn sich die Kamera schnell bewegt, verschwimmt der Hintergrund basierend auf Bewegungsrichtung und Tiefe.[br]Objekte in der Ferne verwischen mehr als die direkt vor der Kamera.
@@ -409,10 +428,10 @@ BrokenControllerSoftware1 = Überlege bitte die Software auszuschalten und überpr
 TimePieces_Main = Zeitstücke
 TimePieces_Bonus = Zeitriss
 Loadout_Swap_Hat = Wähle einen Hut aus!
-Loadout_Swap_Mask = Wähle eine Maske aus!
 Loadout_Swap_Skin = Wähle eine Farbe aus!
-Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
 Loadout_Swap_Badge = Wähle einen Anstecker aus!
+Loadout_Swap_Weapon = Wähle eine Waffe aus!
+Loadout_Swap_Sticker = Wähle einen Sticker aus!
 Loadout_BadgeLocked = Du brauchst [yarn][num] [icon:yarn]Garn[/yarn] um das zu nähen!
 Loadout_BadgeLocked_Affordable = [button:menuconfirm] um aus [yarn][num] [icon:yarn]Garn[/yarn] den Hut zu nähen!
 
@@ -448,6 +467,8 @@ Coop_Disable_Question = Ko-Op ausschalten?
 Coop_Disable_Confirm = Ausschalten
 Coop_Disable_Deny = Abbrechen
 
+Backpack_Level_Collectables = Level-Sammelobjekte
+
 [MainMenu]
 FileSelect_File = Datei
 FileSelect_Progress_Completed = Fertig
@@ -469,6 +490,8 @@ ModTimePiece = Mod-Token
 ModTimePiece_multiple = Mod-Tokens
 
 Offer_AvailableNow = Jetzt erhältlich
+
+CreateFileBowKid = Ja, als Bow Kid!
 
 [ItemUnlock]
 ItemUnlock_Badge = Neuer Hut genäht, probiere ihn an!
@@ -501,12 +524,16 @@ StandOff_Confirm_Draw0 = Es ist ein Unentschieden! Willst du es dem Zufall überl
 StandOff_Confirm_Draw1 = Bist du sicher? Es wird völlig zufällig sein!
 
 [Shops]
+Total_Cost = Preis:
 Item_Cost = Kosten
 My_Currency = Ich habe
+Action_SelectItem = Item auswählen
+Action_RemoveItem = Item entfernen
 Action_BuyItem = Item kaufen
 Action_LeaveShop = Laden verlassen
 Action_ViewItem = Item anschauen
 Action_Back = Zurück
+Action_Checkout = Kaufen
 
 [Common]
 MenuConfirm = Ja!
@@ -618,8 +645,11 @@ Coop = KO-OP
 Mods = Mods
 RestartToLastCheckpoint = Neustarten
 DeathWish = Todeswunsch
+GhostParty = Online-Party
 DLC1Title = Seal the Deal
-DLC2Title = DLC 2
+DLC2Title = Nyakuza Metro
+BonusItems = Bonus-Items
+Soundtracks = Soundtracks
 
 [Cinematics]
 SkipCinematic = WEITER
@@ -653,6 +683,27 @@ coop_title = Neues Feature: Ko-op
 coop_bullet0 = Überlebt das ganze Abenteuer
 coop_bullet1 = zu zweit und hilft euch gegenseitig
 coop_bullet2 = mit Splitscreen-Umfug!
+
+dlc2_title = Neu: Nyakuza Metro
+dlc2_bullet0 = Sammle 10 brandneue Zeitstücke
+dlc2_bullet1 = in gefährlichen Metro-Tunneln,
+dlc2_bullet2 = wo die Kumicho die Kontrolle hat!
+
+ghostparty_title = Neues Feature: Online-Party
+ghostparty_bullet0 = Spiele mit bis zu 50 Freunden
+ghostparty_bullet1 = oder mit Fremden in diesem
+ghostparty_bullet2 = neuen Online-Modus!
+
+newgamebowkid_title = Vielen Dank!
+newgamebowkid_bullet0 = Danke, dass du ein Superfan bist!
+newgamebowkid_bullet1 = Jetzt kannst du ein neues Abenteuer
+newgamebowkid_bullet2 = mit Bow Kid in der Hauptrolle starten!
+
+[Splash]
+Splash_Close = Schließen
+Splash_Next = Weiter
+Splash_ViewStorePage = Siehe Store-Seite
+Splash_ViewStorePage_NintendoSwitch = Nintendo eShop
 
 [DeathWishMap]
 Locked = Akte Gesperrt
@@ -710,6 +761,52 @@ Msg_EnabledDoF = Tiefenschärfe an
 Msg_DisabledDoF = Tiefenschärfe aus
 Filter_None = #KeinFilter
 
+Category_Filters = Style
+Category_Poses = Posen
+Category_Lens = Linse
+Category_Camera = Kamera
+Category_Stickers = Sticker
+DoF_FocusDistance = Fokus
+
+Item_HatKidPose = Pose
+Pose_None = Keine
+Pose_1 = Der Große Käse
+Pose_2 = Hockerbläh
+Pose_3 = Ruhe und Frieden
+Pose_4 = Schockiert
+Pose_5 = Voran schreiten
+Pose_6 = Balance
+Pose_7 = Lässiger Lauf
+Pose_8 = Vorbeisausen
+Pose_9 = Finger-Pistole
+Pose_10 = Hmmm
+Pose_11 = Zu Befehl!
+Item_HatKidExpression = Gesicht
+Expression_None = Nichts
+Expression_1 = Wütend
+Expression_2 = Glücklich
+Expression_3 = Überrascht
+Expression_4 = Verletzt
+Expression_5 = Nervös
+Expression_6 = Bläh
+Expression_7 = Nostalgisch
+Expression_8 = Hawwo
+Expression_9 = Den Hut voll haben
+
+Item_CameraType = Kamera-Art
+Item_CameraType_Free = Frei
+Item_CameraType_Orbit = Umkreisen
+
+Item_OutputType = Speichern als...
+Item_OutputType_Screenshot = Screenshot
+Item_OutputType_Gif = Animiertes Gif
+
+Item_ScreenshotFolder = Screenshot-Ordner
+Item_ScreenshotFolder_View = Öffnen...
+
+[MetroFood]
+UndiscoveredCombo = Geheime Kombi ist verfügbar. Kannst du sie finden?
+
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen
 
@@ -740,3 +837,6 @@ PleaseRate_5 = Na ja...
 PleaseRate_6 = Nicht allzu gut!
 
 BingoMode = Bingo-Modus
+
+Loadout_Swap_Mask = Wähle eine Maske aus!
+Loadout_Swap_Ability = Wähle eine Fähigkeit aus!

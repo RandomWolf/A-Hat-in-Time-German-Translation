@@ -23,28 +23,28 @@ Objective = Sammle 20 Pons
 Tip0 = Du kennst doch [icon:money] [name]Pons[/name], oder? Diese kleinen grünen Dinge?[br]Sie sind überall. Bitte sag mir, dass du weißt, was [icon:money] [name]Pons[/name] sind.
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
-Title = Das Große Volksmusikfest
-Objective = Schließe Die Große Parade ab
+Title = Das große Volksmusikfest
+Objective = Schließe "Die große Parade" ab
 AllTokens = Lasse keine Tokens von DJ Grooves ablaufen
-NoHit = Renne nicht in die Express Band hinein
+NoHit = Renne nicht in die Express-Band hinein
 BigBand = Sieht aus, als hättest du eine Anhängerschaft
 Tip0 = Diese dämlichen Eulen folgen dir überall hin. Vielleicht kannst du sie durch [name]Kreisen[/name] beschäftigen.
 
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = 10 Sekunden bis zur Selbstzerstörung
-Objective = Schließe Zug Sause ab
+Objective = Schließe "Zug-Sause" ab
 NoHat = Keine Hut-Fähigkeiten, mit 1-Treffer Held-Anstecker
 Tokens = Sammle alle Tokens des Schaffners
 Condition = Der Eulenexpress muss sich wegen des Zeitplans beeilen
-Tip0 = Wenn ich von 10 Sekunden rede, meine ich es auch! Du Beeilst dich besser, Kleine!
+Tip0 = Wenn ich von 10 Sekunden rede, meine ich es auch! Du beeilst dich besser, Kleine!
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
 Title = Sicherheitsverstoß
-Objective = Schließe Dead Bird Studio ab
+Objective = Schließe "Dead Bird Studio" ab
 NoCaught = Werde nie erwischt
-NoFees = Schließe mit Gebühren unter 200,000 ab
-NoFees_Easy = Schließe mit Gebühren unter 600,000 ab
-Condition = Der Sicherheitsdienst wurde verbessert. Drastisch
+NoFees = Schließe mit Strafgebühren unter 200,000 ab
+NoFees_Easy = Schließe mit Strafgebühren unter 600,000 ab
+Condition = Der Sicherheitsdienst wurde verbessert. Drastisch.
 Tip0 = Das wird deine schwerste Aufgabe sein: [name]Nicht nervig zu sein![/name]
 
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
@@ -61,12 +61,12 @@ Title = Keine Sprünge
 Objective = Sammle irgendein Zeitstück, ohne zu springen
 Condition = Ein Sprung, ein Tod!
 Collect4 = Sammle 4 Zeitstücke. Ohne zu springen!
-TrainRush = Schließe Zug Sause ab. Ohne zu springen!
+TrainRush = Schließe "Zug-Sause" ab. Ohne zu springen!
 Tip0 = Durch kurzes Antippen kann dein [icon:icehat] dir ein wenig Höhe verleihen, ohne wirklich springen zu müssen. Wie praktisch!
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]
 Title = Überdrehte Windmühle
-Objective = Schließe Die Alte Windmühle ab
+Objective = Schließe "Die Alte Windmühle" ab
 OneHit = Keine Hut-Fähigkeiten, mit 1-Treffer Held-Anstecker
 TimeLimit = Erreiche das Ende in unter 4 Minuten
 TimeLimit_Easy = Erreiche das Ende in unter 10 Minuten
@@ -106,14 +106,14 @@ EasyTip = Zerbrich Kisten und Fässer!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
 Title = Snatcher-Münzen in Mafia-Stadt
-Objective = Finde eine Snatcher-Münze in Mafia-Stadt
+Objective = Finde eine Snatcher-Münze in der Mafia-Stadt
 2Tokens = Finde 2 Snatcher-Münzen
 3Tokens = Finde alle 3 Snatcher-Münzen
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das kinderleicht sein!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Birds]
 Title = Snatcher-Münzen im Kampf der Vögel
-Objective = Finde eine Snatcher-Münze im Kampf der Vögel
+Objective = Finde eine Snatcher-Münze im "Kampf der Vögel"
 2Tokens = Finde 2 Snatcher-Münzen
 3Tokens = Finde alle 3 Snatcher-Münzen
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das ein Klacks sein!
@@ -127,7 +127,7 @@ Tip0 = Falls du den [icon:compassbadge] hast, sollte das sehr einfach sein!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
 Title = Snatcher-Münzen in Alpin-Bergkette
-Objective = Finde eine Snatcher-Münze in Alpin-Bergkette
+Objective = Finde eine Snatcher-Münze in der Alpin-Bergkette
 2Tokens = Finde 2 Snatcher-Münzen
 3Tokens = Finde alle 3 Snatcher-Münzen
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das ein Spaziergang sein!
@@ -140,7 +140,7 @@ Objective = Finde eine Snatcher-Münze in der Nyakuza Metro
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das so einfach sein, wie einem Baby die Katzenminze wegzunehmen.
 
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
-Title = Sie Speedrannte aus dem All
+Title = Invasionen in Rekordzeiten
 Objective = Schließe 'Sie kam auf dem All' in weniger als 1:50 ab
 Bonus1 = Schließe es in weniger als 1:35 ab
 Bonus2 = Schließe es in weniger als 1:20 ab
@@ -150,7 +150,7 @@ Bonus2_Easy = Schließe es in weniger als 2:40 ab
 Tip0 = Es wäre ja schön, wenn du den Spinner mit der albernen Brille ignorieren könntest, aber [name]er hat etwas, dass du brauchst[/name].
 
 [Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
-Title = Speedrun-Brunnen
+Title = Brunnensause
 Objective = Schließe 'Der Subcon-Brunnen' in weniger als 2:00 ab
 Bonus1 = Schließe es in weniger als 1:40 ab
 Bonus2 = Schließe es in weniger als 1:25 ab
@@ -181,7 +181,7 @@ Tip0 = Wow, du musst aber auch sehr viele [icon:treasure] [name]sammeln[/name]..
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Birds]
 Title = Riss-Zusammenbruch: Dead Bird Studio
-Objective = Schließe den The Dead Bird Studio Zeitriss ab
+Objective = Schließe den Dead Bird Studio Zeitriss ab
 AllPons = Sammle jeden Riss-Pon ein
 AllPons_Easy = Sammle alle Rift-Pons, bis auf 3, ein
 Faster = Fliehe mit mindestens 30 Sekunden verbleibend
@@ -323,13 +323,13 @@ Condition = Es ist kein Ende im Sicht
 Tip0 = Lerne zuerst mal [name]das Layout[/name] des Schiffs. Es könnte sein, dass es noch einige unbekannte Wege gibt!
 
 [Hat_SnatcherContract_DeathWish_BackFromSpace]
-Title = Du bist also aus dem All zurückgekehrt
+Title = Na, zurück aus dem All?
 Objective = Erreiche das Zeitstück
 Kills = Zerschmetter alle UFOs
 Speed = Erreiche in unter 65 Sekunden das Ende
 Speed_Easy = Erreiche in unter 3 Minuten das Ende
 Condition = Bist du sicher, dass das ein Zeitstück ist?
-Tip0 = Du wirst ohne [name]zu wissen, wie man deinen Hechtsprung abbricht[/name] nicht weit kommen. Was auch immer das heißen soll. Du wirst es schon herausfinden.
+Tip0 = "Du wirst, ohne [name]zu wissen, wie man deinen Hechtsprung abbricht,[/name] nicht weit kommen. Was auch immer das heißen soll.[br] Du wirst es schon herausfinden.
 EasyTip = Versuche es mal mit deinem Zeitlupen-Hut!
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]

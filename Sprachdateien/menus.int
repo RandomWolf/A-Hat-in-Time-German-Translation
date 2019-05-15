@@ -706,14 +706,14 @@ Splash_ViewStorePage = Siehe Store-Seite
 Splash_ViewStorePage_NintendoSwitch = Nintendo eShop
 
 [DeathWishMap]
-Locked = Akte Gesperrt
-Reward = Belohnung Verlangen!
+Locked = Akte gesperrt
+Reward = Belohnung verlangen!
 Unlock = Freischalten
 Disable = Ausschalten
 Enable = Anschalten
 Play = Spielen
-HardMode = Schweren Modus Anschalten
-Reset = Vertrag Zurücksetzen
+HardMode = Schweren Modus anschalten
+Reset = Vertrag zurücksetzen
 Tip = Snatchers Tipp
 Debug = DEBUG Komplett/Löschen
 

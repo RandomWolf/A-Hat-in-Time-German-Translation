@@ -24,7 +24,7 @@ Tip0 = Du kennst doch [icon:money] [name]Pons[/name], oder? Diese kleinen grünen
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
 Title = Das große Volksmusikfest
-Objective = Schließe "Die große Parade" ab
+Objective = Schließe "Die Große Parade" ab
 AllTokens = Lasse keine Tokens von DJ Grooves ablaufen
 NoHit = Renne nicht in die Express-Band hinein
 BigBand = Sieht aus, als hättest du eine Anhängerschaft
@@ -127,7 +127,7 @@ Tip0 = Falls du den [icon:compassbadge] hast, sollte das sehr einfach sein!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
 Title = Snatcher-Münzen in Alpin-Bergkette
-Objective = Finde eine Snatcher-Münze in der Alpin-Bergkette
+Objective = Finde eine Snatcher-Münze in Alpin-Bergkette
 2Tokens = Finde 2 Snatcher-Münzen
 3Tokens = Finde alle 3 Snatcher-Münzen
 Tip0 = Falls du den [icon:compassbadge] hast, sollte das ein Spaziergang sein!
@@ -137,7 +137,7 @@ Title = Snatcher-Münzen in der Nyakuza Metro
 Objective = Finde eine Snatcher-Münze in der Nyakuza Metro
 2Tokens = Finde 2 Snatcher-Münzen
 3Tokens = Finde alle 3 Snatcher-Münzen
-Tip0 = Falls du den [icon:compassbadge] hast, sollte das so einfach sein, wie einem Baby die Katzenminze wegzunehmen.
+Tip0 = Falls du den [icon:compassbadge] hast, sollte das ja Katzenspiel sein! Das ist mir gerade recht!
 
 [Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
 Title = Invasionen in Rekordzeiten

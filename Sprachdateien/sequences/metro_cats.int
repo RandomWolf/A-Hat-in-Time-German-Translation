@@ -1,299 +1,299 @@
 [ambient]
-metrocat_2p_missing_0 = Did you hear someone went missing last week? [br]They say it was the-
-metrocat_2p_missing_1 = Sssh! Watch your mouth around here.
+metrocat_2p_missing_0 = Jemand ist letzte Woche verschwunden. [br]Sie sagen, es war-
+metrocat_2p_missing_1 = Sssh! Pass auf was du sagst.
 
-metrocat_1p_helpdesk_0 = Are you lost, kid? You should ask the [hint]help desk[/hint] [br]if you're looking for something.
+metrocat_1p_helpdesk_0 = Hast du dich verlaufen, Kind? Du solltest an der [hint]Rezeption[/hint] [br]nach Hilfe fragen.
 
-metrocat_1p_waiting_0 = Can you leave me alone, please? I'm waiting for a train.
+metrocat_1p_waiting_0 = Kannst du mich in ruhe lassen, bitte? Ich warte auf den Zug.
 
-metrocat_2p_stuck_0 = Did I tell you about my friend? [br]He lost his [hint]metro pass[/hint] and got stuck at Pink Paw Station.
-metrocat_2p_stuck_1 = Huh, I hope he could buy a new one. These [hint]ticket booths[/hint] are so restrictive!
+metrocat_2p_stuck_0 = Hab ich dir schon von meinem Freund erzählt? [br]Er hat seinen[hint]metro pass[/hint] verloren, und steckt in der Pinken Station fest.
+metrocat_2p_stuck_1 = Huh, Ich hoffe, er konnte einen neuen kaufen. Diese [hint]Ticketschalter[/hint] sind so restriktiv!
 
-metrocat_2p_sushi_0 = Have you ever been to the sushi restaurant up top, hm?
-metrocat_2p_sushi_1 = Not yet. I see it from the Green Line every time I go to work, and it makes me hungry.
-metrocat_2p_sushi_2 = Sometimes, I wish I could leap straight across to it.
+metrocat_2p_sushi_0 = Warst du jemals bei einem Sushi Restaurant, hm?
+metrocat_2p_sushi_1 = Noch nicht. Ich sehe aber immer eins wenn ich von der Grünen Station nach hause gehe, und es macht mich Hungrig.
+metrocat_2p_sushi_2 = Manchmal wünsche ich mir ich könnte einfach zu einem hinspringen.
 
-metrocat_2p_stolen_0 = Did I tell you I had to buy a new [hint]metro pass[/hint]? I think it got stolen.
-metrocat_2p_stolen_1 = You should be more wary. I heard there's been more crime here recently.
+metrocat_2p_stolen_0 = Ich musste mir einen neuen [hint]metro pass[/hint]kaufen, meiner wurde gestohlen.
+metrocat_2p_stolen_1 = Du solltest besser aufpassen. Ich habe gehört die Kriminalitätsrate ist gestiegen.
 
-metrocat_2p_burgers_0 = Do you want to eat before we leave?
-metrocat_2p_burgers_1 = Where from? There's so many different fast food spots here. 
-metrocat_2p_burgers_2 = Hmm... I'm in the mood for burgers.
-metrocat_2p_burgers_3 = You're ALWAYS in the mood for burgers.
+metrocat_2p_burgers_0 = Möchtest du noch etwas essen bevor wir gehen?
+metrocat_2p_burgers_1 = Wo denn? Es gibt so viele fast food läden. 
+metrocat_2p_burgers_2 = Hmm... Ich habe lust auf Burger.
+metrocat_2p_burgers_3 = Du hast IMMER lust auf Burger.
 
-metrocat_2p_right_0 = Make sure you buy the right ticket.
-metrocat_2p_right_1 = I know, I know. They're [hint]color-coded[/hint].
+metrocat_2p_right_0 = Denk dran, das richtige Ticket zu kaufen.
+metrocat_2p_right_1 = Ich weiß, Ich weiß. Die sind [hint]farblich markiert[/hint].
 
-metrocat_2p_knocking_0 = You ever hear knocking above, while you're on a train? [br]Like someone's walking up there?
-metrocat_2p_knocking_1 = Uh, I think you might just be hearing things. [br]Nobody would climb on a train.
+metrocat_2p_knocking_0 = Hörst du auch manchmal klopfen von oben, während du im Zug bist? [br]Als ob jemand oben drauf ist?
+metrocat_2p_knocking_1 = Uh, Ich glaube du hörst einfach nur dinge. [br]Niemand würde auf einen fahrenden Zug klettern.
 
-metrocat_2p_shortcuts_0 = You didn't hear this from me, uh, but some of the manhole covers? They're not real.
-metrocat_2p_shortcuts_1 = What? Like, they're just painted on?
-metrocat_2p_shortcuts_2 = No, not like that. They don't go into the sewer. My buddy told me they're shortcuts into other parts of the metro.
+metrocat_2p_shortcuts_0 = Du hörst das nicht von mir, aber, einige der Gullideckel sind nicht echt.
+metrocat_2p_shortcuts_1 = Was? Also, sind sie nur draufgemalt?
+metrocat_2p_shortcuts_2 = Nein, nicht so. Sie führen nicht in die Wartungstunnel. Ein Freund erzählte mir, sie sind abkürzungen die durch die ganze Metro führen.
 
-metrocat_2p_badcrowd_0 = Have you seen that little kid running around?
-metrocat_2p_badcrowd_1 = Children shouldn't be left unattended! I hope she doesn't fall in with a bad crowd.
+metrocat_2p_badcrowd_0 = Hast du das kleine Mädchen rumlaufen gesehen?
+metrocat_2p_badcrowd_1 = Kinder sollten nicht unbeaufsichtigt bleiben! Ich hoffe doch sehr das ihr nichts passiert.
 
-metrocat_2p_chase_0 = The cleaning robots look so friendly and bouncy.
-metrocat_2p_chase_1 = Friendly? If you get muddy they chase right after you! It's frightening.
+metrocat_2p_chase_0 = Die Putzroboter sind echt Freundlich!
+metrocat_2p_chase_1 = Freundlich? Wenn du auch nur einen Fleck mit Schlamm auf dir hast, jagen sie dich! Einfach unheimlich.
 
-metrocat_2p_jewellery_0 = Do you ever think it's weird there's, uh, a big fancy jewelry store here?
-metrocat_2p_jewellery_1 = What do you mean?
-metrocat_2p_jewellery_2 = I mean, who comes to the metro to buy a necklace? There's something fishy about that place.
-metrocat_2p_jewellery_3 = Hm, I don't think you know what you're talking about.
-metrocat_2p_jewellery_4 = What? Don't you think there's something kind of strange about it?
-metrocat_2p_jewellery_5 = Sssh, already! Don't go snooping around that place, ok?
+metrocat_2p_jewellery_0 = Findest du es nicht auch komisch das es hier unten einen Juwelier gibt?
+metrocat_2p_jewellery_1 = Wie meinst du das?
+metrocat_2p_jewellery_2 = Ich meine, wer kommt zur metro um eine Halskette zu kaufen? Ich wette, da ist etwas Faul.
+metrocat_2p_jewellery_3 = Hm, Ich glaube du hast keine ahnung worüber du da redest.
+metrocat_2p_jewellery_4 = Was? Glaubst du nicht, das da etwas nicht stimmen kann?
+metrocat_2p_jewellery_5 = Sei endlich ruhig! Schnüffel bitte nicht dort rum, okay?
 
-metrocat_1p_watchstep_0 = Watch where you walk, kid. Some of the manholes around here feel like they'd move if you stepped too hard.
+metrocat_1p_watchstep_0 = Pass auf wo du hingehst, kid. Einige dieser Gullideckel sind echt locker.
 
-metrocat_1p_weirdgates_0 = The gates here are set up pretty weird.
-metrocat_1p_weirdgates_1 = You need the [hint]Blue[/hint] AND [hint]Yellow[/hint] tickets to get through here!
+metrocat_1p_weirdgates_0 = Diese Tore sind echt komisch.
+metrocat_1p_weirdgates_1 = Du brauchst eine [hint]blaue[/hint] UND [hint]gelbe[/hint] karte um hier durch zu gehen!
 
-metrocat_2p_delayed_0 = Bad news, buddy. The three o'clock got delayed again...
-metrocat_2p_delayed_1 = Again!? Aaaah, this is bad. I'm going to be late.
-metrocat_2p_delayed_2 = Maybe you can get a different train?
-metrocat_2p_delayed_3 = I-I've never caught a different one! What if I get lost?
+metrocat_2p_delayed_0 = Schlechte Neuigkeiten. Der Drei Uhr Zug verspätet sich wieder...
+metrocat_2p_delayed_1 = Schon wieder!? Aaaah, das ist schlecht. Ich werde mich verspäten.
+metrocat_2p_delayed_2 = Kannst du nicht einen anderen Zug nehmen?
+metrocat_2p_delayed_3 = I-ich habe noch nie einen anderen genommen! Was wenn ich mich verlaufe?
 
-metrocat_2p_rightmeow_0 = Ugh... if my train doesn't show up right meow, I'm gonna be late!
-metrocat_2p_rightmeow_1 = I didn't hear about any- wait, did you just say...?
-metrocat_2p_rightmeow_2 = Say what?
-metrocat_2p_rightmeow_3 = Nevermind. I must have misheard.
+metrocat_2p_rightmeow_0 = Ugh... wenn mein Zug nicht bald kommt, werde ich mich verspäten!
+metrocat_2p_rightmeow_1 = Ich habe nichts von einer verspä-, was sagtest du...?
+metrocat_2p_rightmeow_2 = Wie bitte?
+metrocat_2p_rightmeow_3 = Vergiss es. Muss mich verhört haben.
 
-metrocat_2p_outoftown_0 = I hear 'the jeweler' plans to move a 'really big necklace' out of town soon. 
-metrocat_2p_outoftown_1 = You hear anything about that?
-metrocat_2p_outoftown_2 = I haven't heard anything. I don't know what you're talking about, buddy.
-metrocat_2p_outoftown_3 = Are you sure? I'm not like, a reporter or anything.
-metrocat_2p_outoftown_4 = I'm... pretty sure, yeah.
+metrocat_2p_outoftown_0 = Ich hab gehört das "der Juwelier" eine ziemlich große "Halskette" loswerden will. 
+metrocat_2p_outoftown_1 = Bist du dir sicher das du das gehört hast?
+metrocat_2p_outoftown_2 = Ich habe nichts gehört. Keine Ahnung worüber du redest, Kumpel.
+metrocat_2p_outoftown_3 = Echt? Ich bin kein Reporter, oder so.
+metrocat_2p_outoftown_4 = Ich.. bin mir ziemlich sicher, ja.
 
-metrocat_2p_missingvan_0 = There used to be a burger van that stopped here all the time... I miss it so much.
-metrocat_2p_missingvan_1 = Hmmm... doesn't that spot just down the street do burgers?
-metrocat_2p_missingvan_2 = Sure, but... the van used to be RIGHT here, you know?
-metrocat_2p_missingvan_3 = Tch. You're so lazy.
+metrocat_2p_missingvan_0 = Früher gab es einen Burger-Van, der immer hier stand ... ich vermisse ihn so sehr.
+metrocat_2p_missingvan_1 = Hmmm... steht nicht genauso ein Van unten an der Straße?
+metrocat_2p_missingvan_2 = Ja, schon... aber er stand damals GENAU hier.
+metrocat_2p_missingvan_3 = Tch. Du fauler Sack.
 
-metrocat_3p_needmoney_0 = I hope I can get some more hours at work.
-metrocat_3p_needmoney_1 = You need some extra money, eh?
-metrocat_3p_needmoney_2 = If you're looking for some work on the side, I know who you can talk to.
+metrocat_3p_needmoney_0 = Ich hoffe ich kann ein paar Überstunden machen.
+metrocat_3p_needmoney_1 = Bist wohl knapp bei Kasse, eh?
+metrocat_3p_needmoney_2 = Wenn du nach Arbeit suchst, kenne ich genau die richtige Person für dich.
 
-metrocat_3p_bigidea_0 = I have this big idea for a restaurant.
-metrocat_3p_bigidea_1 = Really? A restaurant in this part of town? There's already so many!
-metrocat_3p_bigidea_2 = Yeah. What'd make yours so special?
-metrocat_3p_bigidea_3 = So... imagine a drive-through.
-metrocat_3p_bigidea_4 = There's no space for cars down here!
-metrocat_3p_bigidea_5 = Right, right, but just imagine one... for trains!
-metrocat_3p_bigidea_6 = Please tell me this isn't a set up for a 'fast' food pun.
-metrocat_3p_bigidea_7 = You'd have to grab your food so qui- oh.
+metrocat_3p_bigidea_0 = Ich habe die Perfekte Idee für ein Restaurant.
+metrocat_3p_bigidea_1 = Wirklich? Ein Restaurant in diesem Viertel? Es gibt hier schon genug!
+metrocat_3p_bigidea_2 = Yeah. Was würde dein's so speziell machen?
+metrocat_3p_bigidea_3 = So... stellt euch einen Drive-In vor.
+metrocat_3p_bigidea_4 = Es gibt hier nicht genügend platz für Autos!
+metrocat_3p_bigidea_5 = Ja, ja. Stell dir trotzdem einen vor... für Züge!
+metrocat_3p_bigidea_6 = Bitte sag mir nicht das dies sich zu einem Fast Food witz entwickelt..
+metrocat_3p_bigidea_7 = Man müsste sein Essen so schn- oh.
 
-metrocat_3p_foodchoice_0 = So how about ramen?
-metrocat_3p_foodchoice_1 = We ate that yesterday... what about fish and chips?
-metrocat_3p_foodchoice_2 = I'm having that tomorrow. I could go for a burger, though.
-metrocat_3p_foodchoice_3 = Uhhh... I had burgers twice this week already.
-metrocat_3p_foodchoice_4 = ... maybe we should just eat separately.
+metrocat_3p_foodchoice_0 = So, wie wärs mit Ramen?
+metrocat_3p_foodchoice_1 = Das haben wir gestern schon gehabt...wie wÃ¤r's mit Fisch und Chips?
+metrocat_3p_foodchoice_2 = Das esse ich morgen. Burger wÃ¤ren ganz gut.
+metrocat_3p_foodchoice_3 = Uhhh... Ich hab Burger schon zwei mal diese Woche gehabt.
+metrocat_3p_foodchoice_4 = ... vielleicht sollten wir nicht mehr gemeinsam Essen.
 
-metrocat_2p_beckoning_0 = So what's with the big waving cat?
-metrocat_2p_beckoning_1 = It's beckoning, not waving! It's a good luck symbol, like clovers or horsehoes.
-metrocat_2p_beckoning_2 = What do cats need good luck for? We land on our feet, we have nine lives...
-metrocat_2p_beckoning_3 = I mean, you can't be TOO lucky, right?
+metrocat_2p_beckoning_0 = Wofür ist eigentlich die winkende Katze da?
+metrocat_2p_beckoning_1 = Das ist einladend gemeint. Ein Zeichen von Glück, wie Kleeblätter oder Hufeisen.
+metrocat_2p_beckoning_2 = Wofür brauchen Katzen Glück? Wir landen immer auf den Pfoten, haben neun Leben...
+metrocat_2p_beckoning_3 = Also, man kann nie genug Glück haben, nicht wahr?
 
-metrocat_2p_purehate_0 = I hate this station.
-metrocat_2p_purehate_1 = Oh, here we go again...
-metrocat_2p_purehate_2 = You get off one line, walk over to another, scan two different passes...
+metrocat_2p_purehate_0 = Ich hasse diese Station.
+metrocat_2p_purehate_1 = Oh je, jetzt geht das wieder los...
+metrocat_2p_purehate_2 = Du steigst bei einer Station aus, gehst zur nächsten rüber, scans zwei Pässe...
 metrocat_2p_purehate_3 = Mmm-hmm.
-metrocat_2p_purehate_4 = And I have to switch four more times just to get to where I wanna be.
+metrocat_2p_purehate_4 = Und dann muss ich noch weitere vier mal wechseln nur damit ich dort ankomme, wo ich sein will.
 metrocat_2p_purehate_5 = Uhuh.
-metrocat_2p_purehate_6 = I'm pretty sure some of these trains aren't even going anywhere!
-metrocat_2p_purehate_7 = You wanna get something to eat after this?
-metrocat_2p_purehate_8 = ... Sure, I guess.
+metrocat_2p_purehate_6 = Ich bin mir ziemlich sicher diese Züge fahren nirgendwo hin!
+metrocat_2p_purehate_7 = Willst du gleich etwas Essen gehen?
+metrocat_2p_purehate_8 = ... Von mir aus.
 
-metrocat_2p_sphynx_0 = Have you seen this weird looking cat running around?
+metrocat_2p_sphynx_0 = Hast du auch diese komische Katze rumlaufen gesehen?
 metrocat_2p_sphynx_1 = Huh?
-metrocat_2p_sphynx_2 = You know? That weird cat without any fur?
-metrocat_2p_sphynx_3 = Her? I think she's one of those sphynx cats.
+metrocat_2p_sphynx_2 = Nein? Die ohne Fell?
+metrocat_2p_sphynx_3 = Die? Ich glaube, die gehört zu den Sphynx Katzen.
 
-metrocat_2p_stash_0 = So what did you do with your cut?
-metrocat_2p_stash_1 = The usual. I stashed it.
-metrocat_2p_stash_2 = What, you just hid it away? You didn't spend any?
-metrocat_2p_stash_3 = Mhm, that's right. I'm saving up for a new place.
-metrocat_2p_stash_4 = You're gonna pay for a house in cash? Isn't that suspicious?
-metrocat_2p_stash_5 = I, uh.... didn't think of that. Do you think she'd write me a cheque?
+metrocat_2p_stash_0 = Was hast du mit deinem anteil gemacht?
+metrocat_2p_stash_1 = Das übliche. Ich hab's versteckt.
+metrocat_2p_stash_2 = Wie, du versteckst es einfach? Gibst du nichts aus?
+metrocat_2p_stash_3 = Mhm, du hast's erfasst. Ich spare auf ein neues Haus.
+metrocat_2p_stash_4 = Du kaufst ein Haus mit Bargeld? Ist das nicht auffällig?
+metrocat_2p_stash_5 = Also, äh... daran habe ich nicht gedacht. Glaubst du sie kann mir einen Check schreiben?
 
-metrocat_2p_mud_0 = I'm having a terrible day. I need a drink.
-metrocat_2p_mud_1 = What happened?
-metrocat_2p_mud_2 = I stepped in some mud...
-metrocat_2p_mud_3 = That's not so bad?
-metrocat_2p_mud_4 = Not so bad, eh? A cleaning robot chased me around the station for ten minutes!
+metrocat_2p_mud_0 = Mein Tag ist schrecklich. Ich brauche einen drink.
+metrocat_2p_mud_1 = Was ist passiert?
+metrocat_2p_mud_2 = Ich bin in Matsch getreten...
+metrocat_2p_mud_3 = Das ist doch nicht schlimm?
+metrocat_2p_mud_4 = Nicht so schlimm, eh? Ein Putzroboter hat mich für 10 Minuten verfolgt!
 
-metrocat_2p_cops_0 = You know, I haven't seen a police cat down here in a while.
-metrocat_2p_cops_1 = Nah, you won't. I hear you-know-who has a deal with them.
-metrocat_2p_cops_2 = Really?
-metrocat_2p_cops_3 = Yeah. They don't come down here, she doesn't go up there.
+metrocat_2p_cops_0 = Weißt du, Ich habe echt lange keine Polizei-Katze hier unten gesehen.
+metrocat_2p_cops_1 = Wirst du auch nicht. Ich hab gehört das du weißt schon wer einen Deal mit ihnen hat.
+metrocat_2p_cops_2 = Wirklich?
+metrocat_2p_cops_3 = Ja. Sie kommen nicht runter, und sie geht nicht hoch.
 
-metrocat_2p_cclives_0 = Have you seen the latest episode of Cooking Cat?
-metrocat_2p_cclives_1 = Uh, I missed it. Was it another Mafia Town episode?
-metrocat_2p_cclives_2 = Better! She went on a cruise to sample the food, right?
-metrocat_2p_cclives_3 = Was it good?
-metrocat_2p_cclives_4 = It was alright, but the ship sank!
-metrocat_2p_cclives_5 = What!? Spoilers!
+metrocat_2p_cclives_0 = Hast du die neueste Episode von Cooking Cat gesehen?
+metrocat_2p_cclives_1 = Uh, leider nicht. War es eine weitere Mafia Stadt episode?
+metrocat_2p_cclives_2 = Besser! Sie ging auf ein Kreuzfahrtschiff um dort das Essen zu probieren!
+metrocat_2p_cclives_3 = War es gut?
+metrocat_2p_cclives_4 = Es war ok, aber das Schiff ist gesunken!
+metrocat_2p_cclives_5 = Was!? Spoilers!
 metrocat_2p_cclives_6 = Sorry...
-metrocat_2p_cclives_7 = Is Cooking Cat alright? Did she make it out?
-metrocat_2p_cclives_8 = Yeah. You don't see her in the life rafts, but she's in the outro vignettes.
-metrocat_2p_cclives_9 = Oh thank goodness. I wouldn't be able to stand a loose end like that.
+metrocat_2p_cclives_7 = Geht es Cooking Cat gut? Hat sie es rausgeschafft?
+metrocat_2p_cclives_8 = Yeah. Man sieht sie zwar nicht in dem Rettungsboot, aber dafür im abspann.
+metrocat_2p_cclives_9 = Oh gott sei dank. Ich hasse cliffhanger.
 
-metrocat_2p_metrosmell_0 = Do you smell that?
-metrocat_2p_metrosmell_1 = What?
-metrocat_2p_metrosmell_2 = It's kind of like wet fur, mixed with petrol, and smoke.
-metrocat_2p_metrosmell_3 = Ugh, now that you mention it...
-metrocat_2p_metrosmell_4 = Isn't it awful?
-metrocat_2p_metrosmell_5 = It's terrible! It's all I can smell now. It's all over the place!
-metrocat_2p_metrosmell_6 = I can't believe I didn't notice it before now.
+metrocat_2p_metrosmell_0 = Riechst du das auch?
+metrocat_2p_metrosmell_1 = Was?
+metrocat_2p_metrosmell_2 = Es ist ein mix aus nassem Fell, Benzin und Rauch.
+metrocat_2p_metrosmell_3 = Ugh, jetzt wo du es erwähnt hast...
+metrocat_2p_metrosmell_4 = Ist es nicht ekelhaft?
+metrocat_2p_metrosmell_5 = Es ist schrecklich! Das ist das einzige, was ich jetzt riechen kann. Es ist überall!
+metrocat_2p_metrosmell_6 = Ich kann nicht glauben das ich es vorher nicht bemerkt habe.
 
-metrocat_3p_ignored_0 = Hey, can I borrow your mask? Mine snapped.
-metrocat_3p_ignored_1 = Shhh, be quiet! You don't know who might be listening!
-metrocat_3p_ignored_2 = What are you two talking about?
-metrocat_3p_ignored_3 = Nothing. Leave us alone.
-metrocat_3p_ignored_4 = You better get a new one. You never know when you're going to need it.
-metrocat_3p_ignored_5 = I saw a kid with a mask earlier!
-metrocat_3p_ignored_6 = She's gonna bite my head off if I walk in there and ask for a new one!
-metrocat_3p_ignored_7 = Just hold your hands in front of your face and pretend you have it on.
-metrocat_3p_ignored_8 = Uh? Hello?
-metrocat_3p_ignored_9 = Will that really work?
-metrocat_3p_ignored_10 = Yeah, I do it all the time. Nobody notices.
+metrocat_3p_ignored_0 = Hey, kann ich mir deine Maske ausborgen? Meine ist gerissen.
+metrocat_3p_ignored_1 = Shhh, sei leise! Wer weiß, we alles zuhört!
+metrocat_3p_ignored_2 = Worüber redet ihr zwei?
+metrocat_3p_ignored_3 = Nichts. Lass uns in ruhe.
+metrocat_3p_ignored_4 = Du besorgst dir besser eine neue. Man weiß nie wann man eine braucht.
+metrocat_3p_ignored_5 = Ich habe vorhin ein Kind mit einer Maske gesehen!
+metrocat_3p_ignored_6 = Sie wird mir meinen Kopf abbeißen wenn ich sie nach einer neuen Maske frage!
+metrocat_3p_ignored_7 = Halte einfach deine Hände vor deinem Mund und tue so, als hättest du eine.
+metrocat_3p_ignored_8 = Uh? Hallo?
+metrocat_3p_ignored_9 = Wird das wirklich funktionieren?
+metrocat_3p_ignored_10 = Yeah, Ich mache es die ganze Zeit. Keiner bemerkt etwas.
 
-metrocat_3p_confusion_0 = I'm going to miss my train again.
-metrocat_3p_confusion_1 = What line do you need to take? Yellow or Green?
-metrocat_3p_confusion_2 = I thought you were catching one from Blue today?
-metrocat_3p_confusion_3 = I am. Blue, then Yellow, then Pink.
-metrocat_3p_confusion_4 = Yellow doesn't transfer to Pink, does it?
-metrocat_3p_confusion_5 = It does, but you have to take Green first, right?
-metrocat_3p_confusion_6 = Does Blue transfer to Yellow?
-metrocat_3p_confusion_7 = No, no. You have to take Green first.
-metrocat_3p_confusion_8 = Green then Yellow.
-metrocat_3p_confusion_9 = I thought it was Yellow, then Green, then Pink?
-metrocat_3p_confusion_10 = It's Blue, then Green, then Yellow...
-metrocat_3p_confusion_11 = Then Green, then Pink.
-metrocat_3p_confusion_12 = What?
-metrocat_3p_confusion_13 = There's two Greens.
-metrocat_3p_confusion_14 = And three Yellows.
-metrocat_3p_confusion_15 = I'm going to miss my train again.
+metrocat_3p_confusion_0 = Ich werde meinen Zug wieder verpassen.
+metrocat_3p_confusion_1 = Welche linie musst du nehmen? Gelb, oder Grün?
+metrocat_3p_confusion_2 = Ich dachte du musst heute die Blaue nehmen?
+metrocat_3p_confusion_3 = Ja. Blau, dann Gelb, dann Pink.
+metrocat_3p_confusion_4 = Gelb fährt doch nicht nach Pink, oder etwa doch?
+metrocat_3p_confusion_5 = Das tut sie, aber du musst Grün zuerst nehmen, richtig?
+metrocat_3p_confusion_6 = Fährt Blau nach Gelb?
+metrocat_3p_confusion_7 = Nein, nein. Du musst zuerst Grün nehmen.
+metrocat_3p_confusion_8 = Grün, dann Gelb.
+metrocat_3p_confusion_9 = Ich dachte es war Gelb, dann Grün, und am ende Pink?
+metrocat_3p_confusion_10 = Es ist Blau, dann Grün, dann Gelb...
+metrocat_3p_confusion_11 = Dann Grün, und danach Pink.
+metrocat_3p_confusion_12 = Was?
+metrocat_3p_confusion_13 = Es gibt zwei grüne.
+metrocat_3p_confusion_14 = Und drei gelbe.
+metrocat_3p_confusion_15 = Ich werde meinen Zug wieder verpassen.
 
-metrocat_3p_stickers_0 = Who keeps putting these stickers everywhere?
-metrocat_3p_stickers_1 = Kittens these days. No respect for public spaces.
-metrocat_3p_stickers_2 = It's litter, that's what it is!
-metrocat_3p_stickers_3 = I do sort of want one, though.
-metrocat_3p_stickers_4 = Me too...
-metrocat_3p_stickers_5 = I tried to peel one off earlier, but I couldn't reach it.
+metrocat_3p_stickers_0 = Wer hat die ganzen Sticker platziert?
+metrocat_3p_stickers_1 = Kätzchen heutzutage. Kein respekt für die Umwelt.
+metrocat_3p_stickers_2 = Es ist Umweltverschmutzung!
+metrocat_3p_stickers_3 = Ich hätte trotzdem gerne einen.
+metrocat_3p_stickers_4 = Ich auch...
+metrocat_3p_stickers_5 = Ich habe vorhin versucht einen abzuziehen, habe ihn aber nicht erreicht.
 
-metrocat_3p_watched_0 = Do you ever get the feeling that you're being watched?
-metrocat_3p_watched_1 = Never. Everyone knows not to mess with us.
-metrocat_3p_watched_2 = Yeah. The boss wouldn't like that at all.
+metrocat_3p_watched_0 = Hast du auch manchmal das Gefühl das du die ganze Zeit beobachtet wirst?
+metrocat_3p_watched_1 = Nein. Jeder weiß, das man sich nicht mit uns anlegt.
+metrocat_3p_watched_2 = Yeah. Dem Boss würde das überhaupt nicht gefallen.
 
-metrocat_2p_feedtrain_0 = I tried feeding one of the train cats earlier.
-metrocat_2p_feedtrain_1 = What? They tell you not to do that!
-metrocat_2p_feedtrain_2 = I know... I thought maybe they'd slow down and eat, but I just got trampled.
+metrocat_2p_feedtrain_0 = Ich habe vorhin versucht eine der Katzen zu füttern die den Zug zieht.
+metrocat_2p_feedtrain_1 = Was? Das ist doch verboten!
+metrocat_2p_feedtrain_2 = Ich weiß... Ich dachte, sie halten kurz an und essen, aber ich wurde einfach niedergetrampelt.
 metrocat_2p_feedtrain_3 = Ouch.
-metrocat_2p_feedtrain_4 = Yeah, they definitely have a one-track mind.
+metrocat_2p_feedtrain_4 = Ja, die halten für niemanden an.
 
-metrocat_2p_shinything_0 = I keep seeing these shiny things around the metro.
-metrocat_2p_shinything_1 = Shiny 'things'? Where? I have a, uh... friend who's looking for them.
-metrocat_2p_shinything_2 = Oh, you know. Up on buildings and stuff.
-metrocat_2p_shinything_3 = Can you bring me to them? They're valuable!
-metrocat_2p_shinything_4 = No way, I'm afraid of heights!
-metrocat_2p_shinything_5 = I'll split the payout with you...
-metrocat_2p_shinything_6 = Hmmm... let's talk later. I think someone's listening.
+metrocat_2p_shinything_0 = Ich sehe die ganze Zeit glitzernde dinge hier in der Metro..
+metrocat_2p_shinything_1 = Glitzernde "dinge"? Wo? Ich habe einen, äh...Freund der nach ihnen sucht.
+metrocat_2p_shinything_2 = Oh, Sie liegen oben auf den Gebäuden und so.
+metrocat_2p_shinything_3 = Kannst du mir einen bringen? Sie sind sehr wertvoll!
+metrocat_2p_shinything_4 = Niemals, ich habe Höhenangst!
+metrocat_2p_shinything_5 = Ich teile auch den Gewinn mit dir...
+metrocat_2p_shinything_6 = Hmmm... wir reden später. Ich glaube, jemand hört uns zu.
 
-metrocat_2p_vacuumears_0 = These vacuums creep me out.
-metrocat_2p_vacuumears_1 = I think they're cute!
-metrocat_2p_vacuumears_2 = Are you kidding? They put weird little ears on them. Like, realistic ears.
-metrocat_2p_vacuumears_3 = Now that you mention it, that is kind of weird.
+metrocat_2p_vacuumears_0 = Diese sauger machen mir angst.
+metrocat_2p_vacuumears_1 = Ich finde sie süß!
+metrocat_2p_vacuumears_2 = Dein ernst? Sie haben diese kleinen Ohren, die so echt aussehen.
+metrocat_2p_vacuumears_3 = Jetzt wo du das erwähnst, ja. Das ist schon komisch.
 
-metrocat_2p_vacuumbump_0 = I bumped into one of those vacuums the other day.
-metrocat_2p_vacuumbump_1 = Yikes. What happened?
-metrocat_2p_vacuumbump_2 = It bounced me way up into the air! 
-metrocat_2p_vacuumbump_3 = They do that. At least we always land on our feet?
-metrocat_2p_vacuumbump_4 = I hit the ceiling of the restaurant! My head still hurts...
+metrocat_2p_vacuumbump_0 = Ich bin gestern in einen Sauger gelaufen.
+metrocat_2p_vacuumbump_1 = Yikes. Was ist passiert?
+metrocat_2p_vacuumbump_2 = Es hat mich weit nach oben in die Luft geworfen! 
+metrocat_2p_vacuumbump_3 = Ja, das passiert. Immerhin landen wir immer auf unseren Pfoten, richtig?
+metrocat_2p_vacuumbump_4 = Ich habe das Dach von dem Restaurant getroffen! Mein Kopf schmerzt immer noch...
 
-metrocat_2p_whattime_0 = Hey buddy, do you have the time?
-metrocat_2p_whattime_1 = Sure, it's, uh... Hey! Somebody stole my watch!
+metrocat_2p_whattime_0 = Hey kumpel, wie viel Uhr ist es?
+metrocat_2p_whattime_1 = Klar, es ist, uh... Hey! Meine Uhr wurde geklaut!
 
-metrocat_3p_foodchoices_0 = There's too many places to eat around here...
-metrocat_3p_foodchoices_1 = How could there be TOO MANY places to eat? Variety is great.
-metrocat_3p_foodchoices_2 = The smell is unbearable! All the flavors mix together.
-metrocat_3p_foodchoices_3 = How are you supposed to decide on anything?
-metrocat_3p_foodchoices_4 = By the time I make my mind up, I'm usually twice as hungry...
-metrocat_3p_foodchoices_5 = I miss my train every morning because it takes so long!
+metrocat_3p_foodchoices_0 = Es gibt hier zu viele Orte wo man essen kann...
+metrocat_3p_foodchoices_1 = Wie kann es denn zu VIELE Orte geben? Abwechslung ist super.
+metrocat_3p_foodchoices_2 = Der Geruch ist unausstehlich! Alles ist vermischt.
+metrocat_3p_foodchoices_3 = Wie soll man sich entscheiden wo man Essen will?
+metrocat_3p_foodchoices_4 = Bis ich mich entschieden habe, bin ich schon doppelt so hungrig..
+metrocat_3p_foodchoices_5 = Ich verpasse meinen Zug jeden morgen weil es so lange dauert!
 
-metrocat_2p_toomuchfood_0 = I think I ate too much...
-metrocat_2p_toomuchfood_1 = You know, you don't have to order something from EVERY food truck we walk past.
-metrocat_2p_toomuchfood_2 = I mean, I don't NEED to.
-metrocat_2p_toomuchfood_3 = Do you... want to stand here for a while, then?
-metrocat_2p_toomuchfood_4 = I'd appreciate it.
+metrocat_2p_toomuchfood_0 = Ich glaube, ich habe zu viel gegessen...
+metrocat_2p_toomuchfood_1 = Weißt du, wir müssen nicht von JEDEM Essens-Van bestellen an dem wir vorbei laufen.
+metrocat_2p_toomuchfood_2 = Ich mein, Ich MUSS es nicht.
+metrocat_2p_toomuchfood_3 = Möchstest du.. einfach hier rumstehen, dann?
+metrocat_2p_toomuchfood_4 = Das fände ich gut.
 
-metrocat_2p_manholemusic_0 = Do you ever hear music coming from some of the manholes around here?
-metrocat_2p_manholemusic_1 = The manholes? You know, there's kind of a different vibe near them.
-metrocat_2p_manholemusic_2 = Yeah. You want to check it out?
-metrocat_2p_manholemusic_3 = I'll pass. I've seen you-know-who's cats going down them.
+metrocat_2p_manholemusic_0 = Hast du jemals Musik von den Gullideckeln kommen gehört?
+metrocat_2p_manholemusic_1 = Den Gullideckeln? Schon, sie haben eine ganz andere Stimmung.
+metrocat_2p_manholemusic_2 = Ja. Willst du mal einen überprüfen?
+metrocat_2p_manholemusic_3 = Ich passe. Ich habe IHRE Katzen in welche reingehen gesehen.
 
 [reviews]
-metro_coffee_0 = great for a quick coffee + a snack[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
-metro_coffee_1 = drinks 2 hot[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
-metro_coffee_2 = don't sell tea here?[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_coffee_0 = gut für einen schnellen kaffe + snack[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_coffee_1 = getränke zu warm[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_coffee_2 = die verkaufen keinen tee hier??[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
 
-metro_dimsum_0 = very good but I spilled my tea[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
-metro_dimsum_1 = best in the metro!!!![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
-metro_dimsum_2 = great for cold days[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_dimsum_0 = seht gut aber ich habe meinen tee verschüttet[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_dimsum_1 = das beste in der metro!!!![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_dimsum_2 = fantastisch für kalte tage[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
 
-metro_icecream_0 = they'll make you a float if you ask![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
-metro_icecream_1 = my uncle got robbed here. good icecream[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
-metro_icecream_2 = melted before I could get on my train[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_icecream_0 = sie lassen dich schweben wenn man fragt![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_icecream_1 = mein onkel wurde hier ausgeraubt. gute eiscreme[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_icecream_2 = geschmolzen bevor ich in den zug steigen konnte[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
 
-metro_yellow_0 = good authentic 'english' 'chips'[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
-metro_yellow_1 = so good! I come here every weekend[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
-metro_yellow_2 = friendly staff, spot-on prices[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_yellow_0 = gute authentische 'english' 'chips'[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_yellow_1 = so gut! Ich komme jedes wochenende her[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_yellow_2 = freundliche besitzer, gute preise[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
 
-metro_red&yellow_0 = they have a fancy soda machine[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
-metro_red&yellow_1 = THEY FORGOT MY KETCHUP[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
-metro_red&yellow_2 = best burgers in the metro[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_red&yellow_0 = sie haben eine hübsche soda maschine[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_red&yellow_1 = SIE HABEN MEINEN KETCHUP VERGESSEN[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_red&yellow_2 = beste burger in der ganzen metro[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
 
-metro_ramen_0 = had to pay extra for rice???[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
-metro_ramen_1 = perfect comfort food[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
-metro_ramen_2 = Quick service and great food.[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_ramen_0 = man muss extra für reis bezahlen???[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_ramen_1 = perfektes Komfortessen[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_ramen_2 = schneller service und gutes essen.[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
 
 [finale]
-finale_cop0 = Hey, kid. Don't worry, I'm on the, uh... jewelry store payroll.
-finale_cop1 = Did something happen while I was upstairs? The boss looked mad.
-finale_cop2 = Anyway, I had something to give her, but I couldn't make the trade with my partner here.
-finale_cop3 = I know she's had you tracking them down, so take care of it for me.
+finale_cop0 = Hey, kid. Keine sorge, Ich bin von der... Juwelier Lohnabrechnung.
+finale_cop1 = Ist etwas passiert während ich oben war? Der Boss sah genervt aus.
+finale_cop2 = Jedenfalls, ich musste ihr etwas geben, aber konnte den Deal nicht machen währen mein Kollege hier war.
+finale_cop3 = Ich weiß das du für sie arbeitest, kannst du es also für mich übernehmen?
 
 [solo]
-hiding_bushes0 = Ssssh! Get outta here!
-hiding_bushes1 = You're ruining my hiding spot, kid.
-olddays0 = Hey, kid! Did you know it used to be really empty around here?
-olddays1 = Back when there was just one train line, there was barely any, like. Stores and stuff.
-olddays2 = But once a lot more people started using the trains, this place got way busier!
-secret_teller0 = Want to know a secret?
-secret_teller1 = Are you sure? It's a big one...
-secret_teller2 = Ok, ok, I'll tell you. You'd never guess this.
-secret_teller3 = The owner of the jewelry store...
-secret_teller4 = Doesn't have any qualifications as a jeweler!
-secret_teller5 = I told you it was a good secret! 
-gacha0 = I bought a hundred pulls from the event box... and got everything I wanted!
-gacha1 = Dang. I've been working at the jewelry store for extra cash, and I still don't have that Super-Limited-Rare Knight Robocat...
-gacha2 = You... you know you can trade points for them, right?
-gacha3 = Wha.... [scream]WHAT?[/scream]
-agilesuitfreegun0 = You! You look like you have taste!
-agilesuitfreegun1 = What's the best series of Agile Suit Freegun?
+hiding_bushes0 = Ssssh! hau ab!
+hiding_bushes1 = Du ruinierst mein perfektes versteck, kid.
+olddays0 = Hey, kid! Wusstest du schon das es hier damals ziemlich leer war?
+olddays1 = Es gab nur eine Zug linie, kaum fast food restaurants und so.
+olddays2 = Allerdings haben mehr und mehr leute angefangen die Züge zu nutzen, und dieser Ort wurde größer und größer!
+secret_teller0 = Möchtest du ein Geheimnis wissen?
+secret_teller1 = Bist du dir sicher? Es ist echt groß...
+secret_teller2 = Ok, ok, Ich sag's dir. Das hättest du niemals gedacht.
+secret_teller3 = Der Besitzer vom Juwelier...
+secret_teller4 = Hat keine Qualifikation als Juwelier!
+secret_teller5 = Hab ich dir nicht gesagt es ist ein gutes Geheimnis? 
+gacha0 = Ich habe Hundert von den Event Kisten gekauft und alles bekommen, was ich wollte!
+gacha1 = Wow. Ich hab bei dem Juwelier angefangen für ein bisschen extra Geld, aber besitze immer noch nicht den Super-Limited-Rare Knight Robocat...
+gacha2 = Du... weißt schon das man die Kisten auch mit Punkten bekommen kann, oder?
+gacha3 = Wa.... [scream]WAS?[/scream]
+agilesuitfreegun0 = Hey! Du siehst aus, als hättest du geschmack!
+agilesuitfreegun1 = Welche Serie ist die beste von Agile Suit Freegun?
 agilesuittt0 = Double Theta!
-agilesuitfreegun2 = Ah, good. You're a smart kid.
-signal0 = Can't talk right now, kid, I'm busy.
-signal1 = I'm trying to send some work emails, but the signal down here is terrible...
+agilesuitfreegun2 = Ah, gut. Du bist schlau, kid.
+signal0 = Kann gerade nicht reden, kid. Ich bin beschäftigt.
+signal1 = Ich versuche einige E-Mails zu verschicken, aber das Signal hier unten ist schrecklich...
 
 [egg]
-metro_easteregg_pre0 = Huh, there's something written on this manhole
-metro_easteregg_pre1 = "Kiwami means extreme."
+metro_easteregg_pre0 = Huh, hier steht etwas auf dem Gullideckel.
+metro_easteregg_pre1 = "Kiwami bedeutet extrem."
 metro_easteregg_0 = [big][shake]HAT KID-CHAAAAAAN![/shake][/big]
-metro_easteregg_1 = You've grown soft, time to bring out your fighting spirit!
+metro_easteregg_1 = Du bist weich geworden, es wird Zeit deinen Kämpfer Geist wieder zu erwecken!
 metro_easteregg_extra = Yeehaw :)
 
 [cutscenes]
-Intro0 = That belongs to the boss!
-Midpoint0 = No I'm not, I swear!
-Midpoint1 = I'd never lay a paw on your jewelry!
+Intro0 = Das gehört dem Boss!
+Midpoint0 = Nein, Ich schwöre!
+Midpoint1 = Ich würde niemals eine Pfote auf deine Juwelen legen!

@@ -675,7 +675,7 @@ PrizeBadgeFlair = Anstecker-Flair
 [DLC1Splash]
 cruise = Komplett neues Kapitel: Die Arktische Kreuzfahrt
 deathwish = Der neue Herausforderungs Modus: Todeswunsch!
-coop = Lokaler Splitscreen Mehrspieler-Modus!
+cruise_acts = 3 neue Akten auf einer Kreuzfahrt!
 rifts = Sechs neue Zeitrisse!
 unlocks0 = Einen Haufen freischaltbarer Outfits, Flairs,
 unlocks1 = Farben und sogar Kamera-Filter!
@@ -841,3 +841,5 @@ BingoMode = Bingo-Modus
 
 Loadout_Swap_Mask = Wähle eine Maske aus!
 Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
+
+coop = Lokaler Splitscreen Mehrspieler-Modus!

@@ -75,7 +75,7 @@ SuckInOrbsTech0 = Zieht automatisch Gegenstände an dich heran!
 
 AttackProjectileName = Projektil-Anstecker
 AttackProjectileDescFun0 = Projektil-Anstecker
-AttackProjectileDescTech0 = Halte [button:attack] gedrückt für eine Laser-Attacke!
+AttackProjectileDescTech0 = Halte [button:attack] gedrückt für eine[br]Laser-Attacke!
 
 CameraName = Kamera-Anstecker
 CameraDesc0 = Drücke [button:share], um Bilder von deiner Reise zu machen!
@@ -91,7 +91,7 @@ AirAttackBadgeName = Luft Angriff-Anstecker
 AirAttackBadgeDesc0 = Erlaubt es dir, in der Luft anzugreifen!
 
 MumbleBadgeName = Nuschel-Anstecker
-MumbleBadgeDesc0 = Mit verstopften Ohrne nuscheln plötzlich alle...
+MumbleBadgeDesc0 = Mit verstopften Ohren nuscheln plötzlich alle...
 
 HookshotBadgeName = Enterhaken
 HookshotBadgeDesc0 = Drücke und halte [button:attack], um von Haken zu Haken zu schwingen!
@@ -290,10 +290,10 @@ CakeTowerDesc0 = Eine schicke Metallplatte, um Kuchen zu zeigen.
 CakeTowerDesc1 = Was für ein Mensch würde einen Kuchen nur ausstellen? Kuchen sind für's Essen gemacht!
 CakeTowerDesc2 = ... Ich komme nicht an den Kuchen auf der obersten Platte.
 
-JewelryDisplayName = Jewellery Display
-JewelryDisplayDesc0 = My research tells me this stuff is 'expensive' and costs lots of 'dollars'.
-JewelryDisplayDesc1 = All this money takes up lots of space, so I think this is a way of storing it easier.
-JewelryDisplayDesc2 = Plus, it's shiny!
+JewelryDisplayName = Schmuck-Ausstellung
+JewelryDisplayDesc0 = Meine Recherchen sagen mir, dass dieses Dingens sehr 'wertvoll' ist und sehr viele 'Euros' kostet.
+JewelryDisplayDesc1 = All dieses Geld nimmt viel Platz weg, also denke ich, dass das so weniger Platz nimmt.
+JewelryDisplayDesc2 = Außerdem glitzert es!
 
 [ItemQuality]
 SupporterPrefix = Unterstützer
@@ -304,7 +304,7 @@ CompletionistPrefix = Komplettist
 Weapon_Umbrella = Schirm
 Weapon_Umbrella_Desc = Diplomatie hat nicht funktioniert, Zeit zum Handeln.
 Weapon_Nyakuza_BaseballBat = Baseballschläger
-Weapon_Nyakuza_BaseballBat_Shop = Perfekt für Sachschäden, Einschüchterung und manchmal Baseball.
+Weapon_Nyakuza_BaseballBat_Shop = Perfekt für Sachschäden,[br]Einschüchterung und manchmal Baseball.
 
 [Stickers]
 StickerName = Sticker

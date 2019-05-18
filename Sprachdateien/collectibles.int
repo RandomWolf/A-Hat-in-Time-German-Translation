@@ -308,8 +308,8 @@ Weapon_Nyakuza_BaseballBat_Shop = Perfekt für Sachschäden,[br]Einschüchterung un
 
 [Stickers]
 StickerName = Sticker
-StickerDesc0 = Ein neuer Sticker wurde freigeschaltet,
-StickerDesc1 = benutzte ihn mit [button:emote] and [icon:camerabadge]!
+StickerDesc0 = Neuer Sticker wurde freigeschaltet!
+StickerDesc1 = Drücke [button:emote] oder [icon:camerabadge]!
 
 [MetroFood]
 TeaName = Tee

@@ -2,13 +2,13 @@
 ChapterUnlocked = Energie für [name][location][/name] wurde wieder hergestellt![br]Das Kapitel [name][chaptername][/name] ist jetzt verfügbar!
 
 [locations]
-Location_Bedroom = im Schlafzimmer
-Location_MainHall = in der Haupthalle
-Location_MachineRoom = im Maschinenraum
-Location_Basement = im Keller
-Location_Attic = auf dem Dachboden
-Location_LandryRoom = Wäscheraum
-Location_DLC2 = Lagerraum
+Location_Bedroom = das Schlafzimmer
+Location_MainHall = die Haupthalle
+Location_MachineRoom = den Maschinenraum
+Location_Basement = den Keller
+Location_Attic = den Dachboden
+Location_LandryRoom = den Wäscheraum
+Location_DLC2 = den Lagerraum
 
 [Ending]
 ThrowMu0 = Ein [icon:timepiece][timepiece]Zeitstück[/timepiece] fallen lassen, um dem [icon:mugirl][name]Mädchen mit der roter Kapuze[/name] etwas [icon:timepiece][timepiece]Zeitstück[/timepiece]-Energie zu geben, damit sie die [name]Mafia[/name] besiegen kann?[br](Du wirst dann vielleicht nicht mehr nach Hause kommen können.)

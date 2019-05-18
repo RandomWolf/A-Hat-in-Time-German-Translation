@@ -11,10 +11,10 @@ umbrella_there1 = Wenn du dahin gehen willst, solltest Augenkontakt mit den Mafi
 umbrella_there2 = Man sieht sich!
 
 [chapter1combat]
-grabbed0 = Hey, geh runter [br]von mir!!
+grabbed0 = Hey, geh von[br]mir runter!!
 grabbed1 = Ich meine es ernst! [br]Lass mich runter,[br]du dummer Idiot!
 grabbed2 = Was für Mann greift[br]bitte ein unschuldiges,[br]kleines Mädchen an?!
-grabbed3 = Deine Kockkünste[br]sind schlecht und du bist[br]auch schlecht![br]Jetzt lass mich los!!
+grabbed3 = Deine Kockkünste[br]sind schlecht und du bist auch schlecht! Jetzt lass mich los!!
 grabbed4 = Ich gehe nirgendwo[br]mit dir hin![br]Lass mich los!!
 grabbed5 = Wenn du mich jetzt[br]nicht auf der Stelle loslässt,[br]beiß' ich!
 grabbed6 = Hör auf!

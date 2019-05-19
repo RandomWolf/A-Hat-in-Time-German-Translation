@@ -90,9 +90,9 @@ Location_Metro_RouteC = Blauflossen-Tunnel
 Location_Metro_RouteD = Pinke Pfoten Station
 Metro_Escape = Rush Hour
 Metro_Escape_Location = Die Fluchttunnel
-Metro_ManholeA = Kanaldeckel am gelben Metroübergang
-Metro_ManholeB = Kanaldeckel an der gründlichen grünen Station
-Metro_ManholeC = Pinke Pfoten-Kanaldeckel
+Metro_ManholeA = Gelber Kanaldeckel
+Metro_ManholeB = Grüner Kanaldeckel
+Metro_ManholeC = Pinker Kanaldeckel
 Metro_CaveRift_RumbiFactory = Rumbi-Fabrik
 
 [ActInfoBoxDetails]

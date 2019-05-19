@@ -404,6 +404,9 @@ Item_InputAssist_Desc = Das Spiel wird versuchen, die Eingabeerfahrung zu verbes
 Item_HoldBackToCancelDive_Title = Halte zurück zum Hechtsprung-Abbrechen
 Item_HoldBackToCancelDive_Desc = Halte in die entgegengesetze Richtung, um einen Hechtsprung abzubrechen.
 
+Item_InputAllowEmote_Title = Emote-Knopf
+Item_InputAllowEmote_Desc = Stellt ein, ob du Emotes benutzen kannst
+
 [systemsettings.controller]
 Header_Controller = Hinzugefügte Controller
 Item_NewController_Title = Neuer Controller
@@ -565,7 +568,6 @@ ConfirmSuspect = BIST DU DIR SICHER, DASS DIESER TROTTEL DER MÖRDER IST?
 
 Suspect_Select0 = Schützen und dienen[br]um jeden Preis!
 Suspect_Select1 = Wir haben unsre[br]Augen überall und[br]gesehen haben[br]wir nichts!
-Suspect_Select1 = Wir haben unsre[br]Augen überall und dennoch[br]haben wir[br]nichts gesehen!
 Suspect_Select2 = Was schaust'n mich[br]so an, Grünschnabel?
 Suspect_Select3 = Ich hoffe, dass die[br]Stimmen jetzt [br] aufhören!
 Suspect_Select4 = ...
@@ -755,6 +757,12 @@ Help_ChangeDoF = Tiefenschärfe ändern
 Help_EnableDoF = Tiefenschärfe aktivieren
 Help_DisableDoF = Tiefenschärfe deaktivieren
 Help_Exit = Verlassen
+Help_ShowMenu = Zeige Menü
+Help_HideMenu = Verstecke Menü
+Help_Sticker_Apply = Anwenden
+Help_Sticker_Rotate = Rotieren
+Help_Sticker_Zoom = Zoom
+Help_Sticker_Grab = Greifen
 
 Msg_Filter = Filter
 Msg_DoF = Tiefenschärfe
@@ -807,6 +815,10 @@ Item_ScreenshotFolder_View = Öffnen...
 
 [MetroFood]
 UndiscoveredCombo = Geheime Kombi ist verfügbar. Kannst du sie finden?
+
+[Sticker]
+NewRareSticker = Ein seltener Sticker ist in [location] aufgetaucht - Finde ihn!
+NewRareStickerUnknownLocation = Ein seltener Sticker ist irgendwo aufgetaucht - Finde ihn!
 
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen

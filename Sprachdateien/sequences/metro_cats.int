@@ -6,7 +6,7 @@ metrocat_1p_helpdesk_0 = Hast du dich verlaufen, Kind? Du solltest an der [hint]
 
 metrocat_1p_waiting_0 = Lässt du mich bitte in Ruhe? Ich warte auf meinen Zug.
 
-metrocat_2p_stuck_0 = Wusstest du, dass mein Freund seinen [hint]Metro-Pass[/hint] verloren hat und in der Pinken Pfoten Station feststeckt?
+metrocat_2p_stuck_0 = Wusstest du, dass mein Freund seinen [hint]Metro-Pass[/hint] verloren hat und in der[br]Pinken Pfoten Station feststeckt?
 metrocat_2p_stuck_1 = Mann, ich hoffe er konnte einen neuen kaufen. Diese [hint]Ticketschalter[/hint] schränken einen echt ein!
 
 metrocat_2p_sushi_0 = Warst du jemals bei einem Sushi-Restaurant?
@@ -35,7 +35,7 @@ metrocat_2p_badcrowd_0 = Hast du das kleine Mädchen herrumlaufen sehen?
 metrocat_2p_badcrowd_1 = Kinder sollten nicht unbeaufsichtigt bleiben! Ich hoffe, dass ihr nichts passiert.
 
 metrocat_2p_chase_0 = Die Putzroboter wirken echt freundlich und elastisch!
-metrocat_2p_chase_1 = "Freundlich"? Wenn du auch nur einen Fleck mit Schlamm auf dir hast, jagen sie dich! Einfach unheimlich.
+metrocat_2p_chase_1 = Freundlich?! Wenn du auch nur einen Fleck mit Schlamm auf dir hast, jagen sie dich! Einfach unheimlich.
 
 metrocat_2p_jewellery_0 = Findest du es nicht auch komisch, dass es hier unten einen großen Juwelier gibt?
 metrocat_2p_jewellery_1 = Wie meinst du das?
@@ -188,7 +188,7 @@ metrocat_3p_watched_2 = Genau. Dem Boss würde das überhaupt nicht gefallen.
 
 metrocat_2p_feedtrain_0 = Ich habe vorhin versucht, eine der Zug-Katzen zu füttern.
 metrocat_2p_feedtrain_1 = Was? Das ist doch verboten!
-metrocat_2p_feedtrain_2 = Ich weiß... Ich dachte, sie würden kurz anhalten und essen, aber ich wurde einfach niedergetrampelt.
+metrocat_2p_feedtrain_2 = Ich weiß... Ich dachte, sie würden kurz anhalten und essen, aber ich wurde einfach[br]niedergetrampelt.
 metrocat_2p_feedtrain_3 = Autsch.
 metrocat_2p_feedtrain_4 = Ja, sie denken wirklich nur wie eine Einzelfahrt. Nie zurück...
 
@@ -228,9 +228,9 @@ metrocat_2p_toomuchfood_3 = ...Möchstest du dann mal für eine Weile hier rumsteh
 metrocat_2p_toomuchfood_4 = Guter Vorschlag.
 
 metrocat_2p_manholemusic_0 = Hast du jemals aus den Gullideckeln Musik kommen hören?
-metrocat_2p_manholemusic_1 = Aus den Gullideckeln? Jetzt da du es sagst, sie sorgen schon für eine ganz andere Stimmung.
+metrocat_2p_manholemusic_1 = Aus den Gullideckeln? Jetzt da du es sagst, sie sorgen schon für eine ganz andere[br]Stimmung.
 metrocat_2p_manholemusic_2 = Definitiv. Willst du mal einen überprüfen?
-metrocat_2p_manholemusic_3 = Ich verzichte. Ich sah, wie IHRE Katzen welche reingingen.
+metrocat_2p_manholemusic_3 = Ich verzichte. Ich sah, wie IHRE Katzen da hineingehen.
 
 [reviews]
 metro_coffee_0 = gut für einen schnellen kaffe + snack[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]

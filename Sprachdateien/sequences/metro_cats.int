@@ -6,14 +6,14 @@ metrocat_1p_helpdesk_0 = Hast du dich verlaufen, Kind? Du solltest an der [hint]
 
 metrocat_1p_waiting_0 = Lässt du mich bitte in Ruhe? Ich warte auf meinen Zug.
 
-metrocat_2p_stuck_0 = Hab ich dir schon von meinem Freund erzählt? [br]Er hat seinen[hint]Metro-Pass[/hint] verloren und steckt in der Pinken Pfoten Station fest.
+metrocat_2p_stuck_0 = Wusstest du, dass mein Freund seinen [hint]Metro-Pass[/hint] verloren hat und in der Pinken Pfoten Station feststeckt?
 metrocat_2p_stuck_1 = Mann, ich hoffe er konnte einen neuen kaufen. Diese [hint]Ticketschalter[/hint] schränken einen echt ein!
 
 metrocat_2p_sushi_0 = Warst du jemals bei einem Sushi-Restaurant?
-metrocat_2p_sushi_1 = Noch nicht. Ich sehe aber immer eins, wenn ich von der Grünen Station nachhause gehe und es macht mich hungrig.
+metrocat_2p_sushi_1 = Nö, aber ich sehe immer eins, wenn ich von der Grünen Station nachhause gehe und es macht mich hungrig.
 metrocat_2p_sushi_2 = Manchmal wünschte ich, ich könnte einfach zu einem hinüberspringen.
 
-metrocat_2p_stolen_0 = Ich musste mir einen neuen [hint]Metro-Pass[/hint]kaufen, meiner wurde gestohlen.
+metrocat_2p_stolen_0 = Ich musste mir einen neuen [hint]Metro-Pass[/hint] kaufen, meiner wurde gestohlen.
 metrocat_2p_stolen_1 = Du solltest besser aufpassen. Ich habe gehört, die Kriminalitätsrate ist gestiegen.
 
 metrocat_2p_burgers_0 = Möchtest du noch etwas essen bevor wir gehen?
@@ -24,8 +24,8 @@ metrocat_2p_burgers_3 = Du hast IMMER Lust auf Burger.
 metrocat_2p_right_0 = Denk dran, das richtige Ticket zu kaufen.
 metrocat_2p_right_1 = Ich weiß, Ich weiß. Die sind [hint]farblich markiert[/hint].
 
-metrocat_2p_knocking_0 = Hörst du auch manchmal klopfen von der Decke, während du im Zug bist? [br]Als ob jemand oben drauf ist?
-metrocat_2p_knocking_1 = Äh, Ich glaube du hörst einfach nur Dinge. [br]Niemand würde auf einem fahrenden Zug klettern.
+metrocat_2p_knocking_0 = Hörst du auch manchmal klopfen von der Decke, während du im Zug bist? Als ob jemand oben drauf ist?
+metrocat_2p_knocking_1 = Äh, Ich glaube du hörst einfach nur Dinge. Niemand würde auf einem fahrenden Zug klettern.
 
 metrocat_2p_shortcuts_0 = Einige der Gullideckel sind nicht echt. Aber das hast du nicht von mir, okay?
 metrocat_2p_shortcuts_1 = Was? Also, sind sie nur aufgemalt?
@@ -53,11 +53,6 @@ metrocat_2p_delayed_0 = Schlechte Neuigkeiten. Der Drei Uhr-Zug verspätet sich w
 metrocat_2p_delayed_1 = Schon wieder!? Aaaah, das ist schlecht. Ich werde mich verspäten.
 metrocat_2p_delayed_2 = Kannst du nicht einen anderen Zug nehmen?
 metrocat_2p_delayed_3 = I-ich habe noch nie einen anderen genommen! Was, wenn ich mich verlaufe?
-
-metrocat_2p_rightmeow_0 = Seufz... mein Zug verspätet sich mal wieder. Das bringt mich zum Katzen!
-metrocat_2p_rightmeow_1 = Ich habe nichts von einer verspä-, was sagtest du...?
-metrocat_2p_rightmeow_2 = Wie bitte?
-metrocat_2p_rightmeow_3 = Vergiss es. Muss mich verhört haben.
 
 metrocat_2p_rightmeow_0 = Seufz... wenn mein Zug nicht bald kommt, werde ich mich verspäten!
 metrocat_2p_rightmeow_1 = Oh, bei miau...
@@ -161,7 +156,7 @@ metrocat_3p_ignored_6 = Sie wird mir meinen Kopf abreißen, wenn ich sie nach ein
 metrocat_3p_ignored_7 = Halte einfach deine Hände vor deinem Mund und tue so, als hättest du eine.
 metrocat_3p_ignored_8 = Äh? Hallo?
 metrocat_3p_ignored_9 = Wird das wirklich funktionieren?
-metrocat_3p_ignored_10 = Ja, Ich mache es die ganze Zeit.Niemand merkt's.
+metrocat_3p_ignored_10 = Ja, Ich mache es die ganze Zeit. Niemand merkt's.
 
 metrocat_3p_confusion_0 = Ich werde meinen Zug wieder verpassen.
 metrocat_3p_confusion_1 = Welche Linie musst du nehmen? Gelb oder Grün?
@@ -242,7 +237,7 @@ metro_coffee_0 = gut für einen schnellen kaffe + snack[br][icon:reviewstar1][ico
 metro_coffee_1 = getränke zu warm[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
 metro_coffee_2 = die verkaufen hier keinen tee?[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
 
-metro_dimsum_0 = sieht gut aber ich habe meinen tee verschüttet[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_dimsum_0 = sieht gut aus aber ich habe meinen tee verschüttet[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
 metro_dimsum_1 = das beste in der metro!!!![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
 metro_dimsum_2 = an kalten tagen fantastisch[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
 

@@ -7,12 +7,12 @@ PlayerConnectionFailed = Verbindung zu [name][playername[/name] konnte nicht her
 PlayerPaused = Pausiert
 
 [lobby]
-OnlinePrompt = Online-Funktionalität
+OnlinePrompt = Online-Funktion
 LobbyPrompt = Party-Name
 OnlineInfo = Hiermit kannst du andere Spieler sehen und mit ihnen interagieren, darunter Freunde und gelegentlich auch Besucher.
 PublicInfo = Wenn eingegeben, wirst du nur Spieler in dieser Party sehen. Wenn leer, wirst du gelegentlich Besucher sehen.
 
-Tutorial0 = Wilkommen zur [wave][hint]Online Party[/hint][/wave]! Zerschlage Dimensionen mit anderen und triff deine Freunde!
+Tutorial0 = Willkommen zur [wave][hint]Online Party[/hint][/wave]! Zerschlage Dimensionen mit anderen und triff deine Freunde!
 Tutorial1 = Mache es zu einer Reise mit Spielern aus anderen Welten!
 Tutorial2 = Oder gib einen Party-Namen ein und spiel mit deinen Freunden!
 

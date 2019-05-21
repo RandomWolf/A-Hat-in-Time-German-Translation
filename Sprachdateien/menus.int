@@ -817,7 +817,7 @@ Item_ScreenshotFolder_View = Öffnen...
 UndiscoveredCombo = Geheime Kombi ist verfügbar. Kannst du sie finden?
 
 [Stickers]
-NewRareSticker = Ein seltener Sticker ist in Welt "[location]" aufgetaucht - Finde ihn!
+NewRareSticker = Ein seltener Sticker ist in [location] aufgetaucht - Finde ihn!
 NewRareStickerUnknownLocation = Ein seltener Sticker ist irgendwo aufgetaucht - Finde ihn!
 
 [unused/deleted]

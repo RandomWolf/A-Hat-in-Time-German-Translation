@@ -14,7 +14,7 @@ helper_ability_no_target = Hier gibt es nichts Interessantes...
 smooch = Zum Knutschen
 timestophat = Benutze deinen [icon:timestophat], um alles in der Nähe zu verlangsamen
 carry_too_much = Vorsicht! Je mehr du trägst, desto wackeliger wird es!
-vacuumside = Versuche in die Seitenwand zu springen! 
+gp_emotewheel = Kommuniziere mit anderen Online-Spielern
 
 drop_carry = Fallen lassen
 throw_carry = Werfen
@@ -23,3 +23,6 @@ DuplicateKey = Kann nicht 2 [icon:key] gleichzeitig tragen
 
 [placeholder]
 BetaHatSwapNotice0 = Drücke [button:badgeswitch], um deinen [icon:hat] zu wechseln![br]Drücke [button:badge], um die Fähigkeit des Huts zu benutzen.
+
+[unused]
+vacuumside = Versuche in die Seitenwand zu springen! 

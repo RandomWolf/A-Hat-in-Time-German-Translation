@@ -91,8 +91,8 @@ cave_restricted_lazy2 = Bleibe von der Höhle fern, Fräulein. Denk nicht einmal d
 [chapter1combat]
 intro0 = Hey! Kind! Husch! Mafia darf keine Zeugen haben, wenn Mafia Lektion erteilt. 
 intro1 = Das peinlich für Mafia! Mafia nicht sicher was zu tun ist.
-intro2 = Boss, was machen wir mit Zeugen?
-boss_intro0 = Bringt ihr eine Lektion bei, Jungs!
+intro2 = Boss, was machen wir mit Zeugin?
+boss_intro0 = Bringt ihr Lektion bei, Jungs!
 wake0 = Komm zu Papa Mafia!
 wake1 = Du kleine...
 wake2 = Ich werde dich[br]fertig machen!
@@ -103,9 +103,9 @@ boss_wake1 = Mafia wird sich nicht vor Mädchen beugen! Spüre Mafias Zorn!!
 barrelthrow0 = Sehen wir, ob Mädchen [br]dieses Fass bewältigen kann!
 barrelthrow1 = Kopf hoch,[br]kleiner Punk!
 barrelthrow2 = Bleib' stehen!
-barrelthrow3 = Denk' nicht daran[br]Fass auszuweichen!
+barrelthrow3 = Denk' nicht daran,[br]Fass auszuweichen!
 
-boss_godown0 = Das bring nichts! Mafia muss sich im Mafia-Style darum kümmern!
+boss_godown0 = Das bring nichts! Mafia muss das auf Mafia-Art erledigen!
 boss_godown1 = Spüre was Mafia alten Frauen antut!
 
 [chapter1bullying]

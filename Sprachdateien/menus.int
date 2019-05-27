@@ -819,6 +819,10 @@ UndiscoveredCombo = Geheime Kombi ist verfügbar. Kannst du sie finden?
 [Stickers]
 NewRareSticker = Ein seltener Sticker ist in [location] aufgetaucht - Finde ihn!
 NewRareStickerUnknownLocation = Ein seltener Sticker ist irgendwo aufgetaucht - Finde ihn!
+MachineNoRareSticker = Die Maschine findet gerade keine Anomalien, vielleicht findet sie später ein Signal.
+MachineRareSticker = Die Maschine hat ein seltenes Signal gefunden. Das Signal sagt...[br][stickerloc]
+
+
 
 [unused/deleted]
 //Die Filter-Namen waren mal unter den Filter-Einstellungen

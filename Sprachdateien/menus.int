@@ -57,7 +57,7 @@ Item_SpeedrunTimer_Item_GameOnly = Nur Spielzeit
 Item_SpeedrunTimer_Item_ActOnly = Nur Aktzeit
 
 Item_Language_Title = Sprache
-Item_Language_Desc = Die Sprache, in welcher der Text angezeigt wird. Ändert nicht die Synchronsprecher (du kannst diese in den Audio Einstellungen ändern).
+Item_Language_Desc = Die Sprache, in welcher der Text angezeigt wird. Ändert nicht die[br]Synchronsprecher (du kannst diese in den Audio Einstellungen ändern).
 
 Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
 Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kannst du alle überspringbaren Zwischensequenzen überspringen, indem du diese Funktion aktivierst. Beachte, dass du unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen kannst.

@@ -87,7 +87,7 @@ Item_GhostPartyDisplay_Title = Zeige Spielernamen & Avatare
 Item_GhostPartyDisplay_Desc = Versteckt die Namen und Avatare von anderen Online-Spielern, um Obszönität oder verletzendes Material zu vermeiden. Für Livestreams empfohlen.
 
 Item_PlayRemotePlayerEmoteSounds_Title = Emote-Geräusche von anderen Spielern
-Item_PlayRemotePlayerEmoteSounds_Desc = Emote-Geräusche von anderen Spielern werden nicht abgespielt, wenn dies ausgeschaltet ist.
+Item_PlayRemotePlayerEmoteSounds_Desc = Wenn aktiviert, werden Emote-Geräusche von anderen Spielern abgespielt.[br]Ausschalten, damit sie stumm werden.
 
 Item_GhostPartyDisplay_None = Zeige beides nicht
 Item_GhostPartyDisplay_Name = Nur Namen
@@ -269,13 +269,13 @@ Item_Adv_CharacterTextureQuality_Desc = Bestimmt die Auflösung der Texturen für 
 
 Header_Adv_Environment = Spielwelt
 Item_Adv_DetailMode_Title = Spielweltdetails
-Item_Adv_DetailMode_Desc = [Hohe Qualität]: Alle Detailmodelle (Laub, ferne Inseln) und Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Standard]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Leistung]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
+Item_Adv_DetailMode_Desc = [Hohe Qualität]: Alle Detailmodelle (Laub, ferne Inseln) und[br]Detailpartikeleffekte (Schmetterlinge, Staub) werden angezeigt.[newline][Standard]: Die meisten Detailmodelle werden angezeigt und es werden keine Detailpartikeleffekte angezeigt.[newline][Leistung]: Es werden keine Detailmodelle oder Partikeleffekte angezeigt.
 
 Item_Adv_DrawDistance_Title = Sichtweite
 Item_Adv_DrawDistance_Desc = Wenn du dich von einigen Umgebungsmodellen weiter entfernst, werden sie allmählich an Qualität abnehmen und schließlich ganz verschwinden.[br]Je höher diese Einstellung ist, desto weiter können Objekte entfernt sein, bevor dies eintritt.[br]Ein höherer Wert sorgt für schönere Hintergründe, hat jedoch erhebliche Leistungskosten. Diese Option hat großen Einfluss auf die Leistung.
 
 Item_Adv_AnisotropicFiltering_Title = Anisotrope Filterung
-Item_Adv_AnisotropicFiltering_Desc = Wenn einige Texturen in einem Winkel betrachtet werden (wie Etagen), werden sie verschwommen, je weiter sie von der Kamera entfernt sind.[br]Die anisotrope Filterung verbessert dies für jeden Grad der Anisotropie; Die Anisotropie 16 ist doppelt so scharf wie die Anisotropie von 8.
+Item_Adv_AnisotropicFiltering_Desc = Wenn einige Texturen in einem Winkel betrachtet werden (wie Etagen), werden sie verschwommen, je weiter sie von der Kamera entfernt sind.[br]Die anisotrope Filterung verbessert dies für jeden Grad der Anisotropie;[br]Die Anisotropie 16 ist doppelt so scharf wie die Anisotropie von 8.
 
 Item_Adv_WorldTextureQuality_Title = Texturen-Qualität für die Welt
 Item_Adv_WorldTextureQuality_Desc = Bestimmt die Auflösung von Texturen für die Umgebung. Die niedrigste[br]Einstellung erzwingt eine maximale Texturauflösung von 256x256, während die höchste bis zu 4096x4096 gehen kann.
@@ -315,7 +315,7 @@ Item_Adv_DoF_Item_Standard = Standard
 Item_Adv_DoF_Item_Complex = Komplex
 
 Item_Adv_Bloom_Title = Bloom
-Item_Adv_Bloom_Desc = Wenn aktiviert erzeugen helle Bereiche einen Glüheffekt.
+Item_Adv_Bloom_Desc = Wenn aktiviert, erzeugen helle Bereiche einen Glüheffekt.
 
 Item_Adv_LightShafts_Title = Lichtstrahlen
 Item_Adv_LightShafts_Desc = Die Sonne und andere helle Lichtquellen erzeugen Strahlen, die von Objekten vor der Kamera blockiert werden können.
@@ -324,13 +324,13 @@ Item_Adv_ObjectMotionBlur_Title = Bewegungsunschärfe
 Item_Adv_ObjectMotionBlur_Desc = Sich schnell bewegende Objekte verschwimmen in die Richtung, in die sie sich bewegen. Dies wird auch für Charaktere angewendet.[br]Die Kamerabewegung wird dadurch nicht verwackelt (das ist Bildschirmunschärfe).
 
 Item_Adv_RadialBlur_Title = Kreisförmige Unschärfe
-Item_Adv_RadialBlur_Desc = Wenn aktiviert werden Explosionen und Angriffe eine Unschärfe um den[br]Effektbereich erzeugen.
+Item_Adv_RadialBlur_Desc = Wenn aktiviert, werden Explosionen und Angriffe eine Unschärfe um den[br]Effektbereich erzeugen.
 
 Item_Adv_ScreenBlur_Title = Bildschirmunschärfe
 Item_Adv_ScreenBlur_Desc = Wenn sich die Kamera schnell bewegt, verschwimmt der Hintergrund basierend auf Bewegungsrichtung und Tiefe.[br]Objekte in der Ferne verwischen mehr als die direkt vor der Kamera.
 
 Item_Adv_Distortion_Title = Verzerrung
-Item_Adv_Distortion_Desc = Ermöglicht, dass einige transparente Oberflächen (z. B. Wasser) die dahinter liegenden Elemente verzerren.
+Item_Adv_Distortion_Desc = Ermöglicht, dass einige transparente Oberflächen (z. B. Wasser), die dahinter liegenden Elemente verzerren.
 
 Item_Adv_AA_Title = Kantenglättung
 Item_Adv_AA_Desc = Wenn diese Option aktiviert ist, wird eine der ausgewählten Methoden zum Glätten von Modellkanten angewendet.[br]FXAA0 ist das billigste, während FXAA5 und MLAA am teuersten sind.[br]Diese Option sollte nur auf Keine und FXAA0 gesetzt werden, wenn du nicht mit den verschiedenen Methoden vertraut bist.
@@ -352,7 +352,8 @@ Item_Adv_DynamicLights_Title = Dynamische Lichter
 Item_Adv_DynamicLights_Desc = Echtzeit-Lichteffekte, wie z. B. bewegende Lichter oder Explosionen.
 
 Item_Adv_ConservativeShadowBounds_Title = Präzise Schattengrenzen
-Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert versucht das Spiel genauer zu verfolgen, wo Schatten landen.
+Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert,
+ versucht das Spiel genauer zu verfolgen, wo Schatten landen.
 
 Item_Adv_SeparateTranslucency_Title = Zweilagige Transluzenz
 Item_Adv_SeparateTranslucency_Desc = Die Transluzenz wird durchgeführt, bevor das Schärfentiefe-Rendering bestanden wird.[br]Infolgedessen werden viele lichtdurchlässige Objekte verschwommen, selbst wenn sie direkt vor dir liegen.[br]Durch die zweilagige Transluzenz können diese Objekte gerendert werden, nachdem das Schärfentiefe-Rendering bestanden wurde.
@@ -361,7 +362,7 @@ Item_Adv_Vignette_Title = Kamera-Vignette
 Item_Adv_Vignette_Desc = Fügt einen subtilen schwarzen Rand um den Bildschirm hinzu.
 
 Item_Adv_RigidBody_Title = Simulierte Weltphysik
-Item_Adv_RigidBody_Desc = Wenn aktiviert werden Trümmer und starre Körper über PhysX simuliert.[br]Mach dir keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte du hast.
+Item_Adv_RigidBody_Desc = Wenn aktiviert, werden Trümmer und starre Körper über PhysX simuliert.[br]Mach dir keine Sorgen; PhysX funktioniert problemlos, unabhängig davon, welche Grafikkarte du hast.
 
 Item_Adv_SuperSampling_Title = Supersampling
 Item_Adv_SuperSampling_Desc = Erhöht die Grafikleistung
@@ -396,7 +397,7 @@ Item_InvertCameraY_Controller_Title_Console = Vertikale Kamera invertieren
 Item_InvertCameraY_Controller_Desc = Kehrt die vertikale Bewegung bei Verwendung eines Controllers um
 Item_InvertCameraY_Controller_Desc_Console = Kehrt die vertikale Kamerabewegung um
 Item_Rumble_Controller_Title = Vibration
-Item_Rumble_Controller_Desc = Ob Vibrationen während bestimmter Aktionen zugelassen werden sollen
+Item_Rumble_Controller_Desc = Schalte dies ein und fühle wahrlich realistische Erdbeben durch deinen Kontroller
 
 Item_InputAssist_Title = Eingabehilfe
 Item_InputAssist_Desc = Das Spiel wird versuchen, die Eingabeerfahrung zu verbessern, indem Eingaben,[br]die zu früh auf ein kleines Stück gedrückt wurden, gespeichert werden,[br]sowie versehentliche doppelte Tastendrücke zu vermeiden.

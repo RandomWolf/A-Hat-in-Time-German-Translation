@@ -32,7 +32,7 @@ SprintDesc0 = Drücke und halte [button:badge], um zu sprinten!
 
 StatueFallName = Eis-Hut
 StatueFallFun0 = Er ist so kalt!
-StatueFallTech0 = Drücke [button:badge], um eine Stampfattacke auszuführen!
+StatueFallTech0 = Drücke [button:badge], um eine[br]Stampfattacke auszuführen!
 
 HoverName = Fliegender Hut
 HoverDescFun0 = Fliege vor brenzligen Situationen weg!

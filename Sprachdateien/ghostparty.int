@@ -33,6 +33,9 @@ MapSpecific = In [actname]
 MapJoin = Betritt gerade [actname]
 HiddenPlayer1 = Du
 HiddenPlayer2 = Auch du
+Scoreboard = Punktetafel
+SpectatorMode = Zuschauen
+Scoreboard_Continue = Weiter
 
 [levelobjects]
 VaultCode = [name][playername][/name] hat einen goldenen Tresorcode gesammelt!

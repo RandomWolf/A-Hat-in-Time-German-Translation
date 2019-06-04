@@ -352,8 +352,7 @@ Item_Adv_DynamicLights_Title = Dynamische Lichter
 Item_Adv_DynamicLights_Desc = Echtzeit-Lichteffekte, wie z. B. bewegende Lichter oder Explosionen.
 
 Item_Adv_ConservativeShadowBounds_Title = Präzise Schattengrenzen
-Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert,
- versucht das Spiel genauer zu verfolgen, wo Schatten landen.
+Item_Adv_ConservativeShadowBounds_Desc = Wenn aktiviert, versucht das Spiel genauer zu verfolgen, wo Schatten landen.
 
 Item_Adv_SeparateTranslucency_Title = Zweilagige Transluzenz
 Item_Adv_SeparateTranslucency_Desc = Die Transluzenz wird durchgeführt, bevor das Schärfentiefe-Rendering bestanden wird.[br]Infolgedessen werden viele lichtdurchlässige Objekte verschwommen, selbst wenn sie direkt vor dir liegen.[br]Durch die zweilagige Transluzenz können diese Objekte gerendert werden, nachdem das Schärfentiefe-Rendering bestanden wurde.
@@ -422,7 +421,7 @@ alpha1 = So if you'd like your first impression of [name]A Hat in Time[/name] to
 alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name]. Good luck!![br]- [name]Gears for Breakfast[/name]
 
 [System_Warnings]
-SteamVerifyIntegrityGameCache = [name]WARNUNG![/name][br]Es scheint so, als hätte [hint]Steam[/hint] nicht alle nötigen Spieldateien heruntergeladen.[br]Bitte [hint]überprüfe die Integrität des Spielcaches[/hint] für dieses Spiel, wenn das Problem weiterhin zu bestehen bleibt.
+SteamVerifyIntegrityGameCache = [name]WARNUNG![/name][br]Es scheint als wäre das Spiel abgestürzt.[br]Bitte [hint]überprüfe die Integrität des Spielcaches[/hint] für dieses Spiel oder [hint]deaktivere Mods, die du installiert hast[/hint], wenn das Problem weiterhin bestehen bleibt.
 UsingIntegratedGPU0 = [name]WARNUNG![/name][br]Dein Laptop benutzt gerade den [hint]integrierten GPU[/hint] anstelle des[br][hint]dedizierten GPU[/hint].
 UsingIntegratedGPU1 = Bitte öffne die [hint]NVidia-Systemsteuerung[/hint] oder das [hint]AMD Kontrollzentrum[/hint] und setze[br]A Hat in Time für den dedizierten GPU.
 BrokenControllerSoftware0 = [name]WARNUNG![/name][br]Du benutzt ebengerade Drittanbieter für den Controller, wie [hint]Joy2Key[/hint]. Das wird nicht benötigt![br]A Hat in Time unterstützt die meisten Controller...[br]sehr wahrscheinlich auch deinen!
@@ -527,6 +526,8 @@ StandOff_Confirm_DJGrooves1 = Sein Tanz ist irgendwie abscheulich.[br]Bist du si
 StandOff_Confirm_Draw0 = Es ist ein Unentschieden! Willst du es dem Zufall überlassen, wer gewinnt?
 StandOff_Confirm_Draw1 = Bist du sicher? Es wird völlig zufällig sein!
 
+MissingPurpleTimeRift = Hier ist noch ein Zeitriss, den du noch nicht für das Kapitel freigeschaltet hast. Hast du den [icon:relic][name]Schatz[/name] aufgestellt?
+
 [Shops]
 Total_Cost = Preis:
 Item_Cost = Kosten
@@ -575,7 +576,7 @@ Suspect_Select4 = ...
 Suspect_Select5 = Tote können nicht [br] schuldig sein! [br] Ups, ähm... zzzz... 
 
 [MailDelivery]
-FirePrompt = Briefe feuern
+FirePrompt = Post feuern
 
 [Decoration]
 PayCost = Kosten:
@@ -619,10 +620,15 @@ DownloadingMod = Mod wird heruntergeladen
 ModCreatedBy = Von
 ModVersion = Version
 HowToAccessLevelMods = Mod-Level können im Raumschiff[br]über die Post-Zentrale aufgerufen[br]werden.[br]Besitze dafür Folgendes:
+VisitModMenu = Probiere es durch die Post-Zentrale aus!
 
 PreviewButtonsText_Play = Starten!
+PreviewButtonsText_RePlay = Neustarten!
 PreviewButtonsText_Enable = Aktivieren
 PreviewButtonsText_Config = Konfigurieren
+PreviewButtonsText_Install = Installieren
+PreviewButtonsText_Unsubscribe = Deinstallieren
+PreviewButtonsText_CancelDownload = Abbrechen
 PreviewButtonsText_ViewInWorkshop = Im Workshop anzeigen
 
 Category_Levels = LEVEL
@@ -632,6 +638,12 @@ Category_TimeRifts = ZEITRISSE
 Category_HatsAndBadges = HÜTE & ANSTECKER
 Category_Collectibles = SAMMELOBJEKTE
 Category_Misc = SONSTIGES
+Category_Featured = BEFÄHIGT
+Category_ChallengeRoad = AUFGABEN-MARATHON
+
+Category_ChallengeRoad_Description = Can you beat this community gauntlet with just 3 lives?
+Category_ChallengeRoad_Clear0 = You did it, congratulations!
+Category_ChallengeRoad_Clear1 = A new Challenge Road will appear in the near future...
 
 [ConsoleProfileSwap]
 SwapProfile = Profil wechseln
@@ -702,6 +714,9 @@ newgamebowkid_title = Vielen Dank!
 newgamebowkid_bullet0 = Danke, dass du ein Superfan bist!
 newgamebowkid_bullet1 = Jetzt kannst du ein neues Abenteuer
 newgamebowkid_bullet2 = mit Bow Kid in der Hauptrolle starten!
+
+featuremodmap_title = Neues befähigtes Community-Level
+challengeroad_title = Neuer Aufgaben-Marathon!
 
 [Splash]
 Splash_Close = Schließen

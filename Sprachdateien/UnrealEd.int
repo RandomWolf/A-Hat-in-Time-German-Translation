@@ -29,6 +29,7 @@ ToolTip_SimplifiedEditorToggle = Select to use a simplified editor (commonly unu
 MainMenu_CurrentAct = Current Act
 MainMenu_ChangeAct = Act %i
 MainMenu_ChangeAct_FreeRoam = Free Roam
+MainMenu_ChangeAct_FreeRoam_Intro = Free Roam (Intro)
 MainMenu_ChangeAct_MuMission = Mu Mission %i
 MainMenu_ChangeActDesc = Change Current Act To This
 
@@ -64,6 +65,8 @@ MainMenu_GameInfo_TimePieces_GiveAll = Give All Level Time Pieces
 MainMenu_GameInfo_TimePieces_GiveAll_Desc = Unlocks all Time Pieces in this level.
 MainMenu_GameInfo_TimePieces_GiveAllButOne = Give All Level Time Pieces (Except Selected)
 MainMenu_GameInfo_TimePieces_GiveAllButOne_Desc = Unlocks all Time Pieces in this level, except one.
+MainMenu_GameInfo_TimePieces_GiveAllButFinale = Give All Level Time Pieces (Except Finale)
+MainMenu_GameInfo_TimePieces_GiveAllButFinale_Desc = Unlocks all Time Pieces in this level, except the finale Time Piece.
 
 MainMenu_GameInfo_GameDesign = Game Design
 MainMenu_GameInfo_ClearPlaySession = Clear Play Sessions
@@ -112,6 +115,7 @@ MapCheck_Message_SkelMeshActorAnimationsAssignedIncorrectly=`~ : SkeletalMeshCom
 
 ObjectContext_CreateSoundCueSFX = Create New SoundCue (Sound Effect)
 ObjectContext_CreateSoundCueVoice = Create New SoundCue (Vocals)
+ObjectContext_CreateSoundCueGossip = Create New SoundCue (Gossip)
 ObjectContext_CreateSoundCueMusic = Create New SoundCue (Music)
 CreateNewSoundCue=Create New SoundCue
 ObjectContext_CreateMusicTree = Create New Music Tree
@@ -160,6 +164,8 @@ SceneColorizeSF=Scene Colorize Post Process
 LevelDesignerHelper=Level Designer Helper
 
 Error_ImportFailed_SoundWave=Import failed. SoundWaves must be 44100Hz and 16 bits!
+Error_ImportFailed_Texture2D = Failed to import Texture2D! Check that its size is a power of 2?
+Error_ImportFailed_SkeletalMesh = Failed to import SkeletalMesh! Check that the FBX contains a SkeletalMesh that is is not a child node
 
 RemoveUVs = Remove UV Channel
 RemoveUVs_No = No UV channel to delete
@@ -177,7 +183,6 @@ GizmoTransformActor_AddSpline = New Spline Here
 StaticMesh_Bake_Spline_VertexColor_SelectForward = Bake Spline VertexColor
 StaticMesh_Bake_Spline_VertexColor_SelectedForward = Forward Axis:
 
-Error_ImportFailed_Texture2D = Failed to import Texture2D! Check that its size is a power of 2?
 
 PackageContext_SetPrivate=Mark as Secret DLC
 PackageContext_SetPublic=Unmark as Secret DLC

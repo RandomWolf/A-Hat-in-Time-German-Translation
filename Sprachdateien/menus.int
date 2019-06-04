@@ -638,12 +638,12 @@ Category_TimeRifts = ZEITRISSE
 Category_HatsAndBadges = HÜTE & ANSTECKER
 Category_Collectibles = SAMMELOBJEKTE
 Category_Misc = SONSTIGES
-Category_Featured = BEFÄHIGT
-Category_ChallengeRoad = AUFGABEN-MARATHON
+Category_Featured = PRÄSENTIERTE
+Category_ChallengeRoad = AUFGABEN-PACK
 
-Category_ChallengeRoad_Description = Can you beat this community gauntlet with just 3 lives?
-Category_ChallengeRoad_Clear0 = You did it, congratulations!
-Category_ChallengeRoad_Clear1 = A new Challenge Road will appear in the near future...
+Category_ChallengeRoad_Description = Kannst du diesen Community-Marathon mit nur 3 Leben schaffen?
+Category_ChallengeRoad_Clear0 = Du hast es geschafft, Gratulation!
+Category_ChallengeRoad_Clear1 = Ein neues Aufgaben-Pack wird demnächst erscheinen...
 
 [ConsoleProfileSwap]
 SwapProfile = Profil wechseln
@@ -715,8 +715,8 @@ newgamebowkid_bullet0 = Danke, dass du ein Superfan bist!
 newgamebowkid_bullet1 = Jetzt kannst du ein neues Abenteuer
 newgamebowkid_bullet2 = mit Bow Kid in der Hauptrolle starten!
 
-featuremodmap_title = Neues befähigtes Community-Level
-challengeroad_title = Neuer Aufgaben-Marathon!
+featuremodmap_title = Neues präsentiertes Community-Level
+challengeroad_title = Neuer Aufgaben-Pack!
 
 [Splash]
 Splash_Close = Schließen

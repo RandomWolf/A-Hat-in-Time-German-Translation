@@ -399,7 +399,7 @@ Item_Rumble_Controller_Title = Vibration
 Item_Rumble_Controller_Desc = Schalte dies ein und fühle wahrlich realistische Erdbeben durch deinen Kontroller
 
 Item_InputAssist_Title = Eingabehilfe
-Item_InputAssist_Desc = Das Spiel wird versuchen die Eingabeerfahrung zu verbessern, indem Eingaben,[br]die zu früh auf ein kleines Stück gedrückt wurden, gespeichert werden.[br]Versehentliche doppelte Tastendrücke werden vermieden.
+Item_InputAssist_Desc = Das Spiel wird versuchen die Eingabeerfahrung zu verbessern,[br]indem das Spiel zu frühe Tasteneingaben speichert.[br]Versehentliche doppelte Tastendrücke werden vermieden.
 
 Item_HoldBackToCancelDive_Title = Halte zurück zum Hechtsprung-Abbrechen
 Item_HoldBackToCancelDive_Desc = Halte in die entgegengesetze Richtung, um einen Hechtsprung abzubrechen.

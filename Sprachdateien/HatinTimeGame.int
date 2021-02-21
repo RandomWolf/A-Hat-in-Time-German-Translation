@@ -155,9 +155,7 @@ TimeRift = Ein zerschmettertes Zeitstück hat einen Zeitriss erschaffen!
 TimeRift_Cave = Das Zeitstück fiel und hat jemanden getroffen!
 
 [Mountains]
-TowerOfGods = Turm der Götter
 WillsTower = Die große Windmühle
-Oasis = Oase
 HUBMountain = Ziegen-Dorf
 TheWindmill = Die Windmühle
 Twilight = Die Dämmerungs-Glocke
@@ -175,3 +173,7 @@ LavaPath2 = Glutgipfel
 WindmillPath1 = Windige Passage
 CatEasy = Ringelschwanz-Horn Pfad
 CatHard = Miausgeraubtes Dorf
+
+[unused/deleted]
+TowerOfGods = Turm der Götter
+Oasis = Oase

@@ -117,9 +117,6 @@ MirrorBadgeDesc0 = Therdegmu driw sella!
 NostalgiaBadgeName = Nostalgie-Anstecker
 NostalgiaBadgeDesc0 = Alles ist besser, wenn es schlechter ist!
 
-ExtraHealthName = 1-Up Anstecker
-ExtraHealthDesc0 = Lässt dich einen Extra-Treffer kassieren.
-
 PeaceFulBadgeName = Friendlicher Anstecker
 PeacefulBadgeDesc0 = Erlebe [hint][wave]Ruhe und Frieden[/wave][/hint] wann auch immer du tanzt!
 
@@ -176,7 +173,6 @@ GreenGoldName = Das Waldtier
 LiquoriceName = Lakritze
 MintyName = Minzfrisch
 CookieDoughSkinName = Plätzchenteig
-80sCandy = 80er Bonbon
 
 Cardboard = Pappe
 RaincoatName = Regenmantel
@@ -519,3 +515,8 @@ BurgerTopName = Burger-Kissen (obere Hälfte)
 BurgerTopDesc = Ein Kissen in der Form eines Burgers. Sein unterer Bruder fehlt! Oh nein!
 BurgerBottomName = Burger-Kissen (untere Hälfte)
 BurgerBottomDesc = Ein Kissen in der Form eines Burgers. Sein oberer Bruder fehlt! Oh nein!
+
+ExtraHealthName = 1-Up Anstecker
+ExtraHealthDesc0 = Lässt dich einen Extra-Treffer kassieren.
+
+80sCandy = 80er Bonbon

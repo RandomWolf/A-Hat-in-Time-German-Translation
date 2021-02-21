@@ -97,9 +97,10 @@ Item_GhostPartyDisplay_Both = Zeige beides
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
 
-Item_FieldOfView_Title = Sichtweite
+Item_FieldOfView_Title = Sichtfeld (Field of View)
 Item_FieldOfView_Item_TV = TV (80)
 Item_FieldOfView_Item_PC = PC Monitor (90)
+Item_FieldOfView_Item_UltraWide = Ultrawide (140)
 Item_FieldOfView_Item_Custom = Angepasst...
 Item_FieldOfView_Item_Desc = Höhere Field of View(FoV)-Werte erweitern das periphere Sehen, während niedrigere Werte es einschränken. Höhere FoV-Werte werden empfohlen, wenn du dich in der Nähe des Displays befindest, während niedrigere Werte empfohlen werden, wenn du dich in der Ferne befindest.
 
@@ -148,7 +149,7 @@ Item_CameraUpscaling_Item_0 = Wie im Spiel
 
 Header_System = System-Einstellungen
 Item_NoSaving_Title = Kein Speichern
-Item_NoSaving_Desc = Das Spiel wird deinen Fortschritt nicht speichern.[br]Dies wird nur empfohlen, wenn du einen Speedrun ausführst und[br]es dir egal ist, dass dein Fortschritt nicht erhalten bleiben.
+Item_NoSaving_Desc = Das Spiel wird deinen Fortschritt nicht speichern.[br]Dies wird nur empfohlen, wenn du einen Speedrun ausführst und[br]es dir egal ist, dass dein Fortschritt nicht erhalten bleibt.
 
 Item_DevConsole_Title = Entwicklerkonsole
 Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole.[br]Das Spiel muss neu gestartet werden, damit diese Option wirksam wird.[br]Drücke zum Öffnen TAB/Zirkumflex.
@@ -406,6 +407,12 @@ Item_HoldBackToCancelDive_Desc = Halte in die entgegengesetze Richtung, um einen
 
 Item_InputAllowEmote_Title = Emote-Knopf
 Item_InputAllowEmote_Desc = Stellt ein, ob du Emotes benutzen kannst
+
+Item_GyroAim_Controller_Title = Bewegungssteuerung
+Item_GyroAim_Controller_Desc = Benutze Bewegungssteuerung, um die Kamera zu bewegen.
+
+Item_JumpAssist_Title = Auto-Springen
+Item_JumpAssist_Desc = Vereinfacht das Sprung-System, erlaubt Herumlaufen ohne zu oft den Sprungknopf manuell drücken zu müssen.
 
 [systemsettings.controller]
 Header_Controller = Hinzugefügte Controller

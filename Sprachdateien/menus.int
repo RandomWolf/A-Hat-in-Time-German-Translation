@@ -373,6 +373,8 @@ Item_Adv_PP_Downsample_Desc = Downsampling-Post-Verarbeitung, um die Leistung zu
 Header_Adv_Game = Spiel
 Item_Adv_PredictiveCamera_Title = Vorausschauende Verfolgungskamera
 Item_Adv_PredictiveCamera_Desc = Verbessert das Glätten der Kamera, indem Sie die Geometrie in der Nähe verfolgt.
+Item_Adv_PrecacheShaders_Title = Precache Shaders
+Item_Adv_PrecacheShaders_Desc = Bereitet Shaders beim Laden von Levels im Voraus vor, damit das Spiel stabiler laufen kann. Wenn dies ausgeschaltet wird, reduziert sich zwar CPU-Einsatz für Lower-End Hardware, aber das Spiel wird ab und zu ruckeln.
 
 [systemsettings.input]
 Header_Input = Eingabe

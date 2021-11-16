@@ -378,6 +378,10 @@ ComboCurryRice = Curry & Reis
 ComboPizzaMenu = Pizza-Menü
 ComboDessert = Dessert
 
+[StatTrack]
+StatTrack = Statistik
+OnlinePlayersMet = Spieler Getroffen In Online Party
+
 
 [unused/deleted]
 BadgeCollect0 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren; nur [name][badgepoints_left][/name] übrig!

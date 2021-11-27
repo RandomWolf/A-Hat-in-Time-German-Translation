@@ -639,6 +639,12 @@ PreviewButtonsText_Install = Installieren
 PreviewButtonsText_Unsubscribe = Deinstallieren
 PreviewButtonsText_CancelDownload = Abbrechen
 PreviewButtonsText_ViewInWorkshop = Im Workshop anzeigen
+PreviewButtonsText_PlayIntroduction = Intro Ansehen
+PreviewButtonsText_Back = Zurück
+PreviewButtonsText_ViewDLC = DLCs Ansehen
+PreviewButtonsText_Credits = Credits
+PreviewButtonsText_Arcade_Play = FORTFAHREN
+PreviewButtonsText_Arcade_PlayIntroduction = NEUES SPIEL
 
 Category_Levels = LEVEL
 Category_AllLevels = ALLE LEVEL
@@ -653,6 +659,8 @@ Category_ChallengeRoad = AUFGABEN-PACK
 Category_ChallengeRoad_Description = Kannst du diesen Community-Marathon mit nur 3 Leben schaffen?
 Category_ChallengeRoad_Clear0 = Du hast es geschafft, Gratulation!
 Category_ChallengeRoad_Clear1 = Ein neues Aufgaben-Pack wird demnächst erscheinen...
+
+Category_DLC = Creator DLC
 
 [ConsoleProfileSwap]
 SwapProfile = Profil wechseln

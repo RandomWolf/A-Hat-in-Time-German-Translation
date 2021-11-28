@@ -1,4 +1,4 @@
 [Shops]
-RequiredToUnlock = Required to Unlock
-ReadyToUnlock = Ready to Unlock
-Action_ObtainItem = Obtain Item
+RequiredToUnlock = Zum Freischalten erforderlich
+ReadyToUnlock = Bereit zum Freischalten
+Action_ObtainItem = Item erhalten

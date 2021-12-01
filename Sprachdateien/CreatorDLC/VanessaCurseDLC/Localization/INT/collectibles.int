@@ -1,6 +1,6 @@
 [skins]
 MaterialSkin_GoldenCrown_Name = Goldene Krone
-GoldenCrown_Desc0 = Ein sehr, SEHR teures SchmÃ¼ckstÃ¼ck!
+GoldenCrown_Desc0 = Ein sehr, SEHR teures Schmuckstück!
 IceFoxDesc0 = Verwandle dich in eine Box wann immer du willst!
 FeatherMaskDesc0 = Verstecke deine Augen mit diesem fedrigen Versteck!
 Blue_Bomber = Blauer Komet
@@ -8,25 +8,25 @@ BlueComet_Desc0 = Tiefblau und bereit durch den Himmel zu fliegen!
 Roll = Rolling Heart
 RollDesc0 = Ein liebliches Pink mit einer Priese Gold!
 StarForce_Desc0 = Blau wie der Sternenhimmel!
-DonutSprintDesc0 = Leicht in der Herstellung. Einfach StrÃ¤uÃŸel in den Mixer!
+DonutSprintDesc0 = Leicht in der Herstellung. Einfach Sträußel in den Mixer!
 VisuDesc0 = Wirf hiermit einen Blick in die Geisterwelt!
 Violet = Burning Violet
 Violet_Desc0 = Sanftes Violet mit einem Funken Rot.
-BunnySprintDesc0 = Hopple in den Kampf mit dieser Hasen-BaskenmÃ¼tze!
+BunnySprintDesc0 = Hopple in den Kampf mit dieser Hasen-Baskenmütze!
 CrownSprintDesc0 = Es kann sicherlich nicht schaden eine zu behalten...
-CubeDesc0 = Bedeckt deinen ganzen Kopf fÃ¼r eiskalten Durchblick!
+CubeDesc0 = Bedeckt deinen ganzen Kopf für eiskalten Durchblick!
 Pastel_Desc0 = Eine Palette voll mit Pastelfarben.
 City Girl = City Girl
 Film_Name = Old Film
-Film_Desc0 = SchÃ¶n unscharfer retro Look. Aussehen wie frÃ¼her!
-PunkCapDesc0 = FÃ¼rs bÃ¶se MÃ¤dchen!
-LampDesc0 = Erleuchtung fÃ¼r dich und deine Gegner!
+Film_Desc0 = Schön unscharfer retro Look. Aussehen wie früher!
+PunkCapDesc0 = Fürs böse Mädchen!
+LampDesc0 = Erleuchtung für dich und deine Gegner!
 
 PunkName = Punk Set
-SkinDesc_PunkDesc0 = FÃ¼rs bÃ¶se MÃ¤dchen!
+SkinDesc_PunkDesc0 = Fürs böse Mädchen!
 
 [weapons]
-GothicUmbrella_Desc0 = FÃ¼rs BÃ¶se MÃ¤dchen!
+GothicUmbrella_Desc0 = Fürs Böse Mädchen!
 Weapon_Nyakuza_Gothic = Gothschirm
 
 [loot]
@@ -36,13 +36,13 @@ sticker_GotYouDesc0 = Reib es ihnen unter die Nase!
 sticker_WhoDaresDesc0 = Dieser Sticker verleiht deiner Wut Ausdruck!
 
 DeadlyTagName = Remix - Fangen des Todes
-DeadlyTagDesc0 = Ein tÃ¶dlicher Fluch, ein Sprint ums Leben, das Fangen des Todes! 
+DeadlyTagDesc0 = Ein tödlicher Fluch, ein Sprint ums Leben, das Fangen des Todes! 
 
 Soul = Seele
-SoulDesc0 = Die Seele eines unglÃ¼cklischen Kinds, das von Vanessas Puppen gefangen wurde.
+SoulDesc0 = Die Seele eines unglücklischen Kinds, das von Vanessas Puppen gefangen wurde.
 DeadlyTagName = Remix - Fangen des Todes
-RemixDesc_DeadlyTag0 = Ein tÃ¶dlicher Fluch, ein Sprint ums Leben, das Fangen des Todes! 
+RemixDesc_DeadlyTag0 = Ein tödlicher Fluch, ein Sprint ums Leben, das Fangen des Todes! 
 
 [remixes]
 DeadlyTagName = Remix - Fangen des Todes
-RemixDesc_DeadlyTag0 = Ein tÃ¶dlicher Fluch, ein Sprint ums Leben, das Fangen des Todes!
+RemixDesc_DeadlyTag0 = Ein tödlicher Fluch, ein Sprint ums Leben, das Fangen des Todes!

@@ -1,48 +1,48 @@
 [skins]
-MaterialSkin_GoldenCrown_Name = Golden Crown
-GoldenCrown_Desc0 = A very, VERY expensive aesthetic!
-IceFoxDesc0 = Transform into a box when you feel like it!
-FeatherMaskDesc0 = Hide your eyes with this feathery disguise!
-Blue_Bomber = Blue Comet
-BlueComet_Desc0 = Dark, blue, and ready to shoot through the stars!
+MaterialSkin_GoldenCrown_Name = Goldene Krone
+GoldenCrown_Desc0 = Ein sehr, SEHR teures Schmückstück!
+IceFoxDesc0 = Verwandle dich in eine Box wann immer du willst!
+FeatherMaskDesc0 = Verstecke deine Augen mit diesem fedrigen Versteck!
+Blue_Bomber = Blauer Komet
+BlueComet_Desc0 = Tiefblau und bereit durch den Himmel zu fliegen!
 Roll = Rolling Heart
-RollDesc0 = A lovely pink dye with a dash of gold!
-StarForce_Desc0 = Look out for the stars!
-DonutSprintDesc0 = Easy to make. Just dump sprinkles into a blender!
-VisuDesc0 = Peer into the spectral world with this stellar visor!
+RollDesc0 = Ein liebliches Pink mit einer Priese Gold!
+StarForce_Desc0 = Blau wie der Sternenhimmel!
+DonutSprintDesc0 = Leicht in der Herstellung. Einfach Sträußel in den Mixer!
+VisuDesc0 = Wirf hiermit einen Blick in die Geisterwelt!
 Violet = Burning Violet
-Violet_Desc0 = Soft violet with a fiery slash of rogue.
-BunnySprintDesc0 = Hop into the fray with this bunny beret!
-CrownSprintDesc0 = What's the harm in keeping one for yourself?
-CubeDesc0 = It covers your head, but icy through it just fine.
-Pastel_Desc0 = A palette of soft pastel colours.
+Violet_Desc0 = Sanftes Violet mit einem Funken Rot.
+BunnySprintDesc0 = Hopple in den Kampf mit dieser Hasen-Baskenmütze!
+CrownSprintDesc0 = Es kann sicherlich nicht schaden eine zu behalten...
+CubeDesc0 = Bedeckt deinen ganzen Kopf für eiskalten Durchblick!
+Pastel_Desc0 = Eine Palette voll mit Pastelfarben.
 City Girl = City Girl
 Film_Name = Old Film
-Film_Desc0 = A grainy retro-styled look.
-PunkCapDesc0 = Baddest girl in town!
-LampDesc0 = Enlighten your enemies!
+Film_Desc0 = Schön unscharfer retro Look. Aussehen wie früher!
+PunkCapDesc0 = Fürs böse Mädchen!
+LampDesc0 = Erleuchtung für dich und deine Gegner!
 
 PunkName = Punk Set
-SkinDesc_PunkDesc0 = Baddest girl in town!
+SkinDesc_PunkDesc0 = Fürs böse Mädchen!
 
 [weapons]
-GothicUmbrella_Desc0 = Baddest girl in town!
-Weapon_Nyakuza_Gothic = Gothic Umbrella
+GothicUmbrella_Desc0 = Fürs Böse Mädchen!
+Weapon_Nyakuza_Gothic = Gothschirm
 
 [loot]
-Crown = Vanessa Crown
-CrownDesc0 = One of Vanessa's MANY crowns! She wouldn't miss this one, right?
-sticker_GotYouDesc0 = Rub it in their faces!
-sticker_WhoDaresDesc0 = Express your anger with this sticker!
+Crown = Vanessa Krone
+CrownDesc0 = Eine von Vanessas vielen Kronen! Sie wird diese sicher nicht vermissen...
+sticker_GotYouDesc0 = Reib es ihnen unter die Nase!
+sticker_WhoDaresDesc0 = Dieser Sticker verleiht deiner Wut Ausdruck!
 
-DeadlyTagName = Remix - Deadly Tag
-DeadlyTagDesc0 = A deadly curse, a deadly dash, a deadly game of tag! 
+DeadlyTagName = Remix - Fangen des Todes
+DeadlyTagDesc0 = Ein tödlicher Fluch, ein Sprint ums Leben, das Fangen des Todes! 
 
-Soul = Soul
-SoulDesc0 = The soul of a poor kid who was caught by vanessa's puppets.
-DeadlyTagName = Remix - Deadly Tag
-RemixDesc_DeadlyTag0 = A deadly curse, a deadly dash, a deadly game of tag! 
+Soul = Seele
+SoulDesc0 = Die Seele eines unglücklischen Kinds, das von Vanessas Puppen gefangen wurde.
+DeadlyTagName = Remix - Fangen des Todes
+RemixDesc_DeadlyTag0 = Ein tödlicher Fluch, ein Sprint ums Leben, das Fangen des Todes! 
 
 [remixes]
-DeadlyTagName = Remix - A Deadly Tag
-RemixDesc_DeadlyTag0 = A deadly curse, a deadly dash, a deadly game of tag!
+DeadlyTagName = Remix - Fangen des Todes
+RemixDesc_DeadlyTag0 = Ein tödlicher Fluch, ein Sprint ums Leben, das Fangen des Todes!

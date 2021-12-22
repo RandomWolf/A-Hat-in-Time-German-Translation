@@ -1,0 +1,112 @@
+[Tutorial]
+Tutorial1 = Alright Kid,[wait] I'm going to teach you the basics of what you'll have to do for me!
+Tutorial2 = Once you enter Vanessa's domain, you'll have to look for her [hint]crowns![/hint] Don't forget, we're trying to make her go [shake2]mad.
+Tutorial3 = [small]I've already stolen a few hehe..[/small] [wave]Here, try to find them![wave]
+Tutorial4 = It seems you understand so far![wait] very good!
+Tutorial5 = Just so you know..[waitlong] It's gonna be much harder to find the crowns once you enter her manor, it's quite spacious you know..
+Tutorial6 = Not to mention, she also keeps them STASHED away around the place, it's odd I know.
+Tutorial7 = [hint]Every time Vanessa uses her powers, a crown will manifest itself.[/hint][wait] Like so!
+Tutorial8 = HEY VANESSA! CAN YOU HEAR ME? I NEVER REALLY LIKED YOUR BREAKFAST SPECIAL!
+Tutorial9 = .[wait].[wait].[wait].[wait].[wait].
+Tutorial10 = MMMmmm...[wait] I could HAVE SWORN I heard something COMPLETELY inFURIATING just now.
+Tutorial11 = My oh my, I lost my composure..[waitlong] I should be more careful![wait] hehehehehe!
+Tutorial12 = Now make sure you DO NOT under any circumstances [hint]touch[/hint] the cursed entity, [hint]the curse will spread to you![/hint] [shake2]And trust me, you don't want that.
+Tutorial13 = [wave]So beeee careful, okayyy?
+Tutorial14 = Although I'm a bit curious to see what would happen to you if you touched it. [shake2]Maybee I'll just teleport you on it...
+Tutorial15 = YEP I'M DOING IT!
+Tutorial16 = OH god alright well! you touched it,[wait] ermm...
+Tutorial17 = Oh I can hear her coming,[wait] that's for you to deal with now![wait][wave] bye bye![/wave]
+Tutorial18 = Boop![wait][small] Sorry.. I just had to.
+Tutorial19 = Oh, I can hear her coming.[wait] That's for you to deal with now![wait][wave] Bye bye![/wave]
+Tutorial20 = What's this?[wait] [shake]You again?![/shake][wait] Did you come back for my [wave]delicious[/wave] cookies?
+Tutorial21 = No...?[wait] Oh well.[wait] It looks like you've caught my curse,[wait] which means you are under MY CONTROL now! [shake]KYEHAHAHA!
+Tutorial22 = Your goal is simple. Find all of the survivors and [hint]tag them to [shake]spread the curse![/shake][/hint]
+Tutorial23 = [big]Good![/big][wait] You seem to understand your role.
+Tutorial24 = Once you are under my curse, your [hint]only task is to spread it, don't forget that.[/hint]
+Tutorial25 = I've no need for you anymore, I'll let you go just this once!
+Tutorial26 = [small]Is she gone?[wait] yes?[wait][/small] [wave]Oookay[/wave] good. 
+Tutorial27 = There's only a few things left that I need to teach you.
+Tutorial28 = Lets see.. err "collect the crowns" no yep did that.. "avoid cursed entities" yeah we did that.. OH! "Icon reveals"!
+Tutorial29 = When you're in a match, at certain points there will be [hint]"icon reveal"[/hint] events.[wait] Those will [hint]reveal the location of every kiddo in the area![/hint] As well as show you which are cursed by [name]Vanessa.[/name] So stay away from them!
+Tutorial30 = Alright![wave] Let's have a last quick look at this tutorial book...
+Tutorial31 = [big]"Roulette Event"[/big] Oh that sounds pretty neat! Listen to this: [hint]"During your game a roulette event will happen.. The roulette will draw an event beniffiting the LOSING TEAM! If both teams are roughly equal in players, then the event will be special and affect both!"[/hint] 
+Tutorial32 = [wave]That sounds pretty cool, wouldn't you agree?[/wave] And apparently I've even got my own roulette I can spin! It should help you when you're facing against Vanessa's terrible curse.  [wave]Let's try it out!
+Tutorial33 = Look at that![wait] It turned you invisible?[wait] Might be helpful.. [small]I guess?[/small] [hint]It looks like it has a duration too, indicated by the timer.[/hint]
+Tutorial34 = [wave]Anyways that about wraps it up Kid![/wave][wait] You can come back up now,[wait] get out of this [shake]old stinky basement![shake]
+Tutorial35 = Pick up the last required crown(s) to win!
+Tutorial36 = Enough learning, it's time to go out on the field, [shake]the real deal![/shake] Grab one of your friends and enter the waiting room! I'll send you straight to her manor once there's two or more of you in there. 
+Tutorial37 = Can't wait to see her face when she finds out we've been stealing her precious crowns! You're as mean as ever snatcher! hehehe!
+Tutorial38 = Pick up the last required crown to win!
+Tutorial39 = Icon reveal events are represented by this icon!
+
+[tutorialdoor]
+tutorialdoor1 = Begin the tutorial?
+yes = Yes
+no = No
+
+[woodensign]
+woodensign1 = Snatcher's Shack!
+woodensign2 = This house is pretty worn out! Seems like people were living here before Snatcher came in. Or maybe they were still here when Snatcher arrived and then.. [shake]you know.[/shake] He's crazy like that!
+woodensign3 = 
+woodensign4 = 
+woodensign5 = 
+woodensign6 = 
+woodensign7 = 
+
+[Debug]
+Debug1 = [big][name]Connection to [hint]online party[/hint] lost!
+Debug2 = [big][name]Early win detected, please wait for real match to END.
+Debug3 = [big][name]Game error, returning to lobby.
+Debug4 = [big][name]Player not in game, excluding from map.
+Debug5 = [big][name]Player Left Mid Game, Exiting Arena.
+Debug6 = [big][name]Failed to start game, try again.
+Debug7 = [big][name]Not enough players to start, cancelling.
+
+
+[ProTipMinion]
+ProTipMinion1 = Let me introduce myself. I'm a subcon minion.[wait].[wait].[wait] you may call me [name]'Pro Tip Minion'[/name].
+ProTipMinion2 = Let me tell you something, I've played more tag than anyone else on this planet. Survived the toughest of rounds, Tagged the most kids, Collected the most crowns, I'm 6'5, the fastest minion.
+ProTipMinion3 = Though, what's fun in being the best? I need new competitors, fresh blood, younging's with a craving for [hint]FAME[/hint][wait] and [hint]GLORY![wait][/hint] And that's why I'm ready to help [big]YOU[/big] become as good as me![wait] Very unlikely, [big]BUT[/big] [shake]you can always dream right?
+ProTipMinion4 = Point is, [hint]I'll give you advice.[/hint][wait] You ask and I shall answer.
+
+ProTipMinion5 = You can use the [hint]dweller bells near dweller walls to block off pursuers![/hint]
+ProTipMinion6 = Don't stay out in the open once the curse is out! You'll get caught off guard by newly cursed kiddos.
+ProTipMinion7 = Avoid moving in small areas while player icons are hidden, you don't want to go face to face with a cursed kid! 
+ProTipMinion8 = Once player icons are revealed, it's a good moment to start [hint]hunting for crowns[/hint] and avoid cursed players!
+ProTipMinion9 = As a cursed puppet, you can [hint]sneak up on players[/hint] if they don't see you coming, just [hint]make sure an icon reveal event isn't active![/hint]
+ProTipMinion10 = You can use [hint]negative dweller bells[/hint] as traps to [hint]remove dweller platforms for other players![/hint]
+ProTipMinion11 = [hint]Don't stand near other players when the game starts![/hint] It'd be [shake]bad news[/shake] if [hint]one of them was selected as the first cursed puppet![/hint] Although.. could be good if [hint]you were to be selected[/hint], [shake]hehe![/shake] [hint]Risk and reward[/hint] if you're into that sorta thing.
+ProTipMinion12 = The roulette adapts to the game, if your team is behind in numbers, you might still have a chance to win once that roulette rolls around! Little secret, [hint]it always appears at 140s[/hint], on the dot!
+ProTipMinion12_2 = [big]AND![/big] The way it knows if a team is behind, is with a [hint]one third split.[/hint] If a team [hint]has or has less than one third of the total player count[/hint], that team is considered losing! [wave]Math, baby![/wave]
+ProTipMinion13 = Crowns appear in different ways during a game, [hint]one will appear for every cursed player[/hint], and more will appear [hint]every 60s![/hint] The number of crowns spawned will vary based on the [hint]player count![/hint] You could say I've crunched the numbers.
+ProTipMinion14 = Experiment with different paths! When getting chased, you want to make your escape route as [hint]confusing as possible to other players[/hint], you'll have an easier time shaking off those pesky cursed kids!
+ProTipMinion15 = If you want to catch up to a player sprinting in a straight line, you'll need to do [hint]perfect dive boosts![/hint]
+ProTipMinion16 = If you want an edge over other players, try learning some speed run tech! Tricks like the [hint]SDJ[/hint] and [hint]DSJ[/hint] will give you a great advantage!
+ProTipMinion17 = Careful not to fall into pits during a game! It'll curse ya! the whole area is encapsulated by Vanessa's cursed energy.
+ProTipMinion18 = If you ever receive the invisibility event, [hint]try not to sprint, other players can see your sprint trail![/hint] You'll wanna tip toe around if want to use it to it's full potential! 
+ProTipMinion19 = Although be warned! Other players can tell your [hint]general area through the icon reveal event!
+ProTipMinion20 = As a cursed player, the [hint]"group warp"[/hint] event is a great way to get easy tags on un-prepaired kiddos! Just start sprinting once everyone is teleported, and you're sure to get one or two!
+ProTipMinion21 = Here's a strategy of mine! [hint]Hiding is very effective when there is no icon reveal.[/hint] Once those player icons are visible, start gunning it for the crowns! Of course, all while [hint]avoiding Vanessa's cursed kiddos.[/hint]
+ProTipMinion22 = A game of tag is effectively separated into two, hiding and running! You better brush up on your platforming skills,[wait][wave] HEH!
+
+[RandomInteractables]
+RandomInteractables1 = You blow the dust off of some books, titles such as:
+RandomInteractables2 = "Subcon's Mystery", "Tale of Two Queens", "A Prince and A Moon", "Errant Soul Trader", "Mountain of Gold at Death's Door", "The Coldest Queen". The list goes on, and on, and on...
+RandomInteractables3 = "This must be the lore shelf!" Understanding so, you decide to gently walk away, as note pad lore is not your thing.
+RandomInteractables4 = Man! Who knew that Queen Vanessa had such a big manor hidden up in the hills!
+RandomInteractables5 = I'd love to see the insides... probably a lot of valuable stuff [shake]hehehe..[/shake]
+RandomInteractables6 = [big][name]"Statue of the Collector"
+RandomInteractables7 = "Awarded to those who have collected a mountain's worth of the Cursed Queen's crowns." 
+RandomInteractables8 = Looking for matches? Join the Discord at discord.gg/AHatInTime
+RandomInteractables9 = You can also try these joining these public lobbies! win or lose, be a good sport! Have fun! 
+RandomInteractables10 = tag1 [br]tag2 [br]tag3 [br]tag4
+RandomInteractables11 = Gather souls by tagging other players with the curse!
+
+
+[SnatcherGuidance]
+SnatcherGuidance1 = Alright kid, since you're new to what we'll be doing, I've set up a room with basic training! Just go down the ramp and through the door.
+SnatcherGuidance2 = I mean, it has a big sign with "T U T O R I A L" on it. Surely you can't miss it right?!
+SnatcherGuidance3 = It would be a shame if you got lost on the way there! I spent soooo much time making it as CLEAR as possible!
+SnatcherGuidance4 = Anyways off you go.
+
+

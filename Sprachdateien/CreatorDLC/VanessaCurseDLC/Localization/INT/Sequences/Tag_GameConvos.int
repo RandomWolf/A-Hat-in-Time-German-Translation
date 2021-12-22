@@ -1,0 +1,75 @@
+[PreTime]
+Pretime1 = This presence.. my prince, is that you my dear?
+Pretime2 = Prince? Nah that fool is still locked up somewhere in a basement, maybe you should check on him!
+Pretime3 = Mph! Good! I've no need for a back stabber like him!
+Pretime4 = We're here kid! Try to not get lost, this place is big ANDDD haunted.
+Pretime5 = Vanessa will show up any moment now, so I'd be careful if I were you!
+Pretime6 = CHAZAM! Pretty cool right? I can teleport stuff now! Learned it from reading a book.
+Pretime7 = Anyways,[wait] this is one of Vanessa's get away manors.[wait] It's quite spacious,[wait] and has many comfy beds. [wave]Don't get lost now![/wave]
+Pretime8 = [shake]Heyo!!![/shake] We're here to party! Where's all the food and music?
+Pretime9 = I've no time for games,[wait] leave my domain.
+
+
+[CurseBegin]
+CurseBegin1 = The curse has been released! [shake2]I'd watch your back if I were you..[/shake2]
+CurseBegin2 = You work for me now. Find your friends and spread the curse!
+CurseBegin3 = Don't forget why were here though! Look for those [hint]crowns and survive her curse. See you in 5 minutes!
+CurseBegin4 = Have you come to relive the past? I would LOVE to [shake]torment you.[/shake]
+CurseBegin5 = Coming here was your worst mistake! But don't worry, I'll take good care of you! [wave]Hyeheahahah![/wave]
+CurseBegin6 = Yeah yeah, whatever![wait] ..Man she's just as [shake]EXTREME[/shake] as ever!
+CurseBegin7 = This is the end for you, but your mission is not over yet. Find the intruders and tag them!
+CurseBegin8 = [shake2]Hear that thunder?[/shake2][wait] The curse is out. Survive and find those crowns, see you in 5 minutes! :)
+CurseBegin9 = Have you not learned your lesson from your last visit?[wait] [shake]My puppets will hunt you down![/shake]
+CurseBegin10 = Find them! Don't let a single one survive.
+CurseBegin11 = Uh oh, she's on edge. Good luck kid, I'm outa here! Trust me, you don't want to be around when she's like this!
+
+[50percentleft]
+50percentleft1 = Half are down! Don't stop now, I want every single one of them cursed!
+50percentleft2 = Uhhh is this fine? It's probably fine.
+50percentleft3 = Hey kid! I don't want to alarm you but it seems half your friends have been cursed.. [shake2][small]This is getting exciting.
+50percentleft4 = Half of your friends are gone, why don't you come out and play with us! [shake]Heheheh..
+50percentleft5 = [shake]Your friends are under my control now.[/shake] Come and join us, it's so much fun! 
+
+[CrownCollect]
+CrownCollect1 = Stealing crowns are we?[wait] How dare you lay your puny hands on my [wave]beautiful collection![/wave] [shake]I will enjoy having you as a puppet.[/shake]
+CrownCollect2 = That's one[icon:treasure]! Keep it up Kid.
+CrownCollect3 = You've got some NERVE to come into my HOME and steal MY beautiful crowns!
+CrownCollect4 = [shake]My puppets will [big]TEAR YOU APART!
+CrownCollect5 = [wave]HAHAHAHA!!![/wave] Now that's funny kiddo! She's really upset now!
+
+[LastAlive]
+LastAlive1 = [shake]Your friends are under my control now. You stand no chance, give up and Join us! [shake]it's so much more fun![/shake]
+LastAlive2 = Oh god oh peck kiddo, don't panick, [shake2]I'M PANICKING[/shake2], [wave]just get OUT of there!![/wave]
+LastAlive3 = [shake]They're coming for ya kiddo![/shake] You better start running or else you're [shake2]DONE[/shake2] for! [icon:sprinthat]
+LastAlive4 = Just give me a bit of time and I'll get you out of there safe and sound.
+LastAlive5 = Only one left, do not let them get away!
+LastAlive6 = Sounds like your "friends" have a bone to pick with you.
+
+[SnatcherAppear]
+SnatcherAppear1 = Hey it seems you're having a hard time kiddo! I'll see what I can do for you.
+SnatcherAppear2 = Time to spin the [wave]SNATCHER WHEEL!!!![/wave]
+SnatcherAppear3 = [wave]SPEEEEEEEEEN!!![/wave]
+
+[VanessaAppear]
+VanessaAppear1 = Such a pain, must I do everything myself!?
+VanessaAppear2 = I am losing patience, I will aid you just this once!
+VanessaAppear3 = Uh oh, now she's upset! brace yourself kid.
+VanessaAppear4 = ENOUGH! Running around like rodents, your souls will be mine!
+VanessaAppear5 = I will aid you, [shake]but do not disappoint me!
+VanessaAppear6 = You know what? For once I agree with her. You kids are always too hyper active, ya never stop jumping around!
+
+[Victory]
+Victory1 = Snatcher takes home the trophy! [small]and a few crowns[/small], that'll show her and her cursed puppets!
+Victory2 = They have gotten away.[wait][shake] Perhaps I will turn you to ice, keep you as a memento of your failure!
+Victory3 = Snatcher takes home the trophy! Great work kiddo, that'll show her and her cursed puppets!
+Victory4 = You have failed me. [shake]Perhaps I will toss you in the furnace, watch you dance in the flames!
+Victory5 = Coming here was your worst mistake! But don't worry, I'll take good care of you! [wave]Hyeheahahah![/wave]
+Victory6 = The curse claims all! Did you really think you could survive? 
+Victory7 = It was foolish to come here! I will torment your soul for eternity! 
+Victory8 = Ughhh... [wave]History repeats itself I suppose![/wave]
+
+[SoulSeller]
+SoulSeller1 = [glitch]Have you come to make another purchase?[/glitch]
+SoulSeller2 = [glitch]Welcome, young one. Please make a purchase at my humble stall.[/glitch]
+SoulSeller3 = [glitch]Please disregard my twitchy behavior. My body has been to places that have left a permanent mark.[/glitch]
+

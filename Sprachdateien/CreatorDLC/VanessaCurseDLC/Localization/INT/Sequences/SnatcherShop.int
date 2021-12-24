@@ -1,6 +1,6 @@
 [LobbyShop]
-EnterShop1 = [wave]Welcome to my humble abode![/wave] Did you bring any new shiny crowns? 
-EnterShop2 = Hey kid! I've got some rare collectibles in store for you.. but I want those crowns first!
-EnterShop3 = [shake2]What are ya buyin'?
-EnterShop4 = Sorry, I've always wanted to say that line..
-EnterShop5 = You bring me crowns, I give you the goods, got it?
+EnterShop1 = [wave]Willkommen zu meiner bescheidenen Bude![/wave] Hast du mir neue glitzernde Kronen mitgebracht? 
+EnterShop2 = Hey, Kleine! Ich hab einige seltene Sammelobjekte für dich,... aber gib mir erstmal Kronen!
+EnterShop3 = [shake2]Was willste kaufen?
+EnterShop4 = Ich wollte das schon immer sagen, sorry.
+EnterShop5 = Gib mir Kronen und ich geb dir Sachen, kapische?

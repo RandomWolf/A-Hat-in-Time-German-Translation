@@ -64,10 +64,10 @@ Debug7 = [big][name]Nicht genug Spieler zum Starten, bricht Match ab.
 
 
 [ProTipMinion]
-ProTipMinion1 = Let me introduce myself. I'm a subcon minion.[wait].[wait].[wait] you may call me [name]'Pro Tip Minion'[/name].
-ProTipMinion2 = Let me tell you something, I've played more tag than anyone else on this planet. Survived the toughest of rounds, Tagged the most kids, Collected the most crowns, I'm 6'5, the fastest minion.
-ProTipMinion3 = Though, what's fun in being the best? I need new competitors, fresh blood, younging's with a craving for [hint]FAME[/hint][wait] and [hint]GLORY![wait][/hint] And that's why I'm ready to help [big]YOU[/big] become as good as me![wait] Very unlikely, [big]BUT[/big] [shake]you can always dream right?
-ProTipMinion4 = Point is, [hint]I'll give you advice.[/hint][wait] You ask and I shall answer.
+ProTipMinion1 = Darf ich mich vorstellen? Ich bin ein Subcon-Lakai.[wait].[wait].[wait] Du kannst mich auch [name]'Pro Tipps Lakai'[/name] nennen.
+ProTipMinion2 = Ich hab mehr Fangen gespielt als jeder anderer auf diesem Planeten. Ich hab die härtesten Runden überlebt, die meisten Kinder gefangen, die meisten Kronen geholt, ich bin 1,98m, der schnellste aller Lakaien.
+ProTipMinion3 = Aber wo ist der Spaß, wenn man immer gewinnt? Ich brauche neue Gegner, frisches Blut, Kinder die sich nach [hint]RUHM[/hint][wait] und [hint]GLORY![wait][/hint] sehnen! Und deshalb bin ich bereit [big]DIR[/big] zu helfen, damit du so gut wirst wie ich![wait] Ist zwar unwahrscheinlich, [big]ABER[/big] [shake]wäre ja schön, nicht?
+ProTipMinion4 = Kurzgesagt, [hint]ich gebe dir Tipps.[/hint][wait] Du fragst und ich antworte.
 
 ProTipMinion5 = You can use the [hint]dweller bells near dweller walls to block off pursuers![/hint]
 ProTipMinion6 = Don't stay out in the open once the curse is out! You'll get caught off guard by newly cursed kiddos.

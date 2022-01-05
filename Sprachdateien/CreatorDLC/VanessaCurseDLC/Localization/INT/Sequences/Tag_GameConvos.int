@@ -24,39 +24,39 @@ CurseBegin10 = Finde sie! Keiner sollte überleben.
 CurseBegin11 = Oh-oh, sie ist am Ende der Nerven. Viel Glück, Kleine, ich haue ab! Du würdest sie nicht in diesem Zustand sehen wollen!
 
 [50percentleft]
-50percentleft1 = Half are down! Don't stop now, I want every single one of them cursed!
-50percentleft2 = Uhhh is this fine? It's probably fine.
-50percentleft3 = Hey kid! I don't want to alarm you but it seems half your friends have been cursed.. [shake2][small]This is getting exciting.
-50percentleft4 = Half of your friends are gone, why don't you come out and play with us! [shake]Heheheh..
-50percentleft5 = [shake]Your friends are under my control now.[/shake] Come and join us, it's so much fun! 
+50percentleft1 = Nur noch die Hälfte! Hör nicht auf, ich will jeden verflucht haben!
+50percentleft2 = Ähhh, ist das okay? Es ist wahrscheinlich okay.
+50percentleft3 = Hey, Kleine! Ich will dich nicht nervös machen, aber die Hälfte deiner Freunde wurden verflucht... [shake2][small]Es wird aufregender!
+50percentleft4 = Die Hälfte deiner Freunde sind weg, komm doch raus und spiele mit uns! [shake]Heheheh..
+50percentleft5 = [shake]Deine Freunde sind jetzt unter meiner Kontrolle.[/shake] Komm und schließ uns an, es macht so viel Spaß! 
 
 [CrownCollect]
-CrownCollect1 = Stealing crowns are we?[wait] How dare you lay your puny hands on my [wave]beautiful collection![/wave] [shake]I will enjoy having you as a puppet.[/shake]
-CrownCollect2 = That's one[icon:treasure]! Keep it up Kid.
-CrownCollect3 = You've got some NERVE to come into my HOME and steal MY beautiful crowns!
-CrownCollect4 = [shake]My puppets will [big]TEAR YOU APART!
-CrownCollect5 = [wave]HAHAHAHA!!![/wave] Now that's funny kiddo! She's really upset now!
+CrownCollect1 = Du willst also Kronen stehlen...[wait] Wie kannst du es wagen meine [wave]wunderschöne Sammlung[/wave] mit deinem winzigen Hände anzufassen!? [shake]Ich werde Spaß haben dich als Puppe zu kontrollieren.[/shake]
+CrownCollect2 = Nummer eins[icon:treasure]! Weiter so, Kleine.
+CrownCollect3 = Du hast NERVEN, wenn du es wagst in MEIN Haus zu kommen und MEINE Kronen stehlen zu wollen!
+CrownCollect4 = [shake]Meine Puppen werden dich [big]ZERREISSEN!
+CrownCollect5 = [wave]HAHAHAHA!!![/wave] Ist das nicht witzig, Kleine!? Sie ist super sauer!
 
 [LastAlive]
-LastAlive1 = [shake]Your friends are under my control now. You stand no chance, give up and Join us! [shake]it's so much more fun![/shake]
-LastAlive2 = Oh god oh peck kiddo, don't panick, [shake2]I'M PANICKING[/shake2], [wave]just get OUT of there!![/wave]
-LastAlive3 = [shake]They're coming for ya kiddo![/shake] You better start running or else you're [shake2]DONE[/shake2] for! [icon:sprinthat]
-LastAlive4 = Just give me a bit of time and I'll get you out of there safe and sound.
-LastAlive5 = Only one left, do not let them get away!
-LastAlive6 = Sounds like your "friends" have a bone to pick with you.
+LastAlive1 = [shake]Deine Freunde sind jetzt unter meiner Kontrolle. Gib auf und schließe uns an! Du hast eh keine Chance! [shake]Es macht auch so viel mehr Spaß![/shake]
+LastAlive2 = Oh Gott, oh Peck. Okay, Kleine, keine Panik, [shake2]ICH GERATE IN PANIK[/shake2], [wave]SCHNELL abhauen!![/wave]
+LastAlive3 = [shake]Sie kommen auf dich zu, Kleine![/shake] Renn weg, oder wir sind am[shake2]ENDE[/shake2]! [icon:sprinthat]
+LastAlive4 = Gib mir ein bisschen mehr Zeit und ich werde dich in einem Stück da rausziehen!
+LastAlive5 = Nur noch einer ist übrig, lass sie nicht entkommen!
+LastAlive6 = Klingt als haben deine "Freunde" ein Hühnchen mit dir zu rupfen.
 
 [SnatcherAppear]
-SnatcherAppear1 = Hey it seems you're having a hard time kiddo! I'll see what I can do for you.
-SnatcherAppear2 = Time to spin the [wave]SNATCHER WHEEL!!!![/wave]
-SnatcherAppear3 = [wave]SPEEEEEEEEEN!!![/wave]
+SnatcherAppear1 = Hey, du scheinst ein wenig Hilfe zu gebrauchen! Ich seh mal, was ich für dich tun kann, Kleine.
+SnatcherAppear2 = Zeit das [wave]SNATCHER-RAD[/wave] zu drehen!!!!
+SnatcherAppear3 = [wave]SPIIIIIIIIIN!!![/wave]
 
 [VanessaAppear]
-VanessaAppear1 = Such a pain, must I do everything myself!?
-VanessaAppear2 = I am losing patience, I will aid you just this once!
-VanessaAppear3 = Uh oh, now she's upset! brace yourself kid.
-VanessaAppear4 = ENOUGH! Running around like rodents, your souls will be mine!
-VanessaAppear5 = I will aid you, [shake]but do not disappoint me!
-VanessaAppear6 = You know what? For once I agree with her. You kids are always too hyper active, ya never stop jumping around!
+VanessaAppear1 = So einen Mist, warum muss ich das immer machen!?
+VanessaAppear2 = Ich verliere meine Geduld, ich werde dir nur dieses eine Mal helfen!
+VanessaAppear3 = Oh-oh, sie ist jetzt wütend! Pass auf dich auf, Kleine.
+VanessaAppear4 = GENUG! Ihr läuft wie Ratten hier rum, eure Seelen werden mir gehören!
+VanessaAppear5 = Ich werde dir helfen, [shake]aber wage es nicht mich zu enttäuschen!
+VanessaAppear6 = Weißt du was? Für dieses eine Mal werde ich ihr zustimmen. Ihr Kinder seid zu hyperaktiv, ihr hört nie auf herumzuspringen!
 
 [Victory]
 Victory1 = Snatcher takes home the trophy! [small]and a few crowns[/small], that'll show her and her cursed puppets!

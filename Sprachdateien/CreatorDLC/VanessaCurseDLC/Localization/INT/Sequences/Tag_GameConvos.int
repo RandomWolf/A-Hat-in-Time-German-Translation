@@ -67,9 +67,12 @@ Victory5 = Dein größter Fehler war hier her zu kommen! Keine Sorge, ich werde mi
 Victory6 = Der Fluch nimmt alle mit! Denkst du wirklich, dass du überleben könntest? 
 Victory7 = Es war dumm von euch hierher zu kommen! Jetzt werde ich eure Seelen für Ewigkeiten quälen! 
 Victory8 = Umpfff... [wave]Naja, man sagt ja, dass Geschichten sich wiederholen![/wave]
+finalcrown1 = LETZTE KRONE!
 
 [SoulSeller]
 SoulSeller1 = [glitch]Bist du gekommen, um einen weiteren Kauf zu tätigen?[/glitch]
 SoulSeller2 = [glitch]Willkommen, junge Dame. Bitte kaufe etwas an meinen bescheidenen Stand.[/glitch]
 SoulSeller3 = [glitch]Bitte ignorier mein zuckendes Verhalten. Mein Körper war an Orten, die dauerhafte Spuren hinterlassen haben.[/glitch]
 
+[Finalcrown]
+finalcrown1 = LETZTE KRONE!

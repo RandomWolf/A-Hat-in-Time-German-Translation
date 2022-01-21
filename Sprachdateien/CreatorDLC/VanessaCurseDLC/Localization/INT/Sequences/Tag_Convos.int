@@ -1,5 +1,5 @@
 [Tutorial]
-Tutorial1 = Okay, Kleine[wait] ich bring dir die wesentlichen Dinge bei, die du für mich zu tun hast!
+Tutorial1 = Okay, Kleine,[wait] ich bring dir die wesentlichen Dinge bei, die du für mich zu tun hast!
 Tutorial2 = Sobald du Vanessas Domäne betretest, musst du nach ihren [hint]Kronen[/hint] suchen! Wir sollten sie ja sehr [shake2]sauer machen.
 Tutorial3 = [small]Ich hab schon ein Paar gestohlen, hehe...[/small] [wave]Hier, versuch' sie mal zu finden![wave]
 Tutorial4 = Scheint als hättest du alles verstanden![wait] So weit so gut!
@@ -12,7 +12,7 @@ Tutorial10 = HMMMmmm...[wait] Ich könnte SCHWÖREN, dass ich gerade etwas ÄUßERST
 Tutorial11 = Oh je, ich habe meine Fassung verloren.[waitlong] Ich sollte vorsichtiger sein![wait] Hehehehehe!
 Tutorial12 = Okay, und [hint]berühre[/hint] verfluchte Wesen AUF KEINEM FALL, [hint]dann würdest du auch den Fluch bekommen![/hint] [shake2]Und vertraue mir, du möchtest das nicht haben.
 Tutorial13 = [wave]Also, seeeei vorsichtig, okayyy?
-Tutorial14 = Obwohl, jetzt bin ich neugierig, was passieren würde, wenn du es berühren würdest.[shake2] Vielleeiicht teleportiere ich dich einfach mal hin...
+Tutorial14 = Obwohl, jetzt bin ich neugierig. Was würde passieren, wenn du es berühren würdest?[shake2] Vielleeiicht teleportiere ich dich einfach mal hin...
 Tutorial15 = JEP, ICH MACH DAS MAL!
 Tutorial16 = OH Gott, okay, okay! Du hast es berührt,[wait] ähmm...
 Tutorial17 = Oh, ich kann sie kommen hören,[wait] das überlasse ich mal dir![wait][wave] Bye bye![/wave]
@@ -26,16 +26,16 @@ Tutorial24 = Sobald du unter meinem Fluch bist, ist [hint]dein einziges Ziel es 
 Tutorial25 = Ich habe keinen Nutzen für dich mehr, also lass ich dich für dieses Mal los!
 Tutorial26 = [small]Ist sie weg?[wait] Ja?[wait][/small] [wave]Oookay[/wave], gut. 
 Tutorial27 = Es gibt nur noch ein paar kleine Dinge, die du noch wissen müsstest.
-Tutorial28 = Mal sehen... ähh, "sammel die Kronen", jep, hab das schon gesagt... "vermeide verfluchte Wesen", ja, schon gemacht... OH! "Icon Offenbarungen"!
+Tutorial28 = Mal sehen... ähh, [hint]"sammel die Kronen"[/hint], jep, hab das schon gesagt... [hint]"vermeide verfluchte Wesen"[/hint], ja, schon gemacht... OH! [hint]"Icon Offenbarungen"[/hint]!
 Tutorial29 = In einem Match passieren an bestimmten Zeiten diese [hint]"Icon Offenbarung"[/hint]-Events.[wait] Diese werden [hint]den Ort jedes Knirps in der Umgebung anzeigen![/hint] Sie zeigen dir auch, welche davon von [name]Vanessa[/name] verflucht wurden. Also halte dich von denem fern!
 Tutorial30 = Okay![wave] Ich überfliege kurz nochmal dieses Tutorial-Buch...
-Tutorial31 = [big]"Roulette-Event"[/big] Oh, das klingt toll! Hör dir das an: [hint]"In einem Spiel wird ein Roulette-Event passieren... Das Roulette entscheidet sich für ein Event, das dem Team mit dem NACHTEIL aufhilft! Falls beide Teams grob aufgeglichen sind, dann wird das Event besonders sein und BEIDE Teams werden beeinflusst!"[/hint] 
+Tutorial31 = [big]"Roulette-Event"[/big] Oh, das klingt toll! Hör dir das an: "In einem Spiel wird ein Roulette-Event passieren... Das Roulette entscheidet sich für [hint]ein Event, das dem Team mit dem NACHTEIL aufhilft[/hint]! Falls beide Teams grob ausgeglichen sind, dann wird das Event besonders sein und [hint]BEIDE Teams werden beeinflusst!"[/hint] 
 Tutorial32 = [wave]Das klingt schon cool, denkst du nicht auch?[/wave] Und anscheinend bekomme ich mein eigenes Roulette, das ich drehen kann! Es sollte dir gegen Vanessas Fluch helfen.  [wave]Lass uns das mal ausprobieren!
 Tutorial33 = Sieh dir das an![wait] Es hat dich unsichtbar gemacht?[wait] Scheint nützlich zu sein... [small]Rate ich mal?[/small] [hint]Es zeigt auch die Dauer des Events mit diesem Timer an.[/hint]
 Tutorial34 = [wave]Jedenfalls scheint das alles zu sein, Kleine![/wave][wait] Du kannst jetzt wieder nach oben gehen,[wait] aus diesem [shake]alten, müffelnden Keller![shake]
 Tutorial35 = Sammel die letzte(n) nötige(n) Krone(n), um zu gewinnen!
 Tutorial36 = Genug gelernt, Zeit dieses Wissen auszunutzen. Praktisch. In Echtzeit. [shake]Der "Real Deal"![/shake] Schnapp dir deine Freunde und versammelt euch im Wartezimmer! Ich werde euch direkt zur Villa senden, sobald zwei oder mehr von euch da sind. 
-Tutorial37 = Wird schon sehr lustig sein, wenn sie herausfindet, dass wir ihre kostbaren Kronen! Du bist so gemein wie immer, Snatcher! Hehehe!
+Tutorial37 = [shake2]Wird schon sehr lustig sein, wenn sie herausfindet, dass wir ihre kostbaren Kronen stehlen![/shake2] Du bist so gemein wie immer, Snatcher! [wave]Hehehe!
 Tutorial38 = Sammel die letzte nötige Krone, um zu gewinnen!
 Tutorial39 = Icon Offenbarungen-Events werden mit diesem Icon markiert!
 
@@ -65,15 +65,15 @@ Debug7 = [big][name]Nicht genug Spieler zum Starten, bricht Match ab.
 
 [ProTipMinion]
 ProTipMinion1 = Darf ich mich vorstellen? Ich bin ein Subcon-Lakai.[wait].[wait].[wait] Du kannst mich auch [name]'Pro Tipps Lakai'[/name] nennen.
-ProTipMinion2 = Ich hab mehr Fangen gespielt als jeder anderer auf diesem Planeten. Ich hab die härtesten Runden überlebt, die meisten Kinder gefangen, die meisten Kronen geholt, ich bin 1,98m, der schnellste aller Lakaien.
-ProTipMinion3 = Aber wo ist der Spaß, wenn man immer gewinnt? Ich brauche neue Gegner, frisches Blut, Kinder die sich nach [hint]RUHM[/hint][wait] und [hint]GLORY![wait][/hint] sehnen! Und deshalb bin ich bereit [big]DIR[/big] zu helfen, damit du so gut wirst wie ich![wait] Ist zwar unwahrscheinlich, [big]ABER[/big] [shake]wäre ja schön, nicht?
+ProTipMinion2 = Ich hab mehr Fangen gespielt als jeder anderer auf diesem Planeten. Ich hab die härtesten Runden überlebt, die meisten Kinder gefangen, die meisten Kronen geholt, ich bin 1,98m, der schnellste aller Lakaien!
+ProTipMinion3 = Aber wo ist der Spaß, wenn man immer gewinnt? Ich brauche neue Gegner, frisches Blut, Kinder die sich nach [hint]RUHM[/hint][wait] und [hint]REICHTUM[wait][/hint] sehnen! Und deshalb bin ich bereit [big]DIR[/big] zu helfen, damit du so gut wirst wie ich![wait] [small]Wird aber sehr unwahrscheinlich sein.
 ProTipMinion4 = Kurzgesagt, [hint]ich gebe dir Tipps.[/hint][wait] Du fragst und ich antworte.
 
 ProTipMinion5 = Du kannnst die [hint]Bewohner-Glocken in der Nähe von Bewohner-Wänden aktivieren, um Verfolger den Weg zu versperren![/hint]
 ProTipMinion6 = Versuche nicht im Öffentlichen zu sein, sobald der Fluch sich offenbart! So wirst du nur von neulich verfluchten Knirpsen überrascht.
 ProTipMinion7 = Während Spielericons versteckt sind, solltest du kleine Bereiche vermeiden, du möchtest dort nicht ein verfluchtes Kind treffen! 
 ProTipMinion8 = Sobald Spielericons offenbart sind, ist das ein guter Moment nach [hint]Kronen zu jagen[/hint] und verfluchte Spieler zu vermeiden!
-ProTipMinion9 = Als verfluchte Puppe, kannst du dich [hint]an Spieler heranschleichen[/hint] falls sie dich nicht kommen sehen. Achte nur darauf, dass ein [hint]Icon Offenbarungen-Event gerade nicht aktiviert ist![/hint]
+ProTipMinion9 = Als verfluchte Puppe, kannst du dich [hint]an Spieler heranschleichen[/hint] falls sie dich nicht kommen sehen. [hint]Achte nur darauf, dass ein Icon Offenbarungen-Event gerade nicht aktiviert ist![/hint]
 ProTipMinion10 = Du kannnst [hint]negative Bewohner-Glocken[/hint] als Fallen aktivieren, um [hint]Bewohner-Platformen für andere Spieler zu löschen![/hint]
 ProTipMinion11 = [hint]Stehe nicht neben anderen Spielern, während das Spiel beginnt![/hint] Es wäre [shake]schlecht[/shake], falls [hint]einer dieser dann als erste verfluchte Puppe ausgewählt wird![/hint] Aber... es könnte auch für dich gut sein, wenn [hint]du der Auserwählte wärst[/hint], [shake]hehe![/shake] Das wäre dann [hint]reines Glück[/hint] für dich.
 ProTipMinion12 = Das Roulette lehnt sich ans Spiel ann, falls dein Team verliert, hast du trotzdem vielleicht eine Chance mithilfe des Roulettes zu gewinnen! Kleines Geheimnis, [hint]es erscheint nach 140 Sekunden[/hint]!
@@ -81,10 +81,10 @@ ProTipMinion12_2 = [big]UND![/big] Das Roulette weiß, welches Team den Nachteil 
 ProTipMinion13 = Kronen erscheinen in verschieden Weisen im Spiel, [hint]eine erscheint für jeden verfluchten Spieler[/hint], und mehr erscheinen, [hint]jede 60 Sekunden![/hint] Die Nummern der Kronen kommt auf die [hint]Spieleranzahl[/hint] an! Wir rechnen das alles durch!
 ProTipMinion14 = Experimentiere mit verschiedenen Wegen! Wenn du verfolgst wirst, solltest du deine Flucht so [hint]verwirrend wie möglich gestalten[/hint], so kannst du einfacher Verfolger abhängen!
 ProTipMinion15 = Falls du jemanden, der gerade aus wegrennt, einholen möchtest, solltest du [hint]perfekte Hechtsprung-Boosts machen![/hint]
-ProTipMinion16 = Falls du ein Vorteil gegen andere Spieler haben möchtest, solltest du ein paar Dinge von Speedruns lernen! Der [hint]SDJ[/hint] und den [hint]DSJ[/hint] geben dir ein großes Vorteil!
+ProTipMinion16 = Falls du ein Vorteil gegen andere Spieler haben möchtest, solltest du ein paar Dinge von Speedruns lernen! Der [hint]"Sprint Double Jump"(SDJ)[/hint] und den [hint]"Double Sprint Jump"(DSJ)[/hint] geben dir ein großes Vorteil!
 ProTipMinion17 = Falle nicht in Löcher hinein! Diese verfluchen dich! Der ganze Bereich ist von Vanessas verfluchten Energie eingeschlossen.
 ProTipMinion18 = Falls du ein Unsichtbarkeit-Event bekommst, [hint]solltest du nicht sprinten, andere Spieler können deine Sprintspur sehen![/hint] Wenn du es ausnutzen möchtest, solltest du eher schleichen! 
-ProTipMinion19 = Achtung! Andere Spieler können [hint] durch das Icon Offenbarungen-Event ungefähr sehen, wo du bist[/hint]!
+ProTipMinion19 = Achtung! Andere Spieler können [hint] durch das Icon Offenbarungen-Event ungefähr sehen, wo du bist!
 ProTipMinion20 = Als verfluchter Spieler, kannst du sehr leicht unvorbereitete Knirpse mithilfe [hint]"Gruppenwarp"[/hint]-Event schnappen! Renn einfach herum, sobald jeder teleportiert ist, und du wirst garantiert einen oder zwei kriegen!
 ProTipMinion21 = Hier ist einer meiner Strategien! [hint]Solange es keine Icon Offenbarungen gibt, ist es sehr effektiv sich zu verstecken.[/hint] Sobald das Event aber passiert, rennst du auf die Kronen los! Alles während man natürlich [hint]Vanessas verfluchte Knirpse vermeidet.[/hint]
 ProTipMinion22 = Ein Fangspiel ist separiert in zwei Teile, verstecken und rennen! Besser deine Platforming-Kenntnisse auffrischen,[wait][wave] HEH!
@@ -92,9 +92,9 @@ ProTipMinion22 = Ein Fangspiel ist separiert in zwei Teile, verstecken und renne
 [RandomInteractables]
 RandomInteractables1 = Du bläst den Staub einiger Bücher ab. Man sieht Titel wie:
 RandomInteractables2 = "Subcons Mysterium", "Fabel von zwei Königinnen", "Ein Prinz und Ein Mond", "Umherziehender Seelenhändler", "Goldberge an der Pforte des Todes", "Die kälteste Königin". Und so weiter, und so weiter...
-RandomInteractables3 = "Das muss das Bücherregal der Weisheit sein!" Als du das verstanden hast, entschiedst du dich vorsichtig zu entfernen, da "Notizblock"-Weisheiten nicht dein Ding sind.
+RandomInteractables3 = "Das muss das Bücherregal der Weisheit sein!" Als du das verstanden hast, entschiedst du dich vorsichtig zu entfernen, da du nicht an den Details interessiert bist.
 RandomInteractables4 = Mensch! Wer hätte sich vorstellen können, dass Königin Vanessa solch eine große Villa in den Hügeln versteckt hat!
-RandomInteractables5 = Ich würde gerne wissen, was da drin wäre... bestimmt viele Schätze [shake]hehehe..[/shake]
+RandomInteractables5 = Ich würde gerne wissen, was da drin wäre... bestimmt viele Schätze, [shake]hehehe..[/shake]
 RandomInteractables6 = [big][name]"Statue des Sammlers"
 RandomInteractables7 = "Belohnt zu denen, die ein Berg voll Kronen der Verfluchten Königin gesammelt haben." 
 RandomInteractables8 = Du suchst nach Spielen? Trete dem Discord bei: discord.gg/AHatInTime
@@ -108,5 +108,13 @@ SnatcherGuidance1 = Okay, Kleine, da du ein Neuling zu sowas bist, habe ich ein 
 SnatcherGuidance2 = Es hat auch großes "T U T O R I A L" Schild. Man kann das doch sicherlich nicht übersehen, oder?!
 SnatcherGuidance3 = Wäre eine Schande, wenn du dich auf dem Weg verirrst! Ich hab mir soooo viel Mühe gegeben, es so DEUTLICH wie möglich zu machen!
 SnatcherGuidance4 = Jedenfalls, fort mit dir.
+
+[Tomb]
+Tomb1 = SCHHHH! Ich höre jemanden kommen!
+Tomb2 = ..........
+Tomb3 = Ich denke sie sind weg! Hehe! Kannst du's glauben? Die denken wir wären tot!
+Tomb4 = Hehe! Ich weiß, sind wir nicht fies?! Wir verstecken uns nur in einem Bunker!
+Tomb5 = Der perfekte Plan! Hehe!
+
 
 

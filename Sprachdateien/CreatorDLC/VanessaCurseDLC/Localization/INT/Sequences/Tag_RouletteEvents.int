@@ -1,5 +1,13 @@
 [Roulette]
 
-Invis = 
-SprintSteal =
+Invis = Unsichtbarkeit
+SprintSteal = Sprint-Dieb
 Noodly = Nudeliger Ärger
+
+Range = Erweiterter Fluch
+Fog = Verfluchter Nebel
+GroupWarp = Gruppen-Warp
+
+RandomWarp = Zufall-Warp
+Flood = Plötzliche Flut
+Freeze = Blitz-Frost

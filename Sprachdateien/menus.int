@@ -629,7 +629,7 @@ DownloadingMod = Mod wird heruntergeladen
 ModCreatedBy = Von
 ModVersion = Version
 HowToAccessLevelMods = Mod-Level können im Raumschiff[br]über die Post-Zentrale aufgerufen[br]werden.[br]Besitze dafür Folgendes:
-VisitModMenu = Probiere es durch die Post-Zentrale aus!
+VisitModMenu = Probiere es in der Post-Zentrale aus!
 
 PreviewButtonsText_Play = Starten!
 PreviewButtonsText_RePlay = Neustarten!
@@ -733,7 +733,7 @@ newgamebowkid_bullet1 = Jetzt kannst du ein neues Abenteuer
 newgamebowkid_bullet2 = mit Bow Kid in der Hauptrolle starten!
 
 featuremodmap_title = Neues präsentiertes Community-Level
-challengeroad_title = Neuer Aufgaben-Pack!
+challengeroad_title = Neues Aufgaben-Pack!
 
 [Splash]
 Splash_Close = Schließen

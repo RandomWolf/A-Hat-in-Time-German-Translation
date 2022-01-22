@@ -1,29 +1,29 @@
 [Tutorial]
-Tutorial1 = Okay, Kleine,[wait] ich bring dir die wesentlichen Dinge bei, die du für mich zu tun hast!
-Tutorial2 = Sobald du Vanessas Domäne betretest, musst du nach ihren [hint]Kronen[/hint] suchen! Wir sollten sie ja sehr [shake2]sauer machen.
-Tutorial3 = [small]Ich hab schon ein Paar gestohlen, hehe...[/small] [wave]Hier, versuch' sie mal zu finden![wave]
-Tutorial4 = Scheint als hättest du alles verstanden![wait] So weit so gut!
-Tutorial5 = Nur damit du's weißt...[waitlong] Es wird viel schwerer sein die Kronen in ihrer Villa zu finden. Dort ist es recht räumlich...
-Tutorial6 = Und sie versteckt sie auch noch ÜBERALL. Ich weiß; Das ist sehr seltsam.
+Tutorial1 = Okay, Kleine,[wait] ich bring dir die wesentlichen Dinge bei, die du für mich machen sollst!
+Tutorial2 = Sobald du Vanessas Reich betreten hast, musst du nach ihren [hint]Kronen[/hint] suchen! Wir wollen sie ja sehr [shake2]sauer machen.
+Tutorial3 = [small]Ich hab schon ein Paar gestohlen, hehe...[/small] <br> [wave]Hier, versuch' sie zu finden![wave]
+Tutorial4 = Scheint als ob du das verstanden hast![wait] Sehr gut!
+Tutorial5 = Nur damit du's weißt...[waitlong] Es wird viel schwerer sein die Kronen in ihrer Villa zu finden. Die ist echt riesig!
+Tutorial6 = Und sie versteckt sie auch noch ÜBERALL. Ich weiß... Das ist sehr seltsam.
 Tutorial7 = [hint]Jedes Mal wenn Vanessa ihre Kräfte nutzt, taucht eine Krone auf.[/hint][wait] Wie zum Beispiel so!
 Tutorial8 = HEY, VANESSA! KANNST DU MICH HÖREN? ICH MOCHTE NOCH NIE DEIN SPEZIAL-FRÜHSTÜCK!
 Tutorial9 = .[wait].[wait].[wait].[wait].[wait].
-Tutorial10 = HMMMmmm...[wait] Ich könnte SCHWÖREN, dass ich gerade etwas ÄUßERST ÄRGERLICHES gehört habe.
+Tutorial10 = HMMMmmm...[wait] Ich könnte SCHWÖREN, dass ich gerade etwas <br> ÄUßERST ÄRGERLICHES gehört habe!
 Tutorial11 = Oh je, ich habe meine Fassung verloren.[waitlong] Ich sollte vorsichtiger sein![wait] Hehehehehe!
-Tutorial12 = Okay, und [hint]berühre[/hint] verfluchte Wesen AUF KEINEM FALL, [hint]dann würdest du auch den Fluch bekommen![/hint] [shake2]Und vertraue mir, du möchtest das nicht haben.
+Tutorial12 = Okay, und [hint]berühre[/hint] verfluchte Wesen AUF KEINEN FALL, [hint]dann würdest du auch den Fluch bekommen![/hint] [shake2]Und vertraue mir, du willst du nicht.
 Tutorial13 = [wave]Also, seeeei vorsichtig, okayyy?
-Tutorial14 = Obwohl, jetzt bin ich neugierig. Was würde passieren, wenn du es berühren würdest?[shake2] Vielleeiicht teleportiere ich dich einfach mal hin...
+Tutorial14 = Obwohl, jetzt bin ich neugierig... Was würde passieren, wenn du ihn berühren würdest?[shake2] Vielleeiicht teleportiere ich dich einfach mal hin...
 Tutorial15 = JEP, ICH MACH DAS MAL!
 Tutorial16 = OH Gott, okay, okay! Du hast es berührt,[wait] ähmm...
 Tutorial17 = Oh, ich kann sie kommen hören,[wait] das überlasse ich mal dir![wait][wave] Bye bye![/wave]
-Tutorial18 = Buup![wait][small] Sorry... Ich wollte das mal machen.
-Tutorial19 = Oh, ich kann sie kommen hören,[wait] das überlasse ich mal dir![wait][wave] Bye bye![/wave]
+Tutorial18 = Buup![wait][small] Sorry... Ich konnte einfach nicht anders...
+Tutorial19 = Oh, ich kann sie kommen hören.[wait] Das ist jetzt dein Problem![wait][wave] Bye bye![/wave]
 Tutorial20 = Nanu?[wait] [shake]Du schon wieder?![/shake][wait] Kamst du für meine [wave]leckeren[/wave] Kekse zurück?
 Tutorial21 = Nein...?[wait] Na schön.[wait] Es sieht so aus, als hättest du meinem Fluch,[wait] also kann ich DICH jetzt kontrollieren! [shake]KIJEHAHAHA!
 Tutorial22 = Du hast ein simples Ziel. Finde alle überlebenden und [hint]fang sie, um [shake]meinen Fluch zu verbreiten![/shake][/hint]
 Tutorial23 = [big]Gut![/big][wait] Du scheinst deine Rolle verstanden zu haben.
 Tutorial24 = Sobald du unter meinem Fluch bist, ist [hint]dein einziges Ziel es zu verbreiten, vergiss das nicht.[/hint]
-Tutorial25 = Ich habe keinen Nutzen für dich mehr, also lass ich dich für dieses Mal los!
+Tutorial25 = Ich habe keinen Nutzen mehr für dich, dieses eine Mal lasse ich dich laufen!
 Tutorial26 = [small]Ist sie weg?[wait] Ja?[wait][/small] [wave]Oookay[/wave], gut. 
 Tutorial27 = Es gibt nur noch ein paar kleine Dinge, die du noch wissen müsstest.
 Tutorial28 = Mal sehen... ähh, [hint]"sammel die Kronen"[/hint], jep, hab das schon gesagt... [hint]"vermeide verfluchte Wesen"[/hint], ja, schon gemacht... OH! [hint]"Icon Offenbarungen"[/hint]!
@@ -31,16 +31,16 @@ Tutorial29 = In einem Match passieren an bestimmten Zeiten diese [hint]"Icon Off
 Tutorial30 = Okay![wave] Ich überfliege kurz nochmal dieses Tutorial-Buch...
 Tutorial31 = [big]"Roulette-Event"[/big] Oh, das klingt toll! Hör dir das an: "In einem Spiel wird ein Roulette-Event passieren... Das Roulette entscheidet sich für [hint]ein Event, das dem Team mit dem NACHTEIL aufhilft[/hint]! Falls beide Teams grob ausgeglichen sind, dann wird das Event besonders sein und [hint]BEIDE Teams werden beeinflusst!"[/hint] 
 Tutorial32 = [wave]Das klingt schon cool, denkst du nicht auch?[/wave] Und anscheinend bekomme ich mein eigenes Roulette, das ich drehen kann! Es sollte dir gegen Vanessas Fluch helfen.  [wave]Lass uns das mal ausprobieren!
-Tutorial33 = Sieh dir das an![wait] Es hat dich unsichtbar gemacht?[wait] Scheint nützlich zu sein... [small]Rate ich mal?[/small] [hint]Es zeigt auch die Dauer des Events mit diesem Timer an.[/hint]
+Tutorial33 = Sieh dir das an![wait] Es hat dich unsichtbar gemacht?[wait] Scheint nützlich zu sein... [small]Glaube ich?[/small] [hint]Es zeigt auch die Dauer des Events mit diesem Timer an.[/hint]
 Tutorial34 = [wave]Jedenfalls scheint das alles zu sein, Kleine![/wave][wait] Du kannst jetzt wieder nach oben gehen,[wait] aus diesem [shake]alten, müffelnden Keller![shake]
 Tutorial35 = Sammel die letzte(n) nötige(n) Krone(n), um zu gewinnen!
-Tutorial36 = Genug gelernt, Zeit dieses Wissen auszunutzen. Praktisch. In Echtzeit. [shake]Der "Real Deal"![/shake] Schnapp dir deine Freunde und versammelt euch im Wartezimmer! Ich werde euch direkt zur Villa senden, sobald zwei oder mehr von euch da sind. 
+Tutorial36 = Genug gelernt, Zeit das neue Wissen zu nutzen. Praktisch. In Echt. [shake]Der "Real Deal"![/shake] Schnapp dir deine Freunde und versammelt euch im Wartezimmer! Ich werde euch direkt zur Villa senden, sobald zwei oder mehr von euch da sind. 
 Tutorial37 = [shake2]Wird schon sehr lustig sein, wenn sie herausfindet, dass wir ihre kostbaren Kronen stehlen![/shake2] Du bist so gemein wie immer, Snatcher! [wave]Hehehe!
 Tutorial38 = Sammel die letzte nötige Krone, um zu gewinnen!
 Tutorial39 = Icon Offenbarungen-Events werden mit diesem Icon markiert!
 
 [tutorialdoor]
-tutorialdoor1 = Starte das Tutorial?
+tutorialdoor1 = Willst du das Tutorial starten?
 yes = Ja
 no = Nein
 
@@ -104,10 +104,10 @@ RandomInteractables11 = Sammel Seelen, indem du andere Spieler mit dem Fluch fän
 
 
 [SnatcherGuidance]
-SnatcherGuidance1 = Okay, Kleine, da du ein Neuling zu sowas bist, habe ich ein Raum für's Trainieren vorbereitet! Gehe einfach die Rampe runter und dann durch die Tür.
+SnatcherGuidance1 = Okay, Kleine, da du noch nicht weißt, was wir machen werden, habe ich ein Raum zum Trainieren vorbereitet! Gehe einfach die Rampe runter und dann durch die Tür.
 SnatcherGuidance2 = Es hat auch großes "T U T O R I A L" Schild. Man kann das doch sicherlich nicht übersehen, oder?!
 SnatcherGuidance3 = Wäre eine Schande, wenn du dich auf dem Weg verirrst! Ich hab mir soooo viel Mühe gegeben, es so DEUTLICH wie möglich zu machen!
-SnatcherGuidance4 = Jedenfalls, fort mit dir.
+SnatcherGuidance4 = Wie auch immer.. Zieh Leine!
 
 [Tomb]
 Tomb1 = SCHHHH! Ich höre jemanden kommen!

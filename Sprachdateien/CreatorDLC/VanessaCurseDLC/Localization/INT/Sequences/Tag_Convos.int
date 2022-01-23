@@ -4,7 +4,7 @@ Tutorial2 = Sobald du Vanessas Reich betreten hast, musst du nach ihren [hint]Kr
 Tutorial3 = [small]Ich hab schon ein Paar gestohlen, hehe...[/small] <br> [wave]Hier, versuch' sie zu finden![wave]
 Tutorial4 = Scheint als ob du das verstanden hast![wait] Sehr gut!
 Tutorial5 = Nur damit du's weißt...[waitlong] Es wird viel schwerer sein die Kronen in ihrer Villa zu finden. Die ist echt riesig!
-Tutorial6 = Und sie versteckt sie auch noch ÜBERALL. Ich weiß... Das ist sehr seltsam.
+Tutorial6 = Und sie versteckt sie auch noch ÜBERALL. Ich weiß, das ist sehr seltsam.
 Tutorial7 = [hint]Jedes Mal wenn Vanessa ihre Kräfte nutzt, taucht eine Krone auf.[/hint][wait] Wie zum Beispiel so!
 Tutorial8 = HEY, VANESSA! KANNST DU MICH HÖREN? ICH MOCHTE NOCH NIE DEIN SPEZIAL-FRÜHSTÜCK!
 Tutorial9 = .[wait].[wait].[wait].[wait].[wait].
@@ -12,7 +12,7 @@ Tutorial10 = HMMMmmm...[wait] Ich könnte SCHWÖREN, dass ich gerade etwas <br> ÄU
 Tutorial11 = Oh je, ich habe meine Fassung verloren.[waitlong] Ich sollte vorsichtiger sein![wait] Hehehehehe!
 Tutorial12 = Okay, und [hint]berühre[/hint] verfluchte Wesen AUF KEINEN FALL, [hint]dann würdest du auch den Fluch bekommen![/hint] [shake2]Und vertraue mir, das willst du nicht.
 Tutorial13 = [wave]Also, seeeei vorsichtig, okayyy?
-Tutorial14 = Obwohl, jetzt bin ich neugierig... Was würde passieren, wenn du ihn berühren würdest?[shake2] Vielleeiicht teleportiere ich dich einfach mal hin...
+Tutorial14 = Obwohl, jetzt bin ich neugierig... Was würde passieren, wenn du es berühren würdest?[shake2] Vielleeiicht teleportiere ich dich einfach mal hin...
 Tutorial15 = JEP, ICH MACH DAS MAL!
 Tutorial16 = OH Gott, okay, okay! Du hast es berührt,[wait] ähmm...
 Tutorial17 = Oh, ich kann sie kommen hören,[wait] das überlasse ich mal dir![wait][wave] Bye bye![/wave]
@@ -107,7 +107,7 @@ RandomInteractables11 = Sammel Seelen, indem du andere Spieler mit dem Fluch fän
 SnatcherGuidance1 = Okay, Kleine, da du noch nicht weißt, was wir machen werden, habe ich ein Raum zum Trainieren vorbereitet! Gehe einfach die Rampe runter und dann durch die Tür.
 SnatcherGuidance2 = Es hat auch großes "T U T O R I A L" Schild. Man kann das doch sicherlich nicht übersehen, oder?!
 SnatcherGuidance3 = Wäre eine Schande, wenn du dich auf dem Weg verirrst! Ich hab mir soooo viel Mühe gegeben, es so DEUTLICH wie möglich zu machen!
-SnatcherGuidance4 = Wie auch immer.. Zieh Leine!
+SnatcherGuidance4 = Wie auch immer... Zieh Leine!
 
 [Tomb]
 Tomb1 = SCHHHH! Ich höre jemanden kommen!

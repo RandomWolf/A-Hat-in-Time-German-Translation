@@ -2,3 +2,18 @@
 RequiredToUnlock = Zum Freischalten erforderlich
 ReadyToUnlock = Bereit zum Freischalten
 Action_ObtainItem = Item erhalten
+
+[Modding]
+PreviewButtonsText_PlayIntroduction = Intro ansehen
+PreviewButtonsText_Back = Zurück
+PreviewButtonsText_ViewDLC = DLCs ansehen
+PreviewButtonsText_Credits = Credits
+PreviewButtonsText_Arcade_Play = WEITER
+PreviewButtonsText_Arcade_PlayIntroduction = NEUES SPIEL
+Category_DLC = Creator DLC
+
+[StatTrack]
+StatTrack = Statistiken
+OnlinePlayersMet = Getroffene Online-Party Spieler
+OnlinePlayersTouch = Gefangene Spieler
+OnlinePlayersMet_Short = Freunde

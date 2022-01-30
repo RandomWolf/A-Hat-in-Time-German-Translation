@@ -46,7 +46,7 @@ no = Nein
 
 [woodensign]
 woodensign1 = Snatcher's Bude!
-woodensign2 = Dieses Haus hat bessere Tage gesehen! Scheint als hätten leute vor Snatcher hier gelebt. Oder sie waren hier, als Snatcher auftauchte und dann... [shake]du weißt schon.[/shake] Er kann verrückt genug dafür sein!
+woodensign2 = Dieses Haus hat bessere Tage gesehen! Scheint als hätten Leute vor Snatcher hier gelebt. Oder sie waren hier, als Snatcher auftauchte und dann... [shake]du weißt schon.[/shake] Er kann verrückt genug dafür sein!
 woodensign3 = 
 woodensign4 = 
 woodensign5 = 
@@ -76,7 +76,7 @@ ProTipMinion8 = Sobald Spielericons offenbart sind, ist das ein guter Moment nac
 ProTipMinion9 = Als verfluchte Puppe, kannst du dich [hint]an Spieler heranschleichen[/hint] falls sie dich nicht kommen sehen. [hint]Achte nur darauf, dass ein Icon Offenbarungen-Event gerade nicht aktiviert ist![/hint]
 ProTipMinion10 = Du kannnst [hint]negative Bewohner-Glocken[/hint] als Fallen aktivieren, um [hint]Bewohner-Platformen für andere Spieler zu löschen![/hint]
 ProTipMinion11 = [hint]Stehe nicht neben anderen Spielern, während das Spiel beginnt![/hint] Es wäre [shake]schlecht[/shake], falls [hint]einer dieser dann als erste verfluchte Puppe ausgewählt wird![/hint] Aber... es könnte auch für dich gut sein, wenn [hint]du der Auserwählte wärst[/hint], [shake]hehe![/shake] Das wäre dann [hint]reines Glück[/hint] für dich.
-ProTipMinion12 = Das Roulette lehnt sich ans Spiel ann, falls dein Team verliert, hast du trotzdem vielleicht eine Chance mithilfe des Roulettes zu gewinnen! Kleines Geheimnis, [hint]es erscheint nach 140 Sekunden[/hint]!
+ProTipMinion12 = Das Roulette lehnt sich ans Spiel an, falls dein Team verliert, hast du trotzdem vielleicht eine Chance mithilfe des Roulettes zu gewinnen! Kleines Geheimnis, [hint]es erscheint nach 150 Sekunden[/hint]!
 ProTipMinion12_2 = [big]UND![/big] Das Roulette weiß, welches Team den Nachteil hat, indem es mit einem [hint]Drittelschnitt entscheidet.[/hint] Falls ein Team[hint]weniger als ein Drittel der insgesamten Spieler hat[/hint], dann wird dieses Team als Verlierende geschätzt! [wave]Mathe, Baby![/wave]
 ProTipMinion13 = Kronen erscheinen in verschieden Weisen im Spiel, [hint]eine erscheint für jeden verfluchten Spieler[/hint], und mehr erscheinen, [hint]jede 60 Sekunden![/hint] Die Nummern der Kronen kommt auf die [hint]Spieleranzahl[/hint] an! Wir rechnen das alles durch!
 ProTipMinion14 = Experimentiere mit verschiedenen Wegen! Wenn du verfolgst wirst, solltest du deine Flucht so [hint]verwirrend wie möglich gestalten[/hint], so kannst du einfacher Verfolger abhängen!
@@ -91,8 +91,8 @@ ProTipMinion22 = Ein Fangspiel ist separiert in zwei Teile, verstecken und renne
 
 [RandomInteractables]
 RandomInteractables1 = Du bläst den Staub einiger Bücher ab. Man sieht Titel wie:
-RandomInteractables2 = "Subcons Mysterium", "Fabel von zwei Königinnen", "Ein Prinz und Ein Mond", "Umherziehender Seelenhändler", "Goldberge an der Pforte des Todes", "Die kälteste Königin". Und so weiter, und so weiter...
-RandomInteractables3 = "Das muss das Bücherregal der Weisheit sein!" Als du das verstanden hast, entschiedst du dich vorsichtig zu entfernen, da du nicht an den Details interessiert bist.
+RandomInteractables2 = ""Subcons Mysterium", "Fabel von zwei Königinnen", "Ein Prinz und Ein Mond", "Umherziehender Seelenhändler", "Goldberge an der Pforte des Todes", "Die kälteste Königin". Und so weiter, und so weiter...
+RandomInteractables3 = ""Das muss das Bücherregal der Weisheit sein!" Als du das verstanden hast, entschiedst du dich vorsichtig zu entfernen, da du nicht an den Details interessiert bist.
 RandomInteractables4 = Mensch! Wer hätte sich vorstellen können, dass Königin Vanessa solch eine große Villa in den Hügeln versteckt hat!
 RandomInteractables5 = Ich würde gerne wissen, was da drin wäre... bestimmt viele Schätze, [shake]hehehe..[/shake]
 RandomInteractables6 = [big][name]"Statue des Sammlers"

@@ -60,9 +60,9 @@ VanessaAppear6 = Weißt du was? Für dieses eine Mal werde ich ihr zustimmen. Ihr 
 
 [Victory]
 Victory1 = Snatcher nimmt die Trophäe nach Hause! [small]und ein paar Kronen[/small], das wird es ihr und ihren verfluchten Puppen zeigen!
-Victory2 = Sie sind entkommen.[wait][shake] Vielleicht werde ich euch in Eis verwandelten und behalte euch als ein Andenken an euer Versagen!
+Victory2 = Sie sind entkommen.[wait][shake] Vielleicht werde ich euch in Eis verwandelten und behalte euch als ein Andenken an euer Versagen![/shake]
 Victory3 = Snatcher nimmt die Trophäe nach Hause! Gut gemacht, Kleine, das wird es ihr und ihren verfluchten Puppen zeigen!
-Victory4 = Ihr habt es versäumt. [shake]Vielleicht werfe ich euch in den Ofen und schau euch beim herumtanzen in dem Flammen zu!
+Victory4 = Ihr habt es versäumt. [shake]Vielleicht werfe ich euch in den Ofen und schau euch beim herumtanzen in dem Flammen zu![/shake]
 Victory5 = Dein größter Fehler war hier her zu kommen! Keine Sorge, ich werde mich gut um dich kümmern! [wave]Hyeheahahah![/wave]
 Victory6 = Der Fluch nimmt alle mit! Denkst du wirklich, dass du überleben könntest? 
 Victory7 = Es war dumm von euch hierher zu kommen! Jetzt werde ich eure Seelen für Ewigkeiten quälen! 

@@ -99,9 +99,9 @@ RandomInteractables6 = [big][name]""Statue des Sammlers"
 RandomInteractables7 = ""Belohnt zu diejenigen, die ein Berg voll Kronen der Verfluchten Königin gesammelt haben." 
 RandomInteractables8 = Du suchst nach Spielen? Trete dem Discord bei: discord.gg/AHatInTime
 RandomInteractables9 = Du kannst auch diese öffentlichen Lobbies ausprobieren! Trage einen in der Ghost Party Maschine ein! Bleibe respektvoll zu anderen! Viel Spaß! 
-RandomInteractables10 = [hint]Reguläre Lobbies[/hint]: tag1, tag2 ,tag3 ,tag4 [br][hint]Keine Mods-Lobbies[/hint]: nomodtag1, nomodtag2, nomodtag3, nomodtag4
+RandomInteractables10 = [hint]Reguläre Lobbies[/hint]: tag1, tag2, tag3, tag4 [br][hint]Keine Mods-Lobbies[/hint]: nomodtag1, nomodtag2, nomodtag3, nomodtag4[br][hint]Alle Mods Erlaubt-Lobbies[/hint]: allmodtag1, allmodtag2, allmodtag3, allmodtag4
 RandomInteractables11 = Sammel Seelen, indem du andere Spieler mit dem Fluch fängst!
-RandomInteractables12 = Du möchtest ohne Mods spielen? Trage "nomod" am Start deines Lobbynamens ein!
+RandomInteractables12 = Du möchtest ohne Mods spielen? Trage "nomod" am Start deines Lobbynamens ein![br]...Oder "allmod" für totales Chaos!
 
 
 [SnatcherGuidance]

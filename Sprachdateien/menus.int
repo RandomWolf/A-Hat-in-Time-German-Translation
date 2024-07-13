@@ -62,7 +62,6 @@ Item_Language_Desc = Die Sprache, in welcher der Text angezeigt wird. Ändert nic
 Item_SkipCinematics_Title = Überspringbare Cutscenes überspringen
 Item_SkipCinematics_Desc = Wenn du es eilig hast oder bereits gesehen hast, kannst du alle überspringbaren Zwischensequenzen überspringen, indem du diese Funktion aktivierst. Beachte, dass du unabhängig von dieser Einstellung jederzeit die Filmsequenzen überspringen kannst.
 
-
 Header_Accessibility = Zugänglichkeit
 
 Item_AssistMode_Title = Hilfe-Modus
@@ -85,14 +84,22 @@ Header_GhostParty = Online-Party
 
 Item_GhostPartyDisplay_Title = Zeige Spielernamen & Avatare
 Item_GhostPartyDisplay_Desc = Versteckt die Namen und Avatare von anderen Online-Spielern, um Obszönität oder verletzendes Material zu vermeiden. Für Livestreams empfohlen.
-
-Item_PlayRemotePlayerEmoteSounds_Title = Emote-Geräusche von anderen Spielern
-Item_PlayRemotePlayerEmoteSounds_Desc = Wenn aktiviert, werden Emote-Geräusche von anderen Spielern abgespielt.[br]Ausschalten, damit sie stumm werden.
-
 Item_GhostPartyDisplay_None = Zeige beides nicht
 Item_GhostPartyDisplay_Name = Nur Namen
 Item_GhostPartyDisplay_Avatar = Nur Avatare
 Item_GhostPartyDisplay_Both = Zeige beides
+
+Item_PlayRemotePlayerEmoteSounds_Title = Emote-Geräusche von anderen Spielern
+Item_PlayRemotePlayerEmoteSounds_Desc = Wenn aktiviert, werden Emote-Geräusche von anderen Spielern abgespielt.[br]Ausschalten, damit sie stumm werden.
+
+Item_OnlinePlayerMessage_Title = Zeige Spieler-Nachrichten
+Item_OnlinePlayerMessage_Desc = Kontrolliert, ob man platzierte Stickers und Nachrichten von anderen Spielern in benutzergenerierten Welten sehen kann. Benutze die "Zeige Spieler Namen & Avatare"-Option, um die Spielernamen in Nachrichten zu kontrollieren.
+Item_OnlinePlayerMessage_All = Alle
+Item_OnlinePlayerMessage_FriendsOnly = Nur von Freunden
+Item_OnlinePlayerMessage_None = Keine
+
+Item_OnlineLeaderboard_Title = Online-Bestenlisten
+Item_OnlineLeaderboard_Desc = Zeigt Online-Bestenlisten für individuelle Akten and dem Aufgaben-Pack, wenn zugänglich.
 
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
@@ -157,7 +164,17 @@ Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole.[br]Das 
 Item_DisableMods_Title = Mods deaktivieren
 Item_DisableMods_Desc = Mod Support und den Steam Workshop deaktivieren für die wahre, unverfälschte Erfahrung. Neustart notwendig.
 
+Item_CrashReport_Title = Probleme weiterleiten
+Item_CrashReport_Desc = Leitet technische Probleme automatisch an Gears for Breakfast weiter.[br]Datenschutzerklärung:[br]gearsforbreakfast.com/video-game-data-collection-privacy-policy/
+
+Item_SubscribeToDownloadedMods_Title = Mods abonnieren
+Item_SubscribeToDownloadedMods_Desc = Abonniert automatisch Mods, wenn sie im Spiel heruntergeladen werden. Falls diese Option deaktiviert ist, müssen Mods erneut heruntergeladen werden, wenn das Spiel neu gestartet wird.
+
+
 Header_Debug = Debug
+
+Item_LiveGameEvents_Title = Live Game Events
+Item_LiveGameEvents_Desc = Schaltet zeitlich begrenzte Events ein. Benötigt einen Neustart des Spiels.
 
 [systemsettings.audio]
 Header_Audio = Audio
@@ -416,6 +433,9 @@ Item_GyroAim_Controller_Desc = Benutze Bewegungssteuerung, um die Kamera zu bewe
 Item_JumpAssist_Title = Auto-Springen
 Item_JumpAssist_Desc = Vereinfacht das Sprung-System, erlaubt Herumlaufen ohne zu oft den Sprungknopf manuell drücken zu müssen.
 
+Item_PreventAccidentalWalkOffLedges_Title = Verhintert Versehentliches Fallen
+Item_PreventAccidentalWalkOffLedges_Desc = Fängt den Spieler in Momenten, wo dieser ansonsten ins Nichts fallen würde.
+
 [systemsettings.controller]
 Header_Controller = Hinzugefügte Controller
 Item_NewController_Title = Neuer Controller
@@ -423,11 +443,6 @@ Item_NewController_Desc =  Erstelle deinen eigenen Controller!
 Item_NewController_Item_New = Neu
 
 Item_ConfigureController_Item_Configure = Konfigurieren
-
-[alpha_warnings]
-alpha0 = Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
-alpha1 = So if you'd like your first impression of [name]A Hat in Time[/name] to be an experience at your own pace, feel free to sit this one out! It's OK, the full game releases [hint]October 5th[/hint]!
-alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name]. Good luck!![br]- [name]Gears for Breakfast[/name]
 
 [System_Warnings]
 SteamVerifyIntegrityGameCache = [name]WARNUNG![/name][br]Es scheint als wäre das Spiel abgestürzt.[br]Bitte [hint]überprüfe die Integrität des Spielcaches[/hint] für dieses Spiel oder [hint]deaktivere Mods, die du installiert hast[/hint], wenn das Problem weiterhin bestehen bleibt.
@@ -455,6 +470,7 @@ Loadout_AbilityActivation_Weapon = Waffe
 
 Options_ReturnToHUB_Q = Speichern & zurück zum Hub?
 Options_ReturnToHUB_NoSaving_Q = Zurück zum Hub?
+Options_ReturnToHUB_ReturnTo = Rückkehr zu [location]
 Options_QuitGame_Q = Das Spiel verlassen?
 Options_QuitGame_InGame_Q = Speichern & Beenden zum...
 Options_QuitGame_InGame_NoSaving_Q = Verlassen ohne Speichern zum...
@@ -511,6 +527,8 @@ ItemUnlock_Rare = Dieses Flair ist selten!
 ItemUnlock_VeryRare = Dieses Flair ist sehr selten!
 ItemUnlock_Flair = Du kannst jetzt das Aussehen dieses Items austauschen!
 ItemUnlock_Equip = AUSRÜSTEN
+ItemUnlock_Generic = Etwas Neues freigeschaltet!
+ItemUnlock_DeathWish_Ascension = Level up!
 
 [ActSelect]
 Help_GoToAct = Akt beginnen
@@ -638,11 +656,13 @@ PreviewButtonsText_Config = Konfigurieren
 PreviewButtonsText_Install = Installieren
 PreviewButtonsText_Unsubscribe = Deinstallieren
 PreviewButtonsText_CancelDownload = Abbrechen
-PreviewButtonsText_ViewInWorkshop = Im Workshop anzeigen
+PreviewButtonsText_ViewInWorkshop = Ansehen im
+PreviewButtonsText_ViewInWorkshop = Im Workshop Ansehen
 PreviewButtonsText_PlayIntroduction = Intro Ansehen
 PreviewButtonsText_Back = Zurück
 PreviewButtonsText_ViewDLC = DLCs Ansehen
 PreviewButtonsText_Credits = Credits
+PreviewButtonsText_Subscribe = Abonnieren
 PreviewButtonsText_Arcade_Play = FORTFAHREN
 PreviewButtonsText_Arcade_PlayIntroduction = NEUES SPIEL
 
@@ -697,6 +717,7 @@ ZoomInContract = Hereinzoomen
 ClickToRoll = Das Rad stoppen
 ClickToReRoll = Erneut drehen
 ClickToClaimPrize = Gewinn erhalten
+ClickToClaimModifier = MODifier erhalten
 PrizeHat = Neuer Hut
 PrizeFlair = Hut-Flair
 PrizeDye = Neue Farbe
@@ -734,6 +755,9 @@ newgamebowkid_bullet2 = mit Bow Kid in der Hauptrolle starten!
 
 featuremodmap_title = Neues präsentiertes Community-Level
 challengeroad_title = Neues Aufgaben-Pack!
+summerevent_title = Neu: Sommer-Event
+summerevent_bullet0 = Neue Sommer-Todeswunsch-Map!
+summerevent_bullet1 = Beinhaltet neue Sticker, Farben und Waffen!
 
 [Splash]
 Splash_Close = Schließen
@@ -752,6 +776,10 @@ HardMode = Schweren Modus anschalten
 Reset = Vertrag zurücksetzen
 Tip = Snatchers Tipp
 Debug = DEBUG Komplett/Löschen
+ChangeContractMap = Todeswunsch-Map wechseln
+Download = Download
+SelectModifier = MODifier auswählen
+SelectAscension = Level up!
 
 ResetDeathwishQuestion = Fortschritt für Vertrag KOMPLETT löschen?
 ResetDeathwishConfirm = Reiße und zerfetze es!
@@ -892,3 +920,8 @@ Loadout_Swap_Mask = Wähle eine Maske aus!
 Loadout_Swap_Ability = Wähle eine Fähigkeit aus!
 
 coop = Lokaler Splitscreen Mehrspieler-Modus!
+
+[alpha_warnings]
+alpha0 = Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
+alpha1 = So if you'd like your first impression of [name]A Hat in Time[/name] to be an experience at your own pace, feel free to sit this one out! It's OK, the full game releases [hint]October 5th[/hint]!
+alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name]. Good luck!![br]- [name]Gears for Breakfast[/name]

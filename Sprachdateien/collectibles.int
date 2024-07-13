@@ -214,6 +214,9 @@ RibbitSkinName = Quak
 ObnoxiousSkinName = Unausstehlich
 JusticeSkinName = Die Gerechtigkeit
 
+SummerFairySkinName = Sommerfee
+SummerFairySkinDesc = Verteile ein bisschen Regenbogen-Freude!
+
 [remixes]
 RemixDesc_MafiaTown0 = Ein neuer Musik-Remix wurde für Mafia-Stadt freigeschaltet!
 RemixDesc_Subcon0 = Ein neuer Musik-Remix wurde für Subcon-Wald freigeschaltet!
@@ -301,12 +304,21 @@ Weapon_Umbrella = Schirm
 Weapon_Umbrella_Desc = Diplomatie hat nicht funktioniert, Zeit zum Handeln.
 Weapon_Nyakuza_BaseballBat = Baseballschläger
 Weapon_Nyakuza_BaseballBat_Shop = Perfekt für Sachschäden,[br]Einschüchterung und manchmal Baseball.
+Weapon_FishingRod = Der Fangmeister 9000
+Weapon_FishingRod_Desc = Du würdest nie ohne es aus dem Haus gehen.
+Weapon_PoolNoodle = Poolnudel
+Weapon_PoolNoodle_Desc = Wird wahrscheinlich nicht wehtun. Zumindest, nicht sehr.
+Weapon_Trumpet = Trompete
+Weapon_Trumpet_Desc = Duut!
 
 [Stickers]
 StickerName = Sticker
 StickerDesc0 = Neuer Sticker wurde freigeschaltet!
 StickerDesc1 = Drücke [button:emote] oder [icon:camerabadge]!
 EffectDesc0 = Dieser Sticker hat einen besonderen Effekt! 
+
+[Emotes]
+EmoteDesc0 = Benutze es mit [button:emote]!
 
 [MetroFood]
 TeaName = Tee
@@ -384,6 +396,8 @@ StatTrack = Statistik
 OnlinePlayersMet = Spieler Getroffen In Online Party
 OnlinePlayersTouch = Spieler Gefangen
 OnlinePlayersMet_Short = Freunde
+DeathWishAscension_Summer = Sommer Event Lv.
+DeathWishAscension_Short = Lv.
 
 [unused/deleted]
 BadgeCollect0 = Er braucht [hint][badgepoints_required] Anstecker-Punkte[/hint] zum Aktivieren; nur [name][badgepoints_left][/name] übrig!

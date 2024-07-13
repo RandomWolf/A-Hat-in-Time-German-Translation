@@ -20,3 +20,6 @@ OfflineMode = Willst du offline spielen? Xbox Live-Funktionen werden nicht verfü
 FailedLogin = Login fehlgeschlagen. Bitte warte einen Moment und versuche es nochmal.
 Yes = Ja
 No = Nein
+
+[Online]
+UnableToAwardOnlineItem = Verbindung zu Steam fehlgeschlagen, bitte versuche es in einer Minute erneut.

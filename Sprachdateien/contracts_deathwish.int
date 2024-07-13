@@ -361,3 +361,38 @@ Tip0 = Ich liebe Berge, du nicht auch? All diese malerischen vertikalen Bergstür
 
 [Hat_SnatcherContract_ChallengeRoad]
 Title = Aufgaben-Pack
+Objective = Schließe die Herausforderung ab!
+
+[Hat_SnatcherContract_Winter_OnlineParty_Boop]
+Title = Weihnachtsgrüße
+Objective = Buup 1 Online Party-Spieler
+Objective2 = Buup 5 verschiedene Online Party-Spieler
+Objective3 = Buup 30 verschiedene Online Party-Spieler
+
+[Hat_SnatcherContract_Winter_OnlineParty_VanessasCurse]
+Title = Kalt wie Eis
+Objective = Spiele Vanessa's Curse
+Objective_GhostWin = Sei präsent bei 5 Verfluchten Siegen
+Objective_KiddoWin = Sei präsent bei 5 Kiddo Siegen
+
+[Hat_SnatcherContract_Winter_OnlineParty_Sticker]
+Title = Ein Geschenk? Für mich?!
+Objective = Finde 5 Sticker Von Anderen Spielern
+Objective_Holo = Finde 40 spezifische Holo Sticker Von Anderen Spielern
+Objective_Many = Finde 100 Sticker Von Anderen Spielern
+
+[Hat_SnatcherContract_Winter_OnlineParty_ModTimePiece]
+Title = Geschenk-Workshop
+Objective = Sammel ein Zeitstück in einer Steam Workshop-Map
+Objective_ChallengeRoad = Schließe eine Challenge Road ab
+Objective_Many = Sammel 5 Zeitstücke in Steam Workshop-Maps
+
+[Hat_SnatcherContract_Winter_OnlineParty_Friends]
+Title = Familientreffen
+Objective = Schlag einen Steam Freund in Online Party
+
+[Hat_SnatcherContract_Summer_OnlineParty_VanessasCurse]
+Title = Heiße Verfolgungsjagd
+Objective = Spiele Vanessa's Curse
+Objective_GhostWin = Sei präsent bei 5 Verfluchten Siegen
+Objective_KiddoWin = Sei präsent bei 5 Kiddo Siegen

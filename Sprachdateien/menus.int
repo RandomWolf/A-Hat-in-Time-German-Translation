@@ -93,13 +93,13 @@ Item_PlayRemotePlayerEmoteSounds_Title = Emote-Geräusche von anderen Spielern
 Item_PlayRemotePlayerEmoteSounds_Desc = Wenn aktiviert, werden Emote-Geräusche von anderen Spielern abgespielt.[br]Ausschalten, damit sie stumm werden.
 
 Item_OnlinePlayerMessage_Title = Zeige Spieler-Nachrichten
-Item_OnlinePlayerMessage_Desc = Kontrolliert, ob man platzierte Stickers und Nachrichten von anderen Spielern in benutzergenerierten Welten sehen kann. Benutze die "Zeige Spieler Namen & Avatare"-Option, um die Spielernamen in Nachrichten zu kontrollieren.
+Item_OnlinePlayerMessage_Desc = Kontrolliert, ob man platzierte Sticker und Nachrichten von anderen Spielern in benutzergenerierten Welten sehen kann. Benutze die "Zeige Spielernamen & Avatare"-Option, um die Spielernamen in Nachrichten zu kontrollieren.
 Item_OnlinePlayerMessage_All = Alle
 Item_OnlinePlayerMessage_FriendsOnly = Nur von Freunden
 Item_OnlinePlayerMessage_None = Keine
 
 Item_OnlineLeaderboard_Title = Online-Bestenlisten
-Item_OnlineLeaderboard_Desc = Zeigt Online-Bestenlisten für individuelle Akten and dem Aufgaben-Pack, wenn zugänglich.
+Item_OnlineLeaderboard_Desc = Zeigt Online-Bestenlisten für individuelle Akte and dem Aufgaben-Pack, wenn zugänglich.
 
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
@@ -164,7 +164,7 @@ Item_DevConsole_Desc = Ermöglicht den Zugriff auf die Entwicklerkonsole.[br]Das 
 Item_DisableMods_Title = Mods deaktivieren
 Item_DisableMods_Desc = Mod Support und den Steam Workshop deaktivieren für die wahre, unverfälschte Erfahrung. Neustart notwendig.
 
-Item_CrashReport_Title = Probleme weiterleiten
+Item_CrashReport_Title = Probleme melden
 Item_CrashReport_Desc = Leitet technische Probleme automatisch an Gears for Breakfast weiter.[br]Datenschutzerklärung:[br]gearsforbreakfast.com/video-game-data-collection-privacy-policy/
 
 Item_SubscribeToDownloadedMods_Title = Mods abonnieren
@@ -173,7 +173,7 @@ Item_SubscribeToDownloadedMods_Desc = Abonniert automatisch Mods, wenn sie im Sp
 
 Header_Debug = Debug
 
-Item_LiveGameEvents_Title = Live Game Events
+Item_LiveGameEvents_Title = Live-Events
 Item_LiveGameEvents_Desc = Schaltet zeitlich begrenzte Events ein. Benötigt einen Neustart des Spiels.
 
 [systemsettings.audio]
@@ -433,7 +433,7 @@ Item_GyroAim_Controller_Desc = Benutze Bewegungssteuerung, um die Kamera zu bewe
 Item_JumpAssist_Title = Auto-Springen
 Item_JumpAssist_Desc = Vereinfacht das Sprung-System, erlaubt Herumlaufen ohne zu oft den Sprungknopf manuell drücken zu müssen.
 
-Item_PreventAccidentalWalkOffLedges_Title = Verhintert Versehentliches Fallen
+Item_PreventAccidentalWalkOffLedges_Title = Verhindere Versehentliches Fallen
 Item_PreventAccidentalWalkOffLedges_Desc = Fängt den Spieler in Momenten, wo dieser ansonsten ins Nichts fallen würde.
 
 [systemsettings.controller]
@@ -470,7 +470,7 @@ Loadout_AbilityActivation_Weapon = Waffe
 
 Options_ReturnToHUB_Q = Speichern & zurück zum Hub?
 Options_ReturnToHUB_NoSaving_Q = Zurück zum Hub?
-Options_ReturnToHUB_ReturnTo = Rückkehr zu [location]
+Options_ReturnToHUB_ReturnTo = Zurück zu [location]
 Options_QuitGame_Q = Das Spiel verlassen?
 Options_QuitGame_InGame_Q = Speichern & Beenden zum...
 Options_QuitGame_InGame_NoSaving_Q = Verlassen ohne Speichern zum...
@@ -527,7 +527,7 @@ ItemUnlock_Rare = Dieses Flair ist selten!
 ItemUnlock_VeryRare = Dieses Flair ist sehr selten!
 ItemUnlock_Flair = Du kannst jetzt das Aussehen dieses Items austauschen!
 ItemUnlock_Equip = AUSRÜSTEN
-ItemUnlock_Generic = Etwas Neues freigeschaltet!
+ItemUnlock_Generic = Neuer Unlock!
 ItemUnlock_DeathWish_Ascension = Level up!
 
 [ActSelect]
@@ -657,10 +657,10 @@ PreviewButtonsText_Install = Installieren
 PreviewButtonsText_Unsubscribe = Deinstallieren
 PreviewButtonsText_CancelDownload = Abbrechen
 PreviewButtonsText_ViewInWorkshop = Ansehen im
-PreviewButtonsText_ViewInWorkshop = Im Workshop Ansehen
-PreviewButtonsText_PlayIntroduction = Intro Ansehen
+PreviewButtonsText_ViewInWorkshop = Im Workshop ansehen
+PreviewButtonsText_PlayIntroduction = Intro ansehen
 PreviewButtonsText_Back = Zurück
-PreviewButtonsText_ViewDLC = DLCs Ansehen
+PreviewButtonsText_ViewDLC = DLCs ansehen
 PreviewButtonsText_Credits = Credits
 PreviewButtonsText_Subscribe = Abonnieren
 PreviewButtonsText_Arcade_Play = FORTFAHREN
@@ -728,7 +728,7 @@ PrizeBadgeFlair = Anstecker-Flair
 [DLC1Splash]
 cruise = Komplett neues Kapitel: Die Arktische Kreuzfahrt
 deathwish = Der neue Herausforderungs Modus: Todeswunsch!
-cruise_acts = 3 neue Akten auf einer Kreuzfahrt!
+cruise_acts = 3 neue Akte auf einer Kreuzfahrt!
 rifts = Sechs neue Zeitrisse!
 unlocks0 = Einen Haufen freischaltbarer Outfits, Flairs,
 unlocks1 = Farben und sogar Kamera-Filter!
@@ -777,7 +777,7 @@ Reset = Vertrag zurücksetzen
 Tip = Snatchers Tipp
 Debug = DEBUG Komplett/Löschen
 ChangeContractMap = Todeswunsch-Map wechseln
-Download = Download
+Download = Herunterladen
 SelectModifier = MODifier auswählen
 SelectAscension = Level up!
 

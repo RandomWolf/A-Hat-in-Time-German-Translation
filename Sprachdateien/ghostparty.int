@@ -11,11 +11,11 @@ OnlinePrompt = Online-Funktion
 LobbyPrompt = Party-Name
 OnlineInfo = Hiermit kannst du andere Spieler sehen und mit ihnen interagieren, darunter Freunde und gelegentlich auch Besucher.
 PublicInfo = Wenn du eine Lobby betrittst, wirst du nur Spieler aus dieser Party sehen. Wenn die Textbox leer bleibt, wirst du gelegentlich Besucher sehen. Diese können dein Spiel aber nicht beeinflussen.
-EnterLobbyNamePrompt = Gebe einen Lobbynamen ein:
+EnterLobbyNamePrompt = Gib einen Lobbynamen ein:
 LobbyNameCustom = Angepasst...
 LobbyNameRandom = Zufällige Besucher
 
-Tutorial0 = Willkommen zur [wave][hint]Online-Party[/hint][/wave]! Zerschmettere Dimensionen mit anderen und treffe deine Freunde!
+Tutorial0 = Willkommen zur [wave][hint]Online-Party[/hint][/wave]! Zerschmettere Dimensionen mit anderen und triff deine Freunde!
 Tutorial1 = Mache es zu einer Reise mit Spielern aus anderen Welten!
 Tutorial2 = Oder gib einen Party-Namen ein und spiel mit deinen Freunden!
 

@@ -365,34 +365,34 @@ Objective = Schließe die Herausforderung ab!
 
 [Hat_SnatcherContract_Winter_OnlineParty_Boop]
 Title = Weihnachtsgrüße
-Objective = Buup 1 Online Party-Spieler
-Objective2 = Buup 5 verschiedene Online Party-Spieler
-Objective3 = Buup 30 verschiedene Online Party-Spieler
+Objective = Buupe 1 Online Party-Spieler
+Objective2 = Buupe 5 verschiedene Online Party-Spieler
+Objective3 = Buupe 30 verschiedene Online Party-Spieler
 
 [Hat_SnatcherContract_Winter_OnlineParty_VanessasCurse]
 Title = Eiskalt
 Objective = Spiele Vanessa's Curse
-Objective_GhostWin = Sei präsent bei 5 Verfluchten Siegen
-Objective_KiddoWin = Sei präsent bei 5 Kiddo Siegen
+Objective_GhostWin = Sei präsent bei 5 verfluchten Siegen
+Objective_KiddoWin = Sei präsent bei 5 Kiddo-Siegen
 
 [Hat_SnatcherContract_Winter_OnlineParty_Sticker]
 Title = Ein Geschenk? Für mich?!
 Objective = Finde 5 Sticker von anderen Spielern
-Objective_Holo = Finde 40 verschiedene Holo Sticker von anderen Spielern
+Objective_Holo = Finde 40 verschiedene Holo-Sticker von anderen Spielern
 Objective_Many = Finde 100 Sticker von anderen Spielern
 
 [Hat_SnatcherContract_Winter_OnlineParty_ModTimePiece]
 Title = Geschenk-Workshop
-Objective = Sammel ein Zeitstück in einer Steam Workshop-Map
+Objective = Sammel ein Zeitstück in einer Map aus dem Steam Workshop
 Objective_ChallengeRoad = Schließe einen Aufgaben-Pack ab
 Objective_Many = Sammel 5 Zeitstücke in Steam Workshop-Maps
 
 [Hat_SnatcherContract_Winter_OnlineParty_Friends]
 Title = Familientreffen
-Objective = Schlag einen Steam Freund in Online Party
+Objective = Schlag einen Steam-Freund im Online Party-Modus
 
 [Hat_SnatcherContract_Summer_OnlineParty_VanessasCurse]
 Title = Heiße Verfolgungsjagd
 Objective = Spiele Vanessa's Curse
-Objective_GhostWin = Sei präsent bei 5 Verfluchten Siegen
-Objective_KiddoWin = Sei präsent bei 5 Kiddo Siegen
+Objective_GhostWin = Sei präsent bei 5 verfluchten Siegen
+Objective_KiddoWin = Sei präsent bei 5 Kiddo-Siegen

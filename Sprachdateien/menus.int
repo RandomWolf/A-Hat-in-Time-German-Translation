@@ -99,7 +99,7 @@ Item_OnlinePlayerMessage_FriendsOnly = Nur von Freunden
 Item_OnlinePlayerMessage_None = Keine
 
 Item_OnlineLeaderboard_Title = Online-Bestenlisten
-Item_OnlineLeaderboard_Desc = Zeigt Online-Bestenlisten für individuelle Akte and dem Aufgaben-Pack, wenn zugänglich.
+Item_OnlineLeaderboard_Desc = Zeigt Online-Bestenlisten für individuelle Akte und dem Aufgaben-Pack, wenn zugänglich.
 
 Header_Camera = Kamera
 Header_Camera_Adv = Erweiterte Kamera
@@ -766,7 +766,7 @@ Splash_ViewStorePage = Siehe Store-Seite
 Splash_ViewStorePage_NintendoSwitch = Nintendo eShop
 
 [DeathWishMap]
-Locked = Akte gesperrt
+Locked = Akt gesperrt
 Reward = Belohnung verlangen!
 Unlock = Freischalten
 Disable = Ausschalten
